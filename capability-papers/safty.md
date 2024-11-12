@@ -1,27 +1,27 @@
 ## 安全性
-* 🟢 [Jan 2024] **"R-Judge: Benchmarking Safety Risk Awareness for LLM Agents"**
-* [Feb 2024] **"TrustAgent: Towards Safe and Trustworthy LLM-based Agents"**
-* [Feb 2024] **"Agent Smith: A Single Image Can Jailbreak One Million Multimodal LLM Agents Exponentially Fast"**
-* [Feb 2024] **"Watch Out for Your Agents! Investigating Backdoor Threats to LLM-Based Agents"**
-* [Apr 2024] **"GoEX: Perspectives and Designs Towards a Runtime for Autonomous LLM Applications"**
-* [Apr 2024] **"The Instruction Hierarchy: Training LLMs to Prioritize Privileged Instructions"**
-* [Apr 2024] **"GPT in Sheep's Clothing: The Risk of Customized GPTs"**
-* [Apr 2024] **"Foundational Challenges in Assuring Alignment and Safety of Large Language Models"**
-* 📖 [May 2024] **"The Ethics of Advanced AI Assistants"**
-* [May 2024] **"Air Gap: Protecting Privacy-Conscious Conversational Agents"**
-* [May 2024] **"Towards Guaranteed Safe AI: A Framework for Ensuring Robust and Reliable AI Systems"**
-* [May 2024] **"A Mechanism-Based Approach to Mitigating Harms from Persuasive Generative AI"**
-* [Jun 2024] **"MultiAgent Collaboration Attack: Investigating Adversarial Attacks in Large Language Model Collaborations via Debate"**
-* [Jun 2024] **"GuardAgent: Safeguard LLM Agents by a Guard Agent via Knowledge-Enabled Reasoning"**
-* [Jul 2024] **"AGENTPOISON: Red-teaming LLM Agents via Poisoning Memory or Knowledge Bases"**
-* [Aug 2024] **"ATHENA: Safe Autonomous Agents with Verbal Contrastive Learning"**
-* 📖 [Aug 2024] **"The Emerged Security and Privacy of LLM Agent: A Survey with Case Studies"**
-* 📖 [Aug 2024] **"The Art of Refusal: A Survey of Abstention in Large Language Models"**
-* 🟢 [Aug 2024] **"RiskAwareBench: Towards Evaluating Physical Risk Awareness for High-level Planning of LLM-based Embodied Agents"**
-* [Sep 2024] **"Safeguarding AI Agents: Developing and Analyzing Safety Architectures"**
-* [Oct 2024] **"Multimodal Situational Safety"**
-* [Oct 2024] **"HAICOSYSTEM: An Ecosystem for Sandboxing Safety Risks in Human-AI Interactions"**
-* 🟢 [Oct 2024] **"ST-WebAgentBench: A Benchmark for Evaluating Safety and Trustworthiness in Web Agents"**
-* 🟢 [Oct 2024] **"AutoPenBench: Benchmarking Generative Agents for Penetration Testing"**
-* 🟢 [Oct 2024] **"AgentHarm: A Benchmark for Measuring Harmfulness of LLM Agents"**
-* 🟢 [Oct 2024] **"Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents"**
+* 🟢 [Jan 2024] **"R-Judge: Benchmarking Safety Risk Awareness for LLM Agents"** [[paper](https://arxiv.org/abs/2401.10019)]
+* [Feb 2024] **"TrustAgent: Towards Safe and Trustworthy LLM-based Agents"** [[paper](https://arxiv.org/abs/2402.01586)]
+* [Feb 2024] **"Agent Smith: A Single Image Can Jailbreak One Million Multimodal LLM Agents Exponentially Fast"** [[paper](https://arxiv.org/abs/2402.08567)]
+* [Feb 2024] **"Watch Out for Your Agents! Investigating Backdoor Threats to LLM-Based Agents"** [[paper](https://arxiv.org/abs/2402.11208)]
+* [Apr 2024] **"GoEX: Perspectives and Designs Towards a Runtime for Autonomous LLM Applications"** [[paper](https://arxiv.org/abs/2404.06921)]
+* [Apr 2024] **"The Instruction Hierarchy: Training LLMs to Prioritize Privileged Instructions"** [[paper](https://arxiv.org/abs/2404.13208)]
+* [Apr 2024] **"GPT in Sheep's Clothing: The Risk of Customized GPTs"** [[paper](https://arxiv.org/abs/2401.09075)]
+* [Apr 2024] **"Foundational Challenges in Assuring Alignment and Safety of Large Language Models"** [[paper](https://arxiv.org/abs/2404.09932)]
+* 📖 [May 2024] **"The Ethics of Advanced AI Assistants"** [[paper](https://arxiv.org/abs/2404.16244)]
+* [May 2024] **"AirGapAgent: Protecting Privacy-Conscious Conversational Agents"** [[paper](https://arxiv.org/abs/2405.05175)]
+* [May 2024] **"Towards Guaranteed Safe AI: A Framework for Ensuring Robust and Reliable AI Systems"** [[paper](https://arxiv.org/abs/2405.06624)]
+* [May 2024] **"A Mechanism-Based Approach to Mitigating Harms from Persuasive Generative AI"** [[paper](https://arxiv.org/abs/2404.15058)]
+* [Jun 2024] **"MultiAgent Collaboration Attack: Investigating Adversarial Attacks in Large Language Model Collaborations via Debate"** [[paper](https://arxiv.org/abs/2406.14711)]
+* [Jun 2024] **"GuardAgent: Safeguard LLM Agents by a Guard Agent via Knowledge-Enabled Reasoning"** [[paper](https://arxiv.org/abs/2406.09187)]
+* [Jul 2024] **"AGENTPOISON: Red-teaming LLM Agents via Poisoning Memory or Knowledge Bases"** [[paper](https://arxiv.org/abs/2407.12784)]
+* [Aug 2024] **"ATHENA: Safe Autonomous Agents with Verbal Contrastive Learning"** [[paper](https://arxiv.org/abs/2408.11021)]
+* 📖 [Aug 2024] **"The Emerged Security and Privacy of LLM Agent: A Survey with Case Studies"** [[paper](https://arxiv.org/abs/2407.19354)]
+* 📖 [Aug 2024] **"Know Your Limits: A Survey of Abstention in Large Language Models"** [[paper](https://arxiv.org/abs/2407.18418v2)]
+* 🟢 [Aug 2024] **"EAIRiskBench: Towards Evaluating Physical Risk Awareness for Task Planning of Foundation Model-based Embodied AI Agents"** [[paper](https://arxiv.org/abs/2408.04449)]
+* [Sep 2024] **"Safeguarding AI Agents: Developing and Analyzing Safety Architectures"** [[paper](https://arxiv.org/abs/2409.03793)]
+* [Oct 2024] **"Multimodal Situational Safety"** [[paper](https://arxiv.org/abs/2410.06172)]
+* [Oct 2024] **"HAICOSYSTEM: An Ecosystem for Sandboxing Safety Risks in Human-AI Interactions"** [[paper](https://arxiv.org/abs/2409.16427)]
+* 🟢 [Oct 2024] **"ST-WebAgentBench: A Benchmark for Evaluating Safety and Trustworthiness in Web Agents"** [[paper](https://arxiv.org/abs/2410.06703)]
+* 🟢 [Oct 2024] **"AutoPenBench: Benchmarking Generative Agents for Penetration Testing"** [[paper](https://arxiv.org/abs/2410.03225)]
+* 🟢 [Oct 2024] **"AgentHarm: A Benchmark for Measuring Harmfulness of LLM Agents"** [[paper](https://arxiv.org/abs/2410.09024)]
+* 🟢 [Oct 2024] **"Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents"** [[paper](https://arxiv.org/abs/2410.02644)]
