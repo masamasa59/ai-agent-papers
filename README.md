@@ -1,7 +1,7 @@
 # ai-agent-papers
 Weekly AI Agent News!を含むAI Agentの論文一覧
 
-- 生成AIエージェント能力
+- **生成AIエージェント能力**
   - [計画](capability-papers/planning.md)
   - [推論](capability-papers/inference.md)
   - [プロフィール](capability-papers/profile.md)
@@ -12,9 +12,10 @@ Weekly AI Agent News!を含むAI Agentの論文一覧
   - [メモリ](capability-papers/memory.md)
   - [自己進化](capability-papers/memory.md/#自己進化)
   - [安全性](capability-papers/safty.md)
-- エージェントアーキテクチャ
-  - [agent workflows](agent-frameworks/agent-framework.md)
-- 生成AIエージェント応用
+- **エージェントアーキテクチャ**
+  - [Single Agent workflows](agent-frameworks/agent-framework.md#シングルエージェント)
+  - [Multi Agent workflows](agent-frameworks/agent-framework.md#マルチエージェント)
+- **生成AIエージェント応用**
   - [Embodied Agents](application-papers/embodied-agents.md)
   - [Digital Agents](application-papers/digital-agents.md)
     - [Computer Controlled Agents](application-papers/digital-agents.md/#computer-controlled-app-based-agents)
@@ -30,5 +31,5 @@ Weekly AI Agent News!を含むAI Agentの論文一覧
     - [MAD](application-papers/multi-agent.md#mad)
     - [Problem Solving](application-papers/multi-agent.md#problem-solving)
     - [World Simulation](application-papers/multi-agent.md#world-simulation)
-- 生成AIエージェントの講義
+- **生成AIエージェントの講義**
   - [Tutorial & Lecture](lectures/tutorial-lecture.md)
