@@ -41,6 +41,8 @@
 * [Oct 2024] **"Navigating the Digital World as Humans Do: Universal Visual Grounding for GUI Agents"** [[paper](https://arxiv.org/abs/2410.05243)]
 * [Oct 2024] **"Agent S: An Open Agentic Framework That Uses Computers Like a Human"** [[paper](https://arxiv.org/abs/2410.08164)]
 * [Oct 2024] **"AGENTOCCAM: A Simple Yet Strong Baseline for LLM-Based Web Agents"** [[paper](https://arxiv.org/abs/2410.13825)]
+* [Oct 2024] **"OpenWebVoyager: Building Multimodal Web Agents via Iterative Real-World Exploration, Feedback and Optimization"** [[paper](https://arxiv.org/abs/2410.17238)]
+
 
 ### Mobile Based Agents
 * [Aug 2023] **"AutoDroid: LLM-powered Task Automation in Android"** [[paper](https://arxiv.org/abs/2308.15272)]

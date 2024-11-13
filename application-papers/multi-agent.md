@@ -11,6 +11,7 @@
 * [May 2024] **"LLM Discussion: Enhancing the Creativity of Large Language Models via Discussion Framework and Role-Play"** [[paper](https://arxiv.org/abs/2405.06373)]
 * [Jul 2024] **"DebUnc: Mitigating Hallucinations in Large Language Model Agent Communication with Uncertainty Estimations"** [[paper](https://arxiv.org/abs/2407.06426)]
 * [Aug 2024] **"Can LLMs Beat Humans in Debating? A Dynamic Multi-agent Framework for Competitive Debate"** [[paper](https://arxiv.org/abs/2408.04472)]
+* [Nov 2024] **"DARD: A Multi-Agent Approach for Task-Oriented Dialog Systems"** [[paper](https://arxiv.org/abs/2411.00427)]
 
 ### Problem Solving
 * [Mar 2023] **"CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society"** [[paper](https://arxiv.org/abs/2303.17760)]
@@ -46,8 +47,11 @@
 * [Oct 2024] **"RGD: Multi-LLM Based Agent Debugger via Refinement and Generation Guidance"** [[paper](https://arxiv.org/abs/2410.01242)]
 * [Oct 2024] **"From Facts to Insights: A Study on the Generation and Evaluation of Analytical Reports for Deciphering Earnings Calls"** [[paper](https://arxiv.org/abs/2410.01039)]
 * [Oct 2024] **"MorphAgent: Empowering Agents Through Self-Evolving Profiles and Decentralized Collaboration"** [[paper](https://arxiv.org/abs/2410.15048)]
+* [Oct 2024] **"MARCO: Multi-Agent Real-time Chat Orchestration"** [[paper](https://arxiv.org/abs/2410.21784)]
+* [Oct 2024] **"Multi-Agent Large Language Models for Conversational Task-Solving"** [[paper](https://arxiv.org/abs/2410.22932)]
 * [Nov 2024] **"CaPo: Cooperative Plan Optimization for Efficient Embodied Multi-Agent Cooperation"** [[paper](https://arxiv.org/abs/2411.04679v1)]
 * [Nov 2024] **"Magentic-One: A Generalist Multi-Agent System for Solving Complex Tasks"** [[paper](https://arxiv.org/abs/2411.04468)]
+
 
 ### World Simulation
 * [Apr 2023] **"Generative agents: Interactive simulacra of human behavior"** [[paper](https://arxiv.org/abs/2304.03442)]
@@ -69,3 +73,4 @@
 * [Sep 2024] **"MEDCO: Medical Education Copilots Based on A Multi-Agent Framework"** [[paper](https://arxiv.org/abs/2408.12496)]
 * [Sep 2024] **"Focus Agent: LLM-Powered Virtual Focus Group"** [[paper](https://arxiv.org/abs/2409.01907)]
 * [Oct 2024] **"GenSim: A General Social Simulation Platform with Large Language Model Based Agents"** [[paper](https://arxiv.org/abs/2410.04360)]
+* [Nov 2024] **"Project Sid: Many-agent simulations toward AI civilization"** [[paper](https://arxiv.org/abs/2411.00114)]
