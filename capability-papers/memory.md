@@ -12,6 +12,7 @@
 * [Aug 2024] **"HiAgent: Hierarchical Working Memory Management for Solving Long-Horizon Agent Tasks with Large Language Models"** [[paper](https://arxiv.org/abs/2408.09559)]
 * [Sep 2024] **"Self-evolving Agents with Reflective and Memory-Augmented Abilities"** [[paper](https://arxiv.org/abs/2409.00872)]
 * [Oct 2024] **"TapeAgents: A Holistic Framework for Agent Development and Optimization"** [[paper](https://llmagents-learning.org/assets/tapeagents.pdf)]
+* [Oct 2024] **"Long Term Memory : The Foundation of AI Self-Evolution"** [[paper](https://arxiv.org/abs/2410.15665)]
 
 ## 自己進化
 * [May 2024] **Offline Training of Language Model Agents with Functions as Learnable Weights"** [[paper](https://arxiv.org/abs/2402.11359)]

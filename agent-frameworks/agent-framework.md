@@ -38,6 +38,7 @@
 * [Oct 2024] **"Gödel Agent: A Self-Referential Agent Framework for Recursive Self-Improvement"** [[paper](https://arxiv.org/abs/2410.04444)]
 * [Oct 2024] **"Agents Thinking Fast and Slow: A Talker-Reasoner Architecture"** [[paper](https://arxiv.org/abs/2410.08328)]
 * [Oct 2024] **"MOSS: Enabling Code-Driven Evolution and Context Management for AI Agents"** [[paper](https://arxiv.org/abs/2409.16120)]
+* [Oct 2024] **"Asynchronous Tool Usage for Real-Time Agents"** [[paper](https://arxiv.org/abs/2410.21620)]
 * [Nov 2024] **"Infant Agent: A Tool-Integrated, Logic-Driven Agent with Cost-Effective API Usage"** [[paper] (https://arxiv.org/abs/2411.01114)]
 
 ## マルチエージェント
