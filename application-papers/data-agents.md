@@ -25,5 +25,4 @@
 * [Oct 2024] **"From Facts to Insights: A Study on the Generation and Evaluation of Analytical Reports for Deciphering Earnings Calls"** [[paper](https://arxiv.org/abs/2410.01039)]
 * 🟢 [Oct 2024] **"MLE-bench: Evaluating Machine Learning Agents on Machine Learning Engineering"** [[paper](https://arxiv.org/abs/2410.07095)]
 * 🟢 [Oct 2024] **"DA-Code: Agent Data Science Code Generation Benchmark for Large Language Models"** [[paper](https://arxiv.org/abs/2410.07331)]
-
 * [Oct 2024] **"SELA: Tree-Search Enhanced LLM Agents for Automated Machine Learning"** [[paper](https://arxiv.org/abs/2410.17238)]
