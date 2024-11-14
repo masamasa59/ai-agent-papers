@@ -23,3 +23,4 @@
 * [Oct 2024] **"Mentigo: An Intelligent Agent for Mentoring Students in the Creative Problem Solving Process"** [[paper](https://arxiv.org/abs/2409.14228)]
 * [Oct 2024] **"Agents' Room: Narrative Generation through Multi-step Collaboration"** [[paper](https://arxiv.org/abs/2410.02603)]
 * [Nov 2024] **"CRMArena: Understanding the Capacity of LLM Agents to Perform Professional CRM Tasks in Realistic Environments"** [[paper](https://arxiv.org/abs/2411.02305)]
+* [Nov 2024] **"Enhancing Cluster Resilience: LLM-agent Based Autonomous Intelligent Cluster Diagnosis System and Evaluation Framework"** [[paper](https://arxiv.org/abs/2411.05349)]

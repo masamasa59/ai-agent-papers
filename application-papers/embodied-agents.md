@@ -1,5 +1,5 @@
 ## Embodied Agents
-* 🟢 [Aug 2020] **"ALFWorld: Aligning Text and Embodied Environments for Interactive Learning"** [[paper](https://arxiv.org/abs/2010.03768)]
+* ⚖️ [Aug 2020] **"ALFWorld: Aligning Text and Embodied Environments for Interactive Learning"** [[paper](https://arxiv.org/abs/2010.03768)]
 * [Jun 2022] **"Minedojo: Building open-ended embodied agents with internet-scale knowledge"** [[paper](https://arxiv.org/abs/2206.08853)]
 * [Feb 2023] **"Describe, Explain, Plan and Select: Interactive Planning with LLMs Enables Open-World Multi-Task Agents"** [[paper](https://arxiv.org/abs/2302.01560)]
 * [May 2023] **"Voyager: An open-ended embodied agent with large language models"** [[paper](https://arxiv.org/abs/2305.16291)]
@@ -10,7 +10,7 @@
 * [Nov 2023] **"JARVIS-1: Open-World Multi-task Agents with Memory-Augmented Multimodal Language Models"** [[paper](https://arxiv.org/abs/2311.05997)]
 * [Nov 2023] **"An Embodied Generalist Agent in 3D World"** [[paper](https://arxiv.org/abs/2311.12871)]
 * [Dec 2023] **"Mp5: A multi-modal open-ended embodied system in minecraft via active perception"** [[paper](https://arxiv.org/abs/2312.07472)]
-* 🟢 [Dec 2023] **"EgoPlan-Bench: Benchmarking Multimodal Large Language Models for Human-Level Planning"** [[paper](https://arxiv.org/abs/2312.06722)]
+* ⚖️ [Dec 2023] **"EgoPlan-Bench: Benchmarking Multimodal Large Language Models for Human-Level Planning"** [[paper](https://arxiv.org/abs/2312.06722)]
 * 📖 [Jan 2024] **"Agent AI: Surveying the Horizons of Multimodal Interaction"** [[paper](https://arxiv.org/abs/2401.03568)]
 * [Feb 2024] **"S-Agents: Self-Organizing Agents in Open-Ended Environments"** [[paper](https://arxiv.org/abs/2402.04578)]
 * [Feb 2024] **"Large Language Models as Minecraft Agents"** [[paper](https://arxiv.org/abs/2402.08392)]
@@ -30,4 +30,5 @@
 * [Aug 2024] **"EAIRiskBench: Towards Evaluating Physical Risk Awareness for Task Planning of Foundation Model-based Embodied AI Agents"** [[paper](https://arxiv.org/abs/2408.04449)]
 * [Oct 2024] **"Mars: Situated Inductive Reasoning in an Open-World Environment"** [[paper](https://arxiv.org/abs/2410.08126)]
 * [Oct 2024] **"MLLM as Retriever: Interactively Learning Multimodal Retrieval for Embodied Agents"** [[paper](https://arxiv.org/abs/2410.03450)]
-* 🟢 [Oct 2024] **"PARTNR: A Benchmark for Planning and Reasoning in Embodied Multi-agent Tasks"** [[paper](https://arxiv.org/abs/2411.00081)]
+* ⚖️ [Oct 2024] **"PARTNR: A Benchmark for Planning and Reasoning in Embodied Multi-agent Tasks"** [[paper](https://arxiv.org/abs/2411.00081)]
+* [Nov 2024] **"Mr.Steve: Instruction-Following Agents in Minecraft with What-Where-When Memory"** [[paper](https://arxiv.org/abs/2411.06736)]

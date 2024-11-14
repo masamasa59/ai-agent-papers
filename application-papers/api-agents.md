@@ -11,3 +11,5 @@
 * [Oct 2024] **"Agents4PLC: Automating Closed-loop PLC Code Generation and Verification in Industrial Control Systems using LLM-based Agents"** [[paper](https://arxiv.org/abs/2410.14209)]
 * [Oct 2024] **"SceneGenAgent: Precise Industrial Scene Generation with Coding Agent"** [[paper](https://arxiv.org/abs/2410.21909)]
 * [Oct 2024] **"ControlAgent: Automating Control System Design via Novel Integration of LLM Agents and Domain Expertise"** [[paper](https://arxiv.org/abs/2410.19811)]
+* [Nov 2024] **"Autonomous Industrial Control using an Agentic Framework with Large Language Models"** [[paper](https://arxiv.org/abs/2411.05904)]
+* [Nov 2024] **"Tooling or Not Tooling? The Impact of Tools on Language Agents for Chemistry Problem Solving"**[[paper](https://arxiv.org/abs/2411.07228v1)]

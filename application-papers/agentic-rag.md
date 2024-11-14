@@ -15,6 +15,7 @@
 * [Aug 2024] **"REAPER: Reasoning based Retrieval Planning for Complex RAG Systems"** [[paper](https://arxiv.org/abs/2407.18553)]
 * [Aug 2024] **"MindSearch: Mimicking Human Minds Elicits Deep AI Searcher"** [[paper](https://arxiv.org/abs/2407.20183)]
 * [Sep 2024] **"AgentRE: An Agent-Based Framework for Navigating Complex Information Landscapes in Relation Extraction"** [[paper](https://arxiv.org/abs/2409.01854)]
-* 🟢 [Sep 2024] **"RAD-Bench: Evaluating Large Language Models’ Capabilities in Retrieval Augmented Dialogues"** [[paper](https://arxiv.org/abs/2409.12558)]
+* ⚖️ [Sep 2024] **"RAD-Bench: Evaluating Large Language Models’ Capabilities in Retrieval Augmented Dialogues"** [[paper](https://arxiv.org/abs/2409.12558)]
 * [Oct 2024] **"Agentic Information Retrieval"** [[paper](https://arxiv.org/abs/2410.09713)]
 * 📖 [Oct 2024] **"Retrieval Augmented Generation (RAG) and Beyond: A Comprehensive Survey on How to Make your LLMs use External Data More Wisely"** [[paper](https://arxiv.org/abs/2409.14924)]
+* [Nov 2024] **"Boosting the Potential of Large Language Models with an Intelligent Information Assistant"** [[paper](https://arxiv.org/abs/2411.06805)]

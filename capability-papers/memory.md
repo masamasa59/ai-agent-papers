@@ -13,6 +13,7 @@
 * [Sep 2024] **"Self-evolving Agents with Reflective and Memory-Augmented Abilities"** [[paper](https://arxiv.org/abs/2409.00872)]
 * [Oct 2024] **"TapeAgents: A Holistic Framework for Agent Development and Optimization"** [[paper](https://llmagents-learning.org/assets/tapeagents.pdf)]
 * [Oct 2024] **"Long Term Memory : The Foundation of AI Self-Evolution"** [[paper](https://arxiv.org/abs/2410.15665)]
+* [Nov 2024] **"Mr.Steve: Instruction-Following Agents in Minecraft with What-Where-When Memory"** [[paper](https://arxiv.org/abs/2411.06736)]
 
 ## 自己進化
 * [May 2024] **Offline Training of Language Model Agents with Functions as Learnable Weights"** [[paper](https://arxiv.org/abs/2402.11359)]
@@ -23,7 +24,7 @@
 * [Jun 2024] **"MAGIC: Generating Self-Correction Guideline for In-Context Text-to-SQL"** [[paper](https://arxiv.org/abs/2406.12692)]
 * [Jun 2024] **"Symbolic Learning Enables Self-Evolving Agents"** [[paper](https://arxiv.org/abs/2406.18532)]
 * [Jun 2024] **"EVOAGENT: Towards Automatic Multi-Agent Generation via Evolutionary Algorithms"** [[paper](https://arxiv.org/abs/2406.14228)]
-* 🟢 [Jun 2024] **"AgentGym: Evolving Large Language Model-based Agents across Diverse Environments."** [[paper](https://arxiv.org/abs/2406.04151)]
+* ⚖️ [Jun 2024] **"AgentGym: Evolving Large Language Model-based Agents across Diverse Environments."** [[paper](https://arxiv.org/abs/2406.04151)]
 * 📖 [Jul 2024] **"AutoFlow: Automated Workflow Generation for Large Language Model Agents"** [[paper](https://arxiv.org/abs/2407.12821)]
 * [Aug 2024] **"Automated Design of Agentic Systems"** [[paper](https://arxiv.org/abs/2408.08435)]
 * [Sep 2024] **"Agent Workflow Memory"** [[paper](https://arxiv.org/abs/2409.07429)]

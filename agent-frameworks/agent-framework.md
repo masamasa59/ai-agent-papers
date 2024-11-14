@@ -51,3 +51,4 @@
 * [Apr 2024] **Deconstructing Human-AI Collaboration: Agency, Interaction, and Adaptation"** [[paper](https://arxiv.org/abs/2404.12056)]
 * [May 2024] **Human-Centered LLM-Agent User Interface: A Position Paper"** [[paper](https://arxiv.org/abs/2405.13050)]
 * [May 2024] **"Assessing and Verifying Task Utility in LLM-Powered Applications"** [[paper](https://arxiv.org/abs/2405.02178)]
+* [Nov 2024] **"A Taxonomy of AgentOps for Enabling Observability of Foundation Model based Agents"** [[paper](https://arxiv.org/abs/2411.05285)]
