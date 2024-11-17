@@ -1,4 +1,5 @@
 ## Agentic RAG
+質問応答のためのRAGの推論を
 * [Feb 2024] **"Nissist: An Incident Mitigation Copilot based on Troubleshooting Guides"** [[paper](https://arxiv.org/abs/2402.17531)]
 * [Mar 2024] **"Exploring LLM-based Agents for Root Cause Analysis"** [[paper](https://arxiv.org/abs/2403.04123)]
 * [Apr 2024] **"ChatShop: Interactive Information Seeking with Language Agents"** [[paper](https://arxiv.org/abs/2404.09911)]

@@ -11,6 +11,7 @@
 * ⚖️ [Apr 2024] **"NegotiationToM: A Benchmark for Stress-testing Machine Theory of Mind on Negotiation Surrounding"** [[paper](https://arxiv.org/abs/2404.13627)]
 * 📖 [May 2024] **"From Persona to Personalization: A Survey on Role-Playing Language Agents"** [[paper](https://arxiv.org/abs/2404.18231)]
 * [Jun 2024] **"Scaling Synthetic Data Creation with 1,000,000,000 Personas"** [[paper](https://arxiv.org/abs/2406.20094)]
+* 📖 [Jun 2024] **"Two Tales of Persona in LLMs: A Survey of Role-Playing and Personalization"** [[paper](https://arxiv.org/abs/2406.01171)]
 * [Jul 2024] **"PersonaGym: Evaluating Persona Agents and LLMs"** [[paper](https://arxiv.org/abs/2407.18416)]
 * [Jul 2024] **"PersonaRAG: Enhancing Retrieval-Augmented Generation Systems with User-Centric Agents"** [[paper](https://arxiv.org/abs/2407.09394)]
 * 📖 [Jul 2024] **"The Oscars of AI Theater: A Survey on Role-Playing with Language Models"** [[paper](https://arxiv.org/abs/2407.11484)]

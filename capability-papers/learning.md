@@ -18,4 +18,3 @@
 * [Oct 2024] **"Thinking LLMs: General Instruction Following with Thought Generation"** [[paper](https://arxiv.org/abs/2410.10630)]
 * [Oct 2024] **"CAMPHOR: Collaborative Agents for Multi-input Planning and High-Order Reasoning On Device"** [[paper](https://arxiv.org/abs/2410.09407)]
 * [Oct 2024] **"AgentBank: Towards Generalized LLM Agents via Fine-Tuning on 50000+ Interaction Trajectories"** [[paper](https://arxiv.org/abs/2410.07706)]
-* [Nov 2024] **"WorkflowLLM: Enhancing Workflow Orchestration Capability of Large Language Models"** [[paper](https://arxiv.org/abs/2411.05451)]

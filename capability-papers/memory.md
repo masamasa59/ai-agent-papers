@@ -2,6 +2,7 @@
 ## メモリ
 * [May 2023] **"Memorybank: Enhancing large language models with long-term memory"** [[paper](https://arxiv.org/abs/2305.10250)]
 * [Jul 2023] **"REX: Rapid Exploration and eXploitation for AI Agents"** [[paper](https://arxiv.org/abs/2307.08962)]
+* [Oct 2023] **"MemGPT: Towards LLMs as Operating Systems"** [[paper]https://arxiv.org/abs/2310.08560)]
 * [Feb 2024] **"RAP: Retrieval-Augmented Planning with Contextual Memory for Multimodal LLM Agents"** [[paper](https://arxiv.org/abs/2402.03610)]
 * [Feb 2024] **"Evaluating Very Long-Term Conversational Memory of LLM Agents"** [[paper](https://arxiv.org/abs/2402.17753)]
 * [Mar 2024] **"RAT: Retrieval Augmented Thoughts Elicit Context-Aware Reasoning in Long-Horizon Generation"** [[paper](https://arxiv.org/abs/2403.05313)]
