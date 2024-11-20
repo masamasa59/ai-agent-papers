@@ -1,4 +1,11 @@
 ## Embodied Agents
+Minecraftのキャラクタや家庭用ロボットのように体があり、環境を移動しながらタスクをこなすエージェントです。
+
+未知の環境に対する頑健さや長期タスクをこなすことが求められます。
+
+緻密な計画、ツールやスキルの作成、メモリの活用が重要になります。
+
+#### Papers
 * ⚖️ [Aug 2020] **"ALFWorld: Aligning Text and Embodied Environments for Interactive Learning"** [[paper](https://arxiv.org/abs/2010.03768)]
 * [Jun 2022] **"Minedojo: Building open-ended embodied agents with internet-scale knowledge"** [[paper](https://arxiv.org/abs/2206.08853)]
 * [Feb 2023] **"Describe, Explain, Plan and Select: Interactive Planning with LLMs Enables Open-World Multi-Task Agents"** [[paper](https://arxiv.org/abs/2302.01560)]
@@ -32,3 +39,4 @@
 * [Oct 2024] **"MLLM as Retriever: Interactively Learning Multimodal Retrieval for Embodied Agents"** [[paper](https://arxiv.org/abs/2410.03450)]
 * ⚖️ [Oct 2024] **"PARTNR: A Benchmark for Planning and Reasoning in Embodied Multi-agent Tasks"** [[paper](https://arxiv.org/abs/2411.00081)]
 * [Nov 2024] **"Mr.Steve: Instruction-Following Agents in Minecraft with What-Where-When Memory"** [[paper](https://arxiv.org/abs/2411.06736)]
+* [Nov 2024] **"CaPo: Cooperative Plan Optimization for Efficient Embodied Multi-Agent Cooperation"** [[paper](https://arxiv.org/abs/2411.04679v1)]

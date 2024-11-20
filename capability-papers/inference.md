@@ -1,5 +1,7 @@
 
 ## 推論
+ LLMの推論能力に関する論文です。
+#### Papers
 * [Jan 2022] **"Chain-of-Thought Prompting Elicits Reasoning in Large Language Models"** [[paper](https://arxiv.org/abs/2201.11903)]
 * [Mar 2022] **"Self-consistency improves chain of thought reasoning in language models"** [[paper](https://arxiv.org/abs/2203.11171)]
 * [May 2022] **"Least-to-most prompting enables complex reasoning in large language models"** [[paper](https://arxiv.org/abs/2205.10625)]

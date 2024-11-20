@@ -1,5 +1,10 @@
 
 ## Agentic AI Systems
+教育や医療、プレスなど様々な業務でエージェントによる業務効率化を目指す動きがあります。
+
+まだグループにするほどではないですが雑多にまとめています。
+
+#### Papers
 * [Jan 2024] **"EHRAgent: Code Empowers Large Language Models for Few-shot Complex Tabular Reasoning on Electronic Health Records"** [[paper](https://arxiv.org/abs/2401.07128)]
 * [Feb 2024] **"A Human-Inspired Reading Agent with Gist Memory of Very Long Contexts"** [[paper](https://arxiv.org/abs/2402.09727)]
 * [Feb 2024] **"A Multimodal Foundation Agent for Financial Trading: Tool-Augmented, Diversified, and Generalist"** [[paper](https://arxiv.org/abs/2402.18485)]

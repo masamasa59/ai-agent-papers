@@ -1,8 +1,13 @@
 
 ## Multi Agents
+複数のエージェントによる協力でタスク解決やシミュレーションをおこないます。
+
+
+
+#### Papers
 * 📖 [Jun 2024] **"Towards Rationality in Language and Multimodal Agents: A Survey"** [[paper](https://arxiv.org/abs/2406.00252)]
 
-### MAD
+### MAD（Multi-Agent Debate）
 * [May 2023] **"Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate"** [[paper](https://arxiv.org/abs/2305.19118)]
 * [Nov 2023] **"Should we be going MAD? A Look at Multi-Agent Debate Strategies for LLMs"** [[paper](https://arxiv.org/abs/2311.17371)]
 * [Nov 2023] **"MedAgents: Large Language Models as Collaborators for Zero-shot Medical Reasoning"** [[paper](https://arxiv.org/abs/2311.10537)]
@@ -49,7 +54,6 @@
 * [Oct 2024] **"MorphAgent: Empowering Agents Through Self-Evolving Profiles and Decentralized Collaboration"** [[paper](https://arxiv.org/abs/2410.15048)]
 * [Oct 2024] **"MARCO: Multi-Agent Real-time Chat Orchestration"** [[paper](https://arxiv.org/abs/2410.21784)]
 * [Oct 2024] **"Multi-Agent Large Language Models for Conversational Task-Solving"** [[paper](https://arxiv.org/abs/2410.22932)]
-* [Nov 2024] **"CaPo: Cooperative Plan Optimization for Efficient Embodied Multi-Agent Cooperation"** [[paper](https://arxiv.org/abs/2411.04679v1)]
 * [Nov 2024] **"Magentic-One: A Generalist Multi-Agent System for Solving Complex Tasks"** [[paper](https://arxiv.org/abs/2411.04468)]
 
 

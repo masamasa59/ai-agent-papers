@@ -1,4 +1,7 @@
 ## 計画
+エージェントの計画に関する論文です。
+
+#### Papers
 * ⚖️ [Jun 2022] **"PlanBench: An Extensible Benchmark for Evaluating Large Language Models on Planning and Reasoning about Change"** [[paper](https://arxiv.org/abs/2206.10498)]
 * [Apr 2023] **"LLM+P: Empowering Large Language Models with Optimal Planning Proficiency"** [[paper](https://arxiv.org/abs/2304.11477)]
 * [May 2023] **"Reasoning with Language Model is Planning with World Model"** [[paper](https://arxiv.org/abs/2305.14992)]
@@ -34,3 +37,4 @@
 * [Oct 2024] **"LLMs Still Can't Plan; Can LRMs? A Preliminary Evaluation of OpenAI's o1 on PlanBench"** [[paper](https://arxiv.org/abs/2409.13373)]
 * [Oct 2024] **"Planning in Strawberry Fields: Evaluating and Improving the Planning and Scheduling Capabilities of LRM o1"** [[paper](https://arxiv.org/abs/2410.02162)]
 * ⚖️ [Oct 2024] **"Benchmarking Agentic Workflow Generation"** [[paper](https://arxiv.org/abs/2410.07869)]
+* [Nov 2024] **"CaPo: Cooperative Plan Optimization for Efficient Embodied Multi-Agent Cooperation"** [[paper](https://arxiv.org/abs/2411.04679v1)]

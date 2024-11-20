@@ -1,4 +1,8 @@
 # エージェントフレームワーク
+エージェントの骨格を提案する論文です。
+
+シングルタイプとマルチエージェントで分けて紹介します。
+
 ## シングルエージェント
 * [Mar 2023] **"Hugginggpt: Solving ai tasks with chat-gpt and its friends in huggingface"** [[paper](https://arxiv.org/abs/2303.17580)]
 * [Apr 2023] **"OpenAGI: When llm meets domain experts"** [[paper](https://arxiv.org/abs/2304.04370)]
@@ -42,7 +46,12 @@
 * [Nov 2024] **"Infant Agent: A Tool-Integrated, Logic-Driven Agent with Cost-Effective API Usage"** [[paper] (https://arxiv.org/abs/2411.01114)]
 
 ## マルチエージェント
+* [Mar 2023] **"CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society"** [[paper](https://arxiv.org/abs/2303.17760)]
+* [Aug 2023] **"AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors"** [[paper](https://arxiv.org/abs/2308.10848)]
 * [Aug 2023] **"MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework"** [[paper](https://arxiv.org/abs/2308.00352)]
+* [Aug 2023] **"AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation"** [[paper](https://arxiv.org/abs/2308.08155)]
+* ⚖️ [Aug 2023] **"BOLAA: Benchmarking and Orchestrating LLM-augmented Autonomous Agents"** [[paper](https://arxiv.org/abs/2308.05960)]
+* [Jul 2024] **"BMW Agents - A Framework For Task Automation Through Multi-Agent Collaboration"** [[paper](https://arxiv.org/abs/2406.20041)]
 * [Aug 2024] **"MegaAgent: A Practical Framework for Autonomous Cooperation in Large-Scale LLM Agent Systems"** [[paper](https://arxiv.org/abs/2408.09955)]
 * [Nov 2024] **"Magentic-One: A Generalist Multi-Agent System for Solving Complex Tasks"** [[paper](https://arxiv.org/abs/2411.04468)]
 

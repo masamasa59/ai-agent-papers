@@ -1,4 +1,9 @@
 ## Research Agents
+研究の自動化を目指すエージェントです。
+
+文献調査、研究のアイデア出し、実験設定、実験の考察、論文執筆、査読まで自動化する取り組みがあります。
+
+#### Papers
 * [Dec 2023] **"Mathematical discoveries from program search with large language models"** [[paper](https://www.nature.com/articles/s41586-023-06924-6)]
 * [Jan 2024] **"LLaMP: Large Language Model Made Powerful for High-Fidelity Materials Knowledge Retrieval and Distillation"** [[paper](https://arxiv.org/abs/2401.17244)]
 * [Feb 2024] **"Toward a Team of AI-Made Scientists for Scientific Discovery from Gene Expression Data"** [[paper](https://arxiv.org/abs/2402.12391)]

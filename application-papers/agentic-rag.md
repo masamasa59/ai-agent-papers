@@ -1,5 +1,13 @@
 ## Agentic RAG
-質問応答のためのRAGの推論を
+質問応答のための推論の高度化に特化したエージェントです。 
+
+ツールは検索エンジンがメイン
+
+回答に必要な情報を手に入れるまで検索でき、検索して知り得た事実を元に次の検索戦略を考えます。
+
+情報検索（Information Retrieval）と親和性が高いです。
+
+#### Papers
 * [Feb 2024] **"Nissist: An Incident Mitigation Copilot based on Troubleshooting Guides"** [[paper](https://arxiv.org/abs/2402.17531)]
 * [Mar 2024] **"Exploring LLM-based Agents for Root Cause Analysis"** [[paper](https://arxiv.org/abs/2403.04123)]
 * [Apr 2024] **"ChatShop: Interactive Information Seeking with Language Agents"** [[paper](https://arxiv.org/abs/2404.09911)]

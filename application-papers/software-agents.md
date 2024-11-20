@@ -1,4 +1,8 @@
 ## Software Agents
+ソフトウェアを開発するエージェントです。
+
+デモを作るだけでなく、バグの発見から修正、テスト設計、要件定義までできることを目指します。
+#### Papers
 * ⚖️ [Oct 2023] **"SWE-bench: Can Language Models Resolve Real-World GitHub Issues?"** [[paper](https://arxiv.org/abs/2310.06770)]
 * [Feb 2024] **"OpenCodeInterpreter: Integrating Code Generation with Execution and Refinement"** [[paper](https://arxiv.org/abs/2402.14658)]
 * [Mar 2024] **"MAGIS: LLM-Based Multi-Agent Framework for GitHub Issue Resolution"** [[paper](https://arxiv.org/abs/2403.17927)]

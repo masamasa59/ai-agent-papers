@@ -1,4 +1,9 @@
 ## プロフィール
+エージェントの役割を定めるプロフィールに関する論文です。
+
+ロールプレイングやペルソナを含みます。
+
+#### Papers
 * [May 2023] **"Role-Play with Large Language Models"** [[paper](https://arxiv.org/abs/2305.16367)]
 * [May 2023] **"ExpertPrompting: Instructing Large Language Models to be Distinguished Experts"** [[paper](https://arxiv.org/abs/2305.14688)]
 * [May 2023] **"PersonaLLM: Investigating the Ability of Large Language Models to Express Personality Traits"** [[paper](https://arxiv.org/abs/2305.02547)]

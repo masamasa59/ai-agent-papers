@@ -1,4 +1,8 @@
 ## 知覚
+エージェントが環境を理解するための知覚能力に関する論文です。
+
+テキスト、画像、動画で分けています。
+
 ### Text
 * [Jun 2024] **"Ask-before-Plan: Proactive Language Agents for Real-World Planning"** [[paper](https://arxiv.org/abs/2406.12639)]
 * [May 2024] **"In-Context Learning with Long-Context Models: An In-Depth Exploration"** [[paper](https://arxiv.org/abs/2405.00200)]

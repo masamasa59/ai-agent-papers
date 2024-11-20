@@ -1,4 +1,9 @@
 ## Digital Agents
+ Webブラウザ操作からアプリの操作、コンピュータの操作まで自動化することを目指します。
+
+どのレベルから制御するかによってツールが汎用的でプリミティブなマウスとキーボードだけなのか、検索やブラウザバックなどタスク特化を含むのかが決まります。
+
+#### Papers
 ### Computer Controlled (App Based) Agents
 * [Nov 2023] **"ProAgent: From Robotic Process Automation to Agentic Process Automation"** [[paper](https://arxiv.org/abs/2311.10751)]
 * [Feb 2024] **"Ufo: A UI-Focused Agent for Windows OS Interaction."** [[paper](https://arxiv.org/abs/2402.07939)]

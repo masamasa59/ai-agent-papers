@@ -1,4 +1,7 @@
 ## 評価
+エージェントの持つ能力を評価する論文です。
+
+#### Papers
 * ⚖️ [Aug 2023] **"AgentBench: Evaluating LLMs as Agents"** [[paper](https://arxiv.org/abs/2308.03688)]
 * ⚖️ [Oct 2023] **"SmartPlay: A Benchmark for LLMs as Intelligent Agents"** [[paper](https://arxiv.org/abs/2310.01557)]
 * ⚖️ [Nov 2023] **"MAgIC: Investigation of Large Language Model Powered Multi-Agent in Cognition, Adaptability, Rationality and Collaboration"** [[paper](https://arxiv.org/abs/2311.08562)]

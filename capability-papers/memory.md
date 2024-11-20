@@ -1,5 +1,7 @@
 
 ## メモリ
+エージェントの記憶にあたるメモリや自己進化に関する論文です。
+#### Papers
 * [May 2023] **"Memorybank: Enhancing large language models with long-term memory"** [[paper](https://arxiv.org/abs/2305.10250)]
 * [Jul 2023] **"REX: Rapid Exploration and eXploitation for AI Agents"** [[paper](https://arxiv.org/abs/2307.08962)]
 * [Oct 2023] **"MemGPT: Towards LLMs as Operating Systems"** [[paper]https://arxiv.org/abs/2310.08560)]

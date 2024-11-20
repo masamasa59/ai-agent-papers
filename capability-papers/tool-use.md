@@ -1,4 +1,7 @@
 ## ツール利用
+エージェントがツールを正しく扱えるかに関する論文です。
+
+#### Papers
 * [May 2022] **"MRKL Systems: A modular, neuro-symbolic architecture that combines large language models, external knowledge sources and discrete reasoning"** [[paper](https://arxiv.org/abs/2205.00445)]
 * [May 2022] **"Talm: Tool augmented language models"** [[paper](https://arxiv.org/abs/2205.12255)]
 * [Nov 2022] **"PAL: Program-aided Language Models"** [[paper](https://arxiv.org/abs/2311.09553)]

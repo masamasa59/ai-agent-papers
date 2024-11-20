@@ -1,4 +1,6 @@
 ## 安全性
+エージェントの安全性やリスクに関する論文です。
+#### Papers
 * ⚖️ [Jan 2024] **"R-Judge: Benchmarking Safety Risk Awareness for LLM Agents"** [[paper](https://arxiv.org/abs/2401.10019)]
 * [Feb 2024] **"TrustAgent: Towards Safe and Trustworthy LLM-based Agents"** [[paper](https://arxiv.org/abs/2402.01586)]
 * [Feb 2024] **"Agent Smith: A Single Image Can Jailbreak One Million Multimodal LLM Agents Exponentially Fast"** [[paper](https://arxiv.org/abs/2402.08567)]

@@ -1,4 +1,6 @@
 ## 学習
+エージェントの振る舞いのための学習に関する論文です。
+#### Papers
 * [Oct 2023] **"FireAct: Toward Language Agent Fine-tuning"** [[paper](https://arxiv.org/abs/2310.05915)]
 * [Oct 2023] **"AgentTuning: Enabling Generalized Agent Abilities for LLMs"** [[paper](https://arxiv.org/abs/2310.12823)]
 * [Oct 2023] **"Lemur: Harmonizing Natural Language and Code for Language Agents"** [[paper](https://arxiv.org/abs/2310.06830)]
