@@ -1,4 +1,11 @@
-# Tutorial & Lecture
+## Tutorial & Lecture
+#### 日本語
+- [Dec 2023] **"LLMマルチエージェントを俯瞰する"** [[slide](https://speakerdeck.com/masatoto/llmmarutiezientowofu-kan-suru)]
+- [Apr 2024] **"ICLR2024 LLMエージェントの研究動向"** [[slide](https://speakerdeck.com/masatoto/iclr2024-llmezientonoyan-jiu-dong-xiang)]
+- [May 2024] **"生成AIエージェントの現状を俯瞰する"** [[slide](https://speakerdeck.com/isidaitc/sheng-cheng-aiezientonoxian-zhuang-wofu-kan-suru)]
+- [Jul 2024] **"ヘルプデスクの事例で学ぶAIエージェント"** [[slide](https://speakerdeck.com/masatoto/herupudesukunoshi-li-dexue-buaieziento)]
+
+#### 英語 
 * [Jun 2023] **"LLM Powered Autonomous Agents(Lil'Log)"** [[blog](https://lilianweng.github.io/posts/2023-06-23-agent/)]
 * [ACL 2023] **"Neuro-Symbolic Approaches: Large Language Models + Tool Use"** [[slide](https://wenting-zhao.github.io/complex-reasoning-tutorial/slides/6.pdf)] [[project](https://taoyds.github.io/)]
 * [NeurIPS Workshop 2023] **"Advancing Natural Language Interfaces with Language Models as Agents"** [[slide](https://docs.google.com/presentation/d/1wiEMUclKUjxhcPhFigqwOwyA8GacNc9eHIuRXa2nxQw/edit?usp=sharing)] [[project](https://taoyds.github.io/)]
@@ -11,5 +18,5 @@
 * [EMNLP 2024] **"Language Agents: Foundations, Prospects, and Risks"** [[slide](https://ysu1989.github.io/resources/language_agents_YuSu_2024.pdf)] [[project](https://language-agent-tutorial.github.io/)]
 * [Fall 2024] **"Large Language Model Agents (MOOC)"** [[slide](https://rdi.berkeley.edu/llm-agents-mooc/slides/llm_agent_history.pdf)] [[project](https://rdi.berkeley.edu/llm-agents/f24)]
 
-# 実装パターン
+## 実装パターン
 **"langgraph-agents-with-amazon-bedrock"** [[code](https://github.com/aws-samples/langgraph-agents-with-amazon-bedrock)]

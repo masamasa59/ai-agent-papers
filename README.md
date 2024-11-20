@@ -1,5 +1,7 @@
-# ai-agent-papers¥
+# AI Agent Papers
 Weekly AI Agent News!を含むAI Agentの論文一覧のリポジトリです。
+
+[Weekly AI Agents News!](https://speakerdeck.com/masatoto/weekly-ai-agents-news)  4月から2週おきに更新中！
 
 おすすめの論文は各カテゴリで一本だけ選んで🔥 をつけています。\
 サーベイ論文は📖 をつけています。\
@@ -40,3 +42,27 @@ Weekly AI Agent News!を含むAI Agentの論文一覧のリポジトリです。
     - [World Simulation](application-papers/multi-agent.md#world-simulation)
 - **生成AIエージェントの講義**
   - [Tutorial & Lecture](lectures/tutorial-lecture.md)
+
+## Weekly AI Agent News アーカイブ
+- 論文編
+  - [24年10月号 slide](https://speakerdeck.com/masatoto/weekly-ai-agents-news-10yue-hao-lun-wen-noakaibu)
+  - [24年9月号 slide](https://speakerdeck.com/masatoto/weekly-ai-agents-news-9yue-hao-lun-wen-noakaibu)
+  - [24年8月号 slide](https://speakerdeck.com/masatoto/weekly-ai-agents-news-8yue-hao-lun-wen-noakaibu)
+  - [24年7月号 slide](https://speakerdeck.com/masatoto/weekly-ai-agents-news-7yue-hao-lun-wen-noakaibu)
+  - [24年6月号 slide](https://speakerdeck.com/masatoto/weekly-ai-agents-news-6yue-hao-lun-wen-noakaibu)
+  - [24年5月号 slide](https://speakerdeck.com/masatoto/weekly-ai-agents-news-5yue-hao-lun-wen-noakaibu)
+  - [24年4月号 slide](https://speakerdeck.com/masatoto/weekly-ai-agents-news-4yue-hao-lun-wen-bian)
+
+- プロダクトニュース編
+  - [24年10月号 slide](https://speakerdeck.com/masatoto/niyusunoakaibu-94f81b94-54dd-43cb-90ac-789ce7156ef6)
+  - [24年9月号 slide](https://speakerdeck.com/masatoto/niyusunoakaibu-70bc4f4a-f282-4316-b91d-5430f893fb8b)
+  - [24年8月号 slide](https://speakerdeck.com/masatoto/niyusunoakaibu-817ce051-150e-41ed-bf3f-568b06442f34)
+  - [24年7月号 slide](https://speakerdeck.com/masatoto/niyusunoakaibu-7342c793-b691-423a-ae99-a4f15d8dfcb7)
+  - [24年6月号 slide](https://speakerdeck.com/masatoto/niyusunoakaibu-5954cb81-8db7-4112-93b3-a8393584730f)
+  - [24年5月号 slide](https://speakerdeck.com/masatoto/niyusunoakaibu-58e7e433-c255-4ebe-af45-ebb11705b64f)
+  - [24年4月号 slide](https://speakerdeck.com/masatoto/niyusunoakaibu)
+
+## 参考にしたリポジトリ
+- [LLM Agents Papers](https://github.com/zjunlp/LLMAgentPapers)
+- [Awesome LLM-Powered Agent](https://github.com/hyp1231/awesome-llm-powered-agent/)
+ - [Awesome LLM agents](https://github.com/kaushikb11/awesome-llm-agents)
