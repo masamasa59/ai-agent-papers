@@ -1,11 +1,16 @@
 
-## Multi Agents
+## Multi-Agents
 複数のエージェントによる協力でタスク解決やシミュレーションをおこないます。
 
-
+<figure style="text-align: center;">
+    <img alt="" src="../assets/multi-agent.png" width="500" />
+    <figcaption style="text-align: center;">引用：https://arxiv.org/abs/2402.01680</figcaption>
+</figure>
 
 #### Papers
 * 📖 [Jun 2024] **"Towards Rationality in Language and Multimodal Agents: A Survey"** [[paper](https://arxiv.org/abs/2406.00252)]
+* 📖 [Feb 2024] **"LLM Multi-Agent Systems: Challenges and Open Problems"** [[paper](https://arxiv.org/abs/2402.03578)]
+* 📖 [Feb 2024] **"Large Language Model based Multi-Agents: A Survey of Progress and Challenges"** [[paper](https://arxiv.org/abs/2402.01680)]
 
 ### MAD（Multi-Agent Debate）
 * [May 2023] **"Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate"** [[paper](https://arxiv.org/abs/2305.19118)]
@@ -16,6 +21,7 @@
 * [May 2024] **"LLM Discussion: Enhancing the Creativity of Large Language Models via Discussion Framework and Role-Play"** [[paper](https://arxiv.org/abs/2405.06373)]
 * [Jul 2024] **"DebUnc: Mitigating Hallucinations in Large Language Model Agent Communication with Uncertainty Estimations"** [[paper](https://arxiv.org/abs/2407.06426)]
 * [Aug 2024] **"Can LLMs Beat Humans in Debating? A Dynamic Multi-agent Framework for Competitive Debate"** [[paper](https://arxiv.org/abs/2408.04472)]
+* [Oct 2024] **"Multi-Agent Large Language Models for Conversational Task-Solving"** [[paper](https://arxiv.org/abs/2410.22932)]
 * [Nov 2024] **"DARD: A Multi-Agent Approach for Task-Oriented Dialog Systems"** [[paper](https://arxiv.org/abs/2411.00427)]
 
 ### Problem Solving
@@ -53,7 +59,6 @@
 * [Oct 2024] **"From Facts to Insights: A Study on the Generation and Evaluation of Analytical Reports for Deciphering Earnings Calls"** [[paper](https://arxiv.org/abs/2410.01039)]
 * [Oct 2024] **"MorphAgent: Empowering Agents Through Self-Evolving Profiles and Decentralized Collaboration"** [[paper](https://arxiv.org/abs/2410.15048)]
 * [Oct 2024] **"MARCO: Multi-Agent Real-time Chat Orchestration"** [[paper](https://arxiv.org/abs/2410.21784)]
-* [Oct 2024] **"Multi-Agent Large Language Models for Conversational Task-Solving"** [[paper](https://arxiv.org/abs/2410.22932)]
 * [Nov 2024] **"Magentic-One: A Generalist Multi-Agent System for Solving Complex Tasks"** [[paper](https://arxiv.org/abs/2411.04468)]
 
 

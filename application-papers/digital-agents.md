@@ -1,9 +1,13 @@
 ## Digital Agents
  Webブラウザ操作からアプリの操作、コンピュータの操作まで自動化することを目指します。
 
-どのレベルから制御するかによってツールが汎用的でプリミティブなマウスとキーボードだけなのか、検索やブラウザバックなどタスク特化を含むのかが決まります。
+どのレベルから制御するかによってツールが、汎用的でプリミティブなマウスとキーボードだけなのか、検索やブラウザバックなどタスク特化を含むのかが決まります。
+<figure style="text-align: center;">
+    <img alt="" src="../assets/digital_agent.png" width="500" />
+    <figcaption style="text-align: center;">引用：https://arxiv.org/abs/2404.07972</figcaption>
+</figure>
 
-#### Papers
+
 ### Computer Controlled (App Based) Agents
 * [Nov 2023] **"ProAgent: From Robotic Process Automation to Agentic Process Automation"** [[paper](https://arxiv.org/abs/2311.10751)]
 * [Feb 2024] **"Ufo: A UI-Focused Agent for Windows OS Interaction."** [[paper](https://arxiv.org/abs/2402.07939)]

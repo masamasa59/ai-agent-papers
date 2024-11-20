@@ -1,7 +1,12 @@
 # エージェントフレームワーク
 エージェントの骨格を提案する論文です。
 
-シングルタイプとマルチエージェントで分けて紹介します。
+シングルタイプとマルチエージェントで分けています。
+<figure style="text-align: center;">
+    <img alt="" src="../assets/agent_framework.png" width="500" />
+    <figcaption style="text-align: center;">引用：https://arxiv.org/abs/2409.02977</figcaption>
+</figure>
+
 
 ## シングルエージェント
 * [Mar 2023] **"Hugginggpt: Solving ai tasks with chat-gpt and its friends in huggingface"** [[paper](https://arxiv.org/abs/2303.17580)]

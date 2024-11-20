@@ -7,7 +7,10 @@
 製造業や化学の3Dモデリングなどの複雑なソフトウェアをエージェントが操作します。
 
 日常の定型業務を代替するRPAの派生のAgentic Process Automationも含まれます。
-
+<figure style="text-align: center;">
+    <img alt="" src="../assets/api_agent.png" width="500" />
+    <figcaption style="text-align: center;">引用：https://arxiv.org/abs/2303.16434</figcaption>
+</figure>
 
 #### Papers
 * [Mar 2023] **"Taskmatrix.ai: Completing tasks by connecting foundation models with millions of apis"** [[paper](https://arxiv.org/abs/2303.16434)]

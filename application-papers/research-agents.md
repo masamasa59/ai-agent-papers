@@ -2,6 +2,10 @@
 研究の自動化を目指すエージェントです。
 
 文献調査、研究のアイデア出し、実験設定、実験の考察、論文執筆、査読まで自動化する取り組みがあります。
+<figure style="text-align: center;">
+    <img alt="" src="../assets/research-agent.png" width="500" />
+    <figcaption style="text-align: center;">引用：https://arxiv.org/abs/2408.06292</figcaption>
+</figure>
 
 #### Papers
 * [Dec 2023] **"Mathematical discoveries from program search with large language models"** [[paper](https://www.nature.com/articles/s41586-023-06924-6)]

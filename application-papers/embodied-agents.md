@@ -4,6 +4,10 @@ Minecraftのキャラクタや家庭用ロボットのように体があり、�
 未知の環境に対する頑健さや長期タスクをこなすことが求められます。
 
 緻密な計画、ツールやスキルの作成、メモリの活用が重要になります。
+<figure style="text-align: center;">
+    <img alt="" src="../assets/embodied_agent.png" width="500" />
+    <figcaption style="text-align: center;">引用：https://arxiv.org/abs/2408.03615</figcaption>
+</figure>
 
 #### Papers
 * ⚖️ [Aug 2020] **"ALFWorld: Aligning Text and Embodied Environments for Interactive Learning"** [[paper](https://arxiv.org/abs/2010.03768)]

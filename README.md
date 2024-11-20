@@ -1,6 +1,13 @@
-# ai-agent-papers
-Weekly AI Agent News!を含むAI Agentの論文一覧
+# ai-agent-papers¥
+Weekly AI Agent News!を含むAI Agentの論文一覧のリポジトリです。
 
+おすすめの論文は各カテゴリで一本だけ選んで🔥 をつけています。\
+サーベイ論文は📖 をつけています。\
+ベンチマーク論文は⚖️ をつけています。
+## News
+
+
+## 論文カテゴリ
 - **生成AIエージェント能力**
   - [計画](capability-papers/planning.md)
   - [推論](capability-papers/inference.md)
@@ -27,7 +34,7 @@ Weekly AI Agent News!を含むAI Agentの論文一覧
   - [API Agents](application-papers/api-agents.md)
   - [Agentic RAG](application-papers/agentic-rag.md)
   - [Agentic AI Systems](application-papers/agentic-ai-system.md)
-  - [Multi Agents](application-papers/multi-agent.md)
+  - [Multi-Agents](application-papers/multi-agent.md)
     - [MAD](application-papers/multi-agent.md#mad)
     - [Problem Solving](application-papers/multi-agent.md#problem-solving)
     - [World Simulation](application-papers/multi-agent.md#world-simulation)

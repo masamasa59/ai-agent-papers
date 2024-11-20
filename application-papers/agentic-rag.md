@@ -6,6 +6,10 @@
 回答に必要な情報を手に入れるまで検索でき、検索して知り得た事実を元に次の検索戦略を考えます。
 
 情報検索（Information Retrieval）と親和性が高いです。
+<figure style="text-align: center;">
+    <img alt="" src="../assets/agentic_rag.png" width="500" />
+    <figcaption style="text-align: center;">引用：https://arxiv.org/abs/2410.09713</figcaption>
+</figure>
 
 #### Papers
 * [Feb 2024] **"Nissist: An Incident Mitigation Copilot based on Troubleshooting Guides"** [[paper](https://arxiv.org/abs/2402.17531)]

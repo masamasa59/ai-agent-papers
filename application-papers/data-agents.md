@@ -1,7 +1,11 @@
 ## Data Agents
 ユーザーが指示をするだけでデータを加工・集計から分析までおこない、インサイトを抽出してレポートにまとめたり、機械学習エンジニアリングまでしてくれます。
 
-コード生成をから様々な機械学習やデータ分析ライブラリを利用します。
+コード生成から様々な機械学習やデータ分析ライブラリを利用します。
+<figure style="text-align: center;">
+    <img alt="" src="../assets/data_agent.png" width="500" />
+    <figcaption style="text-align: center;">引用：https://arxiv.org/abs/2410.07331</figcaption>
+</figure>
 
 #### Papers
 * [May 2023] **"ChatGPT as your Personal Data Scientist"** [[paper](https://arxiv.org/abs/2305.13657)]

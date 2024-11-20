@@ -1,5 +1,9 @@
 ## 評価
 エージェントの持つ能力を評価する論文です。
+<figure style="text-align: center;">
+    <img alt="" src="../assets/evaluation.png" width="500" />
+    <figcaption style="text-align: center;">引用：https://arxiv.org/abs/2407.18961</figcaption>
+</figure>
 
 #### Papers
 * ⚖️ [Aug 2023] **"AgentBench: Evaluating LLMs as Agents"** [[paper](https://arxiv.org/abs/2308.03688)]

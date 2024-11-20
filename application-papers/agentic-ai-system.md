@@ -2,7 +2,19 @@
 ## Agentic AI Systems
 教育や医療、プレスなど様々な業務でエージェントによる業務効率化を目指す動きがあります。
 
-まだグループにするほどではないですが雑多にまとめています。
+まだグループにするほどではないので雑多にまとめています。
+<figure style="text-align: center;">
+    <img alt="" src="../assets/agentic_ai_system3.png" width="500" />
+    <figcaption style="text-align: center;">Recommendation Agent (引用：https://arxiv.org/abs/2407.10081)</figcaption>
+</figure>
+<figure style="text-align: center;">
+    <img alt="" src="../assets/agentic_ai_system1.png" width="500" />
+    <figcaption style="text-align: center;">EHR Agent (引用：https://arxiv.org/abs/2401.07128)</figcaption>
+</figure>
+<figure style="text-align: center;">
+    <img alt="" src="../assets/agentic_ai_system2.png" width="500" />
+    <figcaption style="text-align: center;">Press Agent (引用：https://arxiv.org/abs/2410.07561)</figcaption>
+</figure>
 
 #### Papers
 * [Jan 2024] **"EHRAgent: Code Empowers Large Language Models for Few-shot Complex Tabular Reasoning on Electronic Health Records"** [[paper](https://arxiv.org/abs/2401.07128)]

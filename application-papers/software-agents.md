@@ -2,6 +2,12 @@
 ソフトウェアを開発するエージェントです。
 
 デモを作るだけでなく、バグの発見から修正、テスト設計、要件定義までできることを目指します。
+
+<figure style="text-align: center;">
+    <img alt="" src="../assets/software-agent.png" width="500" />
+    <figcaption style="text-align: center;">引用：https://arxiv.org/abs/2409.02977</figcaption>
+</figure>
+
 #### Papers
 * ⚖️ [Oct 2023] **"SWE-bench: Can Language Models Resolve Real-World GitHub Issues?"** [[paper](https://arxiv.org/abs/2310.06770)]
 * [Feb 2024] **"OpenCodeInterpreter: Integrating Code Generation with Execution and Refinement"** [[paper](https://arxiv.org/abs/2402.14658)]
