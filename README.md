@@ -2,14 +2,17 @@
 Weekly AI Agent News!を含むAI Agentの論文一覧のリポジトリです。
 
 [Weekly AI Agents News!](https://speakerdeck.com/masatoto/weekly-ai-agents-news)  4月から2週おきに更新中！
+<figure style="text-align: center;">
+    <img alt="" src="assets/weekly_ai_agent_news.png" width="500" />
+</figure>
 
-おすすめの論文は各カテゴリで一本だけ選んで🔥 をつけています。\
-サーベイ論文は📖 をつけています。\
-ベンチマーク論文は⚖️ をつけています。
 ## News
 
 
 ## 論文カテゴリ
+おすすめの論文は各カテゴリで一本だけ選んで🔥 をつけています。\
+サーベイ論文は📖 をつけています。\
+ベンチマーク論文は⚖️ をつけています。
 - **生成AIエージェント能力**
   - [計画](capability-papers/planning.md)
   - [推論](capability-papers/inference.md)

@@ -10,7 +10,7 @@
 #### Papers
 * 📖 [Jun 2024] **"Towards Rationality in Language and Multimodal Agents: A Survey"** [[paper](https://arxiv.org/abs/2406.00252)]
 * 📖 [Feb 2024] **"LLM Multi-Agent Systems: Challenges and Open Problems"** [[paper](https://arxiv.org/abs/2402.03578)]
-* 📖 [Feb 2024] **"Large Language Model based Multi-Agents: A Survey of Progress and Challenges"** [[paper](https://arxiv.org/abs/2402.01680)]
+* 🔥 📖 [Feb 2024] **"Large Language Model based Multi-Agents: A Survey of Progress and Challenges"** [[paper](https://arxiv.org/abs/2402.01680)]
 
 ### MAD（Multi-Agent Debate）
 * [May 2023] **"Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate"** [[paper](https://arxiv.org/abs/2305.19118)]

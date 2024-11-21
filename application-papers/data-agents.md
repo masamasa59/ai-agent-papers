@@ -28,6 +28,7 @@
 * ⚖️ [Aug 2024] **"BLADE: Benchmarking Language Model Agents for Data-Driven Science"** [[paper](https://arxiv.org/abs/2408.09667)]
 * [Sep 2024] **"Using Generative Agents to Create Tip Sheets for Investigative Data Reporting"** [[paper](https://arxiv.org/abs/2409.07286)]
 * ⚖️ [Sep 2024] **"DSBench: How Far Are Data Science Agents to Becoming Data Science Experts?"** [[paper](https://arxiv.org/abs/2409.07703)]
+* 🔥 [Sep 2024] **"Data Analysis in the Era of Generative AI"** [[paper](https://arxiv.org/abs/2409.18475)]
 * [Oct 2024] **"AutoML-Agent: A Multi-Agent LLM Framework for Full-Pipeline AutoML"** [[paper](https://arxiv.org/abs/2410.02958)]
 * [Oct 2024] **"An LLM Agent for Automatic Geospatial Data Analysis"** [[paper](https://arxiv.org/abs/2410.18792)]
 * [Oct 2024] **"AutoKaggle: A Multi-Agent Framework for Autonomous Data Science Competitions"** [[paper](https://arxiv.org/abs/2410.20424)]

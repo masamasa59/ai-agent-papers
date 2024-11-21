@@ -29,4 +29,4 @@
 * [Oct 2024] **"ControlAgent: Automating Control System Design via Novel Integration of LLM Agents and Domain Expertise"** [[paper](https://arxiv.org/abs/2410.19811)]
 * [Nov 2024] **"Autonomous Industrial Control using an Agentic Framework with Large Language Models"** [[paper](https://arxiv.org/abs/2411.05904)]
 * [Nov 2024] **"Tooling or Not Tooling? The Impact of Tools on Language Agents for Chemistry Problem Solving"**[[paper](https://arxiv.org/abs/2411.07228v1)]
-* [Nov 2024] **"WorkflowLLM: Enhancing Workflow Orchestration Capability of Large Language Models"** [[paper](https://arxiv.org/abs/2411.05451)]
+* 🔥 [Nov 2024] **"WorkflowLLM: Enhancing Workflow Orchestration Capability of Large Language Models"** [[paper](https://arxiv.org/abs/2411.05451)]

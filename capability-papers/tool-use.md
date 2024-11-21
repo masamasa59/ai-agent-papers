@@ -31,7 +31,7 @@
 * [Jul 2024] **"WORLDAPIS: The World Is Worth How Many APIs? A Thought Experiment"** [[paper](https://arxiv.org/abs/2407.07778)]
 * [Jul 2024] **"Granite-Function Calling Model: Introducing Function Calling Abilities via Multi-task Learning of Granular Tasks"** [[paper](https://arxiv.org/abs/2407.00121)]
 * ⚖️ [Jul 2024] **"CIBench: Evaluating Your LLMs with a Code Interpreter Plugin"** [[paper](https://arxiv.org/abs/2407.10499)]
-* ⚖️ [Jul 2024] **"GTA: A Benchmark for General Tool Agents"** [[paper](https://arxiv.org/abs/2407.08713)]
+* 🔥 ⚖️ [Jul 2024] **"GTA: A Benchmark for General Tool Agents"** [[paper](https://arxiv.org/abs/2407.08713)]
 * [Aug 2024] **"Re-Invoke: Tool Invocation Rewriting for Zero-Shot Tool Retrieval"** [[paper](https://arxiv.org/abs/2408.01875)]
 * ⚖️ [Aug 2024] **"ToolSandbox: A Stateful, Conversational, Interactive Evaluation Benchmark for LLM Tool Use Capabilities"** [[paper](https://arxiv.org/abs/2408.04682)]
 * [Sep 2024] **"Knowledge Navigator: LLM-guided Browsing Framework for Exploratory Search in Scientific Literature"** [[paper](https://arxiv.org/abs/2408.15836)]

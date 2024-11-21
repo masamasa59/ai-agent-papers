@@ -35,7 +35,7 @@ Minecraftのキャラクタや家庭用ロボットのように体があり、�
 * 📖 [Jun 2024] **"A Survey on Vision-Language-Action Models for Embodied AI"** [[paper](https://arxiv.org/abs/2405.14093)]
 * [Jul 2024] **"ODYSSEY: Empowering Agents with Open-World Skills"** [[paper](https://arxiv.org/abs/2407.15325)]
 * [Jul 2024] **"GRUtopia: Dream General Robots in a City at Scale"** [[paper](https://arxiv.org/abs/2407.10943)]
-* 📖 [Jul 2024]  **"Vision-and-Language Navigation Today and Tomorrow: A Survey in the Era of Foundation Models"** [[paper](https://arxiv.org/abs/2407.07035)]
+* 🔥 📖 [Jul 2024]  **"Vision-and-Language Navigation Today and Tomorrow: A Survey in the Era of Foundation Models"** [[paper](https://arxiv.org/abs/2407.07035)]
 * [Aug 2024] **"Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-Horizon Tasks"** [[paper](https://arxiv.org/abs/2408.03615)]
 * [Aug 2024] **"EmBARDiment: an Embodied AI Agent for Productivity in XR"** [[paper](https://arxiv.org/abs/2408.08158)]
 * [Aug 2024] **"EAIRiskBench: Towards Evaluating Physical Risk Awareness for Task Planning of Foundation Model-based Embodied AI Agents"** [[paper](https://arxiv.org/abs/2408.04449)]

@@ -20,7 +20,7 @@
 * [Jan 2024] **"EHRAgent: Code Empowers Large Language Models for Few-shot Complex Tabular Reasoning on Electronic Health Records"** [[paper](https://arxiv.org/abs/2401.07128)]
 * [Feb 2024] **"A Human-Inspired Reading Agent with Gist Memory of Very Long Contexts"** [[paper](https://arxiv.org/abs/2402.09727)]
 * [Feb 2024] **"A Multimodal Foundation Agent for Financial Trading: Tool-Augmented, Diversified, and Generalist"** [[paper](https://arxiv.org/abs/2402.18485)]
-* 📖 [Feb 2024] **"Personal LLM Agents: Insights and Survey about the Capability, Efficiency and Security"** [[paper](https://arxiv.org/abs/2401.05459)]
+* 🔥 📖 [Feb 2024] **"Personal LLM Agents: Insights and Survey about the Capability, Efficiency and Security"** [[paper](https://arxiv.org/abs/2401.05459)]
 * [Apr 2024] **"ClinicalAgent: Clinical Trial Multi-Agent System with Large Language Model-based Reasoning"** [[paper](https://arxiv.org/abs/2404.14777)]
 * [May 2024] **"Eliciting Problem Specifications via Large Language Models"** [[paper](https://arxiv.org/abs/2405.12147)]
 * [May 2024] **"Automating the Enterprise with Foundation Models"** [[paper](https://arxiv.org/abs/2405.03710)]

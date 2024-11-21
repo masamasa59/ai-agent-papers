@@ -15,7 +15,7 @@
 * [Jun 2024] **"HUSKY: A Unified, Open-Source Language Agent for Multi-Step Reasoning"** [[paper](https://arxiv.org/abs/2406.06469)]
 * [Jun 2024] **"RE-Adapt: Reverse Engineered Adaptation of Large Language Models"** [[paper](https://arxiv.org/abs/2405.15007)]
 * 📖 [Jun 2024] **"Towards Scalable Automated Alignment of LLMs: A Survey"** [[paper](https://arxiv.org/abs/2406.01252)]
-* [Jul 2024] **"Knowledge Mechanisms in Large Language Models: A Survey and Perspective"** [[paper](https://arxiv.org/abs/2407.15017)]
+* 🔥 [Jul 2024] **"Knowledge Mechanisms in Large Language Models: A Survey and Perspective"** [[paper](https://arxiv.org/abs/2407.15017)]
 * [Jul 2024] **"The Llama 3 Herd of Models"** [[paper](https://arxiv.org/abs/2407.21783)]
 * [Oct 2024] **"Thinking LLMs: General Instruction Following with Thought Generation"** [[paper](https://arxiv.org/abs/2410.10630)]
 * [Oct 2024] **"CAMPHOR: Collaborative Agents for Multi-input Planning and High-Order Reasoning On Device"** [[paper](https://arxiv.org/abs/2410.09407)]

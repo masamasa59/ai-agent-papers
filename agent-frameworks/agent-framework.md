@@ -1,5 +1,5 @@
 # エージェントフレームワーク
-エージェントの骨格を提案する論文です。
+汎用的なエージェントの骨格を提案する論文です。
 
 シングルタイプとマルチエージェントで分けています。
 <figure style="text-align: center;">
@@ -21,13 +21,14 @@
 * [Sep 2023] **"Cognitive Architectures for Language Agents"** [[paper](https://arxiv.org/abs/2309.02427)]
 * [Oct 2023] **"OpenAgents: An Open Platform for Language Agents in the Wild"** [[paper](https://arxiv.org/abs/2310.10634)]
 * [Nov 2023] **"TaskWeaver: A Code-First Agent Framework"** [[paper](https://arxiv.org/abs/2311.17541)]
-* 📖 [Nov 2023] **"Levels of AGI for Operationalizing Progress on the Path to AGI"** [[paper](https://arxiv.org/abs/2311.02462)]
+* 🔥 📖 [Nov 2023] **"Levels of AGI for Operationalizing Progress on the Path to AGI"** [[paper](https://arxiv.org/abs/2311.02462)]
+* 🔥 📖 [Dec 2023] **"Practices for Governing Agentic AI Systems"** [[paper](https://openai.com/index/practices-for-governing-agentic-ai-systems/)]
 * 📖 [Jan 2024] **"Exploring Large Language Model based Intelligent Agents: Definitions, Methods, and Prospects"** [[paper](https://arxiv.org/abs/2401.03428)]
 * [Feb 2024] **"PreAct: Predicting Future in ReAct Enhances Agent’s Planning Ability"** [[paper](https://arxiv.org/abs/2402.11534)]
 * [Apr 2024] **"Aligning LLM Agents by Learning Latent Preference from User Edits"** [[paper](https://arxiv.org/abs/2404.15269)]
 * [Apr 2024] **"AgentKit: Flow Engineering with Graphs, not Coding"** [[paper](https://arxiv.org/abs/2404.11483)]
 * [Apr 2024] **"AI2Apps: A Visual IDE for Building LLM-based AI Agent Applications"** [[paper](https://arxiv.org/abs/2404.04902)]
-* 📖 [Apr 2024] **"AI Agent Architectures for Reasoning, Planning, and Tool Calling: A Survey"** [[paper](https://arxiv.org/abs/2404.11584)]
+* 🔥 📖 [Apr 2024] **"AI Agent Architectures for Reasoning, Planning, and Tool Calling: A Survey"** [[paper](https://arxiv.org/abs/2404.11584)]
 * [May 2024] **"AGILE: A Novel Framework of LLM Agents"** [[paper](https://arxiv.org/abs/2405.14751)]
 * 📖 [May 2024] **Agent Design Pattern Catalogue: A Collection of Architectural Patterns for Foundation Model based Agents"** [[paper](https://arxiv.org/abs/2405.10467)]
 * 📖 [May 2024] **How Far Are We From AGI?"** [[paper](https://arxiv.org/abs/2405.10313)]
@@ -65,4 +66,4 @@
 * [Apr 2024] **Deconstructing Human-AI Collaboration: Agency, Interaction, and Adaptation"** [[paper](https://arxiv.org/abs/2404.12056)]
 * [May 2024] **Human-Centered LLM-Agent User Interface: A Position Paper"** [[paper](https://arxiv.org/abs/2405.13050)]
 * [May 2024] **"Assessing and Verifying Task Utility in LLM-Powered Applications"** [[paper](https://arxiv.org/abs/2405.02178)]
-* [Nov 2024] **"A Taxonomy of AgentOps for Enabling Observability of Foundation Model based Agents"** [[paper](https://arxiv.org/abs/2411.05285)]
+* 🔥 [Nov 2024] **"A Taxonomy of AgentOps for Enabling Observability of Foundation Model based Agents"** [[paper](https://arxiv.org/abs/2411.05285)]

@@ -32,7 +32,7 @@
 * [Aug 2024] **"Can We Rely on LLM Agents to Draft Long-Horizon Plans? Let’s Take TravelPlanner as an Example"** [[paper](https://arxiv.org/abs/2408.06318)]
 * [Aug 2024] **"AgentGen: Enhancing Planning Abilities for Large Language Model based Agent via Environment and Task Generation"** [[paper](https://arxiv.org/abs/2408.00764)]
 * 📖 [Aug 2024] **"Diffusion Model for Planning: A Systematic Literature Review"** [[paper](https://arxiv.org/abs/2408.10266)]
-* [Oct 2024] **"On The Planning Abilities of OpenAI’s o1 Models: Feasibility, Optimality, and Generalizability"** [[paper](https://arxiv.org/abs/2409.19924)]
+* 🔥 [Oct 2024] **"On The Planning Abilities of OpenAI’s o1 Models: Feasibility, Optimality, and Generalizability"** [[paper](https://arxiv.org/abs/2409.19924)]
 * [Oct 2024] **"Planning in the Dark: LLM-Symbolic Planning Pipeline without Experts"** [[paper](https://arxiv.org/abs/2409.15915)]
 * [Oct 2024] **"LLMs Still Can't Plan; Can LRMs? A Preliminary Evaluation of OpenAI's o1 on PlanBench"** [[paper](https://arxiv.org/abs/2409.13373)]
 * [Oct 2024] **"Planning in Strawberry Fields: Evaluating and Improving the Planning and Scheduling Capabilities of LRM o1"** [[paper](https://arxiv.org/abs/2410.02162)]

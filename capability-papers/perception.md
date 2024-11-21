@@ -27,6 +27,7 @@
 * [Jun 2024] **CharXiv: Charting Gaps in Realistic Chart Understanding in Multimodal LLMs"** [[paper](https://arxiv.org/abs/2406.18521)]
 * ⚖️ [Nov 2024] **"M-Longdoc: A Benchmark For Multimodal Super-Long Document Understanding And A Retrieval-Aware Tuning Framework"** [[paper](https://arxiv.org/abs/2411.06176)]
 ### Movie
+* [Feb 2024] **"Video as the New Language for Real-World Decision Making"** [[paper](https://arxiv.org/abs/2402.17139)]
 * [May 2024] **"CinePile: A Long Video Question Answering Dataset and Benchmark"** [[paper](https://arxiv.org/abs/2405.08813)]
 * [May 2024] **Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis"** [[paper](https://arxiv.org/abs/2405.21075)]
 * [Jun 2024] **DrVideo: Document Retrieval Based Long Video Understanding"** [[paper](https://arxiv.org/abs/2406.12846)]

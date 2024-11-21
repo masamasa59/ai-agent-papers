@@ -21,7 +21,7 @@
 * [Aug 2024] **"Diversity Empowers Intelligence: Integrating Expertise of Software Engineering Agents"** [[paper](https://arxiv.org/abs/2408.07060)]
 * 📖 [Aug 2024] **"From LLMs to LLM-based Agents for Software Engineering: A Survey of Current, Challenges and Future"** [[paper](https://arxiv.org/abs/2408.02479)]
 * 📖 [Sep 2024] **"Agents in Software Engineering: Survey, Landscape, and Vision"** [[paper](https://arxiv.org/abs/2409.09030)]
-* 📖 [Sep 2024] **"Large Language Model-Based Agents for Software Engineering: A Survey"** [[paper](https://arxiv.org/abs/2409.02977)]
+* 🔥 📖 [Sep 2024] **"Large Language Model-Based Agents for Software Engineering: A Survey"** [[paper](https://arxiv.org/abs/2409.02977)]
 * [Oct 2024] **"HyperAgent: Generalist Software Engineering Agents to Solve Coding Tasks at Scale"** [[paper](https://arxiv.org/abs/2409.16299)]
 * ⚖️ [Oct 2024] **"SWE-Bench+: Enhanced Coding Benchmark for LLMs"** [[paper](https://arxiv.org/abs/2410.06992)]
 * [Nov 2024] **"Lingma SWE-GPT: An Open Development-Process-Centric Language Model for Automated Software Improvement"** [[paper](https://arxiv.org/abs/2411.00622)]

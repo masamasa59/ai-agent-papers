@@ -21,7 +21,7 @@
 * 📖 [Jun 2024] **"When Can LLMs Actually Correct Their Own Mistakes? A Critical Survey of Self-Correction of LLMs"** [[paper](https://arxiv.org/abs/2406.01297)]
 * [Jul 2024] **"Direct-Inverse Prompting: Analyzing LLMs’ Discriminative Capacity in Self-Improving Generation"** [[paper](https://arxiv.org/abs/2407.11017)]
 * 📖 [Aug 2024] **"Internal Consistency and Self-Feedback in Large Language Models: A Survey"** [[paper](https://arxiv.org/abs/2407.14507)]
-* ⚖️ [Oct 2024] **"Reflection-Bench: Probing AI Intelligence with Reflection"** [[paper](https://arxiv.org/abs/2410.16270)]
+* 🔥 ⚖️ [Oct 2024] **"Reflection-Bench: Probing AI Intelligence with Reflection"** [[paper](https://arxiv.org/abs/2410.16270)]
 * [Sep 2024] **"CoT Rerailer: Enhancing the Reliability of Large Language Models in Complex Reasoning Tasks through Error Detection and Correction"** [[paper](https://arxiv.org/abs/2408.13940)]
 * [Sep 2024] **"An Empirical Study on Self-correcting Large Language Models for Data Science Code Generation"** [[paper](https://arxiv.org/abs/2408.15658)]
 * [Oct 2024] **"Retrieving, Rethinking and Revising: The Chain-of-Verification Can Improve Retrieval Augmented Generation"** [[paper](https://arxiv.org/abs/2410.05801)]

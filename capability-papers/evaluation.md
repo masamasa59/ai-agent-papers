@@ -18,7 +18,7 @@
 * ⚖️ [Jun 2024] **"The BiGGen Bench: A Principled Benchmark for Fine-grained Evaluation of Language Models with Language Models"** [[paper](https://arxiv.org/abs/2406.05761)]
 * 📖 [Jun 2024] **"A Survey of Useful LLM Evaluation"** [[paper](https://arxiv.org/abs/2406.00936)]
 * [Jul 2024] **"AI Agents That Matter"** [[paper](https://arxiv.org/abs/2407.01502)]
-* ⚖️ [Jul 2024] **"MMAU: A Holistic Benchmark of Agent Capabilities Across Diverse Domains"** [[paper](https://arxiv.org/abs/2407.18961)]
+* 🔥 ⚖️ [Jul 2024] **"MMAU: A Holistic Benchmark of Agent Capabilities Across Diverse Domains"** [[paper](https://arxiv.org/abs/2407.18961)]
 * ⚖️ [Aug 2024] **"VisualAgentBench: Towards Large Multimodal Models as Visual Foundation Agents"** [[paper](https://arxiv.org/abs/2408.06327)]
 * 📖 [Aug 2024] **"A Survey on Evaluation of Multimodal Large Language Models"** [[paper](https://arxiv.org/abs/2408.15769)]
 * ⚖️ [Sep 2024] **"Evaluation of OpenAI o1: Opportunities and Challenges of AGI"** [[paper](https://arxiv.org/abs/2409.18486)]

@@ -19,7 +19,7 @@
 * [Jun 2024] **"LLMs Assist NLP Researchers: Critique Paper (Meta-)Reviewing"** [[paper](https://arxiv.org/abs/2406.16253)]
 * [Jul 2024] **"AgentInstruct: Toward Generative Teaching with Agentic Flows"** [[paper](https://arxiv.org/abs/2407.03502)]
 * [Jul 2024] **"Collaborative Evolving Strategy for Automatic Data-Centric Development"** [[paper](https://arxiv.org/abs/2407.18690)]
-* [Aug 2024] **"The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery"** [[paper](https://arxiv.org/abs/2408.06292)]
+* 🔥 [Aug 2024] **"The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery"** [[paper](https://arxiv.org/abs/2408.06292)]
 * [Aug 2024] **"MLR-Copilot: Autonomous Machine Learning Research Based on Large Language Model Agents"** [[paper](https://arxiv.org/abs/2408.14033)]
 * [Sep 2024] **"Can LLMs Generate Novel Research Ideas? A Large-Scale Human Study with 100+ NLP Researchers"** [[paper](https://arxiv.org/abs/2409.04109)]
 * [Sep 2024] **"SciAgents: Automating Scientific Discovery through Multi-Agent Intelligent Graph Reasoning"** [[paper](https://arxiv.org/abs/2409.05556)]

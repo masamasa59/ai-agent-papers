@@ -34,7 +34,7 @@
 * [Aug 2024] **"Mutual Reasoning Makes Smaller LLMs Stronger Problem-Solvers"** [[paper](https://arxiv.org/abs/2408.06195)]
 * [Aug 2024] **"To Code, or Not To Code? Exploring Impact of Code in Pre-training"** [[paper](https://arxiv.org/abs/2408.10914)]
 * ⚖️ [Sep 2024] **"LOGICGAME: Benchmarking Rule-Based Reasoning Abilities of Large Language Models"** [[paper](https://arxiv.org/abs/2408.15778)]
-* [Sep 2024] **"To CoT or not to CoT? Chain-of-thought helps mainly on math and symbolic reasoning"** [[paper](https://arxiv.org/abs/2409.12183)]
+* 🔥 [Sep 2024] **"To CoT or not to CoT? Chain-of-thought helps mainly on math and symbolic reasoning"** [[paper](https://arxiv.org/abs/2409.12183)]
 * [Sep 2024] **"Iteration of Thought: Leveraging Inner Dialogue for Autonomous Large Language Model Reasoning"** [[paper](https://arxiv.org/abs/2409.12618)]
 * [Sep 2024] **"Improving LLM Reasoning with Multi-Agent Tree-of-Thought Validator Agent"** [[paper](https://arxiv.org/abs/2409.11527)]
 * [Sep 2024] **"MAgICoRe: Multi-Agent, Iterative, Coarse-to-Fine Refinement for Reasoning"** [[paper](https://arxiv.org/abs/2409.12147)]
