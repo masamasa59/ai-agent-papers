@@ -7,7 +7,7 @@ Weekly AI Agent News!を含むAI Agentの論文一覧のリポジトリです。
 </figure>
 
 ## News
-
+- 11/21(木) 管理スタート！
 
 ## 論文カテゴリ
 おすすめの論文は各カテゴリで🔥 をつけています。\
@@ -43,7 +43,7 @@ Weekly AI Agent News!を含むAI Agentの論文一覧のリポジトリです。
     - [MAD](application-papers/multi-agent.md#mad)
     - [Problem Solving](application-papers/multi-agent.md#problem-solving)
     - [World Simulation](application-papers/multi-agent.md#world-simulation)
-- **生成AIエージェントの講義**
+- **生成AIエージェントの発表資料**
   - [Tutorial & Lecture](lectures/tutorial-lecture.md)
 
 ## Weekly AI Agent News アーカイブ
