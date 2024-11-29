@@ -27,3 +27,4 @@
 * [Oct 2024] **"Retrieving, Rethinking and Revising: The Chain-of-Verification Can Improve Retrieval Augmented Generation"** [[paper](https://arxiv.org/abs/2410.05801)]
 * [Oct 2024] **"Agent-as-a-Judge: Evaluate Agents with Agents"** [[paper](https://arxiv.org/abs/2410.10934)]
 * [Oct 2024] **"LLM Self-Correction with DeCRIM: Decompose, Critique, and Refine for Enhanced Following of Instructions with Multiple Constraints"** [[paper](https://arxiv.org/abs/2410.06458)]
+* [Nov 2024] **"From Generation to Judgment: Opportunities and Challenges of LLM-as-a-judge"** [[paper](https://arxiv.org/abs/2411.16594)]

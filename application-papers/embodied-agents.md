@@ -44,3 +44,5 @@ Minecraftのキャラクタや家庭用ロボットのように体があり、�
 * ⚖️ [Oct 2024] **"PARTNR: A Benchmark for Planning and Reasoning in Embodied Multi-agent Tasks"** [[paper](https://arxiv.org/abs/2411.00081)]
 * [Nov 2024] **"Mr.Steve: Instruction-Following Agents in Minecraft with What-Where-When Memory"** [[paper](https://arxiv.org/abs/2411.06736)]
 * [Nov 2024] **"CaPo: Cooperative Plan Optimization for Efficient Embodied Multi-Agent Cooperation"** [[paper](https://arxiv.org/abs/2411.04679v1)]
+* [Nov 2024] **"MindForge: Empowering Embodied Agents with Theory of Mind for Lifelong Collaborative Learning"** [[paper](https://arxiv.org/abs/2411.12977)]
+* ⚖️ [Nov 2024] **"BALROG: Benchmarking Agentic LLM and VLM Reasoning On Games"** [[paper](https://arxiv.org/abs/2411.13543)]

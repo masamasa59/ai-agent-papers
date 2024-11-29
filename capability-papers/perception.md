@@ -17,6 +17,8 @@
 * [Jun 2024] **Hello Again! LLM-powered Personalized Agent for Long-term Dialogue"** [[paper](https://arxiv.org/abs/2406.05925)]
 * [Jul 2024] **Summary of a Haystack: A Challenge to Long-Context LLMs and RAG Systems"** [[paper](https://arxiv.org/abs/2407.01370)]
 * [Nov 2024] **"Needle Threading: Can LLMs Follow Threads through Near-Million-Scale Haystacks?"** [[paper](https://arxiv.org/abs/2411.05000)]
+* [Nov 2024] **"IntentGPT: Few-shot Intent Discovery with Large Language Models"** [[paper](https://arxiv.org/abs/2411.10670)]
+
 ### Image
 * ⚖️ [Feb 2024] **"PCA-Bench: Evaluating Multimodal Large Language Models in Perception-Cognition-Action Chain"** [[paper](https://arxiv.org/abs/2402.15527)]
 * [Feb 2024] **"L3GO: Language Agents with Chain-of-3D-Thoughts for Generating Unconventional Objects"** [[paper](https://arxiv.org/abs/2402.09052)]
@@ -26,6 +28,7 @@
 * [Jun 2024] **Multimodal Needle in a Haystack: Benchmarking Long-Context Capability of Multimodal Large Language Models"** [[paper](https://arxiv.org/abs/2406.11230)]
 * [Jun 2024] **CharXiv: Charting Gaps in Realistic Chart Understanding in Multimodal LLMs"** [[paper](https://arxiv.org/abs/2406.18521)]
 * ⚖️ [Nov 2024] **"M-Longdoc: A Benchmark For Multimodal Super-Long Document Understanding And A Retrieval-Aware Tuning Framework"** [[paper](https://arxiv.org/abs/2411.06176)]
+
 ### Movie
 * [Feb 2024] **"Video as the New Language for Real-World Decision Making"** [[paper](https://arxiv.org/abs/2402.17139)]
 * [May 2024] **"CinePile: A Long Video Question Answering Dataset and Benchmark"** [[paper](https://arxiv.org/abs/2405.08813)]

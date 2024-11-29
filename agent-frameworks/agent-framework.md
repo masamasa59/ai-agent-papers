@@ -14,8 +14,6 @@
 * 📖 [Aug 2023] **"A Survey on Large Language Model based Autonomous Agents"** [[paper](https://arxiv.org/abs/2308.11432)]
 * [Sep 2023] **"Agents: An Open-source Framework for Autonomous Language Agents"** [[paper](https://arxiv.org/abs/2309.07870)]
 * [Sep 2023] **"AutoAgents: A Framework for Automatic Agent Generation"** [[paper](https://arxiv.org/abs/2309.17288)]
-* [Sep 2023] **"xLAM: A Family of Large Action Models to Empower AI Agent Systems"** [[paper](https://arxiv.org/abs/2409.03215)]
-* [Sep 2023] **"Cognitive Kernel: An Open-source Agent System towards Generalist Autopilots"** [[paper](https://arxiv.org/abs/2409.10277)]
 * 📖 [Sep 2023] **"An In-depth Survey of Large Language Model-based Artificial Intelligence Agents"** [[paper](https://arxiv.org/abs/2309.14365)]
 * 📖 [Sep 2023] **"The Rise and Potential of Large Language Model Based Agents: A Survey"** [[paper](https://arxiv.org/abs/2309.07864)]
 * [Sep 2023] **"Cognitive Architectures for Language Agents"** [[paper](https://arxiv.org/abs/2309.02427)]
@@ -42,6 +40,8 @@
 * [Aug 2024] **"Automated Design of Agentic Systems"** [[paper](https://arxiv.org/abs/2408.08435)]
 * [Aug 2024] **"Coalitions of Large Language Models Increase the Robustness of AI Agents"** [[paper](https://arxiv.org/abs/2408.01380)]
 * 📖 [Aug 2024] **"Building Machines that Learn and Think with People"** [[paper](https://arxiv.org/abs/2408.03943)]
+* [Sep 2024] **"xLAM: A Family of Large Action Models to Empower AI Agent Systems"** [[paper](https://arxiv.org/abs/2409.03215)]
+* [Sep 2024] **"Cognitive Kernel: An Open-source Agent System towards Generalist Autopilots"** [[paper](https://arxiv.org/abs/2409.10277)]
 * [Oct 2024] **"PRACT: Optimizing Principled Reasoning and Acting of LLM Agent"** [[paper](https://arxiv.org/abs/2410.18528)]
 * [Oct 2024] **"AgentSquare: Automatic LLM Agent Search in Modular Design Space"** [[paper](https://arxiv.org/abs/2410.06153)]
 * [Oct 2024] **"AFlow: Automating Agentic Workflow Generation"** [[paper](https://arxiv.org/abs/2410.10762)]
@@ -49,7 +49,11 @@
 * [Oct 2024] **"Agents Thinking Fast and Slow: A Talker-Reasoner Architecture"** [[paper](https://arxiv.org/abs/2410.08328)]
 * [Oct 2024] **"MOSS: Enabling Code-Driven Evolution and Context Management for AI Agents"** [[paper](https://arxiv.org/abs/2409.16120)]
 * [Oct 2024] **"Asynchronous Tool Usage for Real-Time Agents"** [[paper](https://arxiv.org/abs/2410.21620)]
+* [Oct 2024] **"VipAct: Visual-Perception Enhancement via Specialized VLM Agent Collaboration and Tool-use"** [[paper](https://arxiv.org/abs/2410.16400)]
 * [Nov 2024] **"Infant Agent: A Tool-Integrated, Logic-Driven Agent with Cost-Effective API Usage"** [[paper](https://arxiv.org/abs/2411.01114)]
+* [Nov 2024] **"Metacognition for Unknown Situations and Environments (MUSE)"** [[paper](https://arxiv.org/abs/2411.13537)]
+* [Nov 2024] **"Aligning Generalisation Between Humans and Machines"** [[paper](https://arxiv.org/abs/2411.15626)]
+
 
 ## マルチエージェント
 * [Mar 2023] **"CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society"** [[paper](https://arxiv.org/abs/2303.17760)]
@@ -67,3 +71,4 @@
 * [May 2024] **Human-Centered LLM-Agent User Interface: A Position Paper"** [[paper](https://arxiv.org/abs/2405.13050)]
 * [May 2024] **"Assessing and Verifying Task Utility in LLM-Powered Applications"** [[paper](https://arxiv.org/abs/2405.02178)]
 * 🔥 [Nov 2024] **"A Taxonomy of AgentOps for Enabling Observability of Foundation Model based Agents"** [[paper](https://arxiv.org/abs/2411.05285)]
+* [Nov 2024] **"An Evaluation-Driven Approach to Designing LLM Agents: Process and Architecture"** [[paper](https://arxiv.org/abs/2411.15626)]

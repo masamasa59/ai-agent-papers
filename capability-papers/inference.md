@@ -41,4 +41,5 @@
 * [Oct 2024] **"Inference Scaling for Long-Context Retrieval Augmented Generation"** [[paper](https://arxiv.org/abs/2410.04343)]
 * [Oct 2024] **"Steering Large Language Models between Code Execution and Textual Reasoning"** [[paper](https://arxiv.org/abs/2410.03524)]
 * ⚖️ [Oct 2024] **"MARPLE: A Benchmark for Long-Horizon Inference"** [[paper](https://arxiv.org/abs/2410.01926)]
-* [Nov 2024]**"Imagining and building wise machines: The centrality of AI metacognition"** [[paper](https://arxiv.org/abs/2411.02478)]
+* [Nov 2024] **"Imagining and building wise machines: The centrality of AI metacognition"** [[paper](https://arxiv.org/abs/2411.02478)]
+* [Nov 2024] **"LLaVA-CoT: Let Vision Language Models Reason Step-by-Step"** [[paper](https://arxiv.org/abs/2411.10440)]

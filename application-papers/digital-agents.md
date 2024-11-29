@@ -8,7 +8,7 @@
 </figure>
 
 
-### Computer Controlled (App Based) Agents
+### Computer (App) Agents
 * [Nov 2023] **"ProAgent: From Robotic Process Automation to Agentic Process Automation"** [[paper](https://arxiv.org/abs/2311.10751)]
 * [Feb 2024] **"Ufo: A UI-Focused Agent for Windows OS Interaction."** [[paper](https://arxiv.org/abs/2402.07939)]
 * [Feb 2024] **"Os-copilot: Towards Generalist Computer Agents with Self-Improvement."** [[paper](https://arxiv.org/abs/2402.07456)]
@@ -23,9 +23,15 @@
 * [Oct 2024] **"OS-ATLAS: A Foundation Action Model for Generalist GUI Agents"** [[paper](https://arxiv.org/abs/2410.23218)]
 * ⚖️ [Nov 2024] **"CRMArena: Understanding the Capacity of LLM Agents to Perform Professional CRM Tasks in Realistic Environments"** [[paper](https://arxiv.org/abs/2411.02305)]
 * 📖 [Nov 2024] **"GUI Agents with Foundation Models: A Comprehensive Survey"** [[paper](https://arxiv.org/abs/2411.04890v1)]
+* [Nov 2024] **"The Dawn of GUI Agent: A Preliminary Case Study with Claude 3.5 Computer Use"** [[paper](https://arxiv.org/abs/2411.10323)]
+* [Nov 2024] **"ShowUI: One Vision-Language-Action Model for GUI Visual Agent"** [[paper](https://arxiv.org/abs/2411.17465)]
+* 🔥 📖 [Nov 2024] **"Large Language Model-Brained GUI Agents: A Survey"** [[paper](https://arxiv.org/abs/2411.18279)]
 
 
-### Web Based Agents
+
+
+
+### Web Agents
 * ⚖️ [Jul 2022] **"WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents"** [[paper](https://arxiv.org/abs/2207.01206)]
 * [Jun 2023] **"Mind2Web: Towards a Generalist Agent for the Web"** [[paper](https://arxiv.org/abs/2306.06070)]
 * ⚖️ [Jul 2023] **"WebArena: A Realistic Web Environment for Building Autonomous Agents"** [[paper](https://arxiv.org/abs/2307.13854)]
@@ -55,7 +61,7 @@
 * [Oct 2024] **"Beyond Browsing: API-Based Web Agents"** [[paper](https://arxiv.org/abs/2410.16464)]
 
 
-### Mobile Based Agents
+### Mobile Agents
 * [Aug 2023] **"AutoDroid: LLM-powered Task Automation in Android"** [[paper](https://arxiv.org/abs/2308.15272)]
 * [Nov 2023] **"Gpt-4v in wonderland: Large multimodal models for zero-shot smartphone gui navigation"** [[paper](https://arxiv.org/abs/2311.07562)]
 * [Dec 2023] **"AppAgent: Multimodal Agents as Smartphone Users"** [[paper](https://arxiv.org/abs/2312.13771)]

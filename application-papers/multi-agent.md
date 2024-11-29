@@ -83,3 +83,4 @@
 * [Sep 2024] **"Focus Agent: LLM-Powered Virtual Focus Group"** [[paper](https://arxiv.org/abs/2409.01907)]
 * [Oct 2024] **"GenSim: A General Social Simulation Platform with Large Language Model Based Agents"** [[paper](https://arxiv.org/abs/2410.04360)]
 * [Nov 2024] **"Project Sid: Many-agent simulations toward AI civilization"** [[paper](https://arxiv.org/abs/2411.00114)]
+* [Nov 2024] **"OASIS: Open Agents Social Interaction Simulations on One Million Agents"** [[paper](https://arxiv.org/abs/2411.11581)]

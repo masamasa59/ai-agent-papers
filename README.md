@@ -1,4 +1,4 @@
-# AI Agent Papers
+# GenAI Agents Papers
 Weekly AI Agent News!を含むAI Agentの論文一覧のリポジトリです。
 
 [Weekly AI Agents News!](https://speakerdeck.com/masatoto/weekly-ai-agents-news)  4月から2週おきに更新中！
@@ -6,6 +6,9 @@ Weekly AI Agent News!を含むAI Agentの論文一覧のリポジトリです。
     <img alt="" src="assets/weekly_ai_agent_news.png" width="500" />
 </figure>
 
+## GenAI Agents とは
+生成AIエージェントは、LLMやLMMのマルチモーダル理解、対話、推論能力を活用して、目標に向けて環境と作用しながらタスクをこなす知能システムです。知能は人間の知能をモデル化したものを指します。初期の知能は記号で表現し、次第にルールベースや学習モデルに移り変わり、今はLLMなどの大規模な生成モデルに相当します。大規模な生成モデルを使ったエージェントを生成AIエージェントと呼ぶことにします。\
+環境は生成AIエージェントが行動で働きかけ、その結果を観察する場所でデジタル空間や物理空間を指します。APIやコード経由でインタラクションします。
 ## News
 - 11/21(木) 管理スタート！
 
@@ -24,7 +27,7 @@ Weekly AI Agent News!を含むAI Agentの論文一覧のリポジトリです。
   - [メモリ](capability-papers/memory.md)
   - [自己進化](capability-papers/memory.md/#自己進化)
   - [安全性](capability-papers/safty.md)
-- **エージェントアーキテクチャ**
+- **生成AIエージェントのアーキテクチャ**
   - [Single Agent workflows](agent-frameworks/agent-framework.md#シングルエージェント)
   - [Multi Agent workflows](agent-frameworks/agent-framework.md#マルチエージェント)
 - **生成AIエージェント応用**

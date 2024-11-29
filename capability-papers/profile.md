@@ -22,4 +22,5 @@
 * 📖 [Jul 2024] **"The Oscars of AI Theater: A Survey on Role-Playing with Language Models"** [[paper](https://arxiv.org/abs/2407.11484)]
 * ⚖️ [Oct 2024] **"AgentSense: Benchmarking Social Intelligence of Language Agents through Interactive Scenarios"** [[paper](https://arxiv.org/abs/2410.19346)]
 * [Sep 2024] **"PingPong: A Benchmark for Role-Playing Language Models with User Emulation and Multi-Model Evaluation"** [[paper](https://arxiv.org/abs/2409.06820)]
-* [Oct 2024] **"Multi-expert Prompting Improves Reliability, Safety and Usefulness of Large Language Models"** [[paper](https://arxiv.org/abs/2411.00492)]
+* [Nov 2024] **"Multi-expert Prompting Improves Reliability, Safety and Usefulness of Large Language Models"** [[paper](https://arxiv.org/abs/2411.00492)]
+* [Nov 2024] **"Generative Agent Simulations of 1,000 People"** [[paper](https://arxiv.org/abs/2411.10109)]

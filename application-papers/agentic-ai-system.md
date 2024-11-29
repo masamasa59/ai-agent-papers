@@ -41,3 +41,7 @@
 * [Oct 2024] **"Agents' Room: Narrative Generation through Multi-step Collaboration"** [[paper](https://arxiv.org/abs/2410.02603)]
 * [Nov 2024] **"CRMArena: Understanding the Capacity of LLM Agents to Perform Professional CRM Tasks in Realistic Environments"** [[paper](https://arxiv.org/abs/2411.02305)]
 * [Nov 2024] **"Enhancing Cluster Resilience: LLM-agent Based Autonomous Intelligent Cluster Diagnosis System and Evaluation Framework"** [[paper](https://arxiv.org/abs/2411.05349)]
+* [Nov 2024] **"Enhancing LLMs for Power System Simulations: A Feedback-driven Multi-agent Framework"** [[paper](https://arxiv.org/abs/2411.16707)]
+* [Nov 2024] **"Towards Next-Generation Medical Agent: How o1 is Reshaping Decision-Making in Medical Scenarios"** [[paper](https://arxiv.org/abs/2411.14461)]
+
+

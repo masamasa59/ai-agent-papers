@@ -29,3 +29,4 @@
 * ⚖️ [Oct 2024] **"Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents"** [[paper](https://arxiv.org/abs/2410.02644)]
 * 📖 [Nov 2024] **"World Models: The Safety Perspective"** [[paper](https://arxiv.org/abs/2411.07690)]
 * 🔥 📖 [Nov 2024] **"Navigating the Risks: A Survey of Security, Privacy, and Ethics Threats in LLM-Based Agents"** [[paper](https://arxiv.org/abs/2411.09523)]
+* [Nov 2024] **"Attacking Vision-Language Computer Agents via Pop-ups"** [[paper](https://arxiv.org/abs/2411.02391)]

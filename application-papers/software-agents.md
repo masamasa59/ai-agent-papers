@@ -25,4 +25,8 @@
 * [Oct 2024] **"HyperAgent: Generalist Software Engineering Agents to Solve Coding Tasks at Scale"** [[paper](https://arxiv.org/abs/2409.16299)]
 * ⚖️ [Oct 2024] **"SWE-Bench+: Enhanced Coding Benchmark for LLMs"** [[paper](https://arxiv.org/abs/2410.06992)]
 * [Nov 2024] **"Lingma SWE-GPT: An Open Development-Process-Centric Language Model for Automated Software Improvement"** [[paper](https://arxiv.org/abs/2411.00622)]
+* [Nov 2024] **"Human-In-the-Loop Software Development Agents"** [[paper](https://arxiv.org/abs/2411.12924)]
 * 📖 [Nov 2024] **"A Comprehensive Survey of AI-Driven Advancements and Techniques in Automated Program Repair and Code Generation"** [[paper](https://arxiv.org/abs/2411.07586)]
+* 📖 [Nov 2024] **"An Empirical Study on LLM-based Agents for Automated Bug Fixing"** [[paper](https://arxiv.org/abs/2411.10213)]
+
+
