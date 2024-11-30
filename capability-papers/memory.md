@@ -29,7 +29,7 @@
 * [Jun 2024] **"Symbolic Learning Enables Self-Evolving Agents"** [[paper](https://arxiv.org/abs/2406.18532)]
 * [Jun 2024] **"EVOAGENT: Towards Automatic Multi-Agent Generation via Evolutionary Algorithms"** [[paper](https://arxiv.org/abs/2406.14228)]
 * ⚖️ [Jun 2024] **"AgentGym: Evolving Large Language Model-based Agents across Diverse Environments."** [[paper](https://arxiv.org/abs/2406.04151)]
-* 📖 [Jul 2024] **"AutoFlow: Automated Workflow Generation for Large Language Model Agents"** [[paper](https://arxiv.org/abs/2407.12821)]
+* [Jul 2024] **"AutoFlow: Automated Workflow Generation for Large Language Model Agents"** [[paper](https://arxiv.org/abs/2407.12821)]
 * 🔥 [Aug 2024] **"Automated Design of Agentic Systems"** [[paper](https://arxiv.org/abs/2408.08435)]
 * [Oct 2024] **"AgentSquare: Automatic LLM Agent Search in Modular Design Space"** [[paper](https://arxiv.org/abs/2410.06153)]
 * [Oct 2024] **"AFlow: Automating Agentic Workflow Generation"** [[paper](https://arxiv.org/abs/2410.10762)]

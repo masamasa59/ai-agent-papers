@@ -7,9 +7,10 @@ Weekly AI Agent News!を含むAI Agentの論文一覧のリポジトリです。
 </figure>
 
 ## GenAI Agents とは
-生成AIエージェントは、LLMやLMMのマルチモーダル理解、対話、推論能力を活用して、目標に向けて環境と作用しながらタスクをこなす知能システムです。知能は人間の知能をモデル化したものを指します。初期の知能は記号で表現し、次第にルールベースや学習モデルに移り変わり、今はLLMなどの大規模な生成モデルに相当します。大規模な生成モデルを使ったエージェントを生成AIエージェントと呼ぶことにします。\
-環境は生成AIエージェントが行動で働きかけ、その結果を観察する場所でデジタル空間や物理空間を指します。APIやコード経由でインタラクションします。
+生成AIエージェントは、LLMやLMMのマルチモーダル理解、対話、推論能力を活用して、目標に向けて環境と作用しながらタスクをこなす知能（インテリジェント）システムです。知能は人間の知能をモデル化したものを指します。初期の知能は記号で表現し、次第にルールベースや学習モデルに移り変わり、今はLLMなどの大規模な生成モデルに相当します。大規模な生成モデルを使ったエージェントを生成AIエージェントと呼ぶことにします。\
+環境は生成AIエージェントが行動で働きかけ、その結果を観察する場所でデジタル空間や物理空間を指します。APIやコード経由で環境とインタラクションします。
 ## News
+- 11/30(土) 2024年11月分更新
 - 11/21(木) 管理スタート！
 
 ## 論文カテゴリ
@@ -51,6 +52,7 @@ Weekly AI Agent News!を含むAI Agentの論文一覧のリポジトリです。
 
 ## Weekly AI Agent News アーカイブ
 - 論文編
+  - [24年11月号 slide](https://speakerdeck.com/masatoto/weekly-ai-agents-news-11yue-hao-lun-wen-noakaibu)
   - [24年10月号 slide](https://speakerdeck.com/masatoto/weekly-ai-agents-news-10yue-hao-lun-wen-noakaibu)
   - [24年9月号 slide](https://speakerdeck.com/masatoto/weekly-ai-agents-news-9yue-hao-lun-wen-noakaibu)
   - [24年8月号 slide](https://speakerdeck.com/masatoto/weekly-ai-agents-news-8yue-hao-lun-wen-noakaibu)
@@ -60,6 +62,7 @@ Weekly AI Agent News!を含むAI Agentの論文一覧のリポジトリです。
   - [24年4月号 slide](https://speakerdeck.com/masatoto/weekly-ai-agents-news-4yue-hao-lun-wen-bian)
 
 - プロダクトニュース編
+  - [24年11月号 slide](https://speakerdeck.com/masatoto/niyusunoakaibu-72e85e5c-6d2a-424a-9160-52585fc0acd3)
   - [24年10月号 slide](https://speakerdeck.com/masatoto/niyusunoakaibu-94f81b94-54dd-43cb-90ac-789ce7156ef6)
   - [24年9月号 slide](https://speakerdeck.com/masatoto/niyusunoakaibu-70bc4f4a-f282-4316-b91d-5430f893fb8b)
   - [24年8月号 slide](https://speakerdeck.com/masatoto/niyusunoakaibu-817ce051-150e-41ed-bf3f-568b06442f34)

@@ -23,7 +23,6 @@
 * 🔥 📖 [Feb 2024] **"Personal LLM Agents: Insights and Survey about the Capability, Efficiency and Security"** [[paper](https://arxiv.org/abs/2401.05459)]
 * [Apr 2024] **"ClinicalAgent: Clinical Trial Multi-Agent System with Large Language Model-based Reasoning"** [[paper](https://arxiv.org/abs/2404.14777)]
 * [May 2024] **"Eliciting Problem Specifications via Large Language Models"** [[paper](https://arxiv.org/abs/2405.12147)]
-* [May 2024] **"Automating the Enterprise with Foundation Models"** [[paper](https://arxiv.org/abs/2405.03710)]
 * [Jul 2024] **"Revolutionizing Bridge Operation and Maintenance with LLM-based Agents: An Overview of Applications and Insights"** [[paper](https://arxiv.org/abs/2407.10064)]
 * [Jul 2024] **"AgentInstruct: Toward Generative Teaching with Agentic Flows"** [[paper](https://arxiv.org/abs/2407.03502)]
 * [Jul 2024] **"MMedAgent: Learning to Use Medical Tools with Multi-modal Agent"** [[paper](https://arxiv.org/abs/2407.02483)]
