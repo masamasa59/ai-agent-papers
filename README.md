@@ -19,7 +19,7 @@ Weekly AI Agent News!を含むAI Agentの論文一覧のリポジトリです。
 ベンチマーク論文は⚖️ をつけています。
 - **生成AIエージェント能力**
   - [計画](capability-papers/planning.md)
-  - [推論](capability-papers/inference.md)
+  - [推論](capability-papers/reasoning.md)
   - [プロフィール](capability-papers/profile.md)
   - [知覚](capability-papers/perception.md)
   - [ツール利用](capability-papers/tool-use.md)

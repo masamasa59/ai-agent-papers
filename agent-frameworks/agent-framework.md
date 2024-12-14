@@ -53,7 +53,7 @@
 * [Nov 2024] **"Infant Agent: A Tool-Integrated, Logic-Driven Agent with Cost-Effective API Usage"** [[paper](https://arxiv.org/abs/2411.01114)]
 * [Nov 2024] **"Metacognition for Unknown Situations and Environments (MUSE)"** [[paper](https://arxiv.org/abs/2411.13537)]
 * [Nov 2024] **"Aligning Generalisation Between Humans and Machines"** [[paper](https://arxiv.org/abs/2411.15626)]
-
+* [Dec 2024] **"Practical Considerations for Agentic LLM Systems"** [[paper](https://arxiv.org/abs/2412.04093)]
 
 ## マルチエージェント
 * [Mar 2023] **"CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society"** [[paper](https://arxiv.org/abs/2303.17760)]
@@ -65,10 +65,12 @@
 * [Aug 2024] **"MegaAgent: A Practical Framework for Autonomous Cooperation in Large-Scale LLM Agent Systems"** [[paper](https://arxiv.org/abs/2408.09955)]
 * [Nov 2024] **"Magentic-One: A Generalist Multi-Agent System for Solving Complex Tasks"** [[paper](https://arxiv.org/abs/2411.04468)]
 
-# Agent Ops
+# Agent Ops &UX
 * [Feb 2024] **"Towards better Human-Agent Alignment: Assessing Task Utility in LLM-Powered Applications"** [[paper](https://arxiv.org/abs/2402.09015)]
 * [Apr 2024] **Deconstructing Human-AI Collaboration: Agency, Interaction, and Adaptation"** [[paper](https://arxiv.org/abs/2404.12056)]
 * [May 2024] **Human-Centered LLM-Agent User Interface: A Position Paper"** [[paper](https://arxiv.org/abs/2405.13050)]
 * [May 2024] **"Assessing and Verifying Task Utility in LLM-Powered Applications"** [[paper](https://arxiv.org/abs/2405.02178)]
 * 🔥 [Nov 2024] **"A Taxonomy of AgentOps for Enabling Observability of Foundation Model based Agents"** [[paper](https://arxiv.org/abs/2411.05285)]
 * [Nov 2024] **"An Evaluation-Driven Approach to Designing LLM Agents: Process and Architecture"** [[paper](https://arxiv.org/abs/2411.15626)]
+* 🔥 [Dec 2024] **"Challenges in Human-Agent Communication"** [[paper](https://www.microsoft.com/en-us/research/publication/human-agent-interaction-challenges/)]
+* [Dec 2024] **"Specifications: The missing link to making the development of LLM systems an engineering discipline"** [[paper](https://arxiv.org/abs/2412.05299)]

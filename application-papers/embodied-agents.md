@@ -46,3 +46,5 @@ Minecraftのキャラクタや家庭用ロボットのように体があり、�
 * [Nov 2024] **"CaPo: Cooperative Plan Optimization for Efficient Embodied Multi-Agent Cooperation"** [[paper](https://arxiv.org/abs/2411.04679v1)]
 * [Nov 2024] **"MindForge: Empowering Embodied Agents with Theory of Mind for Lifelong Collaborative Learning"** [[paper](https://arxiv.org/abs/2411.12977)]
 * ⚖️ [Nov 2024] **"BALROG: Benchmarking Agentic LLM and VLM Reasoning On Games"** [[paper](https://arxiv.org/abs/2411.13543)]
+* [Dec 2024] **"Navigation World Models"** [[paper](https://arxiv.org/abs/2412.03572)]
+* [Dec 2024] **"From Multimodal LLMs to Generalist Embodied Agents: Methods and Lessons"** [[paper](https://arxiv.org/abs/2412.08442)]

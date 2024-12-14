@@ -25,3 +25,4 @@
 - **"langgraph-agents-with-amazon-bedrock"** [[code](https://github.com/aws-samples/langgraph-agents-with-amazon-bedrock)]
 - **"GenAI_Agents"** [[code](https://github.com/NirDiamant/GenAI_Agents)]
 - **"AI-Agentic-Design-Patterns-with-AutoGen"** [[code](https://github.com/ksm26/AI-Agentic-Design-Patterns-with-AutoGen)]
+- **"Awesome LLM Apps"** [[code](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main)]

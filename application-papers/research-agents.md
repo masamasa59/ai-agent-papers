@@ -30,4 +30,4 @@
 * ⚖️ [Oct 2024] **"AAAR-1.0: Assessing AI's Potential to Assist Research"** [[paper](https://arxiv.org/abs/2410.22394)]
 * [Nov 2024] **"GIS Copilot: Towards an Autonomous GIS Agent for Spatial Analysis"** [[paper](https://arxiv.org/abs/2411.03205)]
 * [Nov 2024] **"The Virtual Lab: AI Agents Design New SARS-CoV-2 Nanobodies with Experimental Validation"** [[paper](https://www.biorxiv.org/content/10.1101/2024.11.11.623004v1)]
-
+* [Nov 2024] **"DrugAgent: Automating AI-aided Drug Discovery Programming through LLM Multi-Agent Collaboration"** [[paper](https://arxiv.org/abs/2411.15692)]

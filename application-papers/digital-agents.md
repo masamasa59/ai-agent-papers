@@ -26,8 +26,8 @@
 * [Nov 2024] **"The Dawn of GUI Agent: A Preliminary Case Study with Claude 3.5 Computer Use"** [[paper](https://arxiv.org/abs/2411.10323)]
 * [Nov 2024] **"ShowUI: One Vision-Language-Action Model for GUI Visual Agent"** [[paper](https://arxiv.org/abs/2411.17465)]
 * 🔥 📖 [Nov 2024] **"Large Language Model-Brained GUI Agents: A Survey"** [[paper](https://arxiv.org/abs/2411.18279)]
-
-
+* 📖 [DNov 2024] **"Generalist Virtual Agents: A Survey on Autonomous Agents Across Digital Platforms"** [[paper](https://arxiv.org/abs/2411.10943)]
+* [Dec 2024] **"Aguvis: Unified Pure Vision Agents for Autonomous GUI Interaction"** [[paper](https://arxiv.org/abs/2412.04454)]
 
 
 
@@ -59,6 +59,9 @@
 * [Oct 2024] **"AGENTOCCAM: A Simple Yet Strong Baseline for LLM-Based Web Agents"** [[paper](https://arxiv.org/abs/2410.13825)]
 * [Oct 2024] **"OpenWebVoyager: Building Multimodal Web Agents via Iterative Real-World Exploration, Feedback and Optimization"** [[paper](https://arxiv.org/abs/2410.17238)]
 * [Oct 2024] **"Beyond Browsing: API-Based Web Agents"** [[paper](https://arxiv.org/abs/2410.16464)]
+* [Dec 2024] **"The BrowserGym Ecosystem for Web Agent Research"** [[paper](https://arxiv.org/abs/2412.05467)]
+* [Dec 2024] **"PAFFA: Premeditated Actions For Fast Agents"** [[paper](https://arxiv.org/abs/2412.07958)]
+* [Dec 2024] **"AgentTrek: Agent Trajectory Synthesis via Guiding Replay with Web Tutorials"** [[paper](https://arxiv.org/abs/2412.09605)]
 
 
 ### Mobile Agents

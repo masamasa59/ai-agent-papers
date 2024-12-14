@@ -42,5 +42,7 @@
 * [Nov 2024] **"Enhancing Cluster Resilience: LLM-agent Based Autonomous Intelligent Cluster Diagnosis System and Evaluation Framework"** [[paper](https://arxiv.org/abs/2411.05349)]
 * [Nov 2024] **"Enhancing LLMs for Power System Simulations: A Feedback-driven Multi-agent Framework"** [[paper](https://arxiv.org/abs/2411.16707)]
 * [Nov 2024] **"Towards Next-Generation Medical Agent: How o1 is Reshaping Decision-Making in Medical Scenarios"** [[paper](https://arxiv.org/abs/2411.14461)]
+* [Dec 2024] **"Hacking CTFs with Plain Agents"** [[paper](https://arxiv.org/abs/2412.02776)]
+* [Dec 2024] **"Enhancing LLMs for Impression Generation in Radiology Reports through a Multi-Agent System"** [[paper](https://arxiv.org/abs/2412.06828)]
 
 

@@ -24,3 +24,5 @@
 * [Sep 2024] **"PingPong: A Benchmark for Role-Playing Language Models with User Emulation and Multi-Model Evaluation"** [[paper](https://arxiv.org/abs/2409.06820)]
 * [Nov 2024] **"Multi-expert Prompting Improves Reliability, Safety and Usefulness of Large Language Models"** [[paper](https://arxiv.org/abs/2411.00492)]
 * [Nov 2024] **"Generative Agent Simulations of 1,000 People"** [[paper](https://arxiv.org/abs/2411.10109)]
+* [Dec 2024] **"CharacterBox: Evaluating the Role-Playing Capabilities of LLMs in Text-Based Virtual Worlds"** [[paper](https://arxiv.org/abs/2412.05631)]
+* [Dec 2024] **"Simulating Human-like Daily Activities with Desire-driven Autonomy"** [[paper](https://arxiv.org/abs/2412.06435)]

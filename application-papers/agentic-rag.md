@@ -32,3 +32,6 @@
 * 🔥 [Oct 2024] **"Agentic Information Retrieval"** [[paper](https://arxiv.org/abs/2410.09713)]
 * 📖 [Oct 2024] **"Retrieval Augmented Generation (RAG) and Beyond: A Comprehensive Survey on How to Make your LLMs use External Data More Wisely"** [[paper](https://arxiv.org/abs/2409.14924)]
 * [Nov 2024] **"Boosting the Potential of Large Language Models with an Intelligent Information Assistant"** [[paper](https://arxiv.org/abs/2411.06805)]
+* [Nov 2024] **"Auto-RAG: Autonomous Retrieval-Augmented Generation for Large Language Models"** [[paper](https://arxiv.org/abs/2411.19443)]
+* [Dec 2024] **"Future of Information Retrieval Research in the Age of Generative AI"** [[paper](https://arxiv.org/abs/2412.02043)]
+* [Dec 2024] **"A Collaborative Multi-Agent Approach to Retrieval-Augmented Generation Across Diverse Data"** [[paper](https://arxiv.org/abs/2412.05838)]

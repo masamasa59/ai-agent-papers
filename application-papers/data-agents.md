@@ -37,3 +37,6 @@
 * ⚖️ [Oct 2024] **"DA-Code: Agent Data Science Code Generation Benchmark for Large Language Models"** [[paper](https://arxiv.org/abs/2410.07331)]
 * [Oct 2024] **"SELA: Tree-Search Enhanced LLM Agents for Automated Machine Learning"** [[paper](https://arxiv.org/abs/2410.17238)]
 * ⚖️ [Nov 2024] **"Spider 2.0: Evaluating Language Models on Real-World Enterprise Text-to-SQL Workflows"** [[paper](https://arxiv.org/abs/2411.07763)]
+* [Dec 2024] **"DataLab: A Unified Platform for LLM-Powered Business Intelligence"** [[paper](https://arxiv.org/abs/2412.02205)]
+* [Dec 2024] **"AutoDCWorkflow: LLM-based Data Cleaning Workflow Auto-Generation and Benchmark"** [[paper](https://arxiv.org/abs/2412.06724)]
+* [Dec 2024] **"Towards Agentic Schema Refinement"** [[paper](https://arxiv.org/abs/2412.07786)]

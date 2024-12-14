@@ -60,7 +60,7 @@
 * [Oct 2024] **"MorphAgent: Empowering Agents Through Self-Evolving Profiles and Decentralized Collaboration"** [[paper](https://arxiv.org/abs/2410.15048)]
 * [Oct 2024] **"MARCO: Multi-Agent Real-time Chat Orchestration"** [[paper](https://arxiv.org/abs/2410.21784)]
 * [Nov 2024] **"Magentic-One: A Generalist Multi-Agent System for Solving Complex Tasks"** [[paper](https://arxiv.org/abs/2411.04468)]
-
+* [Dec 2024] **"GENMAC: Compositional Text-to-Video Generation with Multi-Agent Collaboration"** [[paper](https://arxiv.org/abs/2412.04440)]
 
 ### World Simulation
 * [Apr 2023] **"Generative agents: Interactive simulacra of human behavior"** [[paper](https://arxiv.org/abs/2304.03442)]
@@ -84,3 +84,6 @@
 * [Oct 2024] **"GenSim: A General Social Simulation Platform with Large Language Model Based Agents"** [[paper](https://arxiv.org/abs/2410.04360)]
 * [Nov 2024] **"Project Sid: Many-agent simulations toward AI civilization"** [[paper](https://arxiv.org/abs/2411.00114)]
 * [Nov 2024] **"OASIS: Open Agents Social Interaction Simulations on One Million Agents"** [[paper](https://arxiv.org/abs/2411.11581)]
+* 📖 [Dec 2024] **"A Survey on Large Language Model-Based Social Agents in Game-Theoretic Scenarios"** [[paper](https://arxiv.org/abs/2412.03920)]
+* 📖 [Dec 2024] **"From Individual to Society: A Survey on Social Simulation Driven by Large Language Model-based Agents"** [[paper](https://arxiv.org/abs/2412.03563)]
+* [Dec 2024] **"LMAgent: A Large-scale Multimodal Agents Society for Multi-user Simulation"** [[paper](https://arxiv.org/abs/2412.09237)]
