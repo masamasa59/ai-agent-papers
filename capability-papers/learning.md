@@ -21,4 +21,6 @@
 * [Oct 2024] **"CAMPHOR: Collaborative Agents for Multi-input Planning and High-Order Reasoning On Device"** [[paper](https://arxiv.org/abs/2410.09407)]
 * [Oct 2024] **"AgentBank: Towards Generalized LLM Agents via Fine-Tuning on 50000+ Interaction Trajectories"** [[paper](https://arxiv.org/abs/2410.07706)]
 [Nov 2024] **"Training Agents with Weakly Supervised Feedback from Large Language Models"** [[paper](https://arxiv.org/abs/2411.19547)]
-[Dec 2024] **"MALT: Improving Reasoning with Multi-Agent LLM Training"** [[paper](https://arxiv.org/abs/2412.01928)]
+* [Dec 2024] **"MALT: Improving Reasoning with Multi-Agent LLM Training"** [[paper](https://arxiv.org/abs/2412.01928)]
+* [Dec 2024] **"Large Action Models: From Inception to Implementation"** [[paper](https://arxiv.org/abs/2412.10047)]
+* [Dec 2024] **"Multi-modal Agent Tuning: Building a VLM-Driven Agent for Efficient Tool Usage"** [[paper](https://arxiv.org/abs/2412.15606)]

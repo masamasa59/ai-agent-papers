@@ -30,3 +30,6 @@
 * 📖 [Nov 2024] **"World Models: The Safety Perspective"** [[paper](https://arxiv.org/abs/2411.07690)]
 * 🔥 📖 [Nov 2024] **"Navigating the Risks: A Survey of Security, Privacy, and Ethics Threats in LLM-Based Agents"** [[paper](https://arxiv.org/abs/2411.09523)]
 * [Nov 2024] **"Attacking Vision-Language Computer Agents via Pop-ups"** [[paper](https://arxiv.org/abs/2411.02391)]
+* ⚖️ [Dec 2024] **"Agent-SafetyBench: Evaluating the Safety of LLM Agents"** [[paper](https://arxiv.org/abs/2412.14470)]
+* [Dec 2024] **"Towards Action Hijacking of Large Language Model-based Agent"** [[ppaer](https://arxiv.org/abs/2412.10807)]
+* ⚖️ [Dec 2024] **"SafeAgentBench: A Benchmark for Safe Task Planning of Embodied LLM Agents"** [[ppaer](https://arxiv.org/abs/2412.13178)]

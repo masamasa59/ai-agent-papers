@@ -18,6 +18,8 @@
 * [Oct 2024] **"TapeAgents: A Holistic Framework for Agent Development and Optimization"** [[paper](https://llmagents-learning.org/assets/tapeagents.pdf)]
 * [Oct 2024] **"Long Term Memory : The Foundation of AI Self-Evolution"** [[paper](https://arxiv.org/abs/2410.15665)]
 * [Nov 2024] **"Mr.Steve: Instruction-Following Agents in Minecraft with What-Where-When Memory"** [[paper](https://arxiv.org/abs/2411.06736)]
+* [Dec 2024] **"On the Structural Memory of LLM Agents"** [[paper](https://arxiv.org/abs/2412.15266)]
+* [Dec 2024] **"Memory-Augmented Agent Training for Business Document Understanding"** [[paper](https://arxiv.org/abs/2412.15274)]
 
 ## 自己進化
 * [May 2024] **Offline Training of Language Model Agents with Functions as Learnable Weights"** [[paper](https://arxiv.org/abs/2402.11359)]

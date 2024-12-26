@@ -44,5 +44,5 @@
 * [Nov 2024] **"Towards Next-Generation Medical Agent: How o1 is Reshaping Decision-Making in Medical Scenarios"** [[paper](https://arxiv.org/abs/2411.14461)]
 * [Dec 2024] **"Hacking CTFs with Plain Agents"** [[paper](https://arxiv.org/abs/2412.02776)]
 * [Dec 2024] **"Enhancing LLMs for Impression Generation in Radiology Reports through a Multi-Agent System"** [[paper](https://arxiv.org/abs/2412.06828)]
-
-
+* [Dec 2024] **"AutoPatent: A Multi-Agent Framework for Automatic Patent Generation"** [[paper](https://arxiv.org/abs/2412.09796)]
+* [Dec 2024] **"LegalAgentBench: Evaluating LLM Agents in Legal Domain"** [[paper](https://arxiv.org/abs/2412.17259)]

@@ -48,3 +48,4 @@ Minecraftのキャラクタや家庭用ロボットのように体があり、�
 * ⚖️ [Nov 2024] **"BALROG: Benchmarking Agentic LLM and VLM Reasoning On Games"** [[paper](https://arxiv.org/abs/2411.13543)]
 * [Dec 2024] **"Navigation World Models"** [[paper](https://arxiv.org/abs/2412.03572)]
 * [Dec 2024] **"From Multimodal LLMs to Generalist Embodied Agents: Methods and Lessons"** [[paper](https://arxiv.org/abs/2412.08442)]
+* ⚖️ [Dec 2024] **"Agent-SafetyBench: Evaluating the Safety of LLM Agents"** [[paper](https://arxiv.org/abs/2412.14470)]

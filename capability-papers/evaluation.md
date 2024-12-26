@@ -27,3 +27,5 @@
 * [Nov 2024] **"Evaluating World Models with LLM for Decision Making"** [[paper](https://arxiv.org/abs/2411.08794)]
 * [Dec 2024] **"MISR: Measuring Instrumental Self-Reasoning in Frontier Models"** [[paper](https://arxiv.org/abs/2412.03904)]
 * ⚖️ [Dec 2024] **"RuleArena: A Benchmark for Rule-Guided Reasoning with LLMs in Real-World Scenarios"** [[paper](https://arxiv.org/abs/2412.08972)]
+* ⚖️ [Dec 2024] **"EscapeBench: Pushing Language Models to Think Outside the Box"** [[paper](https://arxiv.org/abs/2412.13549)]
+* ⚖️ [Dec 2024] **"TheAgentCompany: Benchmarking LLM Agents on Consequential Real World Tasks"** [[paper](https://arxiv.org/abs/2412.14161)]

@@ -11,6 +11,7 @@
 * 📖 [Jun 2024] **"Towards Rationality in Language and Multimodal Agents: A Survey"** [[paper](https://arxiv.org/abs/2406.00252)]
 * 📖 [Feb 2024] **"LLM Multi-Agent Systems: Challenges and Open Problems"** [[paper](https://arxiv.org/abs/2402.03578)]
 * 🔥 📖 [Feb 2024] **"Large Language Model based Multi-Agents: A Survey of Progress and Challenges"** [[paper](https://arxiv.org/abs/2402.01680)]
+* 📖 [Dec 2024] **A Survey on Multi-Generative Agent System: Recent Advances and New Frontiers** [[paper](https://arxiv.org/abs/2412.17481)]
 
 ### MAD（Multi-Agent Debate）
 * [May 2023] **"Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate"** [[paper](https://arxiv.org/abs/2305.19118)]
@@ -61,6 +62,9 @@
 * [Oct 2024] **"MARCO: Multi-Agent Real-time Chat Orchestration"** [[paper](https://arxiv.org/abs/2410.21784)]
 * [Nov 2024] **"Magentic-One: A Generalist Multi-Agent System for Solving Complex Tasks"** [[paper](https://arxiv.org/abs/2411.04468)]
 * [Dec 2024] **"GENMAC: Compositional Text-to-Video Generation with Multi-Agent Collaboration"** [[paper](https://arxiv.org/abs/2412.04440)]
+* [Dec 2024] **ROMAS: A Role-Based Multi-Agent System for Database monitoring and Planning** [[paper](https://arxiv.org/abs/2412.13520)]
+* [Dec 2024] **"Seeker: Towards Exception Safety Code Generation with Intermediate Language Agents Framework"** [[paper](https://arxiv.org/abs/2412.11713)]
+
 
 ### World Simulation
 * [Apr 2023] **"Generative agents: Interactive simulacra of human behavior"** [[paper](https://arxiv.org/abs/2304.03442)]
