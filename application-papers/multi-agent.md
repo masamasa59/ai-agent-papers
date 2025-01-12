@@ -64,7 +64,7 @@
 * [Dec 2024] **"GENMAC: Compositional Text-to-Video Generation with Multi-Agent Collaboration"** [[paper](https://arxiv.org/abs/2412.04440)]
 * [Dec 2024] **ROMAS: A Role-Based Multi-Agent System for Database monitoring and Planning** [[paper](https://arxiv.org/abs/2412.13520)]
 * [Dec 2024] **"Seeker: Towards Exception Safety Code Generation with Intermediate Language Agents Framework"** [[paper](https://arxiv.org/abs/2412.11713)]
-
+* [Dec 2024] **"Efficient Multi-Agent Collaboration with Tool Use for Online Planning in Complex Table Question Answering"** [[paper](https://arxiv.org/abs/2412.20145)]
 
 ### World Simulation
 * [Apr 2023] **"Generative agents: Interactive simulacra of human behavior"** [[paper](https://arxiv.org/abs/2304.03442)]

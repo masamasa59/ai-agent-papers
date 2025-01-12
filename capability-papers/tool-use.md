@@ -37,3 +37,4 @@
 * [Sep 2024] **"Knowledge Navigator: LLM-guided Browsing Framework for Exploratory Search in Scientific Literature"** [[paper](https://arxiv.org/abs/2408.15836)]
 * [Sep 2024] **ToolACE: Winning the Points of LLM Function Calling"** [[paper](https://arxiv.org/abs/2409.00920)]
 * [Nov 2024] **"DynaSaur : Large Language Agents Beyond Predefined Actions"** [[paper](https://arxiv.org/abs/2411.01747)]
+* ⚖️ [Jan 2025] **"ToolHop: A Query-Driven Benchmark for Evaluating Large Language Models in Multi-Hop Tool Use"** [[psper](https://arxiv.org/abs/2501.02506)]

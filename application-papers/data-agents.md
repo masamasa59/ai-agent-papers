@@ -41,3 +41,4 @@
 * [Dec 2024] **"AutoDCWorkflow: LLM-based Data Cleaning Workflow Auto-Generation and Benchmark"** [[paper](https://arxiv.org/abs/2412.06724)]
 * [Dec 2024] **"Towards Agentic Schema Refinement"** [[paper](https://arxiv.org/abs/2412.07786)]
 * 📖 [Dec 2024] **A Survey on Large Language Model-based Agents for Statistics and Data Science** [[paper](https://arxiv.org/abs/2412.14222)]
+* [Jan 2025] **"MDSF: Context-Aware Multi-Dimensional Data Storytelling Framework based on Large language Model"** [[paper](https://arxiv.org/abs/2501.01014)]

@@ -46,3 +46,4 @@
 * [Dec 2024] **"Enhancing LLMs for Impression Generation in Radiology Reports through a Multi-Agent System"** [[paper](https://arxiv.org/abs/2412.06828)]
 * [Dec 2024] **"AutoPatent: A Multi-Agent Framework for Automatic Patent Generation"** [[paper](https://arxiv.org/abs/2412.09796)]
 * [Dec 2024] **"LegalAgentBench: Evaluating LLM Agents in Legal Domain"** [[paper](https://arxiv.org/abs/2412.17259)]
+* [Jan 2025] **"User Simulation in the Era of Generative AI: User Modeling, Synthetic Data Generation, and System Evaluation"** [[paper](https://arxiv.org/abs/2501.04410)]
