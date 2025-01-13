@@ -44,4 +44,5 @@
 * [Nov 2024] **"Imagining and building wise machines: The centrality of AI metacognition"** [[paper](https://arxiv.org/abs/2411.02478)]
 * [Nov 2024] **"LLaVA-CoT: Let Vision Language Models Reason Step-by-Step"** [[paper](https://arxiv.org/abs/2411.10440)]
 * [Jan 2025] **"Towards System 2 Reasoning in LLMs: Learning How to Think With Meta Chain-of-Thought"** [[paper](https://arxiv.org/abs/2501.04682)]
+* 📖 [Jan 2025] **"Test-time Computing: from System-1 Thinking to System-2 Thinking"** [[paper](https://arxiv.org/abs/2501.02497)]
 

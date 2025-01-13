@@ -28,5 +28,5 @@
 * [Nov 2024] **"Human-In-the-Loop Software Development Agents"** [[paper](https://arxiv.org/abs/2411.12924)]
 * 📖 [Nov 2024] **"A Comprehensive Survey of AI-Driven Advancements and Techniques in Automated Program Repair and Code Generation"** [[paper](https://arxiv.org/abs/2411.07586)]
 * 📖 [Nov 2024] **"An Empirical Study on LLM-based Agents for Automated Bug Fixing"** [[paper](https://arxiv.org/abs/2411.10213)]
-
-
+* [Dec 2024] **"Training Software Engineering Agents and Verifiers with SWE-Gym"** [[paper](https://arxiv.org/abs/2412.21139)]
+* [Jan 2025] **"SWE-Fixer: Training Open-Source LLMs for Effective and Efficient GitHub Issue Resolution"** [[paper](https://arxiv.org/abs/2501.05040)]

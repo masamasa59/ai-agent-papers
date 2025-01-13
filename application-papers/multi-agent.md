@@ -65,6 +65,7 @@
 * [Dec 2024] **ROMAS: A Role-Based Multi-Agent System for Database monitoring and Planning** [[paper](https://arxiv.org/abs/2412.13520)]
 * [Dec 2024] **"Seeker: Towards Exception Safety Code Generation with Intermediate Language Agents Framework"** [[paper](https://arxiv.org/abs/2412.11713)]
 * [Dec 2024] **"Efficient Multi-Agent Collaboration with Tool Use for Online Planning in Complex Table Question Answering"** [[paper](https://arxiv.org/abs/2412.20145)]
+* [Dec 2024] **"OneKE: A Dockerized Schema-Guided LLM Agent-based Knowledge Extraction System"**  [[paper](https://arxiv.org/abs/2412.20005)]
 
 ### World Simulation
 * [Apr 2023] **"Generative agents: Interactive simulacra of human behavior"** [[paper](https://arxiv.org/abs/2304.03442)]

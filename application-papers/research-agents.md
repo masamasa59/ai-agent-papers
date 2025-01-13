@@ -33,3 +33,4 @@
 * [Nov 2024] **"DrugAgent: Automating AI-aided Drug Discovery Programming through LLM Multi-Agent Collaboration"** [[paper](https://arxiv.org/abs/2411.15692)]
 * [Jan 2025] **"DOLPHIN: Closed-loop Open-ended Auto-research through Thinking, Practice, and Feedback"** [[paper](https://arxiv.org/abs/2501.03916)]
 * [Jan 2025] **"Agent Laboratory: Using LLM Agents as Research Assistants"** [[paper](https://arxiv.org/abs/2501.04227)]
+* 📖 [Jan 2025] **"LLM4SR: A Survey on Large Language Models for Scientific Research"** [[paper](https://arxiv.org/abs/2501.04306)]
