@@ -75,7 +75,7 @@
 * [May 2024] **Human-Centered LLM-Agent User Interface: A Position Paper"** [[paper](https://arxiv.org/abs/2405.13050)]
 * [May 2024] **"Assessing and Verifying Task Utility in LLM-Powered Applications"** [[paper](https://arxiv.org/abs/2405.02178)]
 * 🔥 [Nov 2024] **"A Taxonomy of AgentOps for Enabling Observability of Foundation Model based Agents"** [[paper](https://arxiv.org/abs/2411.05285)]
-* [Nov 2024] **"An Evaluation-Driven Approach to Designing LLM Agents: Process and Architecture"** [[paper](https://arxiv.org/abs/2411.15626)]
+* [Nov 2024] **"An Evaluation-Driven Approach to Designing LLM Agents: Process and Architecture"** [[paper](https://www.arxiv.org/abs/2411.13768)]
 * 🔥 [Dec 2024] **"Challenges in Human-Agent Communication"** [[paper](https://www.microsoft.com/en-us/research/publication/human-agent-interaction-challenges/)]
 * [Dec 2024] **"Specifications: The missing link to making the development of LLM systems an engineering discipline"** [[paper](https://arxiv.org/abs/2412.05299)]
 * [Dec 2024] **"Agents Are Not Enough"** [[paper](https://arxiv.org/html/2412.16241v1)]
