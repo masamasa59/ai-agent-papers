@@ -1,5 +1,5 @@
-## 計画
-エージェントの計画に関する論文です。
+## Planning
+These papers discuss agent planning.
 
 #### Papers
 * ⚖️ [Jun 2022] **"PlanBench: An Extensible Benchmark for Evaluating Large Language Models on Planning and Reasoning about Change"** [[paper](https://arxiv.org/abs/2206.10498)]

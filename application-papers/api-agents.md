@@ -1,12 +1,10 @@
 
 ## API Agents
-ユーザーが音声/テキストで指示するだけで専門的なソフトウェアを扱う業務を完了することを目指します。
+* Enable users to operate specialized software via simple voice or text instructions
+* Treat any software that supports REST APIs or Python SDKs as an agent’s tool
+* Handle complex applications, including 3D modeling in manufacturing or chemistry
+* Incorporate “Agentic Process Automation,” an evolution of RPA for routine workflows
 
-既存のソフトウェアがREST APIやpython SDKに対応している場合、それはエージェントのツールになります。
-
-製造業や化学の3Dモデリングなどの複雑なソフトウェアをエージェントが操作します。
-
-日常の定型業務を代替するRPAの派生のAgentic Process Automationも含まれます。
 <figure style="text-align: center;">
     <img alt="" src="../assets/api_agent.png" width="500" />
     <figcaption style="text-align: center;">引用：https://arxiv.org/abs/2303.16434</figcaption>

@@ -1,5 +1,5 @@
-## 評価
-エージェントの持つ能力を評価する論文です。
+## Agent Evaluation
+
 <figure style="text-align: center;">
     <img alt="" src="../assets/evaluation.png" width="500" />
     <figcaption style="text-align: center;">引用：https://arxiv.org/abs/2407.18961</figcaption>

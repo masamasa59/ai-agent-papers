@@ -1,9 +1,8 @@
 ## Embodied Agents
-Minecraftのキャラクタや家庭用ロボットのように体があり、環境を移動しながらタスクをこなすエージェントです。
+* Feature a physical embodiment, like Minecraft characters or household robots, operating within an environment
+* Require robustness in unfamiliar settings and the ability to complete long-term tasks
+* Emphasize meticulous planning, tool/skill creation, and effective memory utilization
 
-未知の環境に対する頑健さや長期タスクをこなすことが求められます。
-
-緻密な計画、ツールやスキルの作成、メモリの活用が重要になります。
 <figure style="text-align: center;">
     <img alt="" src="../assets/embodied_agent.png" width="500" />
     <figcaption style="text-align: center;">引用：https://arxiv.org/abs/2408.03615</figcaption>

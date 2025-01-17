@@ -1,7 +1,5 @@
-## 知覚
-エージェントが環境を理解するための知覚能力に関する論文です。
-
-テキスト、画像、動画で分けています。
+## Perception
+These papers discuss the perceptual abilities that enable agents to understand their environment.
 
 ### Text
 * [Jun 2024] **"Ask-before-Plan: Proactive Language Agents for Real-World Planning"** [[paper](https://arxiv.org/abs/2406.12639)]
@@ -29,7 +27,7 @@
 * [Jun 2024] **CharXiv: Charting Gaps in Realistic Chart Understanding in Multimodal LLMs"** [[paper](https://arxiv.org/abs/2406.18521)]
 * ⚖️ [Nov 2024] **"M-Longdoc: A Benchmark For Multimodal Super-Long Document Understanding And A Retrieval-Aware Tuning Framework"** [[paper](https://arxiv.org/abs/2411.06176)]
 
-### Movie
+### Video
 * [Feb 2024] **"Video as the New Language for Real-World Decision Making"** [[paper](https://arxiv.org/abs/2402.17139)]
 * [May 2024] **"CinePile: A Long Video Question Answering Dataset and Benchmark"** [[paper](https://arxiv.org/abs/2405.08813)]
 * [May 2024] **Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis"** [[paper](https://arxiv.org/abs/2405.21075)]

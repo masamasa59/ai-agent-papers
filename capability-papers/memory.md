@@ -1,6 +1,6 @@
 
-## メモリ
-エージェントの記憶にあたるメモリや自己進化に関する論文です。
+## Memory
+These papers discuss an agent’s memory function and its self-evolution.
 #### Papers
 * [May 2023] **"Memorybank: Enhancing large language models with long-term memory"** [[paper](https://arxiv.org/abs/2305.10250)]
 * [Jul 2023] **"REX: Rapid Exploration and eXploitation for AI Agents"** [[paper](https://arxiv.org/abs/2307.08962)]
@@ -21,7 +21,7 @@
 * [Dec 2024] **"On the Structural Memory of LLM Agents"** [[paper](https://arxiv.org/abs/2412.15266)]
 * [Dec 2024] **"Memory-Augmented Agent Training for Business Document Understanding"** [[paper](https://arxiv.org/abs/2412.15274)]
 
-## 自己進化
+## Self-Evolution (Self-Improvement)
 * [May 2024] **Offline Training of Language Model Agents with Functions as Learnable Weights"** [[paper](https://arxiv.org/abs/2402.11359)]
 * 📖 [May 2024] **A Survey on Self-Evolution of Large Language Models"** [[paper](https://arxiv.org/abs/2404.14387)]
 * [Jun 2024] **"Buffer of Thoughts: Thought-Augmented Reasoning with Large Language Models"** [[paper](https://arxiv.org/abs/2406.04271)]

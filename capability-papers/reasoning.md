@@ -1,6 +1,7 @@
 
-## 推論
- LLMの推論能力に関する論文です。
+## Reasoning
+ These papers discuss llm reasoning.
+
 <figure style="text-align: center;">
     <img alt="" src="../assets/reasoning.png" width="500" />
     <figcaption style="text-align: center;">引用： https://arxiv.org/abs/2312.11562</figcaption>

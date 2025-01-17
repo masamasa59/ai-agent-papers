@@ -1,7 +1,7 @@
 ## Research Agents
-研究の自動化を目指すエージェントです。
+* Aim to automate the entire research workflow
+* Cover everything from literature reviews and idea generation to experiment design, analysis, paper writing, and even peer review
 
-文献調査、研究のアイデア出し、実験設定、実験の考察、論文執筆、査読まで自動化する取り組みがあります。
 <figure style="text-align: center;">
     <img alt="" src="../assets/research-agent.png" width="500" />
     <figcaption style="text-align: center;">引用：https://arxiv.org/abs/2408.06292</figcaption>

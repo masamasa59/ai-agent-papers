@@ -1,7 +1,5 @@
-## プロフィール
-エージェントの役割を定めるプロフィールに関する論文です。
-
-ロールプレイングやペルソナを含みます。
+## Profile
+These papers discuss profiles that define the roles of agents, including role-playing and personas.
 
 #### Papers
 * [May 2023] **"Role-Play with Large Language Models"** [[paper](https://arxiv.org/abs/2305.16367)]

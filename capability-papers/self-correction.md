@@ -1,5 +1,6 @@
-## 自己修正
-エージェントがエラーから復帰できるかに関する論文です。
+## Self-Correction
+These papers discuss whether agents can autonomously recover from errors.
+
 #### Papers
 * [Jun 2022] **"Self-critiquing models for assisting human evaluators"** [[paper](https://arxiv.org/abs/2206.05802)]
 * [Mar 2023] **"Reflexion: Language Agents with Verbal Reinforcement Learning"** [[paper](https://arxiv.org/abs/2303.11366)]

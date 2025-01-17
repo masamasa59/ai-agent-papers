@@ -1,7 +1,6 @@
 ## Software Agents
-ソフトウェアを開発するエージェントです。
-
-デモを作るだけでなく、バグの発見から修正、テスト設計、要件定義までできることを目指します。
+* Develop software beyond simple demos
+* Aim to discover and fix bugs, design tests, and define requirements
 
 <figure style="text-align: center;">
     <img alt="" src="../assets/software-agent.png" width="500" />

@@ -1,11 +1,6 @@
 ## Agentic RAG
-質問応答のための推論の高度化に特化したエージェントです。 
-
-ツールは検索エンジンがメイン
-
-回答に必要な情報を手に入れるまで検索でき、検索して知り得た事実を元に次の検索戦略を考えます。
-
-情報検索（Information Retrieval）と親和性が高いです。
+* Agentic RAG enhances traditional RAG by incorporating multi-agent collaboration, dynamic decision-making, and iterative reasoning.
+* It is ideal for complex workflows, integrating tools and APIs, and maintaining context across multi-step tasks.
 <figure style="text-align: center;">
     <img alt="" src="../assets/agentic_rag.png" width="500" />
     <figcaption style="text-align: center;">引用：https://arxiv.org/abs/2410.09713</figcaption>

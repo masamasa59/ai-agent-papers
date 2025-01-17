@@ -1,8 +1,6 @@
 
 ## Agentic AI Systems
-教育や医療、プレスなど様々な業務でエージェントによる業務効率化を目指す動きがあります。
-
-まだグループにするほどではないので雑多にまとめています。
+Agents in various tasks such as education, healthcare, and the press.
 <figure style="text-align: center;">
     <img alt="" src="../assets/agentic_ai_system3.png" width="500" />
     <figcaption style="text-align: center;">Recommendation Agent (引用：https://arxiv.org/abs/2407.10081)</figcaption>

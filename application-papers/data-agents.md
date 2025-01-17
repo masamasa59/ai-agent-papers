@@ -1,7 +1,7 @@
 ## Data Agents
-ユーザーが指示をするだけでデータを加工・集計から分析までおこない、インサイトを抽出してレポートにまとめたり、機械学習エンジニアリングまでしてくれます。
-
-コード生成から様々な機械学習やデータ分析ライブラリを利用します。
+* Automate everything from data processing and aggregation to analysis and insight extraction
+* Summarize findings into comprehensive reports, and can even handle full ML engineering tasks
+* Generate code and leverage a variety of machine learning and data analysis libraries
 <figure style="text-align: center;">
     <img alt="" src="../assets/data_agent.png" width="500" />
     <figcaption style="text-align: center;">引用：https://arxiv.org/abs/2410.07331</figcaption>

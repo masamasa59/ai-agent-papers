@@ -1,5 +1,5 @@
-## 安全性
-エージェントの安全性やリスクに関する論文です。
+## Safety
+These papers discuss the safety and risks of agents.
 #### Papers
 * ⚖️ [Jan 2024] **"R-Judge: Benchmarking Safety Risk Awareness for LLM Agents"** [[paper](https://arxiv.org/abs/2401.10019)]
 * [Feb 2024] **"TrustAgent: Towards Safe and Trustworthy LLM-based Agents"** [[paper](https://arxiv.org/abs/2402.01586)]

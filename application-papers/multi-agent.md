@@ -1,6 +1,6 @@
 
 ## Multi-Agents
-複数のエージェントによる協力でタスク解決やシミュレーションをおこないます。
+* Involves collaboration among multiple agents for task completion and simulation
 
 <figure style="text-align: center;">
     <img alt="" src="../assets/multi-agent.png" width="500" />

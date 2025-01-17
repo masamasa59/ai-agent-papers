@@ -1,14 +1,12 @@
-# エージェントフレームワーク
-汎用的なエージェントの骨格を提案する論文です。
+# Agent Frameworks
 
-シングルタイプとマルチエージェントで分けています。
 <figure style="text-align: center;">
     <img alt="" src="../assets/agent_framework.png" width="500" />
     <figcaption style="text-align: center;">引用：https://arxiv.org/abs/2409.02977</figcaption>
 </figure>
 
 
-## シングルエージェント
+## Single-Agent
 * [Mar 2023] **"Hugginggpt: Solving ai tasks with chat-gpt and its friends in huggingface"** [[paper](https://arxiv.org/abs/2303.17580)]
 * [Apr 2023] **"OpenAGI: When llm meets domain experts"** [[paper](https://arxiv.org/abs/2304.04370)]
 * 📖 [Aug 2023] **"A Survey on Large Language Model based Autonomous Agents"** [[paper](https://arxiv.org/abs/2308.11432)]
@@ -59,7 +57,7 @@
 * [Jan 2025] **"Large language models for artificial general intelligence (AGI): A survey of foundational principles and approaches"** [[paper](https://arxiv.org/abs/2501.03151)]
 
 
-## マルチエージェント
+## Multi-Agent
 * [Mar 2023] **"CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society"** [[paper](https://arxiv.org/abs/2303.17760)]
 * [Aug 2023] **"AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors"** [[paper](https://arxiv.org/abs/2308.10848)]
 * [Aug 2023] **"MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework"** [[paper](https://arxiv.org/abs/2308.00352)]
@@ -69,7 +67,7 @@
 * [Aug 2024] **"MegaAgent: A Practical Framework for Autonomous Cooperation in Large-Scale LLM Agent Systems"** [[paper](https://arxiv.org/abs/2408.09955)]
 * [Nov 2024] **"Magentic-One: A Generalist Multi-Agent System for Solving Complex Tasks"** [[paper](https://arxiv.org/abs/2411.04468)]
 
-# Agent Ops & UX
+## Agent Ops & UX
 * [Feb 2024] **"Towards better Human-Agent Alignment: Assessing Task Utility in LLM-Powered Applications"** [[paper](https://arxiv.org/abs/2402.09015)]
 * [Apr 2024] **Deconstructing Human-AI Collaboration: Agency, Interaction, and Adaptation"** [[paper](https://arxiv.org/abs/2404.12056)]
 * [May 2024] **Human-Centered LLM-Agent User Interface: A Position Paper"** [[paper](https://arxiv.org/abs/2405.13050)]

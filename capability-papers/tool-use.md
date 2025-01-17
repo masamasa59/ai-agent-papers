@@ -1,5 +1,5 @@
-## ツール利用
-エージェントがツールを正しく扱えるかに関する論文です。
+## Tool Use
+These papers discuss whether or not agents can properly use tools
 
 #### Papers
 * [May 2022] **"MRKL Systems: A modular, neuro-symbolic architecture that combines large language models, external knowledge sources and discrete reasoning"** [[paper](https://arxiv.org/abs/2205.00445)]

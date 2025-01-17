@@ -1,5 +1,4 @@
-## 学習
-エージェントの振る舞いのための学習に関する論文です。
+## Agent Tuning
 #### Papers
 * [Oct 2023] **"FireAct: Toward Language Agent Fine-tuning"** [[paper](https://arxiv.org/abs/2310.05915)]
 * [Oct 2023] **"AgentTuning: Enabling Generalized Agent Abilities for LLMs"** [[paper](https://arxiv.org/abs/2310.12823)]
