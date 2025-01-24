@@ -29,3 +29,4 @@
 * 📖 [Nov 2024] **"An Empirical Study on LLM-based Agents for Automated Bug Fixing"** [[paper](https://arxiv.org/abs/2411.10213)]
 * [Dec 2024] **"Training Software Engineering Agents and Verifiers with SWE-Gym"** [[paper](https://arxiv.org/abs/2412.21139)]
 * [Jan 2025] **"SWE-Fixer: Training Open-Source LLMs for Effective and Efficient GitHub Issue Resolution"** [[paper](https://arxiv.org/abs/2501.05040)]
+* [Jan 2025] **"Towards Advancing Code Generation with Large Language Models: A Research Roadmap"** [[paper](https://arxiv.org/abs/2501.11354)]
