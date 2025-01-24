@@ -38,3 +38,4 @@ These papers discuss whether or not agents can properly use tools
 * [Sep 2024] **ToolACE: Winning the Points of LLM Function Calling"** [[paper](https://arxiv.org/abs/2409.00920)]
 * [Nov 2024] **"DynaSaur : Large Language Agents Beyond Predefined Actions"** [[paper](https://arxiv.org/abs/2411.01747)]
 * ⚖️ [Jan 2025] **"ToolHop: A Query-Driven Benchmark for Evaluating Large Language Models in Multi-Hop Tool Use"** [[psper](https://arxiv.org/abs/2501.02506)]
+* ⚖️ [Jan 2025] **"ACEBench: Who Wins the Match Point in Tool Learning?"** [[paper](https://arxiv.org/abs/2501.12851v1)]

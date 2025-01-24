@@ -25,3 +25,5 @@
 * [Dec 2024] **"Multi-modal Agent Tuning: Building a VLM-Driven Agent for Efficient Tool Usage"** [[paper](https://arxiv.org/abs/2412.15606)]
 * [Dec 2024] **"TACO: Learning Multi-modal Action Models with Synthetic Chains-of-Thought-and-Action"** [[paper](https://arxiv.org/abs/2412.05479)]
 * [Jan 2025] **"AgentRefine: Enhancing Agent Generalization through Refinement Tuning"** [[paper](https://arxiv.org/abs/2501.01702)]
+* [Jan 2025] **"Agent-R: Training Language Model Agents to Reflect via Iterative Self-Training"** [[paper](https://arxiv.org/abs/2501.11425)]
+* [Jan 2025] **"Learn-by-interact: A Data-Centric Framework for Self-Adaptive Agents in Realistic Environments"** [[paper](https://arxiv.org/abs/2501.10893)]

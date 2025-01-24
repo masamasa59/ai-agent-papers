@@ -29,6 +29,7 @@
 * [Dec 2024] **"Aguvis: Unified Pure Vision Agents for Autonomous GUI Interaction"** [[paper](https://arxiv.org/abs/2412.04454)]
 * [Dec 2024] **"OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis"** [[paper](https://arxiv.org/abs/2412.19723)]
 * [Jan 2025] **"InfiGUIAgent: A Multimodal Generalist GUI Agent with Native Reasoning and Reflection"** [[paper](https://arxiv.org/abs/2501.04575)]
+* [Jan 2025] **"UI-TARS: Pioneering Automated GUI Interaction with Native Agents"** [[paper](https://arxiv.org/abs/2501.12326)]
 
 ### Web Agents
 * ⚖️ [Jul 2022] **"WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents"** [[paper](https://arxiv.org/abs/2207.01206)]
@@ -72,3 +73,4 @@
 * ⚖️ [Oct 2024] **"SPA-Bench: A Comprehensive Benchmark for SmartPhone Agent Evaluation"** [[paper](https://arxiv.org/abs/2410.15164)]
 * 🔥 📖 [Nov 2024] **"Foundations and Recent Trends in Multimodal Mobile Agents: A Survey"** [[paper](https://arxiv.org/abs/2411.02006)]
 * ⚖️ [Dec 2024] **"A3: Android Agent Arena for Mobile GUI Agents"** [[paper](https://arxiv.org/abs/2501.01149)]
+* [Jan 2025] **"Mobile-Agent-E: Self-Evolving Mobile Assistant for Complex Tasks"** [[paper](https://arxiv.org/abs/2501.11733)]

@@ -55,6 +55,9 @@
 * [Jan 2025] **"Enhancing LLM Reasoning with Multi-Path Collaborative Reactive and Reflection agents"** [[paper](https://arxiv.org/abs/2501.00430)]
 * [Jan 2025] **"Agentic Systems: A Guide to Transforming Industries with Vertical AI Agents"** [[paper](https://arxiv.org/abs/2501.00881)]
 * [Jan 2025] **"Large language models for artificial general intelligence (AGI): A survey of foundational principles and approaches"** [[paper](https://arxiv.org/abs/2501.03151)]
+* [Jan 2025] **"PoAct: Policy and Action Dual-Control Agent for Generalized Applications"** [[paper](https://arxiv.org/abs/2501.07054)]
+* [Jan 2025] **"A Multimodal Social Agent"** [[paper](https://arxiv.org/abs/2501.06189)]
+* [Jan 2025] **"SOP-Agent: Empower General Purpose AI Agent with Domain-Specific SOPs"** [[paper](https://arxiv.org/abs/2501.09316)]
 
 
 ## Multi-Agent
@@ -77,3 +80,4 @@
 * 🔥 [Dec 2024] **"Challenges in Human-Agent Communication"** [[paper](https://www.microsoft.com/en-us/research/publication/human-agent-interaction-challenges/)]
 * [Dec 2024] **"Specifications: The missing link to making the development of LLM systems an engineering discipline"** [[paper](https://arxiv.org/abs/2412.05299)]
 * [Dec 2024] **"Agents Are Not Enough"** [[paper](https://arxiv.org/html/2412.16241v1)]
+* [Jan 2025] **"Authenticated Delegation and Authorized AI Agents"** [[paper](https://www.arxiv.org/abs/2501.09674)]

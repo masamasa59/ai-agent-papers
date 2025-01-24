@@ -20,6 +20,8 @@ These papers discuss an agent’s memory function and its self-evolution.
 * [Nov 2024] **"Mr.Steve: Instruction-Following Agents in Minecraft with What-Where-When Memory"** [[paper](https://arxiv.org/abs/2411.06736)]
 * [Dec 2024] **"On the Structural Memory of LLM Agents"** [[paper](https://arxiv.org/abs/2412.15266)]
 * [Dec 2024] **"Memory-Augmented Agent Training for Business Document Understanding"** [[paper](https://arxiv.org/abs/2412.15274)]
+* [Jan 2025] **"ChemAgent: Self-updating Library in Large Language Models Improves Chemical Reasoning"** [[paper](https://arxiv.org/abs/2501.06590)]
+
 
 ## Self-Evolution (Self-Improvement)
 * [May 2024] **Offline Training of Language Model Agents with Functions as Learnable Weights"** [[paper](https://arxiv.org/abs/2402.11359)]
@@ -37,3 +39,5 @@ These papers discuss an agent’s memory function and its self-evolution.
 * [Oct 2024] **"AFlow: Automating Agentic Workflow Generation"** [[paper](https://arxiv.org/abs/2410.10762)]
 * [Oct 2024] **"Gödel Agent: A Self-Referential Agent Framework for Recursive Self-Improvement"** [[paper](https://arxiv.org/abs/2410.04444)]
 * [Oct 2024] **"MOSS: Enabling Code-Driven Evolution and Context Management for AI Agents"** [[paper](https://arxiv.org/abs/2409.16120)]
+* [Jan 2025] **"Lifelong Learning of Large Language Model based Agents: A Roadmap"** [[paper](https://arxiv.org/abs/2501.07278)]
+* [Jan 2025] **"Mobile-Agent-E: Self-Evolving Mobile Assistant for Complex Tasks"** [[paper](https://arxiv.org/abs/2501.11733)]

@@ -31,3 +31,5 @@
 * [Dec 2024] **"Future of Information Retrieval Research in the Age of Generative AI"** [[paper](https://arxiv.org/abs/2412.02043)]
 * [Dec 2024] **"A Collaborative Multi-Agent Approach to Retrieval-Augmented Generation Across Diverse Data"** [[paper](https://arxiv.org/abs/2412.05838)]
 * [Jan 2025] **"Search-o1: Agentic Search-Enhanced Large Reasoning Models"** [[paper](https://arxiv.org/abs/2501.05366)]
+* 📖 [Jan 2025] **"Agentic Retrieval-Augmented Generation: A Survey on Agentic RAG"** [[paper](https://arxiv.org/abs/2501.09136)]
+* [Jan 2025] **"OmniThink: Expanding Knowledge Boundaries in Machine Writing through Thinking"** [[paper](https://arxiv.org/abs/2501.09751)]
