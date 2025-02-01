@@ -31,3 +31,5 @@ These papers discuss whether agents can autonomously recover from errors.
 * [Nov 2024] **"From Generation to Judgment: Opportunities and Challenges of LLM-as-a-judge"** [[paper](https://arxiv.org/abs/2411.16594)]
 * [Dec 2024] **"Meta-Reflection: A Feedback-Free Reflection Learning Framework"** [[paper](https://arxiv.org/abs/2412.13781)]
 * [Dec 2024] **"Understanding the Dark Side of LLMs’ Intrinsic Self-Correction"** [[paper](https://arxiv.org/abs/2412.14959)]
+* ⚖️ [Jan 2025] **"RealCritic: Towards Effectiveness-Driven Evaluation of Language Model Critiques"** [[paper](https://arxiv.org/abs/2501.14492)]
+* [Jan 2025] **"Learning to Plan & Reason for Evaluation with Thinking-LLM-as-a-Judge"** [[paper](https://arxiv.org/abs/2501.18099)]

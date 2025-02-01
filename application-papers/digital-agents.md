@@ -30,6 +30,7 @@
 * [Dec 2024] **"OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis"** [[paper](https://arxiv.org/abs/2412.19723)]
 * [Jan 2025] **"InfiGUIAgent: A Multimodal Generalist GUI Agent with Native Reasoning and Reflection"** [[paper](https://arxiv.org/abs/2501.04575)]
 * [Jan 2025] **"UI-TARS: Pioneering Automated GUI Interaction with Native Agents"** [[paper](https://arxiv.org/abs/2501.12326)]
+* 📖 [Jan 2025] **"AI Agents for Computer Use: A Review of Instruction-based Computer Control, GUI Automation, and Operator Assistants"** [[paper](https://arxiv.org/abs/2501.16150)]
 
 ### Web Agents
 * ⚖️ [Jul 2022] **"WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents"** [[paper](https://arxiv.org/abs/2207.01206)]

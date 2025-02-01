@@ -31,3 +31,4 @@
 * [Nov 2024] **"Tooling or Not Tooling? The Impact of Tools on Language Agents for Chemistry Problem Solving"**[[paper](https://arxiv.org/abs/2411.07228v1)]
 * 🔥 [Nov 2024] **"WorkflowLLM: Enhancing Workflow Orchestration Capability of Large Language Models"** [[paper](https://arxiv.org/abs/2411.05451)]
 * [Jan 2025] **"LLM-Agents Driven Automated Simulation Testing and Analysis of small Uncrewed Aerial Systems"** [[paper](https://arxiv.org/abs/2501.11864)]
+* [Jan 2025] **"Multi-Agent Geospatial Copilots for Remote Sensing Workflows"** [[paper](https://arxiv.org/abs/2501.16254)]

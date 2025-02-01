@@ -49,3 +49,4 @@
 * [Dec 2024] **"From Multimodal LLMs to Generalist Embodied Agents: Methods and Lessons"** [[paper](https://arxiv.org/abs/2412.08442)]
 * ⚖️ [Dec 2024] **"Agent-SafetyBench: Evaluating the Safety of LLM Agents"** [[paper](https://arxiv.org/abs/2412.14470)]
 * ⚖️ [Jan 2025] **"EmbodiedEval: Evaluate Multimodal LLMs as Embodied Agents"** [[paper](https://arxiv.org/abs/2501.11858)]
+* [Jan 2025] **"Improving Vision-Language-Action Model with Online Reinforcement Learning"** [[paper](https://www.arxiv.org/abs/2501.16664)]

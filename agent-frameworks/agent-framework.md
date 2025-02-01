@@ -48,6 +48,7 @@
 * [Oct 2024] **"MOSS: Enabling Code-Driven Evolution and Context Management for AI Agents"** [[paper](https://arxiv.org/abs/2409.16120)]
 * [Oct 2024] **"Asynchronous Tool Usage for Real-Time Agents"** [[paper](https://arxiv.org/abs/2410.21620)]
 * [Oct 2024] **"VipAct: Visual-Perception Enhancement via Specialized VLM Agent Collaboration and Tool-use"** [[paper](https://arxiv.org/abs/2410.16400)]
+* 📖 [Oct 2024] **"A survey on LLM‑based multi‑agent systems: workflow, infrastructure, and challenges"** [[paper](https://link.springer.com/article/10.1007/s44336-024-00009-2)]
 * [Nov 2024] **"Infant Agent: A Tool-Integrated, Logic-Driven Agent with Cost-Effective API Usage"** [[paper](https://arxiv.org/abs/2411.01114)]
 * [Nov 2024] **"Metacognition for Unknown Situations and Environments (MUSE)"** [[paper](https://arxiv.org/abs/2411.13537)]
 * [Nov 2024] **"Aligning Generalisation Between Humans and Machines"** [[paper](https://arxiv.org/abs/2411.15626)]

@@ -25,6 +25,7 @@
 * [Aug 2024] **"Can LLMs Beat Humans in Debating? A Dynamic Multi-agent Framework for Competitive Debate"** [[paper](https://arxiv.org/abs/2408.04472)]
 * [Oct 2024] **"Multi-Agent Large Language Models for Conversational Task-Solving"** [[paper](https://arxiv.org/abs/2410.22932)]
 * [Nov 2024] **"DARD: A Multi-Agent Approach for Task-Oriented Dialog Systems"** [[paper](https://arxiv.org/abs/2411.00427)]
+* [Jan 2025] **"ToM-agent: Large Language Models as Theory of Mind Aware Generative Agents with Counterfactual Reflection"** [[paper](https://arxiv.org/abs/2501.15355)]
 
 ### Problem Solving
 * [Mar 2023] **"CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society"** [[paper](https://arxiv.org/abs/2303.17760)]
