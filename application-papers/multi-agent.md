@@ -68,6 +68,10 @@
 * [Dec 2024] **"Seeker: Towards Exception Safety Code Generation with Intermediate Language Agents Framework"** [[paper](https://arxiv.org/abs/2412.11713)]
 * [Dec 2024] **"Efficient Multi-Agent Collaboration with Tool Use for Online Planning in Complex Table Question Answering"** [[paper](https://arxiv.org/abs/2412.20145)]
 * [Dec 2024] **"OneKE: A Dockerized Schema-Guided LLM Agent-based Knowledge Extraction System"**  [[paper](https://arxiv.org/abs/2412.20005)]
+* [Jan 2025] **"Multi-Agent Geospatial Copilots for Remote Sensing Workflows"** [[paper](https://arxiv.org/abs/2501.16254)]
+* [Feb 2025] **"Position: Towards a Responsible LLM-empowered Multi-Agent Systems"** [[paper](https://arxiv.org/abs/2502.01714)]
+* [Feb 2025] **"Flow-of-Action: SOP Enhanced LLM-Based Multi-Agent System for Root Cause Analysis"** [[paper](https://www.arxiv.org/abs/2502.08224)]
+
 
 ### World Simulation
 * [Apr 2023] **"Generative agents: Interactive simulacra of human behavior"** [[paper](https://arxiv.org/abs/2304.03442)]
@@ -94,3 +98,4 @@
 * 📖 [Dec 2024] **"A Survey on Large Language Model-Based Social Agents in Game-Theoretic Scenarios"** [[paper](https://arxiv.org/abs/2412.03920)]
 * 📖 [Dec 2024] **"From Individual to Society: A Survey on Social Simulation Driven by Large Language Model-based Agents"** [[paper](https://arxiv.org/abs/2412.03563)]
 * [Dec 2024] **"LMAgent: A Large-scale Multimodal Agents Society for Multi-user Simulation"** [[paper](https://arxiv.org/abs/2412.09237)]
+* [Feb 2025] **"AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society"** [[paper](https://www.arxiv.org/abs/2502.08691)]

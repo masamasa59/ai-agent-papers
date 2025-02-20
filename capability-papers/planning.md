@@ -38,3 +38,4 @@ These papers discuss agent planning.
 * [Oct 2024] **"Planning in Strawberry Fields: Evaluating and Improving the Planning and Scheduling Capabilities of LRM o1"** [[paper](https://arxiv.org/abs/2410.02162)]
 * ⚖️ [Oct 2024] **"Benchmarking Agentic Workflow Generation"** [[paper](https://arxiv.org/abs/2410.07869)]
 * [Nov 2024] **"CaPo: Cooperative Plan Optimization for Efficient Embodied Multi-Agent Cooperation"** [[paper](https://arxiv.org/abs/2411.04679v1)]
+* 📖 [Feb 2025] **"PlanGenLLMs: A Modern Survey of LLM Planning Capabilities"** [[paper](https://arxiv.org/abs/2502.11221)]

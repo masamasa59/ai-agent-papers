@@ -24,3 +24,4 @@ These papers discuss profiles that define the roles of agents, including role-pl
 * [Nov 2024] **"Generative Agent Simulations of 1,000 People"** [[paper](https://arxiv.org/abs/2411.10109)]
 * [Dec 2024] **"CharacterBox: Evaluating the Role-Playing Capabilities of LLMs in Text-Based Virtual Worlds"** [[paper](https://arxiv.org/abs/2412.05631)]
 * [Dec 2024] **"Simulating Human-like Daily Activities with Desire-driven Autonomy"** [[paper](https://arxiv.org/abs/2412.06435)]
+* [Feb 2025] **"PsyPlay: Personality-Infused Role-Playing Conversational Agents"** [[paper](https://arxiv.org/abs/2502.03821)]

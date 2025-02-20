@@ -35,3 +35,4 @@
 * [Jan 2025] **"Agent Laboratory: Using LLM Agents as Research Assistants"** [[paper](https://arxiv.org/abs/2501.04227)]
 * 📖 [Jan 2025] **"LLM4SR: A Survey on Large Language Models for Scientific Research"** [[paper](https://arxiv.org/abs/2501.04306)]
 * [Jan 2025] **"PaSa: An LLM Agent for Comprehensive Academic Paper Search"** [[paper](https://arxiv.org/abs/2501.10120)]
+* [Feb 2025] **"Towards an AI co-scientist"** [[paper](https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist/)]

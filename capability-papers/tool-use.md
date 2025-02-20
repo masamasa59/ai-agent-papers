@@ -39,3 +39,6 @@ These papers discuss whether or not agents can properly use tools
 * [Nov 2024] **"DynaSaur : Large Language Agents Beyond Predefined Actions"** [[paper](https://arxiv.org/abs/2411.01747)]
 * ⚖️ [Jan 2025] **"ToolHop: A Query-Driven Benchmark for Evaluating Large Language Models in Multi-Hop Tool Use"** [[psper](https://arxiv.org/abs/2501.02506)]
 * ⚖️ [Jan 2025] **"ACEBench: Who Wins the Match Point in Tool Learning?"** [[paper](https://arxiv.org/abs/2501.12851v1)]
+* [Feb 2025] **"SMART: Self-Aware Agent for Tool Overuse Mitigation"** [[paper](https://arxiv.org/abs/2502.11435)]
+* [Feb 2025] **"OctoTools: An Agentic Framework with Extensible Tools for Complex Reasoning"** [[paper](https://arxiv.org/abs/2502.11271)]
+* [Feb 2025] **"LLM Agents Making Agent Tools"** [[paper](https://arxiv.org/abs/2502.11705)]

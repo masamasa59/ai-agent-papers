@@ -27,3 +27,5 @@
 * [Jan 2025] **"AgentRefine: Enhancing Agent Generalization through Refinement Tuning"** [[paper](https://arxiv.org/abs/2501.01702)]
 * [Jan 2025] **"Agent-R: Training Language Model Agents to Reflect via Iterative Self-Training"** [[paper](https://arxiv.org/abs/2501.11425)]
 * [Jan 2025] **"Learn-by-interact: A Data-Centric Framework for Self-Adaptive Agents in Realistic Environments"** [[paper](https://arxiv.org/abs/2501.10893)]
+* [Jan 2025] **"Improving Vision-Language-Action Model with Online Reinforcement Learning"** [[paper](https://arxiv.org/abs/2501.16664)]
+* [Feb 2025] **"Satori: Reinforcement Learning with Chain-of-Action-Thought Enhances LLM Reasoning via Autoregressive Search"** [[paper](https://arxiv.org/abs/2502.02508)]

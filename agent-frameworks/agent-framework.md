@@ -59,6 +59,9 @@
 * [Jan 2025] **"PoAct: Policy and Action Dual-Control Agent for Generalized Applications"** [[paper](https://arxiv.org/abs/2501.07054)]
 * [Jan 2025] **"A Multimodal Social Agent"** [[paper](https://arxiv.org/abs/2501.06189)]
 * [Jan 2025] **"SOP-Agent: Empower General Purpose AI Agent with Domain-Specific SOPs"** [[paper](https://arxiv.org/abs/2501.09316)]
+* [Feb 2025] **"EvoFlow: Evolving Diverse Agentic Workflows On The Fly"** [[paper](https://arxiv.org/abs/2502.07373)]
+* [Feb 2025] **"EvoAgent: Agent Autonomous Evolution with Continual World Model for Long-Horizon Tasks"** [[paper](https://arxiv.org/abs/2502.05907)]
+* [Feb 2025] **"Agentic Reasoning: Reasoning LLMs with Tools for the Deep Research"** [[paper](https://arxiv.org/abs/2502.04644)]
 
 
 ## Multi-Agent
@@ -70,6 +73,8 @@
 * [Jul 2024] **"BMW Agents - A Framework For Task Automation Through Multi-Agent Collaboration"** [[paper](https://arxiv.org/abs/2406.20041)]
 * [Aug 2024] **"MegaAgent: A Practical Framework for Autonomous Cooperation in Large-Scale LLM Agent Systems"** [[paper](https://arxiv.org/abs/2408.09955)]
 * [Nov 2024] **"Magentic-One: A Generalist Multi-Agent System for Solving Complex Tasks"** [[paper](https://arxiv.org/abs/2411.04468)]
+* [Feb 2025] **"Multi-agent Architecture Search via Agentic Supernet"** [[paper](https://arxiv.org/abs/2502.04180)]
+
 
 ## Agent Ops & UX
 * [Feb 2024] **"Towards better Human-Agent Alignment: Assessing Task Utility in LLM-Powered Applications"** [[paper](https://arxiv.org/abs/2402.09015)]
@@ -82,3 +87,5 @@
 * [Dec 2024] **"Specifications: The missing link to making the development of LLM systems an engineering discipline"** [[paper](https://arxiv.org/abs/2412.05299)]
 * [Dec 2024] **"Agents Are Not Enough"** [[paper](https://arxiv.org/html/2412.16241v1)]
 * [Jan 2025] **"Authenticated Delegation and Authorized AI Agents"** [[paper](https://www.arxiv.org/abs/2501.09674)]
+* [Feb 2025] **"Agency Is Frame-Dependent"** [[paper](https://arxiv.org/abs/2502.04403)]
+

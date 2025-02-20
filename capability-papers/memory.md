@@ -21,6 +21,8 @@ These papers discuss an agent’s memory function and its self-evolution.
 * [Dec 2024] **"On the Structural Memory of LLM Agents"** [[paper](https://arxiv.org/abs/2412.15266)]
 * [Dec 2024] **"Memory-Augmented Agent Training for Business Document Understanding"** [[paper](https://arxiv.org/abs/2412.15274)]
 * [Jan 2025] **"ChemAgent: Self-updating Library in Large Language Models Improves Chemical Reasoning"** [[paper](https://arxiv.org/abs/2501.06590)]
+* [Feb 2025] **"Position: Episodic Memory is the Missing Piece for Long-Term LLM Agents"** [[paper](https://arxiv.org/abs/2502.06975)]
+* [Feb 2025] **"A-MEM: Agentic Memory for LLM Agents"** [[paper](https://arxiv.org/abs/2502.12110)]
 
 
 ## Self-Evolution (Self-Improvement)
@@ -41,3 +43,6 @@ These papers discuss an agent’s memory function and its self-evolution.
 * [Oct 2024] **"MOSS: Enabling Code-Driven Evolution and Context Management for AI Agents"** [[paper](https://arxiv.org/abs/2409.16120)]
 * [Jan 2025] **"Lifelong Learning of Large Language Model based Agents: A Roadmap"** [[paper](https://arxiv.org/abs/2501.07278)]
 * [Jan 2025] **"Mobile-Agent-E: Self-Evolving Mobile Assistant for Complex Tasks"** [[paper](https://arxiv.org/abs/2501.11733)]
+* [Feb 2025] **"Multi-agent Architecture Search via Agentic Supernet"** [[paper](https://arxiv.org/abs/2502.04180)]
+* [Feb 2025] **"EvoFlow: Evolving Diverse Agentic Workflows On The Fly"** [[paper](https://arxiv.org/abs/2502.07373)]
+* [Feb 2025] **"EvoAgent: Agent Autonomous Evolution with Continual World Model for Long-Horizon Tasks"** [[paper](https://arxiv.org/abs/2502.05907)]
