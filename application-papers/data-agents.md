@@ -44,3 +44,4 @@
 * [Jan 2025] **"MDSF: Context-Aware Multi-Dimensional Data Storytelling Framework based on Large language Model"** [[paper](https://arxiv.org/abs/2501.01014)]
 * [Jan 2025] **"Towards Human-Guided, Data-Centric LLM Co-Pilots"** [[paper](https://arxiv.org/abs/2501.10321)]
 * [Jan 2025] **"Jupybara: Operationalizing a Design Space for Actionable Data Analysis and Storytelling with LLMs"** [[paper](https://arxiv.org/abs/2501.16661)]
+* [Feb 2025] **"METAL: A Multi-Agent Framework for Chart Generation with Test-Time Scaling"** [[paper](https://arxiv.org/abs/2502.17651)]

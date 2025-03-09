@@ -33,4 +33,5 @@ These papers discuss whether agents can autonomously recover from errors.
 * [Dec 2024] **"Understanding the Dark Side of LLMs’ Intrinsic Self-Correction"** [[paper](https://arxiv.org/abs/2412.14959)]
 * ⚖️ [Jan 2025] **"RealCritic: Towards Effectiveness-Driven Evaluation of Language Model Critiques"** [[paper](https://arxiv.org/abs/2501.14492)]
 * [Jan 2025] **"Learning to Plan & Reason for Evaluation with Thinking-LLM-as-a-Judge"** [[paper](https://arxiv.org/abs/2501.18099)]
+* [Feb 2025] **"Multi-Agent Verification: Scaling Test-Time Compute with Multiple Verifiers"** [[paper](https://arxiv.org/abs/2502.20379)]
 

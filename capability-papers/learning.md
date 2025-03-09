@@ -29,3 +29,5 @@
 * [Jan 2025] **"Learn-by-interact: A Data-Centric Framework for Self-Adaptive Agents in Realistic Environments"** [[paper](https://arxiv.org/abs/2501.10893)]
 * [Jan 2025] **"Improving Vision-Language-Action Model with Online Reinforcement Learning"** [[paper](https://arxiv.org/abs/2501.16664)]
 * [Feb 2025] **"Satori: Reinforcement Learning with Chain-of-Action-Thought Enhances LLM Reasoning via Autoregressive Search"** [[paper](https://arxiv.org/abs/2502.02508)]
+* [Feb 2025] **"Training a Generally Curious Agent"** [[paper](https://arxiv.org/abs/2502.17543)]
+* [Mar 2025] **"ATLAS: Agent Tuning via Learning Critical Steps"** [[paper](https://arxiv.org/abs/2503.02197)]

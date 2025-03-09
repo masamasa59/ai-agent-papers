@@ -39,3 +39,5 @@ These papers discuss agent planning.
 * ⚖️ [Oct 2024] **"Benchmarking Agentic Workflow Generation"** [[paper](https://arxiv.org/abs/2410.07869)]
 * [Nov 2024] **"CaPo: Cooperative Plan Optimization for Efficient Embodied Multi-Agent Cooperation"** [[paper](https://arxiv.org/abs/2411.04679v1)]
 * 📖 [Feb 2025] **"PlanGenLLMs: A Modern Survey of LLM Planning Capabilities"** [[paper](https://arxiv.org/abs/2502.11221)]
+* [Feb 2025] **"PlanGEN: A Multi-Agent Framework for Generating Planning and Reasoning Trajectories for Complex Problem Solving"** [[paper](https://arxiv.org/abs/2502.16111)]
+* [Feb 2025] **"Conversational Planning for Personal Plans"** [[paper](https://arxiv.org/abs/2502.19500)]

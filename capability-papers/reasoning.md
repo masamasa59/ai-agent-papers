@@ -46,4 +46,6 @@
 * [Nov 2024] **"LLaVA-CoT: Let Vision Language Models Reason Step-by-Step"** [[paper](https://arxiv.org/abs/2411.10440)]
 * [Jan 2025] **"Towards System 2 Reasoning in LLMs: Learning How to Think With Meta Chain-of-Thought"** [[paper](https://arxiv.org/abs/2501.04682)]
 * 📖 [Jan 2025] **"Test-time Computing: from System-1 Thinking to System-2 Thinking"** [[paper](https://arxiv.org/abs/2501.02497)]
+* 📖 [Feb 2025] **"Code to Think, Think to Code: A Survey on Code-Enhanced Reasoning and Reasoning-Driven Code Intelligence in LLMs"** [[paper](https://arxiv.org/abs/2502.19411)]
+* [Feb 2025] **"The Relationship Between Reasoning and Performance in Large Language Models -- o3 (mini) Thinks Harder, Not Longer"** [[paper](https://arxiv.org/abs/2502.15631)]
 

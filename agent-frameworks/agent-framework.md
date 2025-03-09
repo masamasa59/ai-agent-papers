@@ -62,7 +62,8 @@
 * [Feb 2025] **"EvoFlow: Evolving Diverse Agentic Workflows On The Fly"** [[paper](https://arxiv.org/abs/2502.07373)]
 * [Feb 2025] **"EvoAgent: Agent Autonomous Evolution with Continual World Model for Long-Horizon Tasks"** [[paper](https://arxiv.org/abs/2502.05907)]
 * [Feb 2025] **"Agentic Reasoning: Reasoning LLMs with Tools for the Deep Research"** [[paper](https://arxiv.org/abs/2502.04644)]
-
+* [Feb 2025] **"FLOWAGENT: Achieving Compliance and Flexibility for Workflow Agents"** [[paper](https://arxiv.org/abs/2502.14345)]
+* [Feb 2025] **"AutoAgent: A Fully-Automated and Zero-Code Framework for LLM Agents"** [[paper](https://arxiv.org/abs/2502.05957)]
 
 ## Multi-Agent
 * [Mar 2023] **"CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society"** [[paper](https://arxiv.org/abs/2303.17760)]

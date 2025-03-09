@@ -13,6 +13,8 @@
 * 🔥 📖 [Feb 2024] **"Large Language Model based Multi-Agents: A Survey of Progress and Challenges"** [[paper](https://arxiv.org/abs/2402.01680)]
 * 📖 [Dec 2024] **A Survey on Multi-Generative Agent System: Recent Advances and New Frontiers** [[paper](https://arxiv.org/abs/2412.17481)]
 * 📖 [Jan 2025] **"Multi-Agent Collaboration Mechanisms: A Survey of LLMs"** [[paper](https://arxiv.org/abs/2501.06322)]
+* 📖 [Feb 2025] **"Beyond Self-Talk: A Communication-Centric Survey of LLM-Based Multi-Agent Systems"** [[paper](https://arxiv.org/abs/2502.14321)]
+
 
 ### MAD（Multi-Agent Debate）
 * [May 2023] **"Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate"** [[paper](https://arxiv.org/abs/2305.19118)]
