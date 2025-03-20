@@ -29,3 +29,4 @@
 * ⚖️ [Dec 2024] **"RuleArena: A Benchmark for Rule-Guided Reasoning with LLMs in Real-World Scenarios"** [[paper](https://arxiv.org/abs/2412.08972)]
 * ⚖️ [Dec 2024] **"EscapeBench: Pushing Language Models to Think Outside the Box"** [[paper](https://arxiv.org/abs/2412.13549)]
 * ⚖️ [Dec 2024] **"TheAgentCompany: Benchmarking LLM Agents on Consequential Real World Tasks"** [[paper](https://arxiv.org/abs/2412.14161)]
+* ⚖️ [Mar 2025] **"WritingBench: A Comprehensive Benchmark for Generative Writing"** [[paper](https://arxiv.org/abs/2503.05244)]

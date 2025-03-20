@@ -45,3 +45,8 @@
 * [Jan 2025] **"Towards Human-Guided, Data-Centric LLM Co-Pilots"** [[paper](https://arxiv.org/abs/2501.10321)]
 * [Jan 2025] **"Jupybara: Operationalizing a Design Space for Actionable Data Analysis and Storytelling with LLMs"** [[paper](https://arxiv.org/abs/2501.16661)]
 * [Feb 2025] **"METAL: A Multi-Agent Framework for Chart Generation with Test-Time Scaling"** [[paper](https://arxiv.org/abs/2502.17651)]
+* [Feb 2025] **"AIDE: AI-Driven Exploration in the Space of Code"** [[paper](https://arxiv.org/abs/2502.13138)]
+* [Mar 2025] **"OR-LLM-Agent: Automating Modeling and Solving of Operations Research Optimization Problem with Reasoning Large Language Model"** [[paper](https://arxiv.org/abs/2503.10009)]
+* [Mar 2025] **"Exploring LLM Agents for Cleaning Tabular Machine Learning Datasets"** [[paper](https://arxiv.org/abs/2503.06664)]
+* [Mar 2025] **"DatawiseAgent: A Notebook-Centric LLM Agent Framework for Automated Data Science"** [[paper](https://arxiv.org/abs/2503.07044)]
+* [Mar 2025] **"DAgent: A Relational Database-Driven Data Analysis Report Generation Agent"** [[paper](https://arxiv.org/abs/2503.13269)]

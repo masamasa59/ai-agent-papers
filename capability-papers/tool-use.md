@@ -44,3 +44,4 @@ These papers discuss whether or not agents can properly use tools
 * [Feb 2025] **"OctoTools: An Agentic Framework with Extensible Tools for Complex Reasoning"** [[paper](https://arxiv.org/abs/2502.11271)]
 * [Feb 2025] **"LLM Agents Making Agent Tools"** [[paper](https://arxiv.org/abs/2502.11705)]
 * [Mar 2025] **"ToolFuzz - Automated Agent Tool Testing"** [[paper](https://arxiv.org/abs/2503.04479)]
+* [Mar 2025] **"Advanced Tool Learning and Selection System (ATLASS): A Closed-Loop Framework Using LLM"** [[paper](https://arxiv.org/abs/2503.12434)]

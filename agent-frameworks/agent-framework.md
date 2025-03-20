@@ -64,6 +64,8 @@
 * [Feb 2025] **"Agentic Reasoning: Reasoning LLMs with Tools for the Deep Research"** [[paper](https://arxiv.org/abs/2502.04644)]
 * [Feb 2025] **"FLOWAGENT: Achieving Compliance and Flexibility for Workflow Agents"** [[paper](https://arxiv.org/abs/2502.14345)]
 * [Feb 2025] **"AutoAgent: A Fully-Automated and Zero-Code Framework for LLM Agents"** [[paper](https://arxiv.org/abs/2502.05957)]
+* [Mar 2025] **"API Agents vs. GUI Agents: Divergence and Convergence"** [[paper](https://arxiv.org/abs/2503.11069)]
+
 
 ## Multi-Agent
 * [Mar 2023] **"CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society"** [[paper](https://arxiv.org/abs/2303.17760)]

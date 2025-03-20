@@ -35,3 +35,4 @@ These papers discuss the safety and risks of agents.
 * ⚖️ [Dec 2024] **"SafeAgentBench: A Benchmark for Safe Task Planning of Embodied LLM Agents"** [[ppaer](https://arxiv.org/abs/2412.13178)]
 * [Jan 2025] **"Context is Key for Agent Security"** [[paper](https://arxiv.org/abs/2501.17070)]
 * [Mar 2025] **"A Practical Memory Injection Attack against LLM Agents"** [[paper](https://arxiv.org/abs/2503.03704)]
+* 📖 [Mar 2025] **"A Survey on Trustworthy LLM Agents: Threats and Countermeasures"** [[paper](https://arxiv.org/abs/2503.09648)]

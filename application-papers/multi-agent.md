@@ -14,6 +14,8 @@
 * 📖 [Dec 2024] **A Survey on Multi-Generative Agent System: Recent Advances and New Frontiers** [[paper](https://arxiv.org/abs/2412.17481)]
 * 📖 [Jan 2025] **"Multi-Agent Collaboration Mechanisms: A Survey of LLMs"** [[paper](https://arxiv.org/abs/2501.06322)]
 * 📖 [Feb 2025] **"Beyond Self-Talk: A Communication-Centric Survey of LLM-Based Multi-Agent Systems"** [[paper](https://arxiv.org/abs/2502.14321)]
+* [Mar 2025] **"Why Do Multi-Agent LLM Systems Fail?"** [[paper](https://arxiv.org/abs/2503.13657)]
+* 📖 [Mar 2025] **"A Comprehensive Survey on Multi-Agent Cooperative Decision-Making: Scenarios, Approaches, Challenges and Perspectives"** [[paper](https://arxiv.org/abs/2503.13415)]
 
 
 ### MAD（Multi-Agent Debate）
@@ -73,6 +75,7 @@
 * [Jan 2025] **"Multi-Agent Geospatial Copilots for Remote Sensing Workflows"** [[paper](https://arxiv.org/abs/2501.16254)]
 * [Feb 2025] **"Position: Towards a Responsible LLM-empowered Multi-Agent Systems"** [[paper](https://arxiv.org/abs/2502.01714)]
 * [Feb 2025] **"Flow-of-Action: SOP Enhanced LLM-Based Multi-Agent System for Root Cause Analysis"** [[paper](https://www.arxiv.org/abs/2502.08224)]
+
 
 
 ### World Simulation

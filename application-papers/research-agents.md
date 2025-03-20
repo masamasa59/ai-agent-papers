@@ -36,3 +36,4 @@
 * 📖 [Jan 2025] **"LLM4SR: A Survey on Large Language Models for Scientific Research"** [[paper](https://arxiv.org/abs/2501.04306)]
 * [Jan 2025] **"PaSa: An LLM Agent for Comprehensive Academic Paper Search"** [[paper](https://arxiv.org/abs/2501.10120)]
 * [Feb 2025] **"Towards an AI co-scientist"** [[paper](https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist/)]
+* [Mar 2025] **"ReviewAgents: Bridging the Gap Between Human and AI-Generated Paper Reviews"** [[paper](https://arxiv.org/abs/2503.08506)]

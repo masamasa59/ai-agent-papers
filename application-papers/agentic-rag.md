@@ -34,3 +34,4 @@
 * 📖 [Jan 2025] **"Agentic Retrieval-Augmented Generation: A Survey on Agentic RAG"** [[paper](https://arxiv.org/abs/2501.09136)]
 * [Jan 2025] **"OmniThink: Expanding Knowledge Boundaries in Machine Writing through Thinking"** [[paper](https://arxiv.org/abs/2501.09751)]
 * [Jan 2025] **"PaSa: An LLM Agent for Comprehensive Academic Paper Search"** [[paper](https://arxiv.org/abs/2501.10120)]
+* [Mar 2025] **"MDocAgent: A Multi-Modal Multi-Agent Framework for Document Understanding"** [[paper](https://arxiv.org/abs/2503.13964)]

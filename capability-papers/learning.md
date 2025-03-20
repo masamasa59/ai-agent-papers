@@ -31,3 +31,5 @@
 * [Feb 2025] **"Satori: Reinforcement Learning with Chain-of-Action-Thought Enhances LLM Reasoning via Autoregressive Search"** [[paper](https://arxiv.org/abs/2502.02508)]
 * [Feb 2025] **"Training a Generally Curious Agent"** [[paper](https://arxiv.org/abs/2502.17543)]
 * [Mar 2025] **"ATLAS: Agent Tuning via Learning Critical Steps"** [[paper](https://arxiv.org/abs/2503.02197)]
+* [Mar 2025] **"ReMA: Learning to Meta-think for LLMs with Multi-Agent Reinforcement Learning"** [[paper](https://arxiv.org/abs/2503.09501)]
+* [Mar 2025] **"A Survey on the Optimization of Large Language Model-based Agents"** [[paper](https://arxiv.org/abs/2503.12434)]

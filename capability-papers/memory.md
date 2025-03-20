@@ -50,3 +50,5 @@ These papers discuss an agent’s memory function and its self-evolution.
 * [Feb 2025] **"EvoAgent: Agent Autonomous Evolution with Continual World Model for Long-Horizon Tasks"** [[paper](https://arxiv.org/abs/2502.05907)]
 * 📖 [Feb 2025] **"A Systematic Survey of Automatic Prompt Optimization Techniques"** [[paper](https://arxiv.org/abs/2502.16923)]
 * 📖 [Feb 2025] **"Automatic Prompt Optimization via Heuristic Search: A Survey"** [[paper](https://arxiv.org/abs/2502.18746)]
+* [Mar 2025] **"In Prospect and Retrospect: Reflective Memory Management for Long-term Personalized Dialogue Agents"** [[paper](https://arxiv.org/abs/2503.08026)]
+* [Mar 2025] **"AI-native Memory 2.0: Second Me"** [[paper](http://www.arxiv.org/abs/2503.08102)]

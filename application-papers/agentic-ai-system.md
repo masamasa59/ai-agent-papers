@@ -48,3 +48,6 @@ Agents in various tasks such as education, healthcare, and the press.
 * [Jan 2025] **"AIOpsLab: A Holistic Framework to Evaluate AI Agents for Enabling Autonomous Clouds"** [[paper](https://arxiv.org/abs/2501.06706)]
 * [Jan 2025] **"Agent4Edu: Generating Learner Response Data by Generative Agents for Intelligent Education Systems"** [[paper](https://arxiv.org/abs/2501.10332)]
 * 📖 [Feb 2025] **"A Survey on LLM-powered Agents for Recommender Systems"** [[paper](https://arxiv.org/abs/2502.10050)]
+* 📖 [Mar 2025] **"LLM Agents for Education: Advances and Applications"** [[paper](https://arxiv.org/abs/2503.11733)]
+* [Mar 2025] **"BannerAgency: Advertising Banner Design with Multimodal LLM Agents"** [[paper](https://www.arxiv.org/abs/2503.11060)]
+* [Mar 2025] **"MAP : Multi-user Personalization with Collaborative LLM-powered Agents"**  [[paper](https://arxiv.org/abs/2503.12757)]
