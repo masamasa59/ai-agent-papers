@@ -14,6 +14,7 @@ These papers discuss whether or not agents can properly use tools
 * [May 2023] **"Gorilla: Large language model connected with massive apis"** [[paper](https://arxiv.org/abs/2305.15334)]
 * [May 2023] **"Large language models as tool makers"** [[paper](https://arxiv.org/abs/2305.17126)]
 * ⚖️ [Jul 2023] **"ToolLLM: Facilitating Large Language Models to Master 16000+ Real-World APIs."** [[paper](https://arxiv.org/abs/2307.16789)]
+* [Aug 2023] **"Tool Documentation Enables Zero-Shot Tool-Usage with Large Language Models"** [[paper](https://arxiv.org/abs/2308.00675)]
 * [Sep 2023] **"ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving"** [[paper](https://arxiv.org/abs/2309.17452)]
 * [Sep 2023] **"CRAFT: Customizing LLMs by Creating and Retrieving from Specialized Toolsets"** [[paper](https://arxiv.org/abs/2309.17428)]
 * ⚖️ [Oct 2023] **"MetaTool Benchmark for Large Language Models: Deciding Whether to Use Tools and Which to Use"** [[paper](https://arxiv.org/abs/2310.03128)]

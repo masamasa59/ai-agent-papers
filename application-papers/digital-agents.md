@@ -75,3 +75,4 @@
 * 🔥 📖 [Nov 2024] **"Foundations and Recent Trends in Multimodal Mobile Agents: A Survey"** [[paper](https://arxiv.org/abs/2411.02006)]
 * ⚖️ [Dec 2024] **"A3: Android Agent Arena for Mobile GUI Agents"** [[paper](https://arxiv.org/abs/2501.01149)]
 * [Jan 2025] **"Mobile-Agent-E: Self-Evolving Mobile Assistant for Complex Tasks"** [[paper](https://arxiv.org/abs/2501.11733)]
+* [Mar 2025] **"Agent-Initiated Interaction in Phone UI Automation"** [[paper](https://arxiv.org/abs/2503.19537)]
