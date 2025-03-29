@@ -24,7 +24,8 @@ These papers discuss an agent’s memory function and its self-evolution.
 * [Feb 2025] **"Position: Episodic Memory is the Missing Piece for Long-Term LLM Agents"** [[paper](https://arxiv.org/abs/2502.06975)]
 * [Feb 2025] **"A-MEM: Agentic Memory for LLM Agents"** [[paper](https://arxiv.org/abs/2502.12110)]
 * [Mar 2025] **"A Practical Memory Injection Attack against LLM Agents"** [[paper](https://arxiv.org/abs/2503.03704)]
-
+* [Mar 2025] **"AI-native Memory 2.0: Second Me"** [[paper](http://www.arxiv.org/abs/2503.08102)]
+* [Mar 2025] **"MemInsight: Autonomous Memory Augmentation for LLM Agents"** [[paper](https://arxiv.org/abs/2503.21760)]
 
 ## Self-Evolution (Self-Improvement)
 * [May 2024] **Offline Training of Language Model Agents with Functions as Learnable Weights"** [[paper](https://arxiv.org/abs/2402.11359)]
@@ -51,4 +52,4 @@ These papers discuss an agent’s memory function and its self-evolution.
 * 📖 [Feb 2025] **"A Systematic Survey of Automatic Prompt Optimization Techniques"** [[paper](https://arxiv.org/abs/2502.16923)]
 * 📖 [Feb 2025] **"Automatic Prompt Optimization via Heuristic Search: A Survey"** [[paper](https://arxiv.org/abs/2502.18746)]
 * [Mar 2025] **"In Prospect and Retrospect: Reflective Memory Management for Long-term Personalized Dialogue Agents"** [[paper](https://arxiv.org/abs/2503.08026)]
-* [Mar 2025] **"AI-native Memory 2.0: Second Me"** [[paper](http://www.arxiv.org/abs/2503.08102)]
+* [Mar 2025] **"MARS: Memory-Enhanced Agents with Reflective Self-improvement"** [[paper](https://arxiv.org/abs/2503.19271)]

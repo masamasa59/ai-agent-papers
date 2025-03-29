@@ -65,7 +65,9 @@
 * [Feb 2025] **"FLOWAGENT: Achieving Compliance and Flexibility for Workflow Agents"** [[paper](https://arxiv.org/abs/2502.14345)]
 * [Feb 2025] **"AutoAgent: A Fully-Automated and Zero-Code Framework for LLM Agents"** [[paper](https://arxiv.org/abs/2502.05957)]
 * [Mar 2025] **"API Agents vs. GUI Agents: Divergence and Convergence"** [[paper](https://arxiv.org/abs/2503.11069)]
-
+* [Mar 2025] **"The Art of Tool Interface Design"** [[paper](https://arxiv.org/abs/2503.21036)]
+* 📖 [Mar 2025] **"Large Language Model Agent: A Survey on Methodology, Applications and Challenges"** [[paper](https://arxiv.org/abs/2503.21460)]
+* [Mar 2025] **"PLAN-AND-ACT: Improving Planning of Agents for Long-Horizon Tasks"** [[paper](https://arxiv.org/abs/2503.09572)]
 
 ## Multi-Agent
 * [Mar 2023] **"CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society"** [[paper](https://arxiv.org/abs/2303.17760)]
@@ -91,4 +93,3 @@
 * [Dec 2024] **"Agents Are Not Enough"** [[paper](https://arxiv.org/html/2412.16241v1)]
 * [Jan 2025] **"Authenticated Delegation and Authorized AI Agents"** [[paper](https://www.arxiv.org/abs/2501.09674)]
 * [Feb 2025] **"Agency Is Frame-Dependent"** [[paper](https://arxiv.org/abs/2502.04403)]
-
