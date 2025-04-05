@@ -31,6 +31,8 @@
 * [Jan 2025] **"InfiGUIAgent: A Multimodal Generalist GUI Agent with Native Reasoning and Reflection"** [[paper](https://arxiv.org/abs/2501.04575)]
 * [Jan 2025] **"UI-TARS: Pioneering Automated GUI Interaction with Native Agents"** [[paper](https://arxiv.org/abs/2501.12326)]
 * 📖 [Jan 2025] **"AI Agents for Computer Use: A Review of Instruction-based Computer Control, GUI Automation, and Operator Assistants"** [[paper](https://arxiv.org/abs/2501.16150)]
+* 📖 [Mar 2025] **"Towards Trustworthy GUI Agents: A Survey"** [[paper](https://arxiv.org/abs/2503.23434)]
+* [Apr 2025] **"Agent S2: A Compositional Generalist-Specialist Framework for Computer Use Agents"** [[paper](https://arxiv.org/abs/2504.00906)]
 
 ### Web Agents
 * ⚖️ [Jul 2022] **"WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents"** [[paper](https://arxiv.org/abs/2207.01206)]
@@ -63,7 +65,7 @@
 * [Dec 2024] **"The BrowserGym Ecosystem for Web Agent Research"** [[paper](https://arxiv.org/abs/2412.05467)]
 * [Dec 2024] **"PAFFA: Premeditated Actions For Fast Agents"** [[paper](https://arxiv.org/abs/2412.07958)]
 * [Dec 2024] **"AgentTrek: Agent Trajectory Synthesis via Guiding Replay with Web Tutorials"** [[paper](https://arxiv.org/abs/2412.09605)]
-
+* [Apr 2025] **"Are Autonomous Web Agents Good Testers?"** [[paper](https://arxiv.org/abs/2504.01495)]
 
 ### Mobile Agents
 * [Aug 2023] **"AutoDroid: LLM-powered Task Automation in Android"** [[paper](https://arxiv.org/abs/2308.15272)]

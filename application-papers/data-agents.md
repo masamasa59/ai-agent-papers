@@ -50,3 +50,4 @@
 * [Mar 2025] **"Exploring LLM Agents for Cleaning Tabular Machine Learning Datasets"** [[paper](https://arxiv.org/abs/2503.06664)]
 * [Mar 2025] **"DatawiseAgent: A Notebook-Centric LLM Agent Framework for Automated Data Science"** [[paper](https://arxiv.org/abs/2503.07044)]
 * [Mar 2025] **"DAgent: A Relational Database-Driven Data Analysis Report Generation Agent"** [[paper](https://arxiv.org/abs/2503.13269)]
+* [Mar 2025] **"SchemaAgent: A Multi-Agents Framework for Generating Relational Database Schema"** [[paper](https://arxiv.org/abs/2503.23886)]

@@ -34,4 +34,4 @@ These papers discuss whether agents can autonomously recover from errors.
 * ⚖️ [Jan 2025] **"RealCritic: Towards Effectiveness-Driven Evaluation of Language Model Critiques"** [[paper](https://arxiv.org/abs/2501.14492)]
 * [Jan 2025] **"Learning to Plan & Reason for Evaluation with Thinking-LLM-as-a-Judge"** [[paper](https://arxiv.org/abs/2501.18099)]
 * [Feb 2025] **"Multi-Agent Verification: Scaling Test-Time Compute with Multiple Verifiers"** [[paper](https://arxiv.org/abs/2502.20379)]
-
+* [Apr 2025] **"Review, Refine, Repeat: Understanding Iterative Decoding of AI Agents with Dynamic Evaluation and Selection"** [[paper](https://arxiv.org/abs/2504.01931)]

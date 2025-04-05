@@ -49,3 +49,5 @@
 * 📖 [Feb 2025] **"Code to Think, Think to Code: A Survey on Code-Enhanced Reasoning and Reasoning-Driven Code Intelligence in LLMs"** [[paper](https://arxiv.org/abs/2502.19411)]
 * [Feb 2025] **"The Relationship Between Reasoning and Performance in Large Language Models -- o3 (mini) Thinks Harder, Not Longer"** [[paper](https://arxiv.org/abs/2502.15631)]
 * [Mar 2025] **"Large Reasoning Models in Agent Scenarios: Exploring the Necessity of Reasoning Capabilities"** [[paper](https://arxiv.org/abs/2503.11074)]
+* 📖 [Mar 2025] **"What, How, Where, and How Well? A Survey on Test-Time Scaling in Large Language Models"** [[paper](https://arxiv.org/abs/2503.24235)]
+* 📖 [Apr 2025] **"Inference-Time Scaling for Complex Tasks: Where We Stand and What Lies Ahead"** [[paper](https://arxiv.org/abs/2504.00294v1)]

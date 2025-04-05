@@ -68,6 +68,8 @@
 * [Mar 2025] **"The Art of Tool Interface Design"** [[paper](https://arxiv.org/abs/2503.21036)]
 * 📖 [Mar 2025] **"Large Language Model Agent: A Survey on Methodology, Applications and Challenges"** [[paper](https://arxiv.org/abs/2503.21460)]
 * [Mar 2025] **"PLAN-AND-ACT: Improving Planning of Agents for Long-Horizon Tasks"** [[paper](https://arxiv.org/abs/2503.09572)]
+* 🔥 📖 [Mar 2025] **"A Survey of Frontiers in LLM Reasoning: Inference Scaling, Learning to Reason, and Agentic Systems"** [[paper](https://openreview.net/forum?id=SlsZZ25InC)]
+* 🔥 📖 [Mar 2025] **"Agentic Large Language Models, a survey"** [[paper](https://www.arxiv.org/abs/2503.23037)]
 
 ## Multi-Agent
 * [Mar 2023] **"CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society"** [[paper](https://arxiv.org/abs/2303.17760)]
@@ -79,7 +81,8 @@
 * [Aug 2024] **"MegaAgent: A Practical Framework for Autonomous Cooperation in Large-Scale LLM Agent Systems"** [[paper](https://arxiv.org/abs/2408.09955)]
 * [Nov 2024] **"Magentic-One: A Generalist Multi-Agent System for Solving Complex Tasks"** [[paper](https://arxiv.org/abs/2411.04468)]
 * [Feb 2025] **"Multi-agent Architecture Search via Agentic Supernet"** [[paper](https://arxiv.org/abs/2502.04180)]
-
+* [Mar 2025] **"WorkTeam: Constructing Workflows from Natural Language with Multi-Agents"** [[paper](https://arxiv.org/abs/2503.22473)]
+* [Apr 2025] **"AgentNet: Decentralized Evolutionary Coordination for LLM-based Multi-Agent Systems"** [[paper](https://arxiv.org/abs/2504.00587)]
 
 ## Agent Ops & UX
 * [Feb 2024] **"Towards better Human-Agent Alignment: Assessing Task Utility in LLM-Powered Applications"** [[paper](https://arxiv.org/abs/2402.09015)]

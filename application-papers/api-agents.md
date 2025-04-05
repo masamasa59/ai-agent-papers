@@ -32,3 +32,4 @@
 * 🔥 [Nov 2024] **"WorkflowLLM: Enhancing Workflow Orchestration Capability of Large Language Models"** [[paper](https://arxiv.org/abs/2411.05451)]
 * [Jan 2025] **"LLM-Agents Driven Automated Simulation Testing and Analysis of small Uncrewed Aerial Systems"** [[paper](https://arxiv.org/abs/2501.11864)]
 * [Jan 2025] **"Multi-Agent Geospatial Copilots for Remote Sensing Workflows"** [[paper](https://arxiv.org/abs/2501.16254)]
+* [Mar 2025] **"AI Agents in Engineering Design: A Multi-Agent Framework for Aesthetic and Aerodynamic Car Design"** [[paper](https://www.arxiv.org/abs/2503.23315)]

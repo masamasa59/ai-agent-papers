@@ -35,3 +35,5 @@
 * [Jan 2025] **"OmniThink: Expanding Knowledge Boundaries in Machine Writing through Thinking"** [[paper](https://arxiv.org/abs/2501.09751)]
 * [Jan 2025] **"PaSa: An LLM Agent for Comprehensive Academic Paper Search"** [[paper](https://arxiv.org/abs/2501.10120)]
 * [Mar 2025] **"MDocAgent: A Multi-Modal Multi-Agent Framework for Document Understanding"** [[paper](https://arxiv.org/abs/2503.13964)]
+* [Mar 2025] **"Open Deep Search: Democratizing Search with Open-source Reasoning Agents"** [[paper](https://arxiv.org/abs/2503.20201)]
+* 📖 [Mar 2025] **"Retrieval Augmented Generation and Understanding in Vision: A Survey and New Outlook"** [[paper](https://arxiv.org/abs/2503.18016)]

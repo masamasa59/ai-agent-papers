@@ -25,3 +25,5 @@ These papers discuss profiles that define the roles of agents, including role-pl
 * [Dec 2024] **"CharacterBox: Evaluating the Role-Playing Capabilities of LLMs in Text-Based Virtual Worlds"** [[paper](https://arxiv.org/abs/2412.05631)]
 * [Dec 2024] **"Simulating Human-like Daily Activities with Desire-driven Autonomy"** [[paper](https://arxiv.org/abs/2412.06435)]
 * [Feb 2025] **"PsyPlay: Personality-Infused Role-Playing Conversational Agents"** [[paper](https://arxiv.org/abs/2502.03821)]
+* [Mar 2025] **"Large Language Models Pass the Turing Test"** [[paper](https://arxiv.org/abs/2503.23674)]
+* [Mar 2025] **"PAARS: Persona Aligned Agentic Retail Shoppers"** [[paper](https://www.arxiv.org/abs/2503.24228)]

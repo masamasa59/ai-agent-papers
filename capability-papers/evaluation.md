@@ -33,3 +33,4 @@
 * ⚖️ [Mar 2025] **"Writing as a testbed for open ended agents"** [[paper](https://arxiv.org/abs/2503.19711)]
 * ⚖️ [Mar 2025] **"Measuring AI Ability to Complete Long Tasks"** [[paper](https://arxiv.org/abs/2503.14499)]
 * 📖 [Mar 2025] **"Survey on Evaluation of LLM-based Agents"** [[paper](https://arxiv.org/abs/2503.16416)]
+* 📖 [Mar 2025] **"Evaluating LLM-based Agents for Multi-Turn Conversations: A Survey"** [[paper](https://arxiv.org/abs/2503.22458)]
