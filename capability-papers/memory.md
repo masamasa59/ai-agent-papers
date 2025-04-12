@@ -53,3 +53,5 @@ These papers discuss an agent’s memory function and its self-evolution.
 * 📖 [Feb 2025] **"Automatic Prompt Optimization via Heuristic Search: A Survey"** [[paper](https://arxiv.org/abs/2502.18746)]
 * [Mar 2025] **"In Prospect and Retrospect: Reflective Memory Management for Long-term Personalized Dialogue Agents"** [[paper](https://arxiv.org/abs/2503.08026)]
 * [Mar 2025] **"MARS: Memory-Enhanced Agents with Reflective Self-improvement"** [[paper](https://arxiv.org/abs/2503.19271)]
+* [Apr 2025] **"Weak-for-Strong:Training Weak Meta-Agent to Harness Strong Executors"** [[paper](https://arxiv.org/abs/2504.04785)]
+* [Apr 2025] **"SkillWeaver: Web Agents can Self-Improve by Discovering and Honing Skills"** [[paper](https://arxiv.org/abs/2504.07079)]

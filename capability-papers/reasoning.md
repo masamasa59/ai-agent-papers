@@ -51,3 +51,4 @@
 * [Mar 2025] **"Large Reasoning Models in Agent Scenarios: Exploring the Necessity of Reasoning Capabilities"** [[paper](https://arxiv.org/abs/2503.11074)]
 * 📖 [Mar 2025] **"What, How, Where, and How Well? A Survey on Test-Time Scaling in Large Language Models"** [[paper](https://arxiv.org/abs/2503.24235)]
 * 📖 [Apr 2025] **"Inference-Time Scaling for Complex Tasks: Where We Stand and What Lies Ahead"** [[paper](https://arxiv.org/abs/2504.00294v1)]
+* [Apr 2025] **"Dual Engines of Thoughts: A Depth-Breadth Integration Framework for Open-Ended Analysis"** [[paper](https://arxiv.org/abs/2504.07872)]

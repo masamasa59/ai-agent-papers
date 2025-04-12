@@ -34,3 +34,4 @@
 * [Mar 2025] **"ReMA: Learning to Meta-think for LLMs with Multi-Agent Reinforcement Learning"** [[paper](https://arxiv.org/abs/2503.09501)]
 * [Mar 2025] **"A Survey on the Optimization of Large Language Model-based Agents"** [[paper](https://arxiv.org/abs/2503.12434)]
 * [Apr 2025] **"Command A: An Enterprise-Ready Large Language Model"** [[paper](https://arxiv.org/abs/2504.00698)]
+* [Apr 2025] **"APIGen-MT: Agentic PIpeline for Multi-Turn Data Generation via Simulated Agent-Human Interplay"** [[paper](https://arxiv.org/abs/2504.03601)]

@@ -70,6 +70,9 @@
 * [Mar 2025] **"PLAN-AND-ACT: Improving Planning of Agents for Long-Horizon Tasks"** [[paper](https://arxiv.org/abs/2503.09572)]
 * 🔥 📖 [Mar 2025] **"A Survey of Frontiers in LLM Reasoning: Inference Scaling, Learning to Reason, and Agentic Systems"** [[paper](https://openreview.net/forum?id=SlsZZ25InC)]
 * 🔥 📖 [Mar 2025] **"Agentic Large Language Models, a survey"** [[paper](https://www.arxiv.org/abs/2503.23037)]
+* [Apr 2025] **"Weak-for-Strong:Training Weak Meta-Agent to Harness Strong Executors"** [[paper](https://arxiv.org/abs/2504.04785)]
+* 🔥 📖 [Apr 2025] **"Advances and Challenges in Foundation Agents: From Brain-Inspired Intelligence to Evolutionary, Collaborative, and Safe Systems"** [[paper](https://arxiv.org/abs/2504.01990)]
+
 
 ## Multi-Agent
 * [Mar 2023] **"CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society"** [[paper](https://arxiv.org/abs/2303.17760)]

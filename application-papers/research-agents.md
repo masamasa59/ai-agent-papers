@@ -39,4 +39,5 @@
 * [Mar 2025] **"ReviewAgents: Bridging the Gap Between Human and AI-Generated Paper Reviews"** [[paper](https://arxiv.org/abs/2503.08506)]
 * [Mar 2025] **"CODESCIENTIST: End-to-End Semi-Automated Scientific Discovery with Code-based Experimentation"** [[paper](https://arxiv.org/abs/2503.22708)],[[project](https://allenai.org/blog/codescientist)]
 * 📖 [Mar 2025] **"Towards Scientific Intelligence: A Survey of LLM-based Scientific Agents"** [[paper](https://arxiv.org/abs/2503.24047)]
+* [Mar 2025] **"AgentRxiv: Towards Collaborative Autonomous Research"** [[paper](https://arxiv.org/abs/2503.18102)]
 * [Apr 2025] **"PaperBench: Evaluating AI’s Ability to Replicate AI Research"** [[paper](https://arxiv.org/abs/2504.01848)]

@@ -36,3 +36,4 @@ These papers discuss the safety and risks of agents.
 * [Jan 2025] **"Context is Key for Agent Security"** [[paper](https://arxiv.org/abs/2501.17070)]
 * [Mar 2025] **"A Practical Memory Injection Attack against LLM Agents"** [[paper](https://arxiv.org/abs/2503.03704)]
 * 📖 [Mar 2025] **"A Survey on Trustworthy LLM Agents: Threats and Countermeasures"** [[paper](https://arxiv.org/abs/2503.09648)]
+* [Apr 2025] **"How to evaluate control measures for LLM agents? A trajectory from today to superintelligence"** [[paper](https://arxiv.org/abs/2504.05259)]

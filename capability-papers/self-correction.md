@@ -35,3 +35,5 @@ These papers discuss whether agents can autonomously recover from errors.
 * [Jan 2025] **"Learning to Plan & Reason for Evaluation with Thinking-LLM-as-a-Judge"** [[paper](https://arxiv.org/abs/2501.18099)]
 * [Feb 2025] **"Multi-Agent Verification: Scaling Test-Time Compute with Multiple Verifiers"** [[paper](https://arxiv.org/abs/2502.20379)]
 * [Apr 2025] **"Review, Refine, Repeat: Understanding Iterative Decoding of AI Agents with Dynamic Evaluation and Selection"** [[paper](https://arxiv.org/abs/2504.01931)]
+* [Apr 2025] **"T1: Tool-integrated Self-verification for Test-time Compute Scaling in Small Language Models"** [[paper](https://arxiv.org/abs/2504.04718)]
+* [Apr 2025] **"Agentic Knowledgeable Self-awareness"** [[paper](https://arxiv.org/abs/2504.03553)]
