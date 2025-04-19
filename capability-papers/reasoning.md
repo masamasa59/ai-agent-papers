@@ -52,3 +52,8 @@
 * 📖 [Mar 2025] **"What, How, Where, and How Well? A Survey on Test-Time Scaling in Large Language Models"** [[paper](https://arxiv.org/abs/2503.24235)]
 * 📖 [Apr 2025] **"Inference-Time Scaling for Complex Tasks: Where We Stand and What Lies Ahead"** [[paper](https://arxiv.org/abs/2504.00294v1)]
 * [Apr 2025] **"Dual Engines of Thoughts: A Depth-Breadth Integration Framework for Open-Ended Analysis"** [[paper](https://arxiv.org/abs/2504.07872)]
+* [Apr 2025] **"Inference-Time Scaling for Generalist Reward Modeling"** [[paper](https://arxiv.org/abs/2504.02495)]
+* [Apr 2025] **"Adaptive Rectification Sampling for Test-Time Compute Scaling"** [[paper](https://arxiv.org/abs/2504.01317)]
+* 📖 [Apr 2025] **"DeepSeek-R1 Thoughtology: Let’s <think> about LLM reasoning"** [[paper](https://arxiv.org/abs/2504.07128)]
+* [Apr 2025] **"Reasoning Models Can Be Effective Without Thinking"** [[paper](https://arxiv.org/abs/2504.09858)]
+* [Apr 2025] **"SQL-R1: Training Natural Language to SQL Reasoning Model By Reinforcement Learning"** [[paper](https://arxiv.org/abs/2504.08600)]

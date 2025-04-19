@@ -30,6 +30,7 @@
 * [Oct 2024] **"Multi-Agent Large Language Models for Conversational Task-Solving"** [[paper](https://arxiv.org/abs/2410.22932)]
 * [Nov 2024] **"DARD: A Multi-Agent Approach for Task-Oriented Dialog Systems"** [[paper](https://arxiv.org/abs/2411.00427)]
 * [Jan 2025] **"ToM-agent: Large Language Models as Theory of Mind Aware Generative Agents with Counterfactual Reflection"** [[paper](https://arxiv.org/abs/2501.15355)]
+* [Apr 2025] **"Two Heads are Better Than One: Test-time Scaling of Multi-agent Collaborative Reasoning"** [[paper](https://arxiv.org/abs/2504.09772)]
 
 ### Problem Solving
 * [Mar 2023] **"CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society"** [[paper](https://arxiv.org/abs/2303.17760)]
@@ -75,7 +76,7 @@
 * [Jan 2025] **"Multi-Agent Geospatial Copilots for Remote Sensing Workflows"** [[paper](https://arxiv.org/abs/2501.16254)]
 * [Feb 2025] **"Position: Towards a Responsible LLM-empowered Multi-Agent Systems"** [[paper](https://arxiv.org/abs/2502.01714)]
 * [Feb 2025] **"Flow-of-Action: SOP Enhanced LLM-Based Multi-Agent System for Root Cause Analysis"** [[paper](https://www.arxiv.org/abs/2502.08224)]
-
+* 📖 [Apr 2025] **"Adaptive Human-Agent Teaming: A Review of Empirical Studies from the Process Dynamics Perspective"** [[paper](https://arxiv.org/abs/2504.10918)]
 
 
 ### World Simulation

@@ -66,6 +66,8 @@
 * [Dec 2024] **"PAFFA: Premeditated Actions For Fast Agents"** [[paper](https://arxiv.org/abs/2412.07958)]
 * [Dec 2024] **"AgentTrek: Agent Trajectory Synthesis via Guiding Replay with Web Tutorials"** [[paper](https://arxiv.org/abs/2412.09605)]
 * [Apr 2025] **"Are Autonomous Web Agents Good Testers?"** [[paper](https://arxiv.org/abs/2504.01495)]
+* [Apr 2025] **"BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents"** [[paper](https://arxiv.org/abs/2504.12516)]
+* [Apr 2025] **"REAL: Benchmarking Autonomous Agents on Deterministic Simulations of Real Websites"** [[paper](https://arxiv.org/abs/2504.11543)]
 
 ### Mobile Agents
 * [Aug 2023] **"AutoDroid: LLM-powered Task Automation in Android"** [[paper](https://arxiv.org/abs/2308.15272)]

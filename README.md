@@ -1,16 +1,32 @@
-# GenAI Agents Papers
+# AI Agents Papers
 Updated biweekly.
 
-[Weekly AI Agents News!(Japanese)](https://speakerdeck.com/masatoto/weekly-ai-agents-news) 
-<figure style="text-align: center;">
-    <img alt="" src="assets/weekly_ai_agent_news.png" width="500" />
-</figure>
-
-## GenAI Agents
+## AI Agents
 * Intelligent systems leveraging (Multimodal)LLMs for multi-modal understanding, conversation, and reasoning
 * Interact with digital or physical environments to achieve goals, using APIs or code
 * “Intelligence” follows a lineage from symbolic representations to rule-based approaches, and now large-scale generative models
 * Agents that rely on such large generative models are referred to here as GenAI Agents
+
+## April Spotlight
+* 📖 **"A Survey of Frontiers in LLM Reasoning: Inference Scaling, Learning to Reason, and Agentic Systems"**[[paper](https://openreview.net/forum?id=SlsZZ25InC)]
+* 📖 **"Challenges and Paths Towards AI for Software Engineering"**[[paper](https://arxiv.org/abs/2503.22625)]
+* **"Inference-Time Scaling for Complex Tasks: Where We Stand and What Lies Ahead"**[[paper](https://arxiv.org/abs/2504.00294v1)]
+* **"Review, Refine, Repeat: Understanding Iterative Decoding of AI Agents with Dynamic Evaluation and Selection"**[[paper](https://arxiv.org/abs/2504.01931)]
+* **"Dual Engines of Thoughts: A Depth-Breadth Integration Framework for Open-Ended Analysis"**[[paper](https://arxiv.org/abs/2504.07872)]
+* 📖 **"Advances and Challenges in Foundation Agents: From Brain-Inspired Intelligence to Evolutionary, Collaborative, and Safe Systems"**[[paper](https://arxiv.org/abs/2504.01990)]
+* **"AGENTADA: Skill-Adaptive Data Analytics for Tailored Insight Discovery"**[[paper](https://arxiv.org/abs/2504.07421)]
+* **"SkillWeaver: Web Agents can Self-Improve by Discovering and Honing Skills"**[[paper](https://arxiv.org/abs/2504.07079)]
+* **"Inference-Time Scaling for Generalist Reward Modeling"** [[paper](https://arxiv.org/abs/2504.02495)]
+* **"Exploring Expert Failures Improves LLM Agent Tuning"** [[paper](https://arxiv.org/abs/2504.13145)]
+* ⚖️ **"BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents"** [[paper](https://arxiv.org/abs/2504.12516)]
+* **"Exploring Expert Failures Improves LLM Agent Tuning"** [[paper](https://arxiv.org/abs/2504.13145)]
+* **"Welcome to the Era of Experience"** [[paper](https://storage.googleapis.com/deepmind-media/Era-of-Experience%20/The%20Era%20of%20Experience%20Paper.pdf)]
+* 📖 **"Adaptive Human-Agent Teaming: A Review of Empirical Studies from the Process Dynamics Perspective"** [[paper](https://arxiv.org/abs/2504.10918)]
+* **"Toward Super Agent System with Hybrid AI Router"** [[paper](https://arxiv.org/abs/2504.10519)]
+* **"Orchestrating Agents and Data for Enterprise: A Blueprint Architecture for Compound AI"** [[paper](https://arxiv.org/abs/2504.08148)]
+* **"The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search"** [[paper](https://arxiv.org/abs/2504.08066)]
+* **"Revisiting Prompt Optimization with Large Reasoning Models—A Case Study on Event Extraction"** [[paper](https://arxiv.org/abs/2504.07357)]
+* **"Inducing Programmatic Skills for Agentic Tasks"** [[paper](https://arxiv.org/abs/2504.06821)]
 
 ## Paper Categories
 🔥: Recommended papers  
@@ -49,29 +65,6 @@ Updated biweekly.
     - [World Simulation](application-papers/multi-agent.md#world-simulation)
 - **GenAI Agents Presentations**
   - [Tutorial & Lecture](lectures/tutorial-lecture.md)
-
-## Weekly AI Agent News Archive (Japanese)
-- Papers
-  - [24年12月号 slide](https://speakerdeck.com/masatoto/weekly-ai-agents-news-12yue-hao-lun-wen-noakaibu)
-  - [24年11月号 slide](https://speakerdeck.com/masatoto/weekly-ai-agents-news-11yue-hao-lun-wen-noakaibu)
-  - [24年10月号 slide](https://speakerdeck.com/masatoto/weekly-ai-agents-news-10yue-hao-lun-wen-noakaibu)
-  - [24年9月号 slide](https://speakerdeck.com/masatoto/weekly-ai-agents-news-9yue-hao-lun-wen-noakaibu)
-  - [24年8月号 slide](https://speakerdeck.com/masatoto/weekly-ai-agents-news-8yue-hao-lun-wen-noakaibu)
-  - [24年7月号 slide](https://speakerdeck.com/masatoto/weekly-ai-agents-news-7yue-hao-lun-wen-noakaibu)
-  - [24年6月号 slide](https://speakerdeck.com/masatoto/weekly-ai-agents-news-6yue-hao-lun-wen-noakaibu)
-  - [24年5月号 slide](https://speakerdeck.com/masatoto/weekly-ai-agents-news-5yue-hao-lun-wen-noakaibu)
-  - [24年4月号 slide](https://speakerdeck.com/masatoto/weekly-ai-agents-news-4yue-hao-lun-wen-bian)
-
-- Products/News
-  - [24年12月号 slide](https://speakerdeck.com/masatoto/niyusunoakaibu-36baf27a-eadc-48d7-8c20-46d0b9b173cc)
-  - [24年11月号 slide](https://speakerdeck.com/masatoto/niyusunoakaibu-72e85e5c-6d2a-424a-9160-52585fc0acd3)
-  - [24年10月号 slide](https://speakerdeck.com/masatoto/niyusunoakaibu-94f81b94-54dd-43cb-90ac-789ce7156ef6)
-  - [24年9月号 slide](https://speakerdeck.com/masatoto/niyusunoakaibu-70bc4f4a-f282-4316-b91d-5430f893fb8b)
-  - [24年8月号 slide](https://speakerdeck.com/masatoto/niyusunoakaibu-817ce051-150e-41ed-bf3f-568b06442f34)
-  - [24年7月号 slide](https://speakerdeck.com/masatoto/niyusunoakaibu-7342c793-b691-423a-ae99-a4f15d8dfcb7)
-  - [24年6月号 slide](https://speakerdeck.com/masatoto/niyusunoakaibu-5954cb81-8db7-4112-93b3-a8393584730f)
-  - [24年5月号 slide](https://speakerdeck.com/masatoto/niyusunoakaibu-58e7e433-c255-4ebe-af45-ebb11705b64f)
-  - [24年4月号 slide](https://speakerdeck.com/masatoto/niyusunoakaibu)
 
 ## References
 - [LLM Agents Papers](https://github.com/zjunlp/LLMAgentPapers)

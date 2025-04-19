@@ -55,3 +55,4 @@ These papers discuss an agent’s memory function and its self-evolution.
 * [Mar 2025] **"MARS: Memory-Enhanced Agents with Reflective Self-improvement"** [[paper](https://arxiv.org/abs/2503.19271)]
 * [Apr 2025] **"Weak-for-Strong:Training Weak Meta-Agent to Harness Strong Executors"** [[paper](https://arxiv.org/abs/2504.04785)]
 * [Apr 2025] **"SkillWeaver: Web Agents can Self-Improve by Discovering and Honing Skills"** [[paper](https://arxiv.org/abs/2504.07079)]
+* [Apr 2025] **"Revisiting Prompt Optimization with Large Reasoning Models—A Case Study on Event Extraction"** [[paper](https://arxiv.org/abs/2504.07357)]

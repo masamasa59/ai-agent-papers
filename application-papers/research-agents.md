@@ -41,3 +41,4 @@
 * 📖 [Mar 2025] **"Towards Scientific Intelligence: A Survey of LLM-based Scientific Agents"** [[paper](https://arxiv.org/abs/2503.24047)]
 * [Mar 2025] **"AgentRxiv: Towards Collaborative Autonomous Research"** [[paper](https://arxiv.org/abs/2503.18102)]
 * [Apr 2025] **"PaperBench: Evaluating AI’s Ability to Replicate AI Research"** [[paper](https://arxiv.org/abs/2504.01848)]
+* [Apr 2025] **"The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search"** [[paper](https://arxiv.org/abs/2504.08066)]

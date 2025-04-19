@@ -51,3 +51,4 @@ Agents in various tasks such as education, healthcare, and the press.
 * 📖 [Mar 2025] **"LLM Agents for Education: Advances and Applications"** [[paper](https://arxiv.org/abs/2503.11733)]
 * [Mar 2025] **"BannerAgency: Advertising Banner Design with Multimodal LLM Agents"** [[paper](https://www.arxiv.org/abs/2503.11060)]
 * [Mar 2025] **"MAP : Multi-user Personalization with Collaborative LLM-powered Agents"**  [[paper](https://arxiv.org/abs/2503.12757)]
+* [Apr 2025] **"GRAPHICBENCH: A Planning Benchmark for Graphic Design with Language Agents"** [[paper](https://arxiv.org/abs/2504.11571)]

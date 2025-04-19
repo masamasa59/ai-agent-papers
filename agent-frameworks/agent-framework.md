@@ -72,7 +72,8 @@
 * 🔥 📖 [Mar 2025] **"Agentic Large Language Models, a survey"** [[paper](https://www.arxiv.org/abs/2503.23037)]
 * [Apr 2025] **"Weak-for-Strong:Training Weak Meta-Agent to Harness Strong Executors"** [[paper](https://arxiv.org/abs/2504.04785)]
 * 🔥 📖 [Apr 2025] **"Advances and Challenges in Foundation Agents: From Brain-Inspired Intelligence to Evolutionary, Collaborative, and Safe Systems"** [[paper](https://arxiv.org/abs/2504.01990)]
-
+* [Apr 2025] **"Toward Super Agent System with Hybrid AI Router"** [[paper](https://arxiv.org/abs/2504.10519)]
+* [Apr 2025] **"Orchestrating Agents and Data for Enterprise: A Blueprint Architecture for Compound AI"** [[paper](https://arxiv.org/abs/2504.08148)]
 
 ## Multi-Agent
 * [Mar 2023] **"CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society"** [[paper](https://arxiv.org/abs/2303.17760)]

@@ -32,4 +32,4 @@
 * [Jan 2025] **"Towards Advancing Code Generation with Large Language Models: A Research Roadmap"** [[paper](https://arxiv.org/abs/2501.11354)]
 * [Mar 2025] **"Knowledge-Based Multi-Agent Framework for Automated Software Architecture Design"** [[paper](https://arxiv.org/abs/2503.20536)]
 * 📖 [Mar 2025] **"Challenges and Paths Towards AI for Software Engineering"** [[paper](https://arxiv.org/abs/2503.22625)]
-
+* [Apr 2025] **"DocAgent: A Multi-Agent System for Automated Code Documentation Generation"** [[paper](https://arxiv.org/abs/2504.08725)]

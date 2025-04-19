@@ -48,3 +48,5 @@ These papers discuss whether or not agents can properly use tools
 * [Mar 2025] **"Advanced Tool Learning and Selection System (ATLASS): A Closed-Loop Framework Using LLM"** [[paper](https://arxiv.org/abs/2503.12434)]
 * [Mar 2025] **"Chain-of-Tools: Utilizing Massive Unseen Tools in the CoT Reasoning of Frozen Language Models"** [[paper](https://www.arxiv.org/abs/2503.16779)]
 * [Apr 2025] **"On the Robustness of Agentic Function Calling"** [[paper](https://arxiv.org/abs/2504.00914)]
+* [Apr 2025] **"ReTool: Reinforcement Learning for Strategic Tool Use in LLMs"** [[paper](https://arxiv.org/abs/2504.11536)]
+* [Apr 2025] **"Inducing Programmatic Skills for Agentic Tasks"** [[paper](https://arxiv.org/abs/2504.06821)]

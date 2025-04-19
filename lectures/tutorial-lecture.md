@@ -21,6 +21,8 @@
 * [ICML 2024] **"On the role of Large Language Models in Planning"** [[slide](https://www.dropbox.com/scl/fi/0q1m06kuivptk2s5lj7w2/AAAI24-llm-tutorial-rao.pdf?rlkey=xodqr06pf0qnoz82j2ljypgmd&e=1&dl=0)] [[project](https://yochan-lab.github.io/tutorial/ICML-2024/index.html)]
 * [EMNLP 2024] **"Language Agents: Foundations, Prospects, and Risks"** [[slide](https://ysu1989.github.io/resources/language_agents_YuSu_2024.pdf)] [[project](https://language-agent-tutorial.github.io/)]
 * [Fall 2024] **"Large Language Model Agents (MOOC)"** [[slide](https://rdi.berkeley.edu/llm-agents-mooc/slides/llm_agent_history.pdf)] [[project](https://rdi.berkeley.edu/llm-agents/f24)]
+* [Apr 2025] **"Welcome to the Era of Experience"** [[paper](https://storage.googleapis.com/deepmind-media/Era-of-Experience%20/The%20Era%20of%20Experience%20Paper.pdf)]
+* [Apr 2025] **"A practical guide to building agents"** [[paper](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf)]
 
 ## Design Patterns
 - **"langgraph-agents-with-amazon-bedrock"** [[code](https://github.com/aws-samples/langgraph-agents-with-amazon-bedrock)]
