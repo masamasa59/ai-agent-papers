@@ -7,7 +7,7 @@ Updated biweekly.
 * “Intelligence” follows a lineage from symbolic representations to rule-based approaches, and now large-scale generative models
 * Agents that rely on such large generative models are referred to here as GenAI Agents
 
-## April Spotlight
+## April Spotlights
 * 📖 **"A Survey of Frontiers in LLM Reasoning: Inference Scaling, Learning to Reason, and Agentic Systems"**[[paper](https://openreview.net/forum?id=SlsZZ25InC)]
 * 📖 **"Challenges and Paths Towards AI for Software Engineering"**[[paper](https://arxiv.org/abs/2503.22625)]
 * **"Inference-Time Scaling for Complex Tasks: Where We Stand and What Lies Ahead"**[[paper](https://arxiv.org/abs/2504.00294v1)]
@@ -17,7 +17,6 @@ Updated biweekly.
 * **"AGENTADA: Skill-Adaptive Data Analytics for Tailored Insight Discovery"**[[paper](https://arxiv.org/abs/2504.07421)]
 * **"SkillWeaver: Web Agents can Self-Improve by Discovering and Honing Skills"**[[paper](https://arxiv.org/abs/2504.07079)]
 * **"Inference-Time Scaling for Generalist Reward Modeling"** [[paper](https://arxiv.org/abs/2504.02495)]
-* **"Exploring Expert Failures Improves LLM Agent Tuning"** [[paper](https://arxiv.org/abs/2504.13145)]
 * ⚖️ **"BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents"** [[paper](https://arxiv.org/abs/2504.12516)]
 * **"Exploring Expert Failures Improves LLM Agent Tuning"** [[paper](https://arxiv.org/abs/2504.13145)]
 * **"Welcome to the Era of Experience"** [[paper](https://storage.googleapis.com/deepmind-media/Era-of-Experience%20/The%20Era%20of%20Experience%20Paper.pdf)]
@@ -27,6 +26,15 @@ Updated biweekly.
 * **"The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search"** [[paper](https://arxiv.org/abs/2504.08066)]
 * **"Revisiting Prompt Optimization with Large Reasoning Models—A Case Study on Event Extraction"** [[paper](https://arxiv.org/abs/2504.07357)]
 * **"Inducing Programmatic Skills for Agentic Tasks"** [[paper](https://arxiv.org/abs/2504.06821)]
+* **"FlowReasoner: Reinforcing Query-Level Meta-Agents"** [[paper](https://arxiv.org/abs/2504.15257)]
+* **"A Self-Improving Coding Agent"** [[paper](https://arxiv.org/abs/2504.15228)]
+* **"OTC: Optimal Tool Calls via Reinforcement Learning"** [[paper](https://arxiv.org/abs/2504.14870)]
+* **"ToolRL: Reward is All Tool Learning Needs"** [[paper](https://arxiv.org/abs/2504.13958)]
+* **"UFO2: The Desktop AgentOS"** [[paper](https://arxiv.org/abs/2504.14603)]
+* 📖 **"Meta-Thinking in LLMs via Multi-Agent Reinforcement Learning: A Survey"** [[paper](https://arxiv.org/abs/2504.14520)]
+* **"AgentA/B: Automated and Scalable Web A/B Testing with Interactive LLM Agents"** [[paper](https://arxiv.org/abs/2504.09723)]
+* **"Leveraging LLMs as Meta-Judges: A Multi-Agent Framework for Evaluating LLM Judgments"** [[paper](https://www.arxiv.org/abs/2504.17087)]
+* 📖 **"A Survey of AI Agent Protocols"** [[paper](https://arxiv.org/abs/2504.16736)]
 
 ## Paper Categories
 🔥: Recommended papers  

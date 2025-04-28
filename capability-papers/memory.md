@@ -26,6 +26,7 @@ These papers discuss an agent’s memory function and its self-evolution.
 * [Mar 2025] **"A Practical Memory Injection Attack against LLM Agents"** [[paper](https://arxiv.org/abs/2503.03704)]
 * [Mar 2025] **"AI-native Memory 2.0: Second Me"** [[paper](http://www.arxiv.org/abs/2503.08102)]
 * [Mar 2025] **"MemInsight: Autonomous Memory Augmentation for LLM Agents"** [[paper](https://arxiv.org/abs/2503.21760)]
+* 📖 [Apr 2025] **"From Human Memory to AI Memory: A Survey on Memory Mechanisms in the Era of LLMs"** [[paper](https://arxiv.org/abs/2504.15965)]
 
 ## Self-Evolution (Self-Improvement)
 * [May 2024] **Offline Training of Language Model Agents with Functions as Learnable Weights"** [[paper](https://arxiv.org/abs/2402.11359)]
@@ -56,3 +57,4 @@ These papers discuss an agent’s memory function and its self-evolution.
 * [Apr 2025] **"Weak-for-Strong:Training Weak Meta-Agent to Harness Strong Executors"** [[paper](https://arxiv.org/abs/2504.04785)]
 * [Apr 2025] **"SkillWeaver: Web Agents can Self-Improve by Discovering and Honing Skills"** [[paper](https://arxiv.org/abs/2504.07079)]
 * [Apr 2025] **"Revisiting Prompt Optimization with Large Reasoning Models—A Case Study on Event Extraction"** [[paper](https://arxiv.org/abs/2504.07357)]
+* [Apr 2025] **"A Self-Improving Coding Agent"** [[paper](https://arxiv.org/abs/2504.15228)]

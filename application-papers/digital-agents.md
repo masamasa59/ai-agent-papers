@@ -33,6 +33,9 @@
 * 📖 [Jan 2025] **"AI Agents for Computer Use: A Review of Instruction-based Computer Control, GUI Automation, and Operator Assistants"** [[paper](https://arxiv.org/abs/2501.16150)]
 * 📖 [Mar 2025] **"Towards Trustworthy GUI Agents: A Survey"** [[paper](https://arxiv.org/abs/2503.23434)]
 * [Apr 2025] **"Agent S2: A Compositional Generalist-Specialist Framework for Computer Use Agents"** [[paper](https://arxiv.org/abs/2504.00906)]
+* [Apr 2025] **"Guiding VLM Agents with Process Rewards at Inference Time for GUI Navigation"** [[paper](https://arxiv.org/abs/2504.16073)]
+* [Apr 2025] **"UFO2: The Desktop AgentOS"** [[paper](https://arxiv.org/abs/2504.14603)]
+* 📖 [Apr 2025] **"A Survey on (M)LLM-Based GUI Agents"** [[paper](https://www.arxiv.org/abs/2504.13865)]
 
 ### Web Agents
 * ⚖️ [Jul 2022] **"WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents"** [[paper](https://arxiv.org/abs/2207.01206)]

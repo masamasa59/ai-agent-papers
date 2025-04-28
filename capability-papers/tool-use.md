@@ -50,3 +50,6 @@ These papers discuss whether or not agents can properly use tools
 * [Apr 2025] **"On the Robustness of Agentic Function Calling"** [[paper](https://arxiv.org/abs/2504.00914)]
 * [Apr 2025] **"ReTool: Reinforcement Learning for Strategic Tool Use in LLMs"** [[paper](https://arxiv.org/abs/2504.11536)]
 * [Apr 2025] **"Inducing Programmatic Skills for Agentic Tasks"** [[paper](https://arxiv.org/abs/2504.06821)]
+* [Apr 2025] **"A Framework for Testing and Adapting REST APIs as LLM Tools"** [[paper](https://arxiv.org/abs/2504.15546)]
+* [Apr 2025] **"OTC: Optimal Tool Calls via Reinforcement Learning"** [[paper](https://arxiv.org/abs/2504.14870)]
+* [Apr 2025] **"ToolRL: Reward is All Tool Learning Needs"** [[paper](https://arxiv.org/abs/2504.13958)]

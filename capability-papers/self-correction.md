@@ -38,3 +38,5 @@ These papers discuss whether agents can autonomously recover from errors.
 * [Apr 2025] **"T1: Tool-integrated Self-verification for Test-time Compute Scaling in Small Language Models"** [[paper](https://arxiv.org/abs/2504.04718)]
 * [Apr 2025] **"Agentic Knowledgeable Self-awareness"** [[paper](https://arxiv.org/abs/2504.03553)]
 * [Apr 2025] **"Adaptive Rectification Sampling for Test-Time Compute Scaling"** [[paper](https://arxiv.org/abs/2504.01317)]
+* 📖 [Apr 2025] **"Meta-Thinking in LLMs via Multi-Agent Reinforcement Learning: A Survey"** [[paper](https://arxiv.org/abs/2504.14520)]
+* [Apr 2025] **"Leveraging LLMs as Meta-Judges: A Multi-Agent Framework for Evaluating LLM Judgments"** [[paper](https://www.arxiv.org/abs/2504.17087)]

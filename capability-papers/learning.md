@@ -36,3 +36,6 @@
 * [Apr 2025] **"Command A: An Enterprise-Ready Large Language Model"** [[paper](https://arxiv.org/abs/2504.00698)]
 * [Apr 2025] **"APIGen-MT: Agentic PIpeline for Multi-Turn Data Generation via Simulated Agent-Human Interplay"** [[paper](https://arxiv.org/abs/2504.03601)]
 * [Apr 2025] **"Exploring Expert Failures Improves LLM Agent Tuning"** [[paper](https://arxiv.org/abs/2504.13145)]
+* [Apr 2025] **"LLMs are Greedy Agents: Effects of RL Fine-tuning on Decision-Making Abilities"** [[paper](https://arxiv.org/abs/2504.16078)]
+* [Apr 2025] **"FlowReasoner: Reinforcing Query-Level Meta-Agents"** [[paper](https://arxiv.org/abs/2504.15257)]
+* [Apr 2025] **"MARFT: Multi-Agent Reinforcement Fine-Tuning"** [[paper](https://arxiv.org/abs/2504.16129)]

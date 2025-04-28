@@ -52,3 +52,6 @@ Agents in various tasks such as education, healthcare, and the press.
 * [Mar 2025] **"BannerAgency: Advertising Banner Design with Multimodal LLM Agents"** [[paper](https://www.arxiv.org/abs/2503.11060)]
 * [Mar 2025] **"MAP : Multi-user Personalization with Collaborative LLM-powered Agents"**  [[paper](https://arxiv.org/abs/2503.12757)]
 * [Apr 2025] **"GRAPHICBENCH: A Planning Benchmark for Graphic Design with Language Agents"** [[paper](https://arxiv.org/abs/2504.11571)]
+* [Apr 2025] **"AgentA/B: Automated and Scalable Web A/B Testing with Interactive LLM Agents"** [[paper](https://arxiv.org/abs/2504.09723)]
+* [Apr 2025] **"UXAgent: A System for Simulating Usability Testing of Web Design with LLM Agents"** [[paper](https://arxiv.org/abs/2504.09407)]
+* [Apr 2025] **"OptimAI: Optimization from Natural Language Using LLM-Powered AI Agents"** [[paper](https://arxiv.org/abs/2504.16918)]

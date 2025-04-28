@@ -75,6 +75,8 @@
 * [Apr 2025] **"Toward Super Agent System with Hybrid AI Router"** [[paper](https://arxiv.org/abs/2504.10519)]
 * [Apr 2025] **"Orchestrating Agents and Data for Enterprise: A Blueprint Architecture for Compound AI"** [[paper](https://arxiv.org/abs/2504.08148)]
 
+
+
 ## Multi-Agent
 * [Mar 2023] **"CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society"** [[paper](https://arxiv.org/abs/2303.17760)]
 * [Aug 2023] **"AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors"** [[paper](https://arxiv.org/abs/2308.10848)]
@@ -87,6 +89,7 @@
 * [Feb 2025] **"Multi-agent Architecture Search via Agentic Supernet"** [[paper](https://arxiv.org/abs/2502.04180)]
 * [Mar 2025] **"WorkTeam: Constructing Workflows from Natural Language with Multi-Agents"** [[paper](https://arxiv.org/abs/2503.22473)]
 * [Apr 2025] **"AgentNet: Decentralized Evolutionary Coordination for LLM-based Multi-Agent Systems"** [[paper](https://arxiv.org/abs/2504.00587)]
+* [Apr 2025] **"FlowReasoner: Reinforcing Query-Level Meta-Agents"** [[paper](https://arxiv.org/abs/2504.15257)]
 
 ## Agent Ops & UX
 * [Feb 2024] **"Towards better Human-Agent Alignment: Assessing Task Utility in LLM-Powered Applications"** [[paper](https://arxiv.org/abs/2402.09015)]
@@ -100,3 +103,4 @@
 * [Dec 2024] **"Agents Are Not Enough"** [[paper](https://arxiv.org/html/2412.16241v1)]
 * [Jan 2025] **"Authenticated Delegation and Authorized AI Agents"** [[paper](https://www.arxiv.org/abs/2501.09674)]
 * [Feb 2025] **"Agency Is Frame-Dependent"** [[paper](https://arxiv.org/abs/2502.04403)]
+* 📖 [Apr 2025] **"A Survey of AI Agent Protocols"** [[paper](https://arxiv.org/abs/2504.16736)]

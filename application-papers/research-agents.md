@@ -42,3 +42,4 @@
 * [Mar 2025] **"AgentRxiv: Towards Collaborative Autonomous Research"** [[paper](https://arxiv.org/abs/2503.18102)]
 * [Apr 2025] **"PaperBench: Evaluating AI’s Ability to Replicate AI Research"** [[paper](https://arxiv.org/abs/2504.01848)]
 * [Apr 2025] **"The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search"** [[paper](https://arxiv.org/abs/2504.08066)]
+* [Apr 2025] **"Paper2Code: Automating Code Generation from Scientific Papers in Machine Learning"** [[paper](https://arxiv.org/abs/2504.17192)]
