@@ -74,7 +74,8 @@
 * 🔥 📖 [Apr 2025] **"Advances and Challenges in Foundation Agents: From Brain-Inspired Intelligence to Evolutionary, Collaborative, and Safe Systems"** [[paper](https://arxiv.org/abs/2504.01990)]
 * [Apr 2025] **"Toward Super Agent System with Hybrid AI Router"** [[paper](https://arxiv.org/abs/2504.10519)]
 * [Apr 2025] **"Orchestrating Agents and Data for Enterprise: A Blueprint Architecture for Compound AI"** [[paper](https://arxiv.org/abs/2504.08148)]
-
+* 📖 [Apr 2025] **"From LLM Reasoning to Autonomous AI Agents: A Comprehensive Review"** [[paper](https://arxiv.org/abs/2504.19678)]
+* 📖 [Apr 2025] **"Generative to Agentic AI: Survey, Conceptualization, and Challenges"** [[paper](https://arxiv.org/abs/2504.18875)]
 
 
 ## Multi-Agent

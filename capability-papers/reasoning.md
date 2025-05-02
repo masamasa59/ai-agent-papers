@@ -57,3 +57,4 @@
 * 📖 [Apr 2025] **"DeepSeek-R1 Thoughtology: Let’s <think> about LLM reasoning"** [[paper](https://arxiv.org/abs/2504.07128)]
 * [Apr 2025] **"Reasoning Models Can Be Effective Without Thinking"** [[paper](https://arxiv.org/abs/2504.09858)]
 * [Apr 2025] **"SQL-R1: Training Natural Language to SQL Reasoning Model By Reinforcement Learning"** [[paper](https://arxiv.org/abs/2504.08600)]
+* [Apr 2025] **"Think Deep, Think Fast: Investigating Efficiency of Verifier-free Inference-time-scaling Methods"** [[paper](https://arxiv.org/abs/2504.14047)]

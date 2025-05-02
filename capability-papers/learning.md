@@ -39,3 +39,4 @@
 * [Apr 2025] **"LLMs are Greedy Agents: Effects of RL Fine-tuning on Decision-Making Abilities"** [[paper](https://arxiv.org/abs/2504.16078)]
 * [Apr 2025] **"FlowReasoner: Reinforcing Query-Level Meta-Agents"** [[paper](https://arxiv.org/abs/2504.15257)]
 * [Apr 2025] **"MARFT: Multi-Agent Reinforcement Fine-Tuning"** [[paper](https://arxiv.org/abs/2504.16129)]
+* [Apr 2025] **"Iterative Trajectory Exploration for Multimodal Agents"** [[papaer](https://arxiv.org/abs/2504.21561)]
