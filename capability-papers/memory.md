@@ -29,6 +29,8 @@ These papers discuss an agent’s memory function and its self-evolution.
 * 📖 [Apr 2025] **"From Human Memory to AI Memory: A Survey on Memory Mechanisms in the Era of LLMs"** [[paper](https://arxiv.org/abs/2504.15965)]
 * [Apr 2025] **"Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory"** [[paper](https://arxiv.org/abs/2504.19413)]
 
+
+
 ## Self-Evolution (Self-Improvement)
 * [May 2024] **Offline Training of Language Model Agents with Functions as Learnable Weights"** [[paper](https://arxiv.org/abs/2402.11359)]
 * 📖 [May 2024] **A Survey on Self-Evolution of Large Language Models"** [[paper](https://arxiv.org/abs/2404.14387)]
@@ -61,3 +63,6 @@ These papers discuss an agent’s memory function and its self-evolution.
 * [Apr 2025] **"A Self-Improving Coding Agent"** [[paper](https://arxiv.org/abs/2504.15228)]
 * [Apr 2025] **"Local Prompt Optimization"** [[paper](https://arxiv.org/abs/2504.20355)]
 * [Apr 2025] **"Toward Evaluative Thinking: Meta Policy Optimization with Evolving Reward Models"** [[paper](https://arxiv.org/abs/2504.20157)]
+* [Apr 2025] **"Skill Discovery for Software Scripting Automation via Offline Simulations with LLMs"** [[paper](https://arxiv.org/abs/2504.20406)]
+* [May 2025] **"Self-Generated In-Context Examples Improve LLM Agents for Sequential Decision-Making Tasks"** [[paper](https://www.arxiv.org/abs/2505.00234)]
+* [May 2025] **"Divide, Optimize, Merge: Fine-Grained LLM Agent Optimization at Scale"** [[paper](https://arxiv.org/abs/2505.03973)]

@@ -77,7 +77,7 @@
 * [Feb 2025] **"Position: Towards a Responsible LLM-empowered Multi-Agent Systems"** [[paper](https://arxiv.org/abs/2502.01714)]
 * [Feb 2025] **"Flow-of-Action: SOP Enhanced LLM-Based Multi-Agent System for Root Cause Analysis"** [[paper](https://www.arxiv.org/abs/2502.08224)]
 * 📖 [Apr 2025] **"Adaptive Human-Agent Teaming: A Review of Empirical Studies from the Process Dynamics Perspective"** [[paper](https://arxiv.org/abs/2504.10918)]
-
+* [May 2025] **"Which Agent Causes Task Failures and When? On Automated Failure Attribution of LLM Multi-Agent Systems"** [[paper](https://www.arxiv.org/abs/2505.00212)]
 
 ### World Simulation
 * [Apr 2023] **"Generative agents: Interactive simulacra of human behavior"** [[paper](https://arxiv.org/abs/2304.03442)]
@@ -105,3 +105,5 @@
 * 📖 [Dec 2024] **"From Individual to Society: A Survey on Social Simulation Driven by Large Language Model-based Agents"** [[paper](https://arxiv.org/abs/2412.03563)]
 * [Dec 2024] **"LMAgent: A Large-scale Multimodal Agents Society for Multi-user Simulation"** [[paper](https://arxiv.org/abs/2412.09237)]
 * [Feb 2025] **"AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society"** [[paper](https://www.arxiv.org/abs/2502.08691)]
+* [Apr 2025] **"SocioVerse: A World Model for Social Simulation Powered by LLM Agents and A Pool of 10 Million Real-World Users"** [[paper](https://arxiv.org/abs/2504.10157)]
+* [Apr 2025] **"SOTOPIA-S4: a user-friendly system for flexible, customizable, and large-scale social simulation"** [[paper](https://www.arxiv.org/abs/2504.16122)]

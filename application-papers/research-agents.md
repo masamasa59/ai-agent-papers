@@ -43,3 +43,4 @@
 * [Apr 2025] **"PaperBench: Evaluating AI’s Ability to Replicate AI Research"** [[paper](https://arxiv.org/abs/2504.01848)]
 * [Apr 2025] **"The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search"** [[paper](https://arxiv.org/abs/2504.08066)]
 * [Apr 2025] **"Paper2Code: Automating Code Generation from Scientific Papers in Machine Learning"** [[paper](https://arxiv.org/abs/2504.17192)]
+* [May 2025] **"34 Examples of LLM Applications in Materials Science and Chemistry: Towards Automation, Assistants, Agents, and Accelerated Scientific Discovery"** [[paper](https://arxiv.org/abs/2505.03049)]

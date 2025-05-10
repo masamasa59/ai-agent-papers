@@ -40,3 +40,4 @@ These papers discuss whether agents can autonomously recover from errors.
 * [Apr 2025] **"Adaptive Rectification Sampling for Test-Time Compute Scaling"** [[paper](https://arxiv.org/abs/2504.01317)]
 * 📖 [Apr 2025] **"Meta-Thinking in LLMs via Multi-Agent Reinforcement Learning: A Survey"** [[paper](https://arxiv.org/abs/2504.14520)]
 * [Apr 2025] **"Leveraging LLMs as Meta-Judges: A Multi-Agent Framework for Evaluating LLM Judgments"** [[paper](https://www.arxiv.org/abs/2504.17087)]
+* [May 2025] **"AutoLibra: Agent Metric Induction from Open-Ended Feedback"** [[paper](https://arxiv.org/abs/2505.02820)]

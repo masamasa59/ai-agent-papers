@@ -52,3 +52,4 @@
 * [Jan 2025] **"Improving Vision-Language-Action Model with Online Reinforcement Learning"** [[paper](https://www.arxiv.org/abs/2501.16664)]
 * [Feb 2025] **"Magma: A Foundation Model for Multimodal AI Agents"** [[paper](https://www.arxiv.org/abs/2502.13130)][[project](https://microsoft.github.io/Magma/)]
 * [Feb 2025] **"Pokemon Red via Reinforcement Learning"** [[paper](https://arxiv.org/abs/2502.19920)]
+* 📖 [May 2025] **"Multi-agent Embodied AI: Advances and Future Directions"** [[paper](https://arxiv.org/abs/2505.05108v1)]

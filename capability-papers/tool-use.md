@@ -53,3 +53,5 @@ These papers discuss whether or not agents can properly use tools
 * [Apr 2025] **"A Framework for Testing and Adapting REST APIs as LLM Tools"** [[paper](https://arxiv.org/abs/2504.15546)]
 * [Apr 2025] **"OTC: Optimal Tool Calls via Reinforcement Learning"** [[paper](https://arxiv.org/abs/2504.14870)]
 * [Apr 2025] **"ToolRL: Reward is All Tool Learning Needs"** [[paper](https://arxiv.org/abs/2504.13958)]
+* [Apr 2025] **"Skill Discovery for Software Scripting Automation via Offline Simulations with LLMs"** [[paper](https://arxiv.org/abs/2504.20406)]
+* [Apr 2025] **"Agentic Reasoning and Tool Integration for LLMs via Reinforcement Learning"** [[paper](https://www.arxiv.org/abs/2505.01441)]
