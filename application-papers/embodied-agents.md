@@ -53,3 +53,4 @@
 * [Feb 2025] **"Magma: A Foundation Model for Multimodal AI Agents"** [[paper](https://www.arxiv.org/abs/2502.13130)][[project](https://microsoft.github.io/Magma/)]
 * [Feb 2025] **"Pokemon Red via Reinforcement Learning"** [[paper](https://arxiv.org/abs/2502.19920)]
 * 📖 [May 2025] **"Multi-agent Embodied AI: Advances and Future Directions"** [[paper](https://arxiv.org/abs/2505.05108v1)]
+* [May 2025] **"Measuring General Intelligence with Generated Games"** [[paper](https://arxiv.org/abs/2505.07215)]

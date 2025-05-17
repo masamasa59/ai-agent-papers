@@ -55,3 +55,7 @@ These papers discuss whether or not agents can properly use tools
 * [Apr 2025] **"ToolRL: Reward is All Tool Learning Needs"** [[paper](https://arxiv.org/abs/2504.13958)]
 * [Apr 2025] **"Skill Discovery for Software Scripting Automation via Offline Simulations with LLMs"** [[paper](https://arxiv.org/abs/2504.20406)]
 * [Apr 2025] **"Agentic Reasoning and Tool Integration for LLMs via Reinforcement Learning"** [[paper](https://www.arxiv.org/abs/2505.01441)]
+* [Apr 2025] **"WebThinker: Empowering Large Reasoning Models with Deep Research Capability"** [[paper](https://arxiv.org/abs/2504.21776)]
+* [May 2025] **"Nemotron-Research-Tool-N1: Exploring Tool-Using Language Models with Reinforced Reasoning"** [[paper](https://arxiv.org/abs/2505.00024)]
+* [May 2025] **"Agent RL Scaling Law: Spontaneous Code Execution for Mathematical Problem Solving"** [[paper](https://arxiv.org/abs/2505.07773)]
+* [May 2025] **"Reinforced Internal-External Knowledge Synergistic Reasoning for Efficient Adaptive Search Agent"** [[paper](https://www.arxiv.org/abs/2505.07596)]

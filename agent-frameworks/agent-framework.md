@@ -76,7 +76,7 @@
 * [Apr 2025] **"Orchestrating Agents and Data for Enterprise: A Blueprint Architecture for Compound AI"** [[paper](https://arxiv.org/abs/2504.08148)]
 * 📖 [Apr 2025] **"From LLM Reasoning to Autonomous AI Agents: A Comprehensive Review"** [[paper](https://arxiv.org/abs/2504.19678)]
 * 📖 [Apr 2025] **"Generative to Agentic AI: Survey, Conceptualization, and Challenges"** [[paper](https://arxiv.org/abs/2504.18875)]
-
+* 📖 [May 2025] **"AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenges"** [[paper](https://arxiv.org/abs/2505.10468v1)]
 
 ## Multi-Agent
 * [Mar 2023] **"CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society"** [[paper](https://arxiv.org/abs/2303.17760)]

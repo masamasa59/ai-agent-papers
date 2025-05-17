@@ -40,3 +40,4 @@
 * [Apr 2025] **"FlowReasoner: Reinforcing Query-Level Meta-Agents"** [[paper](https://arxiv.org/abs/2504.15257)]
 * [Apr 2025] **"MARFT: Multi-Agent Reinforcement Fine-Tuning"** [[paper](https://arxiv.org/abs/2504.16129)]
 * [Apr 2025] **"Iterative Trajectory Exploration for Multimodal Agents"** [[papaer](https://arxiv.org/abs/2504.21561)]
+* 📖 [May 2025] **"Vision-Language-Action Models: Concepts, Progress, Applications and Challenges"** [[paper](https://www.arxiv.org/abs/2505.04769)]

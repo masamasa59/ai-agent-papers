@@ -66,3 +66,6 @@ These papers discuss an agent’s memory function and its self-evolution.
 * [Apr 2025] **"Skill Discovery for Software Scripting Automation via Offline Simulations with LLMs"** [[paper](https://arxiv.org/abs/2504.20406)]
 * [May 2025] **"Self-Generated In-Context Examples Improve LLM Agents for Sequential Decision-Making Tasks"** [[paper](https://www.arxiv.org/abs/2505.00234)]
 * [May 2025] **"Divide, Optimize, Merge: Fine-Grained LLM Agent Optimization at Scale"** [[paper](https://arxiv.org/abs/2505.03973)]
+* [May 2025] **"AlphaEvolve: A coding agent for scientific and algorithmic discovery"** [[paper](https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/)]
+* [May 2025] **"System Prompt Optimization with Meta-Learning"** [[paper](https://www.arxiv.org/abs/2505.09666)]
+* [May 2025] **"Self Rewarding Self Improving"** [[paper](https://www.arxiv.org/abs/2505.08827)]

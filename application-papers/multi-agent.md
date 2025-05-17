@@ -13,10 +13,10 @@
 * 🔥 📖 [Feb 2024] **"Large Language Model based Multi-Agents: A Survey of Progress and Challenges"** [[paper](https://arxiv.org/abs/2402.01680)]
 * 📖 [Dec 2024] **A Survey on Multi-Generative Agent System: Recent Advances and New Frontiers** [[paper](https://arxiv.org/abs/2412.17481)]
 * 📖 [Jan 2025] **"Multi-Agent Collaboration Mechanisms: A Survey of LLMs"** [[paper](https://arxiv.org/abs/2501.06322)]
+* 📖 [Feb 2025] **"Multi-Agent Risks from Advanced AI"** [[paper](https://arxiv.org/abs/2502.14143)]
 * 📖 [Feb 2025] **"Beyond Self-Talk: A Communication-Centric Survey of LLM-Based Multi-Agent Systems"** [[paper](https://arxiv.org/abs/2502.14321)]
 * [Mar 2025] **"Why Do Multi-Agent LLM Systems Fail?"** [[paper](https://arxiv.org/abs/2503.13657)]
 * 📖 [Mar 2025] **"A Comprehensive Survey on Multi-Agent Cooperative Decision-Making: Scenarios, Approaches, Challenges and Perspectives"** [[paper](https://arxiv.org/abs/2503.13415)]
-
 
 ### MAD（Multi-Agent Debate）
 * [May 2023] **"Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate"** [[paper](https://arxiv.org/abs/2305.19118)]
@@ -31,6 +31,7 @@
 * [Nov 2024] **"DARD: A Multi-Agent Approach for Task-Oriented Dialog Systems"** [[paper](https://arxiv.org/abs/2411.00427)]
 * [Jan 2025] **"ToM-agent: Large Language Models as Theory of Mind Aware Generative Agents with Counterfactual Reflection"** [[paper](https://arxiv.org/abs/2501.15355)]
 * [Apr 2025] **"Two Heads are Better Than One: Test-time Scaling of Multi-agent Collaborative Reasoning"** [[paper](https://arxiv.org/abs/2504.09772)]
+* [May 2025] **"Towards Multi-Agent Reasoning Systems for Collaborative Expertise Delegation: An Exploratory Design Study"** [[paper](https://www.arxiv.org/abs/2505.07313)]
 
 ### Problem Solving
 * [Mar 2023] **"CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society"** [[paper](https://arxiv.org/abs/2303.17760)]

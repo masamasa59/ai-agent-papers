@@ -15,16 +15,18 @@ Updated biweekly.
     <figcaption style="text-align: center;">AI Agent Workflows</figcaption>
 </figure>
 
-## May Highlights (Updated 10 May)
-### Inference Time Computing
+## May Highlights (Updated 17 May)
+### Inference Time Computing & Tool Integrated Reasoning
 * 📖 **"A Survey of Slow Thinking-based Reasoning LLMs using Reinforced Learning and Inference-time Scaling Law"** [[paper](https://www.arxiv.org/abs/2505.02665)]
 * 📖 **"Perception, Reason, Think, and Plan: A Survey on Large Multimodal Reasoning Models"** [[paper](https://arxiv.org/abs/2505.04921v1)]
 * **"Agentic Reasoning and Tool Integration for LLMs via Reinforcement Learning"** [[paper](https://www.arxiv.org/abs/2505.01441)]
+* **"Nemotron-Research-Tool-N1: Exploring Tool-Using Language Models with Reinforced Reasoning"** [[paper](https://arxiv.org/abs/2505.00024)]
+* **"Agent RL Scaling Law: Spontaneous Code Execution for Mathematical Problem Solving"** [[paper](https://arxiv.org/abs/2505.07773)]
+* **"Reinforced Internal-External Knowledge Synergistic Reasoning for Efficient Adaptive Search Agent"** [[paper](https://www.arxiv.org/abs/2505.07596)]
 
 ### Self-Improvement 
 * **"RM-R1: Reward Modeling as Reasoning"** [[paper](https://arxiv.org/abs/2505.02387)]
 * **"AutoLibra: Agent Metric Induction from Open-Ended Feedback"** [[paper](https://arxiv.org/abs/2505.02820)]
-
 * **"Absolute Zero: Reinforced Self-play Reasoning with Zero Data"** [[paper](https://www.arxiv.org/abs/2505.03335)]
 * **"Self-Generated In-Context Examples Improve LLM Agents for Sequential Decision-Making Tasks"** [[paper](https://www.arxiv.org/abs/2505.00234)]
 * **"Skill Discovery for Software Scripting Automation via Offline Simulations with LLMs"** [[paper](https://arxiv.org/abs/2504.20406)]
@@ -32,12 +34,14 @@ Updated biweekly.
 * **"MemEngine: A Unified and Modular Library for Developing Advanced Memory of LLM-based Agents"** [[paper](https://www.arxiv.org/abs/2505.02099)]
 * **"MARK: Memory Augmented Refinement of Knowledge"** [[paper](https://arxiv.org/abs/2505.05177)]
 * 📖  **"Rethinking Memory in AI: Taxonomy, Operations, Topics, and Future Directions"** [[paper](https://arxiv.org/abs/2505.00675)]
-
+* **"AlphaEvolve: A coding agent for scientific and algorithmic discovery"** [[paper](https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/)]
+* **"Self Rewarding Self Improving"** [[paper](https://www.arxiv.org/abs/2505.08827)]
 
 ### Multi-Agent
 * ⚖️ **"Benchmarking LLMs’ Swarm intelligence"** [[paper](https://www.arxiv.org/abs/2505.04364)]
 * **"Which Agent Causes Task Failures and When? On Automated Failure Attribution of LLM Multi-Agent Systems"** [[paper](https://www.arxiv.org/abs/2505.00212)]
 * **"Humanizing LLMs: A Survey of Psychological Measurements with Tools, Datasets, and Human-Agent Applications"** [[paper](https://arxiv.org/abs/2505.00049)]
+* **"Towards Multi-Agent Reasoning Systems for Collaborative Expertise Delegation: An Exploratory Design Study"** [[paper](https://www.arxiv.org/abs/2505.07313)]
 
 ### Real-World Application of AI Agents
 * **"34 Examples of LLM Applications in Materials Science and Chemistry: Towards Automation, Assistants, Agents, and Accelerated Scientific Discovery"** [[paper](https://arxiv.org/abs/2505.03049)]
@@ -45,6 +49,7 @@ Updated biweekly.
 * 📖 **"A Survey on Large Language Model based Human-Agent Systems"** [[paper](https://arxiv.org/abs/2505.00753)]
 * 📖 **"Vision-Language-Action Models: Concepts, Progress, Applications and Challenges"** [[paper](https://www.arxiv.org/abs/2505.04769)]
 * 📖  **"Multi-agent Embodied AI: Advances and Future Directions"** [[paper](https://arxiv.org/abs/2505.05108v1)]
+**"MLE-Dojo: Interactive Environments for Empowering LLM Agents in Machine Learning Engineering"** [[paper](https://arxiv.org/abs/2505.07782)]
 
 ## April Highlights
 ### Inference Time Computing
