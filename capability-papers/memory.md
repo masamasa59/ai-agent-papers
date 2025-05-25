@@ -69,3 +69,4 @@ These papers discuss an agent’s memory function and its self-evolution.
 * [May 2025] **"AlphaEvolve: A coding agent for scientific and algorithmic discovery"** [[paper](https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/)]
 * [May 2025] **"System Prompt Optimization with Meta-Learning"** [[paper](https://www.arxiv.org/abs/2505.09666)]
 * [May 2025] **"Self Rewarding Self Improving"** [[paper](https://www.arxiv.org/abs/2505.08827)]
+* [May 2025] **"Meta-Design Matters:A Self-Design Multi-Agent System"** [[paper](http://arxiv.org/abs/2505.14996)]

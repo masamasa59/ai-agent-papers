@@ -44,3 +44,6 @@
 * [Apr 2025] **"The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search"** [[paper](https://arxiv.org/abs/2504.08066)]
 * [Apr 2025] **"Paper2Code: Automating Code Generation from Scientific Papers in Machine Learning"** [[paper](https://arxiv.org/abs/2504.17192)]
 * [May 2025] **"34 Examples of LLM Applications in Materials Science and Chemistry: Towards Automation, Assistants, Agents, and Accelerated Scientific Discovery"** [[paper](https://arxiv.org/abs/2505.03049)]
+* [May 2025] **"PiFlow: Principle-aware Scientific Discovery with Multi-Agent Collaboration"** [[paper](https://arxiv.org/abs/2505.15047)]
+* [May 2025] **"R&D-Agent: Automating Data-Driven AI Solution Building Through LLM-Powered Automated Research, Development, and Evolution"** [[paper](https://arxiv.org/abs/2505.14738)]
+* 📖 [May 2025] **"From Automation to Autonomy: A Survey on Large Language Models in Scientific Discovery"** [[paper](https://arxiv.org/abs/2505.13259)]

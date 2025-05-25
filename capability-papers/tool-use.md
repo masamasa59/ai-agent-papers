@@ -59,3 +59,4 @@ These papers discuss whether or not agents can properly use tools
 * [May 2025] **"Nemotron-Research-Tool-N1: Exploring Tool-Using Language Models with Reinforced Reasoning"** [[paper](https://arxiv.org/abs/2505.00024)]
 * [May 2025] **"Agent RL Scaling Law: Spontaneous Code Execution for Mathematical Problem Solving"** [[paper](https://arxiv.org/abs/2505.07773)]
 * [May 2025] **"Reinforced Internal-External Knowledge Synergistic Reasoning for Efficient Adaptive Search Agent"** [[paper](https://www.arxiv.org/abs/2505.07596)]
+* [May 2025] **"An Empirical Study on Reinforcement Learning for Reasoning-Search Interleaved LLM Agents"** [[paper](https://www.arxiv.org/abs/2505.15117)]

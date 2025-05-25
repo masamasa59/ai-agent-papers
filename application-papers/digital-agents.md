@@ -36,6 +36,7 @@
 * [Apr 2025] **"Guiding VLM Agents with Process Rewards at Inference Time for GUI Navigation"** [[paper](https://arxiv.org/abs/2504.16073)]
 * [Apr 2025] **"UFO2: The Desktop AgentOS"** [[paper](https://arxiv.org/abs/2504.14603)]
 * 📖 [Apr 2025] **"A Survey on (M)LLM-Based GUI Agents"** [[paper](https://www.arxiv.org/abs/2504.13865)]
+* [May 2025] **"Efficient Agent Training for Computer Use"** [[paper](https://arxiv.org/abs/2505.13909)]
 
 ### Web Agents
 * ⚖️ [Jul 2022] **"WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents"** [[paper](https://arxiv.org/abs/2207.01206)]
@@ -71,6 +72,7 @@
 * [Apr 2025] **"Are Autonomous Web Agents Good Testers?"** [[paper](https://arxiv.org/abs/2504.01495)]
 * [Apr 2025] **"BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents"** [[paper](https://arxiv.org/abs/2504.12516)]
 * [Apr 2025] **"REAL: Benchmarking Autonomous Agents on Deterministic Simulations of Real Websites"** [[paper](https://arxiv.org/abs/2504.11543)]
+* [May 2025] **"WEB-SHEPHERD:Advancing PRMs for Reinforcing Web Agents"** [[paper](https://arxiv.org/abs/2505.15277)]
 
 ### Mobile Agents
 * [Aug 2023] **"AutoDroid: LLM-powered Task Automation in Android"** [[paper](https://arxiv.org/abs/2308.15272)]

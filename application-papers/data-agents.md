@@ -53,3 +53,6 @@
 * [Mar 2025] **"SchemaAgent: A Multi-Agents Framework for Generating Relational Database Schema"** [[paper](https://arxiv.org/abs/2503.23886)]
 * [Apr 2025] **"AGENTADA: Skill-Adaptive Data Analytics for Tailored Insight Discovery"** [[paper](https://arxiv.org/abs/2504.07421)]
 * [Apr 2025] **"MLE-Dojo: Interactive Environments for Empowering LLM Agents in Machine Learning Engineering"** [[paper](https://arxiv.org/abs/2505.07782)]
+* [May 2025] **"Agentic Feature Augmentation: Unifying Selection and Generation with Teaming, Planning, and Memories"** [[paper](https://www.arxiv.org/abs/2505.15076)]
+* [May 2025] **"JARVIS: A Multi-Agent Code Assistant for High-Quality EDA Script Generation"** [[paper](https://www.arxiv.org/abs/2505.14978)]
+* [May 2025] **"MLZero: A Multi-Agent System for End-to-end Machine Learning Automation"** [[paper](https://arxiv.org/abs/2505.13941)]

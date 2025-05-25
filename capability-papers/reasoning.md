@@ -62,3 +62,6 @@
 * [May 2025] **"RM-R1: Reward Modeling as Reasoning"** [[paper](https://arxiv.org/abs/2505.02387)]
 * [May 2025] **"Absolute Zero: Reinforced Self-play Reasoning with Zero Data"** [[paper](https://www.arxiv.org/abs/2505.03335)]
 * 📖 [May 2025] **"Perception, Reason, Think, and Plan: A Survey on Large Multimodal Reasoning Models"** [[paper](https://arxiv.org/abs/2505.04921v1)]
+* [May 2025] **"DEBATE, TRAIN, EVOLVE: Self-Evolution of Language Model Reasoning"** [[paper](https://arxiv.org/abs/2505.15734)]
+* [May 2025] **"Reward Reasoning Model"** [[paper](https://arxiv.org/abs/2505.14674)]
+* [May 2025] **"R3: Robust Rubric-Agnostic Reward Models"** [[paper](https://arxiv.org/abs/2505.13388)]
