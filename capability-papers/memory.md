@@ -28,7 +28,7 @@ These papers discuss an agent’s memory function and its self-evolution.
 * [Mar 2025] **"MemInsight: Autonomous Memory Augmentation for LLM Agents"** [[paper](https://arxiv.org/abs/2503.21760)]
 * 📖 [Apr 2025] **"From Human Memory to AI Memory: A Survey on Memory Mechanisms in the Era of LLMs"** [[paper](https://arxiv.org/abs/2504.15965)]
 * [Apr 2025] **"Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory"** [[paper](https://arxiv.org/abs/2504.19413)]
-
+**"Get Experience from Practice: LLM Agents with Record & Replay"** [[paper](https://arxiv.org/abs/2505.17716)]
 
 
 ## Self-Evolution (Self-Improvement)
@@ -70,3 +70,7 @@ These papers discuss an agent’s memory function and its self-evolution.
 * [May 2025] **"System Prompt Optimization with Meta-Learning"** [[paper](https://www.arxiv.org/abs/2505.09666)]
 * [May 2025] **"Self Rewarding Self Improving"** [[paper](https://www.arxiv.org/abs/2505.08827)]
 * [May 2025] **"Meta-Design Matters:A Self-Design Multi-Agent System"** [[paper](http://arxiv.org/abs/2505.14996)]
+* [May 2025] **"Alita: Generalist Agent Enabling Scalable Agentic Reasoning with Minimal Predefinition and Maximal Self-Evolution"** [[paper](https://arxiv.org/abs/2505.20286)]
+* [May 2025] **"Multi-Agent Collaboration via Evolving Orchestration"** [[paper](https://www.arxiv.org/abs/2505.19591)]
+* [May 2025] **"SEW: Self-Evolving Agentic Workflows for Automated Code Generation"** [[paper](https://arxiv.org/abs/2505.18646)]
+* [May 2025] **"Rethinking Agent Design: From Top-Down Workflows to Bottom-Up Skill Evolution"** [[paper](https://arxiv.org/abs/2505.17673)]
