@@ -41,3 +41,4 @@ These papers discuss agent planning.
 * 📖 [Feb 2025] **"PlanGenLLMs: A Modern Survey of LLM Planning Capabilities"** [[paper](https://arxiv.org/abs/2502.11221)]
 * [Feb 2025] **"PlanGEN: A Multi-Agent Framework for Generating Planning and Reasoning Trajectories for Complex Problem Solving"** [[paper](https://arxiv.org/abs/2502.16111)]
 * [Feb 2025] **"Conversational Planning for Personal Plans"** [[paper](https://arxiv.org/abs/2502.19500)]
+* 📖 [May 2025] **"Large Language Models for Planning: A Comprehensive and Systematic Survey"** [[paper](https://arxiv.org/abs/2505.19683)]

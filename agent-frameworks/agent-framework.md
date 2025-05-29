@@ -91,7 +91,7 @@
 * [Mar 2025] **"WorkTeam: Constructing Workflows from Natural Language with Multi-Agents"** [[paper](https://arxiv.org/abs/2503.22473)]
 * [Apr 2025] **"AgentNet: Decentralized Evolutionary Coordination for LLM-based Multi-Agent Systems"** [[paper](https://arxiv.org/abs/2504.00587)]
 * [Apr 2025] **"FlowReasoner: Reinforcing Query-Level Meta-Agents"** [[paper](https://arxiv.org/abs/2504.15257)]
-
+* [May 2025] **"Multi-Agent Collaboration via Evolving Orchestration"** [[paper](https://www.arxiv.org/abs/2505.19591)]
 
 ## Agent Ops & UX
 * [Feb 2024] **"Towards better Human-Agent Alignment: Assessing Task Utility in LLM-Powered Applications"** [[paper](https://arxiv.org/abs/2402.09015)]
@@ -108,3 +108,4 @@
 * 📖 [Apr 2025] **"A Survey of AI Agent Protocols"** [[paper](https://arxiv.org/abs/2504.16736)]
 * 📖 [May 2025] **"A Survey on Large Language Model based Human-Agent Systems"** [[paper](https://arxiv.org/abs/2505.00753)]
 * [May 2025] **"Towards Artificial Intelligence Research Assistant for Expert-Involved Learning"** [[paper](https://arxiv.org/abs/2505.04638)]
+* [May 2025] **"The Real Barrier to LLM Agent Usability is Agentic ROI"** [[paper](https://www.arxiv.org/abs/2505.17767)]

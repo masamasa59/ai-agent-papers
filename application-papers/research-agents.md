@@ -47,3 +47,5 @@
 * [May 2025] **"PiFlow: Principle-aware Scientific Discovery with Multi-Agent Collaboration"** [[paper](https://arxiv.org/abs/2505.15047)]
 * [May 2025] **"R&D-Agent: Automating Data-Driven AI Solution Building Through LLM-Powered Automated Research, Development, and Evolution"** [[paper](https://arxiv.org/abs/2505.14738)]
 * 📖 [May 2025] **"From Automation to Autonomy: A Survey on Large Language Models in Scientific Discovery"** [[paper](https://arxiv.org/abs/2505.13259)]
+* ⚖️ [May 2025] **"MLR-Bench: Evaluating AI Agents on Open-Ended Machine Learning Research"** [[paper](https://arxiv.org/abs/2505.19955)]
+* [May 2025] **"AI-Researcher: Autonomous Scientific Innovation"** [[paper](https://arxiv.org/abs/2505.18705)]
