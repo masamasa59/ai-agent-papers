@@ -15,13 +15,13 @@ Updated biweekly.
     <figcaption style="text-align: center;">AI Agent Workflows</figcaption>
 </figure>
 
-## May Highlights (Updated 25 May)
+## May Highlights (Updated 31 May)
 ### Inference Time Computing 
 * 📖 **"A Survey of Slow Thinking-based Reasoning LLMs using Reinforced Learning and Inference-time Scaling Law"** [[paper](https://www.arxiv.org/abs/2505.02665)]
 * 📖 **"Perception, Reason, Think, and Plan: A Survey on Large Multimodal Reasoning Models"** [[paper](https://arxiv.org/abs/2505.04921v1)]
 
 ### Tool Integrated Reasoning
-* [May 2025] **"Table-R1: Inference-Time Scaling for Table Reasoning"** [[paper](https://www.arxiv.org/abs/2505.23621)]
+* **"Table-R1: Inference-Time Scaling for Table Reasoning"** [[paper](https://www.arxiv.org/abs/2505.23621)]
 * **"Agentic Reasoning and Tool Integration for LLMs via Reinforcement Learning"** [[paper](https://www.arxiv.org/abs/2505.01441)]
 * **"Nemotron-Research-Tool-N1: Exploring Tool-Using Language Models with Reinforced Reasoning"** [[paper](https://arxiv.org/abs/2505.00024)]
 * **"Agent RL Scaling Law: Spontaneous Code Execution for Mathematical Problem Solving"** [[paper](https://arxiv.org/abs/2505.07773)]
