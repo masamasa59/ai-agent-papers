@@ -17,6 +17,8 @@
 * 📖 [Feb 2025] **"Beyond Self-Talk: A Communication-Centric Survey of LLM-Based Multi-Agent Systems"** [[paper](https://arxiv.org/abs/2502.14321)]
 * [Mar 2025] **"Why Do Multi-Agent LLM Systems Fail?"** [[paper](https://arxiv.org/abs/2503.13657)]
 * 📖 [Mar 2025] **"A Comprehensive Survey on Multi-Agent Cooperative Decision-Making: Scenarios, Approaches, Challenges and Perspectives"** [[paper](https://arxiv.org/abs/2503.13415)]
+* 📖 [May 2025] **"Creativity in LLM-based Multi-Agent Systems: A Survey"** [[paper](https://www.arxiv.org/abs/2505.21116)]
+
 
 ### MAD（Multi-Agent Debate）
 * [May 2023] **"Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate"** [[paper](https://arxiv.org/abs/2305.19118)]
@@ -32,6 +34,7 @@
 * [Jan 2025] **"ToM-agent: Large Language Models as Theory of Mind Aware Generative Agents with Counterfactual Reflection"** [[paper](https://arxiv.org/abs/2501.15355)]
 * [Apr 2025] **"Two Heads are Better Than One: Test-time Scaling of Multi-agent Collaborative Reasoning"** [[paper](https://arxiv.org/abs/2504.09772)]
 * [May 2025] **"Towards Multi-Agent Reasoning Systems for Collaborative Expertise Delegation: An Exploratory Design Study"** [[paper](https://www.arxiv.org/abs/2505.07313)]
+* [May 2025] **"Revisiting Multi-Agent Debate as Test-Time Scaling: A Systematic Study of Conditional Effectiveness"** [[paper](https://www.arxiv.org/abs/2505.22960)]
 
 ### Problem Solving
 * [Mar 2023] **"CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society"** [[paper](https://arxiv.org/abs/2303.17760)]

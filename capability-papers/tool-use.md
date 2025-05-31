@@ -60,3 +60,8 @@ These papers discuss whether or not agents can properly use tools
 * [May 2025] **"Agent RL Scaling Law: Spontaneous Code Execution for Mathematical Problem Solving"** [[paper](https://arxiv.org/abs/2505.07773)]
 * [May 2025] **"Reinforced Internal-External Knowledge Synergistic Reasoning for Efficient Adaptive Search Agent"** [[paper](https://www.arxiv.org/abs/2505.07596)]
 * [May 2025] **"An Empirical Study on Reinforcement Learning for Reasoning-Search Interleaved LLM Agents"** [[paper](https://www.arxiv.org/abs/2505.15117)]
+* [May 2025] **"MIRROR: Multi-agent Intra- and Inter-Reflection for Optimized Reasoning in Tool Learning"** [[paper](https://arxiv.org/abs/2505.20670)]
+* ⚖️ [May 2025] **"ThinkGeo : Evaluating Tool-Augmented Agents for Remote Sensing Tasks"** [[paper](https://arxiv.org/abs/2505.23752)]
+* [May 2025] **"EvolveSearch: An Iterative Self-Evolving Search Agent"** [[paper](https://arxiv.org/abs/2505.22501)]
+* [May 2025] **"VisualToolAgent (VisTA): A Reinforcement Learning Framework for Visual Tool Selection"** [[paper](https://www.arxiv.org/abs/2505.20289)]
+* [May 2025] **"Tool-Star: Empowering LLM-Brained Multi-Tool Reasoner via Reinforcement Learning"** [[paper](https://arxiv.org/abs/2505.16410)]

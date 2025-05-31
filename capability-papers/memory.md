@@ -28,7 +28,8 @@ These papers discuss an agent’s memory function and its self-evolution.
 * [Mar 2025] **"MemInsight: Autonomous Memory Augmentation for LLM Agents"** [[paper](https://arxiv.org/abs/2503.21760)]
 * 📖 [Apr 2025] **"From Human Memory to AI Memory: A Survey on Memory Mechanisms in the Era of LLMs"** [[paper](https://arxiv.org/abs/2504.15965)]
 * [Apr 2025] **"Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory"** [[paper](https://arxiv.org/abs/2504.19413)]
-**"Get Experience from Practice: LLM Agents with Record & Replay"** [[paper](https://arxiv.org/abs/2505.17716)]
+* [May 2025] **"Get Experience from Practice: LLM Agents with Record & Replay"** [[paper](https://arxiv.org/abs/2505.17716)]
+* [May 2025] **"MemOS: An Operating System for Memory-Augmented Generation (MAG) in Large Language Models (Short Version)"** [[paper](https://arxiv.org/abs/2505.22101)]
 
 
 ## Self-Evolution (Self-Improvement)
@@ -74,3 +75,5 @@ These papers discuss an agent’s memory function and its self-evolution.
 * [May 2025] **"Multi-Agent Collaboration via Evolving Orchestration"** [[paper](https://www.arxiv.org/abs/2505.19591)]
 * [May 2025] **"SEW: Self-Evolving Agentic Workflows for Automated Code Generation"** [[paper](https://arxiv.org/abs/2505.18646)]
 * [May 2025] **"Rethinking Agent Design: From Top-Down Workflows to Bottom-Up Skill Evolution"** [[paper](https://arxiv.org/abs/2505.17673)]
+* [May 2025] **"Darwin Gödel Machine:Open-Ended Evolution of Self-Improving Agents"** [[paper](https://arxiv.org/abs/2505.22954)]
+* [May 2025] **"EvolveSearch: An Iterative Self-Evolving Search Agent"** [[paper](https://arxiv.org/abs/2505.22501)]

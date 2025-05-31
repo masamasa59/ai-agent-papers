@@ -56,3 +56,5 @@
 * [May 2025] **"Agentic Feature Augmentation: Unifying Selection and Generation with Teaming, Planning, and Memories"** [[paper](https://www.arxiv.org/abs/2505.15076)]
 * [May 2025] **"JARVIS: A Multi-Agent Code Assistant for High-Quality EDA Script Generation"** [[paper](https://www.arxiv.org/abs/2505.14978)]
 * [May 2025] **"MLZero: A Multi-Agent System for End-to-end Machine Learning Automation"** [[paper](https://arxiv.org/abs/2505.13941)]
+* [May 2025] **"ML-Agent: Reinforcing LLM Agents for Autonomous Machine Learning Engineering"** [[paper](https://arxiv.org/abs/2505.23723)]
+* [May 2025] **"Data-to-Dashboard: Multi-Agent LLM Framework for Insightful Visualization in Enterprise Analytics"** [[paper](https://arxiv.org/abs/2505.23695)]

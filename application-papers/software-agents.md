@@ -33,3 +33,6 @@
 * [Mar 2025] **"Knowledge-Based Multi-Agent Framework for Automated Software Architecture Design"** [[paper](https://arxiv.org/abs/2503.20536)]
 * 📖 [Mar 2025] **"Challenges and Paths Towards AI for Software Engineering"** [[paper](https://arxiv.org/abs/2503.22625)]
 * [Apr 2025] **"DocAgent: A Multi-Agent System for Automated Code Documentation Generation"** [[paper](https://arxiv.org/abs/2504.08725)]
+* [May 2025] **"Can Agents Fix Agent Issues?"** [[paper](https://arxiv.org/abs/2505.20749)]
+* ⚖️ [May 2025] **"SWE-bench Goes Live!"** [[paper](https://www.arxiv.org/abs/2505.23419)]
+* [May 2025] **"Vibe Coding vs. Agentic Coding: Fundamentals and Practical Implications of Agentic AI"** [[paper](https://arxiv.org/abs/2505.19443)]

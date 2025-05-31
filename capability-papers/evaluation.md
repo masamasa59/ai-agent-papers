@@ -37,3 +37,4 @@
 * ⚖️ [Apr 2025] **"AGENTREWARDBENCH: Evaluating Automatic Evaluations of Web Agent Trajectories"** [[paper](https://arxiv.org/abs/2504.08942)]
 * ⚖️ [May 2025] **"Benchmarking LLMs’ Swarm intelligence"** [[paper](https://www.arxiv.org/abs/2505.04364)]
 * ⚖️ [May 2025] **"On Path to Multimodal Generalist: General-Level and General-Bench"** [[apper](https://arxiv.org/abs/2505.04620)]
+* ⚖️ [May 2025] **"AGENTIF: Benchmarking Instruction Following of Large Language Models in Agentic Scenarios"** [[paper](https://arxiv.org/abs/2505.16944)]

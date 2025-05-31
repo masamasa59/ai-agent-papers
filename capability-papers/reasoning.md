@@ -65,3 +65,6 @@
 * [May 2025] **"DEBATE, TRAIN, EVOLVE: Self-Evolution of Language Model Reasoning"** [[paper](https://arxiv.org/abs/2505.15734)]
 * [May 2025] **"Reward Reasoning Model"** [[paper](https://arxiv.org/abs/2505.14674)]
 * [May 2025] **"R3: Robust Rubric-Agnostic Reward Models"** [[paper](https://arxiv.org/abs/2505.13388)]
+* [May 2025] **"Table-R1: Inference-Time Scaling for Table Reasoning"** [[paper](https://www.arxiv.org/abs/2505.23621)]
+* [May 2025] **"Revisiting Multi-Agent Debate as Test-Time Scaling: A Systematic Study of Conditional Effectiveness"** [[paper](https://www.arxiv.org/abs/2505.22960)]
+* [May 2025] **"Reinforcing General Reasoning without Verifiers"** [[paper](https://arxiv.org/abs/2505.21493)]
