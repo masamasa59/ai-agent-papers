@@ -38,3 +38,4 @@
 * ⚖️ [May 2025] **"Benchmarking LLMs’ Swarm intelligence"** [[paper](https://www.arxiv.org/abs/2505.04364)]
 * ⚖️ [May 2025] **"On Path to Multimodal Generalist: General-Level and General-Bench"** [[apper](https://arxiv.org/abs/2505.04620)]
 * ⚖️ [May 2025] **"AGENTIF: Benchmarking Instruction Following of Large Language Models in Agentic Scenarios"** [[paper](https://arxiv.org/abs/2505.16944)]
+* ⚖️ [May 2025] **"Sentient Agent as a Judge: Evaluating Higher-Order Social Cognition in Large Language Models"** [[paper](https://arxiv.org/abs/2505.02847)]

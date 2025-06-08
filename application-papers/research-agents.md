@@ -49,3 +49,4 @@
 * 📖 [May 2025] **"From Automation to Autonomy: A Survey on Large Language Models in Scientific Discovery"** [[paper](https://arxiv.org/abs/2505.13259)]
 * ⚖️ [May 2025] **"MLR-Bench: Evaluating AI Agents on Open-Ended Machine Learning Research"** [[paper](https://arxiv.org/abs/2505.19955)]
 * [May 2025] **"AI-Researcher: Autonomous Scientific Innovation"** [[paper](https://arxiv.org/abs/2505.18705)]
+* [Jun 2025] **"AI Scientists Fail Without Strong Implementation Capability"** [[paper](https://arxiv.org/abs/2506.01372)]

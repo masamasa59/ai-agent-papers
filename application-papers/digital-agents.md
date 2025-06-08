@@ -88,3 +88,4 @@
 * [Jan 2025] **"Mobile-Agent-E: Self-Evolving Mobile Assistant for Complex Tasks"** [[paper](https://arxiv.org/abs/2501.11733)]
 * [Mar 2025] **"Agent-Initiated Interaction in Phone UI Automation"** [[paper](https://arxiv.org/abs/2503.19537)]
 * 📖 [Apr 2025] **"LLM-Powered GUI Agents in Phone Automation: Surveying Progress and Prospects"** [[paper](https://arxiv.org/abs/2504.19838)]
+* [Jun 2025] **"GUI-Actor: Coordinate-Free Visual Grounding for GUI Agents"** [[paper](https://arxiv.org/abs/2506.03143)]

@@ -55,3 +55,6 @@ Agents in various tasks such as education, healthcare, and the press.
 * [Apr 2025] **"AgentA/B: Automated and Scalable Web A/B Testing with Interactive LLM Agents"** [[paper](https://arxiv.org/abs/2504.09723)]
 * [Apr 2025] **"UXAgent: A System for Simulating Usability Testing of Web Design with LLM Agents"** [[paper](https://arxiv.org/abs/2504.09407)]
 * [Apr 2025] **"OptimAI: Optimization from Natural Language Using LLM-Powered AI Agents"** [[paper](https://arxiv.org/abs/2504.16918)]
+* 📖 [May 2025] **"Knowledge Augmented Complex Problem Solving with Large Language Models: A Survey"** [[paper](https://arxiv.org/abs/2505.03418)]
+* [Jun 2025] **"Oversight Structures for Agentic AI in Public-Sector Organizations"** [[paper](https://www.arxiv.org/abs/2506.04836)]
+* ⚖️ [Jun 2025] **"AssetOpsBench: Benchmarking AI Agents for Task Automation in Industrial Asset Operations and Maintenance"** [[paper](https://arxiv.org/abs/2506.03828)]

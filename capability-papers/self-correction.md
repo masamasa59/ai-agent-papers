@@ -42,3 +42,5 @@ These papers discuss whether agents can autonomously recover from errors.
 * [Apr 2025] **"Leveraging LLMs as Meta-Judges: A Multi-Agent Framework for Evaluating LLM Judgments"** [[paper](https://www.arxiv.org/abs/2504.17087)]
 * [May 2025] **"AutoLibra: Agent Metric Induction from Open-Ended Feedback"** [[paper](https://arxiv.org/abs/2505.02820)]
 * [May 2025] **"ReflAct: World-Grounded Decision Making in LLM Agents via Goal-State Reflection"** [[paper](https://arxiv.org/abs/2505.15182)]
+* [May 2025] **"Reflect, Retry, Reward:Self-Improving LLMs via Reinforcement Learning"** [[paper](https://arxiv.org/abs/2505.24726)]
+* [Jun 2025] **"Incentivizing LLMs to Self-Verify Their Answers"** [[paper](https://arxiv.org/abs/2506.01369)]

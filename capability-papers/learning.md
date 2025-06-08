@@ -43,3 +43,4 @@
 * 📖 [May 2025] **"Vision-Language-Action Models: Concepts, Progress, Applications and Challenges"** [[paper](https://www.arxiv.org/abs/2505.04769)]
 * [May 2025] **"Distilling LLM Agent into Small Models with Retrieval and Code Tools"** [[paper](https://www.arxiv.org/abs/2505.17612)]
 * [May 2025] **"RRO: LLM Agent Optimization Through Rising Reward Trajectories"** [[paper](https://arxiv.org/abs/2505.20737)]
+* [Jun 2025] **"Small Language Models are the Future of Agentic AI"** [[paper](https://arxiv.org/abs/2506.02153)]

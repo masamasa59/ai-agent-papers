@@ -88,6 +88,7 @@
 * [Aug 2024] **"MegaAgent: A Practical Framework for Autonomous Cooperation in Large-Scale LLM Agent Systems"** [[paper](https://arxiv.org/abs/2408.09955)]
 * [Nov 2024] **"Magentic-One: A Generalist Multi-Agent System for Solving Complex Tasks"** [[paper](https://arxiv.org/abs/2411.04468)]
 * [Feb 2025] **"Multi-agent Architecture Search via Agentic Supernet"** [[paper](https://arxiv.org/abs/2502.04180)]
+* [Feb 2025] **"Multi-Agent Design: Optimizing Agents with Better Prompts and Topologies"** [[paper](https://arxiv.org/abs/2502.02533)]
 * [Mar 2025] **"WorkTeam: Constructing Workflows from Natural Language with Multi-Agents"** [[paper](https://arxiv.org/abs/2503.22473)]
 * [Apr 2025] **"AgentNet: Decentralized Evolutionary Coordination for LLM-based Multi-Agent Systems"** [[paper](https://arxiv.org/abs/2504.00587)]
 * [Apr 2025] **"FlowReasoner: Reinforcing Query-Level Meta-Agents"** [[paper](https://arxiv.org/abs/2504.15257)]

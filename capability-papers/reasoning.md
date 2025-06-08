@@ -68,3 +68,4 @@
 * [May 2025] **"Table-R1: Inference-Time Scaling for Table Reasoning"** [[paper](https://www.arxiv.org/abs/2505.23621)]
 * [May 2025] **"Revisiting Multi-Agent Debate as Test-Time Scaling: A Systematic Study of Conditional Effectiveness"** [[paper](https://www.arxiv.org/abs/2505.22960)]
 * [May 2025] **"Reinforcing General Reasoning without Verifiers"** [[paper](https://arxiv.org/abs/2505.21493)]
+* [Jun 2025] **"ProRefine: Inference-time Prompt Refinement with Textual Feedback"** [[paper](https://www.arxiv.org/abs/2506.05305)]
