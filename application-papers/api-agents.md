@@ -33,3 +33,5 @@
 * [Jan 2025] **"LLM-Agents Driven Automated Simulation Testing and Analysis of small Uncrewed Aerial Systems"** [[paper](https://arxiv.org/abs/2501.11864)]
 * [Jan 2025] **"Multi-Agent Geospatial Copilots for Remote Sensing Workflows"** [[paper](https://arxiv.org/abs/2501.16254)]
 * [Mar 2025] **"AI Agents in Engineering Design: A Multi-Agent Framework for Aesthetic and Aerodynamic Car Design"** [[paper](https://www.arxiv.org/abs/2503.23315)]
+* ⚖️ [Jun 2025] **"SOP-Bench: Complex Industrial SOPs for Evaluating LLM Agents"** [[paper](https://arxiv.org/abs/2506.08119)]
+* [Jun 2025] **"Intelligent Design 4.0: Paradigm Evolution Toward the Agentic AI Era"** [[paper](https://arxiv.org/abs/2506.09755)]

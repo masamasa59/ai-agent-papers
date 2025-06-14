@@ -77,6 +77,8 @@
 * 📖 [Apr 2025] **"From LLM Reasoning to Autonomous AI Agents: A Comprehensive Review"** [[paper](https://arxiv.org/abs/2504.19678)]
 * 📖 [Apr 2025] **"Generative to Agentic AI: Survey, Conceptualization, and Challenges"** [[paper](https://arxiv.org/abs/2504.18875)]
 * 📖 [May 2025] **"AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenges"** [[paper](https://arxiv.org/abs/2505.10468v1)]
+* 📖 [Jun 2025] **"Compound AI Systems Optimization: A Survey of Methods, Challenges, and Future Directions"** [[paper](https://www.arxiv.org/abs/2506.08234)]
+
 
 ## Multi-Agent
 * [Mar 2023] **"CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society"** [[paper](https://arxiv.org/abs/2303.17760)]
@@ -111,3 +113,5 @@
 * [May 2025] **"Towards Artificial Intelligence Research Assistant for Expert-Involved Learning"** [[paper](https://arxiv.org/abs/2505.04638)]
 * [May 2025] **"The Real Barrier to LLM Agent Usability is Agentic ROI"** [[paper](https://www.arxiv.org/abs/2505.17767)]
 * [May 2025] **"Agent-Environment Alignment via Automated Interface Generation"** [[paper](https://arxiv.org/abs/2505.21055)]
+* [Jun 2025] **"A Call for Collaborative Intelligence: Why Human-Agent Systems Should Precede AI Autonomy"** [[paper](https://arxiv.org/abs/2506.09420)]
+* 🔥[Jun 2025] **"Future of Work with AI Agents: Auditing Automation and Augmentation Potential across the U.S. Workforce"** [[paper](https://arxiv.org/abs/2506.06576)]

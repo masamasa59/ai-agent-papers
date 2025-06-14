@@ -69,3 +69,5 @@
 * [May 2025] **"Revisiting Multi-Agent Debate as Test-Time Scaling: A Systematic Study of Conditional Effectiveness"** [[paper](https://www.arxiv.org/abs/2505.22960)]
 * [May 2025] **"Reinforcing General Reasoning without Verifiers"** [[paper](https://arxiv.org/abs/2505.21493)]
 * [Jun 2025] **"ProRefine: Inference-time Prompt Refinement with Textual Feedback"** [[paper](https://www.arxiv.org/abs/2506.05305)]
+* [Jun 2025] **"CoRT: Code-integrated Reasoning within Thinking"** [[paper](https://arxiv.org/abs/2506.09820)]
+* [Jun 2025] **"Thinking vs. Doing: Agents that Reason by Scaling Test-Time Interaction"** [[paper](https://www.arxiv.org/abs/2506.07976)]

@@ -65,3 +65,4 @@ These papers discuss whether or not agents can properly use tools
 * [May 2025] **"EvolveSearch: An Iterative Self-Evolving Search Agent"** [[paper](https://arxiv.org/abs/2505.22501)]
 * [May 2025] **"VisualToolAgent (VisTA): A Reinforcement Learning Framework for Visual Tool Selection"** [[paper](https://www.arxiv.org/abs/2505.20289)]
 * [May 2025] **"Tool-Star: Empowering LLM-Brained Multi-Tool Reasoner via Reinforcement Learning"** [[paper](https://arxiv.org/abs/2505.16410)]
+* [Jun 2025] **"CoRT: Code-integrated Reasoning within Thinking"** [[paper](https://arxiv.org/abs/2506.09820)]

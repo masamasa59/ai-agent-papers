@@ -58,3 +58,5 @@
 * [May 2025] **"MLZero: A Multi-Agent System for End-to-end Machine Learning Automation"** [[paper](https://arxiv.org/abs/2505.13941)]
 * [May 2025] **"ML-Agent: Reinforcing LLM Agents for Autonomous Machine Learning Engineering"** [[paper](https://arxiv.org/abs/2505.23723)]
 * [May 2025] **"Data-to-Dashboard: Multi-Agent LLM Framework for Insightful Visualization in Enterprise Analytics"** [[paper](https://arxiv.org/abs/2505.23695)]
+* [Jun 2025] **"AUTOMIND: Adaptive Knowledgeable Agent for Automated Data Science"** [[paper](https://arxiv.org/abs/2506.10974)]
+* 📖 [Jun 2025] **"Measuring Data Science Automation: A Survey of Evaluation Tools for AI Assistants and Agents"** [[paper](https://arxiv.org/abs/2506.08800)]

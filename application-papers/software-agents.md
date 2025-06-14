@@ -37,3 +37,4 @@
 * ⚖️ [May 2025] **"SWE-bench Goes Live!"** [[paper](https://www.arxiv.org/abs/2505.23419)]
 * [May 2025] **"Vibe Coding vs. Agentic Coding: Fundamentals and Practical Implications of Agentic AI"** [[paper](https://arxiv.org/abs/2505.19443)]
 * [Jun 2025] **"Co-Evolving LLM Coder and Unit Tester via Reinforcement Learning"** [[paper](https://arxiv.org/abs/2506.03136)]
+* [Jun 2025] **"Understanding Software Engineering Agents Through the Lens of Traceability: An Empirical Study"** [[paper](https://www.arxiv.org/abs/2506.08311)]
