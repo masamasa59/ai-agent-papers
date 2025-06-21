@@ -175,7 +175,7 @@ Updated biweekly.
   - [Data Agents](application-papers/data-agents.md)
   - [Research Agents](application-papers/research-agents.md)
   - [API Agents](application-papers/api-agents.md)
-  - [Agentic RAG](application-papers/agentic-rag.md)
+  - [Deep Research Agents](application-papers/deep-research-agents.md)
   - [Agentic AI Systems](application-papers/agentic-ai-system.md)
   - [Multi-Agents](application-papers/multi-agent.md)
     - [MAD](application-papers/multi-agent.md#mad)

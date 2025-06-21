@@ -60,3 +60,4 @@
 * [May 2025] **"Data-to-Dashboard: Multi-Agent LLM Framework for Insightful Visualization in Enterprise Analytics"** [[paper](https://arxiv.org/abs/2505.23695)]
 * [Jun 2025] **"AUTOMIND: Adaptive Knowledgeable Agent for Automated Data Science"** [[paper](https://arxiv.org/abs/2506.10974)]
 * 📖 [Jun 2025] **"Measuring Data Science Automation: A Survey of Evaluation Tools for AI Assistants and Agents"** [[paper](https://arxiv.org/abs/2506.08800)]
+* [Jun 2025] **"SheetMind: An End-to-End LLM-Powered Multi-Agent Framework for Spreadsheet Automation"** [[paper](https://www.arxiv.org/abs/2506.12339)]

@@ -82,6 +82,7 @@
 * [Feb 2025] **"Flow-of-Action: SOP Enhanced LLM-Based Multi-Agent System for Root Cause Analysis"** [[paper](https://www.arxiv.org/abs/2502.08224)]
 * 📖 [Apr 2025] **"Adaptive Human-Agent Teaming: A Review of Empirical Studies from the Process Dynamics Perspective"** [[paper](https://arxiv.org/abs/2504.10918)]
 * [May 2025] **"Which Agent Causes Task Failures and When? On Automated Failure Attribution of LLM Multi-Agent Systems"** [[paper](https://www.arxiv.org/abs/2505.00212)]
+* [Jun 2025] **"AgentOrchestra: A Hierarchical Multi-Agent Framework for General-Purpose Task Solving"** [[paper](https://www.arxiv.org/abs/2506.12508)]
 
 ### World Simulation
 * [Apr 2023] **"Generative agents: Interactive simulacra of human behavior"** [[paper](https://arxiv.org/abs/2304.03442)]

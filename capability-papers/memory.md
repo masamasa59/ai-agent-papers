@@ -83,3 +83,5 @@ These papers discuss an agent’s memory function and its self-evolution.
 * [Jun 2025] **"Co-Evolving LLM Coder and Unit Tester via Reinforcement Learning"** [[paper](https://arxiv.org/abs/2506.03136)]
 * [Jun 2025] **"Self-Challenging Language Model Agents"** [[paper](https://arxiv.org/abs/2506.01716)]
 * 📖 [Jun 2025] **"The Future of Continual Learning in the Era of Foundation Models: Three Key Directions"** [[paper](https://arxiv.org/abs/2506.03320)]
+* [Jun 2025] **"ReVeal: Self-Evolving Code Agents via Iterative Generation-Verification"** [[paper](https://arxiv.org/abs/2506.11442)]
+* [Jun 2025] **"SwarmAgentic: Towards Fully Automated Agentic System Generation via Swarm Intelligence"** [[paper](https://arxiv.org/abs/2506.15672)]

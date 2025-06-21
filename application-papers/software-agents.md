@@ -38,3 +38,8 @@
 * [May 2025] **"Vibe Coding vs. Agentic Coding: Fundamentals and Practical Implications of Agentic AI"** [[paper](https://arxiv.org/abs/2505.19443)]
 * [Jun 2025] **"Co-Evolving LLM Coder and Unit Tester via Reinforcement Learning"** [[paper](https://arxiv.org/abs/2506.03136)]
 * [Jun 2025] **"Understanding Software Engineering Agents Through the Lens of Traceability: An Empirical Study"** [[paper](https://www.arxiv.org/abs/2506.08311)]
+* [Jun 2025] **"SWE-Factory: Your Automated Factory for Issue Resolution Training Data and Evaluation Benchmarks"** [[paper](https://arxiv.org/abs/2506.10954v1)]
+* [Jun 2025] **"Code Researcher: Deep Research Agent for Large Systems Code and Commit History"** [[paper](https://arxiv.org/abs/2506.11060)]
+* [Jun 2025] **"Agent-RLVR: Training Software Engineering Agents via Guidance and Environment Rewards"** [[paper](https://arxiv.org/abs/2506.11425)]
+* [Jun 2025] **"ReVeal: Self-Evolving Code Agents via Iterative Generation-Verification"** [[paper](https://arxiv.org/abs/2506.11442)]
+* 📖 [Jun 2025] **"How Does LLM Reasoning Work for Code? A Survey and a Call to Action"** [[paper](https://arxiv.org/abs/2506.13932)]

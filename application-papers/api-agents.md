@@ -35,3 +35,4 @@
 * [Mar 2025] **"AI Agents in Engineering Design: A Multi-Agent Framework for Aesthetic and Aerodynamic Car Design"** [[paper](https://www.arxiv.org/abs/2503.23315)]
 * ⚖️ [Jun 2025] **"SOP-Bench: Complex Industrial SOPs for Evaluating LLM Agents"** [[paper](https://arxiv.org/abs/2506.08119)]
 * [Jun 2025] **"Intelligent Design 4.0: Paradigm Evolution Toward the Agentic AI Era"** [[paper](https://arxiv.org/abs/2506.09755)]
+* [Jun 2025] **"Managing Complex Failure Analysis Workflows with LLM-based Reasoning and Acting Agents"** [[paper](https://arxiv.org/abs/2506.15567)]

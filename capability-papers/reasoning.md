@@ -71,3 +71,4 @@
 * [Jun 2025] **"ProRefine: Inference-time Prompt Refinement with Textual Feedback"** [[paper](https://www.arxiv.org/abs/2506.05305)]
 * [Jun 2025] **"CoRT: Code-integrated Reasoning within Thinking"** [[paper](https://arxiv.org/abs/2506.09820)]
 * [Jun 2025] **"Thinking vs. Doing: Agents that Reason by Scaling Test-Time Interaction"** [[paper](https://www.arxiv.org/abs/2506.07976)]
+* [Jun 2025] **"Scaling Test-time Compute for LLM Agents"** [[paper](https://arxiv.org/abs/2506.12928)]

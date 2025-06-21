@@ -95,6 +95,8 @@
 * [Apr 2025] **"AgentNet: Decentralized Evolutionary Coordination for LLM-based Multi-Agent Systems"** [[paper](https://arxiv.org/abs/2504.00587)]
 * [Apr 2025] **"FlowReasoner: Reinforcing Query-Level Meta-Agents"** [[paper](https://arxiv.org/abs/2504.15257)]
 * [May 2025] **"Multi-Agent Collaboration via Evolving Orchestration"** [[paper](https://www.arxiv.org/abs/2505.19591)]
+* [Jun 2025] **"AgentOrchestra: A Hierarchical Multi-Agent Framework for General-Purpose Task Solving"** [[paper](https://www.arxiv.org/abs/2506.12508)]
+* [Jun 2025] **"SwarmAgentic: Towards Fully Automated Agentic System Generation via Swarm Intelligence"** [[paper](https://arxiv.org/abs/2506.15672)]
 
 ## Agent Ops & UX
 * [Feb 2024] **"Towards better Human-Agent Alignment: Assessing Task Utility in LLM-Powered Applications"** [[paper](https://arxiv.org/abs/2402.09015)]

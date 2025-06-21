@@ -50,3 +50,6 @@
 * ⚖️ [May 2025] **"MLR-Bench: Evaluating AI Agents on Open-Ended Machine Learning Research"** [[paper](https://arxiv.org/abs/2505.19955)]
 * [May 2025] **"AI-Researcher: Autonomous Scientific Innovation"** [[paper](https://arxiv.org/abs/2505.18705)]
 * [Jun 2025] **"AI Scientists Fail Without Strong Implementation Capability"** [[paper](https://arxiv.org/abs/2506.01372)]
+* ⚖️ [Jun 2025] **"Table-Text Alignment: Explaining Claim Verification Against Tables in Scientific Papers"** [[paper](https://arxiv.org/abs/2506.10486)]
+* ⚖️ [Jun 2025] **"SCIVER: Evaluating Foundation Models for Multimodal Scientific Claim Verification"** [[paper](https://arxiv.org/abs/2506.15569)]
+* [Jun 2025] **"SciSage: A Multi-Agent Framework for High-Quality Scientific Survey Generation"** [[paper](https://arxiv.org/abs/2506.12689)]
