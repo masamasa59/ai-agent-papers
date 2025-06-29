@@ -40,3 +40,4 @@
 * ⚖️ [May 2025] **"AGENTIF: Benchmarking Instruction Following of Large Language Models in Agentic Scenarios"** [[paper](https://arxiv.org/abs/2505.16944)]
 * ⚖️ [May 2025] **"Sentient Agent as a Judge: Evaluating Higher-Order Social Cognition in Large Language Models"** [[paper](https://arxiv.org/abs/2505.02847)]
 * ⚖️ [Jun 2025] **"AssertBench: A Benchmark for Evaluating Self-Assertion in Large Language Models"** [[paper](https://arxiv.org/abs/2506.11110)]
+* ⚖️ [Jun 2025] **"Agent-RewardBench: Towards a Unified Benchmark for Reward Modeling across Perception, Planning, and Safety in Real-World Multimodal Agents"** [[paper](https://arxiv.org/abs/2506.21252)]

@@ -90,3 +90,4 @@
 * [Mar 2025] **"Agent-Initiated Interaction in Phone UI Automation"** [[paper](https://arxiv.org/abs/2503.19537)]
 * 📖 [Apr 2025] **"LLM-Powered GUI Agents in Phone Automation: Surveying Progress and Prospects"** [[paper](https://arxiv.org/abs/2504.19838)]
 * [Jun 2025] **"GUI-Actor: Coordinate-Free Visual Grounding for GUI Agents"** [[paper](https://arxiv.org/abs/2506.03143)]
+* [Jun 2025] **"Beyond Syntax: Action Semantics Learning for App Agents"** [[paper](https://arxiv.org/abs/2506.17697)]

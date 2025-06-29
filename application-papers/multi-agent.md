@@ -112,3 +112,5 @@
 * [Feb 2025] **"AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society"** [[paper](https://www.arxiv.org/abs/2502.08691)]
 * [Apr 2025] **"SocioVerse: A World Model for Social Simulation Powered by LLM Agents and A Pool of 10 Million Real-World Users"** [[paper](https://arxiv.org/abs/2504.10157)]
 * [Apr 2025] **"SOTOPIA-S4: a user-friendly system for flexible, customizable, and large-scale social simulation"** [[paper](https://www.arxiv.org/abs/2504.16122)]
+* [Jun 2025] **"LLM-Based Social Simulations Require a Boundary"** [[paper](https://www.arxiv.org/abs/2506.19806)]
+* [Jun 2025] **"LIFELONG SOTOPIA: Evaluating Social Intelligence of Language Agents Over Lifelong Social Interactions"** [[paper](https://www.arxiv.org/abs/2506.12666)]

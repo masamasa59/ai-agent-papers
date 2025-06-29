@@ -62,3 +62,5 @@ Agents in various tasks such as education, healthcare, and the press.
 * [Jun 2025] **"Intelligent Design 4.0: Paradigm Evolution Toward the Agentic AI Era"** [[paper](https://arxiv.org/abs/2506.09755)]
 * [Jun 2025] **"Improved LLM Agents for Financial Document Question Answering"** [[paper](https://www.arxiv.org/abs/2506.08726)]
 * ⚖️ [Jun 2025] **"ALE-Bench: A Benchmark for Long-Horizon Objective-Driven Algorithm Engineering"** [[paper](https://arxiv.org/abs/2506.09050)]
+* [Jun 2025] **"Decide less, communicate more: On the construct validity of end-to-end fact-checking in medicine"** [[paper](https://www.arxiv.org/abs/2506.20876)]
+* [Jun 2025] **"SV-LLM: An Agentic Approach for SoC Security Verification using Large Language Models"** [[paper](https://arxiv.org/abs/2506.20415)]

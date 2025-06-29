@@ -15,6 +15,39 @@ Updated biweekly.
     <figcaption style="text-align: center;">AI Agent Workflows</figcaption>
 </figure>
 
+# June Highlights (Updated 30 June)
+### Deep Research Agents 
+* ⚖️ **"DeepResearch Bench: A Comprehensive Benchmark for Deep Research Agents"** [[paper](https://arxiv.org/abs/2506.11763)]
+* 📖 **"From Web Search towards Agentic Deep Research: Incentivizing Search with Reasoning Agents"** [[paper](https://www.arxiv.org/abs/2506.18959)]
+* 📖 **"Deep Research Agents: A Systematic Examination And Roadmap"** [[paper](https://arxiv.org/abs/2506.18096)]
+* 📖 **"Towards AI Search Paradigm"** [[paper](https://arxiv.org/abs/2506.17188)]
+* **"Mind2Web 2: Evaluating Agentic Search with Agent-as-a-Judge"** [[paper](https://arxiv.org/abs/2506.21506)]
+* **"MMSearch-R1: Incentivizing LMMs to Search"** [[paper](https://arxiv.org/abs/2506.20670)]
+* **"Towards Robust Fact-Checking: A Multi-Agent System with Advanced Evidence Retrieval"** [[paper](https://www.arxiv.org/abs/2506.17878)]
+
+### Data Science Agents
+* [Jun 2025] **"AUTOMIND: Adaptive Knowledgeable Agent for Automated Data Science"** [[paper](https://arxiv.org/abs/2506.10974)]
+* 📖 [Jun 2025] **"Measuring Data Science Automation: A Survey of Evaluation Tools for AI Assistants and Agents"** [[paper](https://arxiv.org/abs/2506.08800)]
+* [Jun 2025] **"SheetMind: An End-to-End LLM-Powered Multi-Agent Framework for Spreadsheet Automation"** [[paper](https://www.arxiv.org/abs/2506.12339)]
+* [Jun 2025] **"SWE-SQL: Illuminating LLM Pathways to Solve User SQL Issues in Real-World Applications"** [[paper](https://www.arxiv.org/abs/2506.18951)]
+* [Jun 2025] **"Towards Community-Driven Agents for Machine Learning Engineering"** [[paper](https://arxiv.org/abs/2506.20640)]
+* [Jun 2025] **"MLE-STAR: Machine Learning Engineering Agent via Search and Targeted Refinement"** [[paper](https://www.arxiv.org/abs/2506.15692)]
+
+### Business Operation Agents
+* **"Oversight Structures for Agentic AI in Public-Sector Organizations"** [[paper](https://www.arxiv.org/abs/2506.04836)]
+* ⚖️  **"AssetOpsBench: Benchmarking AI Agents for Task Automation in Industrial Asset Operations and Maintenance"** [[paper](https://arxiv.org/abs/2506.03828)]
+* 📖 **"Application-Driven Value Alignment in Agentic AI Systems: Survey and Perspectives"** [[paper](https://arxiv.org/abs/2506.09656)]
+* **"Intelligent Design 4.0: Paradigm Evolution Toward the Agentic AI Era"** [[paper](https://arxiv.org/abs/2506.09755)]
+* **"Improved LLM Agents for Financial Document Question Answering"** [[paper](https://www.arxiv.org/abs/2506.08726)]
+* ⚖️ **"ALE-Bench: A Benchmark for Long-Horizon Objective-Driven Algorithm Engineering"** [[paper](https://arxiv.org/abs/2506.09050)]
+* **"Decide less, communicate more: On the construct validity of end-to-end fact-checking in medicine"** [[paper](https://www.arxiv.org/abs/2506.20876)]
+* **"SV-LLM: An Agentic Approach for SoC Security Verification using Large Language Models"** [[paper](https://arxiv.org/abs/2506.20415)]
+* ⚖️ **"SOP-Bench: Complex Industrial SOPs for Evaluating LLM Agents"** [[paper](https://arxiv.org/abs/2506.08119)]
+* **"Intelligent Design 4.0: Paradigm Evolution Toward the Agentic AI Era"** [[paper](https://arxiv.org/abs/2506.09755)]
+* **"Managing Complex Failure Analysis Workflows with LLM-based Reasoning and Acting Agents"** [[paper](https://arxiv.org/abs/2506.15567)]
+* **"AgenticControl: An Automated Control Design Framework Using Large Language Models"** [[paper](https://www.arxiv.org/abs/2506.19160)]
+* 📖 **"A Survey of AI for Materials Science: Foundation Models, LLM Agents, Datasets, and Tools"** [[paper](https://arxiv.org/abs/2506.20743)]
+
 ## May Highlights (Updated 31 May)
 ### Inference Time Computing 
 * 📖 **"A Survey of Slow Thinking-based Reasoning LLMs using Reinforced Learning and Inference-time Scaling Law"** [[paper](https://www.arxiv.org/abs/2505.02665)]

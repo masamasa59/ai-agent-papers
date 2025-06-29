@@ -43,3 +43,4 @@ These papers discuss the safety and risks of agents.
 * [Jun 2025] **"Helpful Agent Meets Deceptive Judge: Understanding Vulnerabilities in Agentic Workflows"** [[paper](https://arxiv.org/abs/2506.03332)]
 * ⚖️ [Jun 2025] **"DefenderBench: A Toolkit for Evaluating Language Agents in Cybersecurity Environments"** [[paper](https://arxiv.org/abs/2506.00739)]
 * [Jun 2025] **"AgentAuditor: Human-Level Safety and Security Evaluation for LLM Agents"** [[paper](https://arxiv.org/abs/2506.00641)]
+* ⚖️ [Jun 2025] **"SHADE-Arena: Evaluating Sabotage and Monitoring in LLM Agents"** [[paper](https://www.arxiv.org/abs/2506.15740)]

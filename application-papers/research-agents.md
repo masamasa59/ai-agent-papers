@@ -53,3 +53,4 @@
 * ⚖️ [Jun 2025] **"Table-Text Alignment: Explaining Claim Verification Against Tables in Scientific Papers"** [[paper](https://arxiv.org/abs/2506.10486)]
 * ⚖️ [Jun 2025] **"SCIVER: Evaluating Foundation Models for Multimodal Scientific Claim Verification"** [[paper](https://arxiv.org/abs/2506.15569)]
 * [Jun 2025] **"SciSage: A Multi-Agent Framework for High-Quality Scientific Survey Generation"** [[paper](https://arxiv.org/abs/2506.12689)]
+* ⚖️ [Jun 2025] **"LMR-BENCH: Evaluating LLM Agent’s Ability on Reproducing Language Modeling Research"** [[paper](https://arxiv.org/abs/2506.17335)]

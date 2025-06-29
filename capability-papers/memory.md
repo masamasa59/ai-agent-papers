@@ -30,7 +30,7 @@ These papers discuss an agent’s memory function and its self-evolution.
 * [Apr 2025] **"Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory"** [[paper](https://arxiv.org/abs/2504.19413)]
 * [May 2025] **"Get Experience from Practice: LLM Agents with Record & Replay"** [[paper](https://arxiv.org/abs/2505.17716)]
 * [May 2025] **"MemOS: An Operating System for Memory-Augmented Generation (MAG) in Large Language Models (Short Version)"** [[paper](https://arxiv.org/abs/2505.22101)]
-
+* [Jun 2025] **"MEM1: Learning to Synergize Memory and Reasoning for Efficient Long-Horizon Agents"** [[paper](https://www.arxiv.org/abs/2506.15841)]
 
 ## Self-Evolution (Self-Improvement)
 * [May 2024] **Offline Training of Language Model Agents with Functions as Learnable Weights"** [[paper](https://arxiv.org/abs/2402.11359)]

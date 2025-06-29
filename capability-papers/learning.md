@@ -45,3 +45,4 @@
 * [May 2025] **"RRO: LLM Agent Optimization Through Rising Reward Trajectories"** [[paper](https://arxiv.org/abs/2505.20737)]
 * [Jun 2025] **"Small Language Models are the Future of Agentic AI"** [[paper](https://arxiv.org/abs/2506.02153)]
 * [Jun 2025] **"TaskCraft: Automated Generation of Agentic Tasks"** [[paper](https://www.arxiv.org/abs/2506.10055)]
+* [Jun 2025] **"JoyAgents-R1: Joint Evolution Dynamics for Versatile Multi-LLM Agents with Reinforcement Learning"** [[paper](https://arxiv.org/abs/2506.19846)]

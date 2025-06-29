@@ -43,3 +43,4 @@
 * [Jun 2025] **"Agent-RLVR: Training Software Engineering Agents via Guidance and Environment Rewards"** [[paper](https://arxiv.org/abs/2506.11425)]
 * [Jun 2025] **"ReVeal: Self-Evolving Code Agents via Iterative Generation-Verification"** [[paper](https://arxiv.org/abs/2506.11442)]
 * 📖 [Jun 2025] **"How Does LLM Reasoning Work for Code? A Survey and a Call to Action"** [[paper](https://arxiv.org/abs/2506.13932)]
+* [Jun 2025] **"Beyond Autocomplete: Designing CopilotLens Towards Transparent and Explainable AI Coding Agents"** [[paper](https://arxiv.org/abs/2506.20062)]

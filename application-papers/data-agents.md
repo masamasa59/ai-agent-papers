@@ -61,3 +61,6 @@
 * [Jun 2025] **"AUTOMIND: Adaptive Knowledgeable Agent for Automated Data Science"** [[paper](https://arxiv.org/abs/2506.10974)]
 * 📖 [Jun 2025] **"Measuring Data Science Automation: A Survey of Evaluation Tools for AI Assistants and Agents"** [[paper](https://arxiv.org/abs/2506.08800)]
 * [Jun 2025] **"SheetMind: An End-to-End LLM-Powered Multi-Agent Framework for Spreadsheet Automation"** [[paper](https://www.arxiv.org/abs/2506.12339)]
+* [Jun 2025] **"SWE-SQL: Illuminating LLM Pathways to Solve User SQL Issues in Real-World Applications"** [[paper](https://www.arxiv.org/abs/2506.18951)]
+* [Jun 2025] **"Towards Community-Driven Agents for Machine Learning Engineering"** [[paper](https://arxiv.org/abs/2506.20640)]
+* [Jun 2025] **"MLE-STAR: Machine Learning Engineering Agent via Search and Targeted Refinement"** [[paper](https://www.arxiv.org/abs/2506.15692)]

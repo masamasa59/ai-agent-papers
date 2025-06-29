@@ -36,3 +36,5 @@
 * ⚖️ [Jun 2025] **"SOP-Bench: Complex Industrial SOPs for Evaluating LLM Agents"** [[paper](https://arxiv.org/abs/2506.08119)]
 * [Jun 2025] **"Intelligent Design 4.0: Paradigm Evolution Toward the Agentic AI Era"** [[paper](https://arxiv.org/abs/2506.09755)]
 * [Jun 2025] **"Managing Complex Failure Analysis Workflows with LLM-based Reasoning and Acting Agents"** [[paper](https://arxiv.org/abs/2506.15567)]
+* [Jun 2025] **"AgenticControl: An Automated Control Design Framework Using Large Language Models"** [[paper](https://www.arxiv.org/abs/2506.19160)]
+* 📖 [Jun 2025] **"A Survey of AI for Materials Science: Foundation Models, LLM Agents, Datasets, and Tools"** [[paper](https://arxiv.org/abs/2506.20743)]
