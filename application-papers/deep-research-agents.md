@@ -45,3 +45,5 @@
 * 📖 [Jun 2025] **"Deep Research Agents: A Systematic Examination And Roadmap"** [[paper](https://arxiv.org/abs/2506.18096)]
 * [Jun 2025] **"Towards Robust Fact-Checking: A Multi-Agent System with Advanced Evidence Retrieval"** [[paper](https://www.arxiv.org/abs/2506.17878)]
 * 📖 [Jun 2025] **"Towards AI Search Paradigm"** [[paper](https://arxiv.org/abs/2506.17188)]
+* ⚖️ [Jun 2025] **"Benchmarking Deep Search over Heterogeneous Enterprise Data"** [[paper](https://arxiv.org/abs/2506.23139)]
+* 📖 [Jun 2025] **"Towards Agentic RAG with Deep Reasoning: A Survey of RAG-Reasoning Systems in LLMs"** [[paper](https://arxiv.org/abs/2506.10408v1)]

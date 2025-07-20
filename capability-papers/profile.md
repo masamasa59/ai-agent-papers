@@ -28,3 +28,6 @@ These papers discuss profiles that define the roles of agents, including role-pl
 * [Mar 2025] **"Large Language Models Pass the Turing Test"** [[paper](https://arxiv.org/abs/2503.23674)]
 * [Mar 2025] **"PAARS: Persona Aligned Agentic Retail Shoppers"** [[paper](https://www.arxiv.org/abs/2503.24228)]
 * [May 2025] **"Humanizing LLMs: A Survey of Psychological Measurements with Tools, Datasets, and Human-Agent Applications"** [[paper](https://arxiv.org/abs/2505.00049)]
+* [Jul 2025] **"TinyTroupe: An LLM-powered Multiagent Persona Simulation Toolkit"** [[paper](https://arxiv.org/abs/2507.09788)]
+* [Jul 2025] **"Too Human to Model: The Uncanny Valley of LLMs in Social Simulation"** [[paper](https://arxiv.org/abs/2507.06310)]
+* [Jul 2025] **"Do Role-Playing Agents Practice What They Preach? Belief-Behavior Consistency in LLM-Based Simulations of Human Trust"** [[paper](https://arxiv.org/abs/2507.02197)]

@@ -35,6 +35,7 @@
 * [Apr 2025] **"Two Heads are Better Than One: Test-time Scaling of Multi-agent Collaborative Reasoning"** [[paper](https://arxiv.org/abs/2504.09772)]
 * [May 2025] **"Towards Multi-Agent Reasoning Systems for Collaborative Expertise Delegation: An Exploratory Design Study"** [[paper](https://www.arxiv.org/abs/2505.07313)]
 * [May 2025] **"Revisiting Multi-Agent Debate as Test-Time Scaling: A Systematic Study of Conditional Effectiveness"** [[paper](https://www.arxiv.org/abs/2505.22960)]
+* [Jul 2025] **"Foundation Model Self-Play: Open-Ended Strategy Innovation via Foundation Models"** [[paper](https://arxiv.org/abs/2507.06466)]
 
 ### Problem Solving
 * [Mar 2023] **"CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society"** [[paper](https://arxiv.org/abs/2303.17760)]
@@ -83,6 +84,8 @@
 * 📖 [Apr 2025] **"Adaptive Human-Agent Teaming: A Review of Empirical Studies from the Process Dynamics Perspective"** [[paper](https://arxiv.org/abs/2504.10918)]
 * [May 2025] **"Which Agent Causes Task Failures and When? On Automated Failure Attribution of LLM Multi-Agent Systems"** [[paper](https://www.arxiv.org/abs/2505.00212)]
 * [Jun 2025] **"AgentOrchestra: A Hierarchical Multi-Agent Framework for General-Purpose Task Solving"** [[paper](https://www.arxiv.org/abs/2506.12508)]
+* [Jul 2025] **"AGENTSNET: Coordination and Collaborative Reasoning in Multi-Agent LLMs"** [[paper](https://arxiv.org/abs/2507.08616)]
+* [Jul 2025] **"Enhancing COBOL Code Explanations: A Multi-Agents Approach Using Large Language Models"** [[paper](https://arxiv.org/abs/2507.02182)]
 
 ### World Simulation
 * [Apr 2023] **"Generative agents: Interactive simulacra of human behavior"** [[paper](https://arxiv.org/abs/2304.03442)]
@@ -114,3 +117,5 @@
 * [Apr 2025] **"SOTOPIA-S4: a user-friendly system for flexible, customizable, and large-scale social simulation"** [[paper](https://www.arxiv.org/abs/2504.16122)]
 * [Jun 2025] **"LLM-Based Social Simulations Require a Boundary"** [[paper](https://www.arxiv.org/abs/2506.19806)]
 * [Jun 2025] **"LIFELONG SOTOPIA: Evaluating Social Intelligence of Language Agents Over Lifelong Social Interactions"** [[paper](https://www.arxiv.org/abs/2506.12666)]
+* [Jun 2025] **"Ella: Embodied Social Agents with Lifelong Memory"** [[paper](https://arxiv.org/abs/2506.24019)]
+* [Jul 2025] **"CREW-WILDFIRE: Benchmarking Agentic Multi-Agent Collaborations at Scale"** [[paper](https://arxiv.org/abs/2507.05178)]

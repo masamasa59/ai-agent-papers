@@ -76,6 +76,7 @@
 * [Apr 2025] **"REAL: Benchmarking Autonomous Agents on Deterministic Simulations of Real Websites"** [[paper](https://arxiv.org/abs/2504.11543)]
 * [May 2025] **"WEB-SHEPHERD:Advancing PRMs for Reinforcing Web Agents"** [[paper](https://arxiv.org/abs/2505.15277)]
 * [Jun 2025] **"Build the web for agents, not agents for the web"** [[paper](https://arxiv.org/abs/2506.10953)]
+* [Jul 2025] **"WebSailor: Navigating Super-human Reasoning for Web Agent"** [[paper](https://arxiv.org/abs/2507.02592)]
 
 ### Mobile Agents
 * [Aug 2023] **"AutoDroid: LLM-powered Task Automation in Android"** [[paper](https://arxiv.org/abs/2308.15272)]

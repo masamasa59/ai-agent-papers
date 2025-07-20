@@ -44,3 +44,6 @@ These papers discuss the safety and risks of agents.
 * ⚖️ [Jun 2025] **"DefenderBench: A Toolkit for Evaluating Language Agents in Cybersecurity Environments"** [[paper](https://arxiv.org/abs/2506.00739)]
 * [Jun 2025] **"AgentAuditor: Human-Level Safety and Security Evaluation for LLM Agents"** [[paper](https://arxiv.org/abs/2506.00641)]
 * ⚖️ [Jun 2025] **"SHADE-Arena: Evaluating Sabotage and Monitoring in LLM Agents"** [[paper](https://www.arxiv.org/abs/2506.15740)]
+* 📖 [Jun 2025] **"From Prompt Injections to Protocol Exploits: Threats in LLM-Powered AI Agents Workflows"** [[paper](https://arxiv.org/abs/2506.23260)]
+* 📖 [Jun 2025] **"A Survey on Autonomy-Induced Security Risks in Large Model-Based Agents"** [[paper](https://arxiv.org/abs/2506.23844)]
+* [Jul 2025] **"GAF-Guard: An Agentic Framework for Risk Management and Governance in Large Language Models"** [[paper](https://arxiv.org/abs/2507.02986)]

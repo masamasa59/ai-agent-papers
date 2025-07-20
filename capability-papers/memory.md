@@ -31,6 +31,14 @@ These papers discuss an agent’s memory function and its self-evolution.
 * [May 2025] **"Get Experience from Practice: LLM Agents with Record & Replay"** [[paper](https://arxiv.org/abs/2505.17716)]
 * [May 2025] **"MemOS: An Operating System for Memory-Augmented Generation (MAG) in Large Language Models (Short Version)"** [[paper](https://arxiv.org/abs/2505.22101)]
 * [Jun 2025] **"MEM1: Learning to Synergize Memory and Reasoning for Efficient Long-Horizon Agents"** [[paper](https://www.arxiv.org/abs/2506.15841)]
+* [Jun 2025] **"MemBench: Towards More Comprehensive Evaluation on the Memory of LLM-based Agents"** [[paper](https://arxiv.org/abs/2506.21605)]
+* [Jun 2025] **"Ella: Embodied Social Agents with Lifelong Memory"** [[paper](https://arxiv.org/abs/2506.24019)]
+* [Jul 2025] **"MemOS: A Memory OS for AI System"** [[paper](https://arxiv.org/abs/2507.03724)]
+* ⚖️ [Jul 2025] **"Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions"** [[paper](https://arxiv.org/abs/2507.05257)]
+* [Jul 2025] **"The Landscape of Memorization in LLMs: Mechanisms, Measurement, and Mitigation"** [[paper](https://arxiv.org/abs/2507.05578)]
+* [Jul 2025] **"AGENT KB: Leveraging Cross-Domain Experience for Agentic Problem Solving"** [[paper](https://arxiv.org/abs/2507.06229)]
+* [Jul 2025] **"MIRIX: Multi-Agent Memory System for LLM-Based Agents"** [[paper](https://arxiv.org/abs/2507.07957)]
+* [Jul 2025] **"MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent"** [[paper](https://arxiv.org/abs/2507.02259)]
 
 ## Self-Evolution (Self-Improvement)
 * [May 2024] **Offline Training of Language Model Agents with Functions as Learnable Weights"** [[paper](https://arxiv.org/abs/2402.11359)]
@@ -85,3 +93,6 @@ These papers discuss an agent’s memory function and its self-evolution.
 * 📖 [Jun 2025] **"The Future of Continual Learning in the Era of Foundation Models: Three Key Directions"** [[paper](https://arxiv.org/abs/2506.03320)]
 * [Jun 2025] **"ReVeal: Self-Evolving Code Agents via Iterative Generation-Verification"** [[paper](https://arxiv.org/abs/2506.11442)]
 * [Jun 2025] **"SwarmAgentic: Towards Fully Automated Agentic System Generation via Swarm Intelligence"** [[paper](https://arxiv.org/abs/2506.15672)]
+* [Jun 2025] **"Evolving Prompts In-Context: An Open-ended, Self-replicating Perspective"** [[paper](https://arxiv.org/abs/2506.17930)]
+* [Jul 2025] **"EvoAgentX: An Automated Framework for Evolving Agentic Workflows"** [[paper](http://arxiv.org/abs/2507.03616)]
+* [Jul 2025] **"Foundation Model Self-Play: Open-Ended Strategy Innovation via Foundation Models"** [[paper](https://arxiv.org/abs/2507.06466)]

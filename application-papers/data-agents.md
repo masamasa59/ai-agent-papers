@@ -64,3 +64,6 @@
 * [Jun 2025] **"SWE-SQL: Illuminating LLM Pathways to Solve User SQL Issues in Real-World Applications"** [[paper](https://www.arxiv.org/abs/2506.18951)]
 * [Jun 2025] **"Towards Community-Driven Agents for Machine Learning Engineering"** [[paper](https://arxiv.org/abs/2506.20640)]
 * [Jun 2025] **"MLE-STAR: Machine Learning Engineering Agent via Search and Targeted Refinement"** [[paper](https://www.arxiv.org/abs/2506.15692)]
+* ⚖️ [Jun 2025] **"DABstep: Data Agent Benchmark for Multi-step Reasoning"** [[paper](https://arxiv.org/abs/2506.23719)]
+* 📖 [Jul 2025] **"Toward Real-World Table Agents: Capabilities, Workflows, and Design Principles for LLM-based Table Intelligence"** [[paper](https://arxiv.org/abs/2507.10281)]
+* [Jul 2025] **"Data Agent: A Holistic Architecture for Orchestrating Data+AI Ecosystems"** [[paper](https://arxiv.org/abs/2507.01599)]

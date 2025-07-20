@@ -80,6 +80,7 @@
 * 📖 [Jun 2025] **"Compound AI Systems Optimization: A Survey of Methods, Challenges, and Future Directions"** [[paper](https://www.arxiv.org/abs/2506.08234)]
 * 📖 [Jun 2025] **"Graphs Meet AI Agents: Taxonomy, Progress, and Future Opportunities"** [[paper](https://arxiv.org/abs/2506.18019)]
 * [Jun 2025] **"OAgents: An Empirical Study of Building Effective Agents"** [[paper](https://www.arxiv.org/abs/2506.15741)]
+* 📖 [Jul 2025] **"A Survey of Context Engineering for Large Language Models"** [[paper](https://arxiv.org/abs/2507.13334)]
 
 ## Multi-Agent
 * [Mar 2023] **"CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society"** [[paper](https://arxiv.org/abs/2303.17760)]
@@ -99,6 +100,11 @@
 * [Jun 2025] **"AgentOrchestra: A Hierarchical Multi-Agent Framework for General-Purpose Task Solving"** [[paper](https://www.arxiv.org/abs/2506.12508)]
 * [Jun 2025] **"SwarmAgentic: Towards Fully Automated Agentic System Generation via Swarm Intelligence"** [[paper](https://arxiv.org/abs/2506.15672)]
 * [Jun 2025] **"JoyAgents-R1: Joint Evolution Dynamics for Versatile Multi-LLM Agents with Reinforcement Learning"** [[paper](https://arxiv.org/abs/2506.19846)]
+* [Jul 2025] **"Optimizing Sequential Multi-Step Tasks with Parallel LLM Agents"** [[paper](https://arxiv.org/abs/2507.08944)]
+* [Jul 2025] **"Aime: Towards Fully-Autonomous Multi-Agent Framework"** [[paper](https://arxiv.org/abs/2507.11988)]
+* [Jul 2025] **"EvoAgentX: An Automated Framework for Evolving Agentic Workflows"** [[paper](http://arxiv.org/abs/2507.03616)]
+* [Jul 2025] **"Exploring Advanced LLM Multi-Agent Systems Based on Blackboard Architecture"** [[paper](https://arxiv.org/abs/2507.01701)]
+* [Jul 2025] **"Synergizing Logical Reasoning, Knowledge Management and Collaboration in Multi-Agent LLM System"** [[paper](https://arxiv.org/abs/2507.02170)]
 
 ## Agent Ops & UX
 * [Feb 2024] **"Towards better Human-Agent Alignment: Assessing Task Utility in LLM-Powered Applications"** [[paper](https://arxiv.org/abs/2402.09015)]
@@ -124,3 +130,4 @@
 * [Jun 2025] **"From Conversation to Orchestration: HCI Challenges and Opportunities in Interactive Multi-Agentic Systems"** [[paper](https://arxiv.org/abs/2506.20091)]
 * [Jun 2025] **"Beyond Autocomplete: Designing CopilotLens Towards Transparent and Explainable AI Coding Agents"** [[paper](https://arxiv.org/abs/2506.20062)]
 * [Jun 2025] **"HADA: Human-AI Agent Decision Alignment Architecture"** [[paper](https://arxiv.org/abs/2506.04253)]
+* [Jun 2025] **"LLM Agents Are the Antidote to Walled Gardens"** [[paper](https://arxiv.org/abs/2506.23978)]

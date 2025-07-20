@@ -15,6 +15,46 @@ Updated biweekly.
     <figcaption style="text-align: center;">AI Agent Workflows</figcaption>
 </figure>
 
+# July Highlights (Updated 20 July)
+### Agent Blueprint
+* **"LLM Agents Are the Antidote to Walled Gardens"** [[paper](https://arxiv.org/abs/2506.23978)]
+* **"Exploring Advanced LLM Multi-Agent Systems Based on Blackboard Architecture"** [[paper](https://arxiv.org/abs/2507.01701)]
+* **"Aime: Towards Fully-Autonomous Multi-Agent Framework"** [[paper](https://arxiv.org/abs/2507.11988)]
+* 📖 **"A Survey of Context Engineering for Large Language Models"** [[paper](https://arxiv.org/abs/2507.13334)]
+* 📖 **"A Survey on Autonomy-Induced Security Risks in Large Model-Based Agents"** [[paper](https://arxiv.org/abs/2506.23844)]
+
+### Agent Applications
+* **"AI Agents-as-Judge: Automated Assessment of Accuracy, Consistency, Completeness and Clarity for Enterprise Documents"** [[paper](https://arxiv.org/abs/2506.22485)]
+* **"Agentic Retrieval of Topics and Insights from Earnings Calls"** [[paper](https://arxiv.org/abs/2507.07906)]
+* **"Large Language Model Powered Intelligent Urban Agents: Concepts, Capabilities, and Applications"** [[paper](https://arxiv.org/abs/2507.00914)]
+* **"Evaluating LLM Agent Collusion in Double Auctions"** [[paper](https://arxiv.org/abs/2507.01413)]
+* **"Emotionally Intelligent Task-oriented Dialogue Systems: Architecture, Representation, and Optimisation"** [[paper](https://arxiv.org/abs/2507.01594)]
+* **"Agent Ideate: A Framework for Product Idea Generation from Patents Using Agentic AI"** [[paper](https://arxiv.org/abs/2507.01717)]
+* **"Agent Exchange: Shaping the Future of AI Agent Economics"** [[paper](https://arxiv.org/abs/2507.03904)]
+* **"Enhancing COBOL Code Explanations: A Multi-Agents Approach Using Large Language Models"** [[paper](https://arxiv.org/abs/2507.02182)]
+* ⚖️ **"Ready Jurist One: Benchmarking Language Agents for Legal Intelligence in Dynamic Environments"** [[paper](https://arxiv.org/abs/2507.04037)]
+* **"CREW-WILDFIRE: Benchmarking Agentic Multi-Agent Collaborations at Scale"** [[paper](https://arxiv.org/abs/2507.05178)]
+
+### Data Agents
+* **"Data Agent: A Holistic Architecture for Orchestrating Data+AI Ecosystems"** [[paper](https://arxiv.org/abs/2507.01599)]
+* ⚖️ **"DABstep: Data Agent Benchmark for Multi-step Reasoning"** [[paper](https://arxiv.org/abs/2506.23719)]
+* 📖 [Jul 2025] **"Toward Real-World Table Agents: Capabilities, Workflows, and Design Principles for LLM-based Table Intelligence"** [[paper](https://arxiv.org/abs/2507.10281)]
+
+### Research Agents
+* 📖 **"The Evolving Role of Large Language Models in Scientific Innovation: Evaluator, Collaborator, and Scientist"** [[paper](https://www.arxiv.org/abs/2507.11810)]
+* **"AI Research Agents for Machine Learning: Search, Exploration, and Generalization in MLE-bench"** [[paper](https://arxiv.org/abs/2507.02554)]
+* **"Open-ended Scientific Discovery via Bayesian Surprise"** [[paper](https://arxiv.org/abs/2507.00310)]
+
+### Memory
+* **"MemOS: A Memory OS for AI System"** [[paper](https://arxiv.org/abs/2507.03724)]
+* ⚖️ **"Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions"** [[paper](https://arxiv.org/abs/2507.05257)]
+* **"MIRIX: Multi-Agent Memory System for LLM-Based Agents"** [[paper](https://arxiv.org/abs/2507.07957)]
+* **"Foundation Model Self-Play: Open-Ended Strategy Innovation via Foundation Models"** [[paper](https://arxiv.org/abs/2507.06466)]
+
+### Persona
+* **"Too Human to Model: The Uncanny Valley of LLMs in Social Simulation"** [[paper](https://arxiv.org/abs/2507.06310)]
+* **"Do Role-Playing Agents Practice What They Preach? Belief-Behavior Consistency in LLM-Based Simulations of Human Trust"** [[paper](https://arxiv.org/abs/2507.02197)]
+
 # June Highlights (Updated 30 June)
 ### Deep Research Agents 
 * ⚖️ **"DeepResearch Bench: A Comprehensive Benchmark for Deep Research Agents"** [[paper](https://arxiv.org/abs/2506.11763)]

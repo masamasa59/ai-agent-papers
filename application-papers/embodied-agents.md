@@ -54,3 +54,4 @@
 * [Feb 2025] **"Pokemon Red via Reinforcement Learning"** [[paper](https://arxiv.org/abs/2502.19920)]
 * 📖 [May 2025] **"Multi-agent Embodied AI: Advances and Future Directions"** [[paper](https://arxiv.org/abs/2505.05108v1)]
 * [May 2025] **"Measuring General Intelligence with Generated Games"** [[paper](https://arxiv.org/abs/2505.07215)]
+* [Jun 2025] **"Ella: Embodied Social Agents with Lifelong Memory"** [[paper](https://arxiv.org/abs/2506.24019)]s
