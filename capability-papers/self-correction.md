@@ -44,3 +44,4 @@ These papers discuss whether agents can autonomously recover from errors.
 * [May 2025] **"ReflAct: World-Grounded Decision Making in LLM Agents via Goal-State Reflection"** [[paper](https://arxiv.org/abs/2505.15182)]
 * [May 2025] **"Reflect, Retry, Reward:Self-Improving LLMs via Reinforcement Learning"** [[paper](https://arxiv.org/abs/2505.24726)]
 * [Jun 2025] **"Incentivizing LLMs to Self-Verify Their Answers"** [[paper](https://arxiv.org/abs/2506.01369)]
+* [Jul 2025] **"Rubrics as Rewards: Reinforcement Learning Beyond Verifiable Domains"** [[paper](https://arxiv.org/abs/2507.17746)]

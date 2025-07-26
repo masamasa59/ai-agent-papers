@@ -31,3 +31,4 @@ These papers discuss profiles that define the roles of agents, including role-pl
 * [Jul 2025] **"TinyTroupe: An LLM-powered Multiagent Persona Simulation Toolkit"** [[paper](https://arxiv.org/abs/2507.09788)]
 * [Jul 2025] **"Too Human to Model: The Uncanny Valley of LLMs in Social Simulation"** [[paper](https://arxiv.org/abs/2507.06310)]
 * [Jul 2025] **"Do Role-Playing Agents Practice What They Preach? Belief-Behavior Consistency in LLM-Based Simulations of Human Trust"** [[paper](https://arxiv.org/abs/2507.02197)]
+* [Jul 2025] **"Test-Time-Matching: Decouple Personality, Memory, and Linguistic Style in LLM-based Role-Playing Language Agent"** [[paper](https://arxiv.org/abs/2507.16799)]

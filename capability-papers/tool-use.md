@@ -67,3 +67,5 @@ These papers discuss whether or not agents can properly use tools
 * [May 2025] **"Tool-Star: Empowering LLM-Brained Multi-Tool Reasoner via Reinforcement Learning"** [[paper](https://arxiv.org/abs/2505.16410)]
 * [Jun 2025] **"CoRT: Code-integrated Reasoning within Thinking"** [[paper](https://arxiv.org/abs/2506.09820)]
 * [Jun 2025] **"Distilling Tool Knowledge into Language Models via Back-Translated Traces"** [[paper](https://www.arxiv.org/abs/2506.19171)]
+* [Jul 2025] **"Making REST APIs Agent-Ready: From OpenAPI to Model Context Protocol Servers for Tool-Augmented LLMs"** [[paper](https://www.arxiv.org/abs/2507.16044)]
+* [Jul 2025] **"Towards Enforcing Company Policy Adherence in Agentic Workflows"** [[paper](https://arxiv.org/abs/2507.16459)]

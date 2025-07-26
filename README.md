@@ -15,45 +15,57 @@ Updated biweekly.
     <figcaption style="text-align: center;">AI Agent Workflows</figcaption>
 </figure>
 
-# July Highlights (Updated 20 July)
-### Agent Blueprint
-* **"LLM Agents Are the Antidote to Walled Gardens"** [[paper](https://arxiv.org/abs/2506.23978)]
-* **"Exploring Advanced LLM Multi-Agent Systems Based on Blackboard Architecture"** [[paper](https://arxiv.org/abs/2507.01701)]
-* **"Aime: Towards Fully-Autonomous Multi-Agent Framework"** [[paper](https://arxiv.org/abs/2507.11988)]
+# July Highlights (Updated 26 July)
+### Agent Blueprints
+* **"LLM Agents Are the Antidote to Walled Gardens"**, University of Oxford. [[paper](https://arxiv.org/abs/2506.23978)]
+* **"Exploring Advanced LLM Multi-Agent Systems Based on Blackboard Architecture"**, State Key Laboratory. [[paper](https://arxiv.org/abs/2507.01701)]
+* **"Aime: Towards Fully-Autonomous Multi-Agent Framework"**, ByteDance. [[paper](https://arxiv.org/abs/2507.11988)]
 * 📖 **"A Survey of Context Engineering for Large Language Models"** [[paper](https://arxiv.org/abs/2507.13334)]
 * 📖 **"A Survey on Autonomy-Induced Security Risks in Large Model-Based Agents"** [[paper](https://arxiv.org/abs/2506.23844)]
+* **"From Reasoning to Super-Intelligence: A Search-Theoretic Perspective"**, AA-I. [[paper](https://arxiv.org/abs/2507.15865)]
+* **"Making REST APIs Agent-Ready: From OpenAPI to Model Context Protocol Servers for Tool-Augmented LLMs"**, University of Michigan. [[paper](https://www.arxiv.org/abs/2507.16044)]
 
 ### Agent Applications
-* **"AI Agents-as-Judge: Automated Assessment of Accuracy, Consistency, Completeness and Clarity for Enterprise Documents"** [[paper](https://arxiv.org/abs/2506.22485)]
-* **"Agentic Retrieval of Topics and Insights from Earnings Calls"** [[paper](https://arxiv.org/abs/2507.07906)]
-* **"Large Language Model Powered Intelligent Urban Agents: Concepts, Capabilities, and Applications"** [[paper](https://arxiv.org/abs/2507.00914)]
-* **"Evaluating LLM Agent Collusion in Double Auctions"** [[paper](https://arxiv.org/abs/2507.01413)]
-* **"Emotionally Intelligent Task-oriented Dialogue Systems: Architecture, Representation, and Optimisation"** [[paper](https://arxiv.org/abs/2507.01594)]
-* **"Agent Ideate: A Framework for Product Idea Generation from Patents Using Agentic AI"** [[paper](https://arxiv.org/abs/2507.01717)]
-* **"Agent Exchange: Shaping the Future of AI Agent Economics"** [[paper](https://arxiv.org/abs/2507.03904)]
-* **"Enhancing COBOL Code Explanations: A Multi-Agents Approach Using Large Language Models"** [[paper](https://arxiv.org/abs/2507.02182)]
-* ⚖️ **"Ready Jurist One: Benchmarking Language Agents for Legal Intelligence in Dynamic Environments"** [[paper](https://arxiv.org/abs/2507.04037)]
-* **"CREW-WILDFIRE: Benchmarking Agentic Multi-Agent Collaborations at Scale"** [[paper](https://arxiv.org/abs/2507.05178)]
+* **"Large Language Model Powered Intelligent Urban Agents: Concepts, Capabilities, and Applications"**, Shandong University. [[paper](https://arxiv.org/abs/2507.00914)]
+* **"Emotionally Intelligent Task-oriented Dialogue Systems: Architecture, Representation, and Optimisation"**, Heinrich Heine University. [[paper](https://arxiv.org/abs/2507.01594)]
+* **"Agent Ideate: A Framework for Product Idea Generation from Patents Using Agentic AI"**, TCS Research. [[paper](https://arxiv.org/abs/2507.01717)]
+* **"Agent Exchange: Shaping the Future of AI Agent Economics"**, Shanghai Jiao Tong University. [[paper](https://arxiv.org/abs/2507.03904)]
+* **"Evaluating LLM Agent Collusion in Double Auctions"**, Relativity, Stanford University, Arb Research. [[paper](https://arxiv.org/abs/2507.01413)]
+* **"Enhancing COBOL Code Explanations: A Multi-Agents Approach Using Large Language Models"**, Queen’s University, IBM USA. [[paper](https://arxiv.org/abs/2507.02182)]
+* **"CREW-WILDFIRE: Benchmarking Agentic Multi-Agent Collaborations at Scale"**, Duke University, Army Research Laboratory. [[paper](https://arxiv.org/abs/2507.05178)]
+* **"Deep Researcher with Test-Time Diffusion"**, Google. [[paper](https://www.arxiv.org/abs/2507.16075)]
+
+### Enterprise Agents 
+* **"AI Agents-as-Judge: Automated Assessment of Accuracy, Consistency, Completeness and Clarity for Enterprise Documents"**, Accenture. [[paper](https://arxiv.org/abs/2506.22485)]
+* **"Agentic Retrieval of Topics and Insights from Earnings Calls"**, Bloomberg. [[paper](https://arxiv.org/abs/2507.07906)]
+* ⚖️ **"Ready Jurist One: Benchmarking Language Agents for Legal Intelligence in Dynamic Environments"**, Fudan University. [[paper](https://arxiv.org/abs/2507.04037)]
+* **"Routine: A Structural Planning Framework for LLM Agent System in Enterprise"**, Digital China AI Research. [[paper](https://arxiv.org/abs/2507.14447)]
+* **"Enabling Self-Improving Agents to Learn at Test Time With Human-In-The-Loop Guidance"**, ByteDance. [[paper](https://www.arxiv.org/abs/2507.17131)]
+* **"Compliance Brain Assistant: Conversational Agentic AI for Assisting Compliance Tasks in Enterprise Environments"**, Meta. [[paper](https://arxiv.org/abs/2507.17289)]
 
 ### Data Agents
-* **"Data Agent: A Holistic Architecture for Orchestrating Data+AI Ecosystems"** [[paper](https://arxiv.org/abs/2507.01599)]
-* ⚖️ **"DABstep: Data Agent Benchmark for Multi-step Reasoning"** [[paper](https://arxiv.org/abs/2506.23719)]
-* 📖 [Jul 2025] **"Toward Real-World Table Agents: Capabilities, Workflows, and Design Principles for LLM-based Table Intelligence"** [[paper](https://arxiv.org/abs/2507.10281)]
+* **"Data Agent: A Holistic Architecture for Orchestrating Data+AI Ecosystems"**, Tsinghua University. [[paper](https://arxiv.org/abs/2507.01599)]
+* ⚖️ **"DABstep: Data Agent Benchmark for Multi-step Reasoning"**, Adyen, Hugging Face. [[paper](https://arxiv.org/abs/2506.23719)]
+* 📖 **"Toward Real-World Table Agents: Capabilities, Workflows, and Design Principles for LLM-based Table Intelligence"**, Zhejiang University. [[paper](https://arxiv.org/abs/2507.10281)]
 
 ### Research Agents
-* 📖 **"The Evolving Role of Large Language Models in Scientific Innovation: Evaluator, Collaborator, and Scientist"** [[paper](https://www.arxiv.org/abs/2507.11810)]
-* **"AI Research Agents for Machine Learning: Search, Exploration, and Generalization in MLE-bench"** [[paper](https://arxiv.org/abs/2507.02554)]
-* **"Open-ended Scientific Discovery via Bayesian Surprise"** [[paper](https://arxiv.org/abs/2507.00310)]
+* 📖 **"The Evolving Role of Large Language Models in Scientific Innovation: Evaluator, Collaborator, and Scientist"**, University of North Texas. [[paper](https://www.arxiv.org/abs/2507.11810)]
+* **"AI Research Agents for Machine Learning: Search, Exploration, and Generalization in MLE-bench"**, Meta. [[paper](https://arxiv.org/abs/2507.02554)]
+* **"Open-ended Scientific Discovery via Bayesian Surprise"**, Allen Institute for AI. [[paper](https://arxiv.org/abs/2507.00310)]
+* **"Large Language Models as Innovators: A Framework to Leverage Latent Space Exploration for Novelty Discovery"**, Wrocław University. [[paper](https://arxiv.org/abs/2507.13874)]
+
+### Role Playing Agents
+* **"Too Human to Model: The Uncanny Valley of LLMs in Social Simulation"**, Atmospheric Environmental Research. [[paper](https://arxiv.org/abs/2507.06310)]
+* **"Do Role-Playing Agents Practice What They Preach? Belief-Behavior Consistency in LLM-Based Simulations of Human Trust"**, CAMEL-AI.org. [[paper](https://arxiv.org/abs/2507.02197)]
+* **"LLM Economist: Large Population Models and Mechanism Design in Multi-Agent Generative Simulacra"**,Princeton University, Salesforce Research. [[paper](https://arxiv.org/abs/2507.15815)]
+* 📖 **"Large Language Models for Agent-Based Modelling: Current and possible uses across the modelling cycle"** [[paper](https://arxiv.org/abs/2507.05723)]
+* **"Foundation Model Self-Play: Open-Ended Strategy Innovation via Foundation Models"**, CIFAR AI Chair. [[paper](https://arxiv.org/abs/2507.06466)]
 
 ### Memory
-* **"MemOS: A Memory OS for AI System"** [[paper](https://arxiv.org/abs/2507.03724)]
-* ⚖️ **"Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions"** [[paper](https://arxiv.org/abs/2507.05257)]
-* **"MIRIX: Multi-Agent Memory System for LLM-Based Agents"** [[paper](https://arxiv.org/abs/2507.07957)]
-* **"Foundation Model Self-Play: Open-Ended Strategy Innovation via Foundation Models"** [[paper](https://arxiv.org/abs/2507.06466)]
+* **"MemOS: A Memory OS for AI System"**, MemTensor (Shanghai) Technology Co., Ltd. [[paper](https://arxiv.org/abs/2507.03724)]
+* ⚖️ **"Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions"**, UC San Diego. [[paper](https://arxiv.org/abs/2507.05257)]
+* **"MIRIX: Multi-Agent Memory System for LLM-Based Agents"**, MIRIX AI. [[paper](https://arxiv.org/abs/2507.07957)]
 
-### Persona
-* **"Too Human to Model: The Uncanny Valley of LLMs in Social Simulation"** [[paper](https://arxiv.org/abs/2507.06310)]
-* **"Do Role-Playing Agents Practice What They Preach? Belief-Behavior Consistency in LLM-Based Simulations of Human Trust"** [[paper](https://arxiv.org/abs/2507.02197)]
 
 # June Highlights (Updated 30 June)
 ### Deep Research Agents 

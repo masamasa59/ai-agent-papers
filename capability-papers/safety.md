@@ -47,3 +47,4 @@ These papers discuss the safety and risks of agents.
 * 📖 [Jun 2025] **"From Prompt Injections to Protocol Exploits: Threats in LLM-Powered AI Agents Workflows"** [[paper](https://arxiv.org/abs/2506.23260)]
 * 📖 [Jun 2025] **"A Survey on Autonomy-Induced Security Risks in Large Model-Based Agents"** [[paper](https://arxiv.org/abs/2506.23844)]
 * [Jul 2025] **"GAF-Guard: An Agentic Framework for Risk Management and Governance in Large Language Models"** [[paper](https://arxiv.org/abs/2507.02986)]
+* [Jul 2025] **"Towards Enforcing Company Policy Adherence in Agentic Workflows"** [[paper](https://arxiv.org/abs/2507.16459)]

@@ -131,3 +131,4 @@
 * [Jun 2025] **"Beyond Autocomplete: Designing CopilotLens Towards Transparent and Explainable AI Coding Agents"** [[paper](https://arxiv.org/abs/2506.20062)]
 * [Jun 2025] **"HADA: Human-AI Agent Decision Alignment Architecture"** [[paper](https://arxiv.org/abs/2506.04253)]
 * [Jun 2025] **"LLM Agents Are the Antidote to Walled Gardens"** [[paper](https://arxiv.org/abs/2506.23978)]
+* [Jul 2025] **"ProactiveVA: Proactive Visual Analytics with LLM-Based UI Agent"** [[paper](https://www.arxiv.org/abs/2507.18165)]

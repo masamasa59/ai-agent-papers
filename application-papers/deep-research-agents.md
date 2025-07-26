@@ -47,3 +47,4 @@
 * 📖 [Jun 2025] **"Towards AI Search Paradigm"** [[paper](https://arxiv.org/abs/2506.17188)]
 * ⚖️ [Jun 2025] **"Benchmarking Deep Search over Heterogeneous Enterprise Data"** [[paper](https://arxiv.org/abs/2506.23139)]
 * 📖 [Jun 2025] **"Towards Agentic RAG with Deep Reasoning: A Survey of RAG-Reasoning Systems in LLMs"** [[paper](https://arxiv.org/abs/2506.10408v1)]
+* [Jul 2025] **"Deep Researcher with Test-Time Diffusion"** [[paper](https://www.arxiv.org/abs/2507.16075)]

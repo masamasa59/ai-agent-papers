@@ -109,6 +109,7 @@
 * [Oct 2024] **"GenSim: A General Social Simulation Platform with Large Language Model Based Agents"** [[paper](https://arxiv.org/abs/2410.04360)]
 * [Nov 2024] **"Project Sid: Many-agent simulations toward AI civilization"** [[paper](https://arxiv.org/abs/2411.00114)]
 * [Nov 2024] **"OASIS: Open Agents Social Interaction Simulations on One Million Agents"** [[paper](https://arxiv.org/abs/2411.11581)]
+* [Nov 2024] **"On the limits of agency in agent-based models"** [[paper](https://arxiv.org/abs/2409.10568)]
 * 📖 [Dec 2024] **"A Survey on Large Language Model-Based Social Agents in Game-Theoretic Scenarios"** [[paper](https://arxiv.org/abs/2412.03920)]
 * 📖 [Dec 2024] **"From Individual to Society: A Survey on Social Simulation Driven by Large Language Model-based Agents"** [[paper](https://arxiv.org/abs/2412.03563)]
 * [Dec 2024] **"LMAgent: A Large-scale Multimodal Agents Society for Multi-user Simulation"** [[paper](https://arxiv.org/abs/2412.09237)]
@@ -119,3 +120,5 @@
 * [Jun 2025] **"LIFELONG SOTOPIA: Evaluating Social Intelligence of Language Agents Over Lifelong Social Interactions"** [[paper](https://www.arxiv.org/abs/2506.12666)]
 * [Jun 2025] **"Ella: Embodied Social Agents with Lifelong Memory"** [[paper](https://arxiv.org/abs/2506.24019)]
 * [Jul 2025] **"CREW-WILDFIRE: Benchmarking Agentic Multi-Agent Collaborations at Scale"** [[paper](https://arxiv.org/abs/2507.05178)]
+* [Jul 2025] **"LLM Economist: Large Population Models and Mechanism Design in Multi-Agent Generative Simulacra"** [[paper](https://arxiv.org/abs/2507.15815)]
+* 📖 [Jul 2025] **"Large Language Models for Agent-Based Modelling: Current and possible uses across the modelling cycle"** [[paper](https://arxiv.org/abs/2507.05723)]

@@ -60,3 +60,4 @@
 * [Jul 2025] **"AI Research Agents for Machine Learning: Search, Exploration, and Generalization in MLE-bench"** [[paper](https://arxiv.org/abs/2507.02554)]
 * [Jul 2025] **"Open Source Planning & Control System with Language Agents for Autonomous Scientific Discovery"** [[paper](https://arxiv.org/abs/2507.07257)]
 * [Jul 2025] **"Open-ended Scientific Discovery via Bayesian Surprise"** [[paper](https://arxiv.org/abs/2507.00310)]
+* [Jul 2025] **"Large Language Models as Innovators: A Framework to Leverage Latent Space Exploration for Novelty Discovery"** [[paper](https://arxiv.org/abs/2507.13874)]
