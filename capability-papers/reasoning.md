@@ -72,3 +72,5 @@
 * [Jun 2025] **"CoRT: Code-integrated Reasoning within Thinking"** [[paper](https://arxiv.org/abs/2506.09820)]
 * [Jun 2025] **"Thinking vs. Doing: Agents that Reason by Scaling Test-Time Interaction"** [[paper](https://www.arxiv.org/abs/2506.07976)]
 * [Jun 2025] **"Scaling Test-time Compute for LLM Agents"** [[paper](https://arxiv.org/abs/2506.12928)]
+* [Aug 2025] **"Self-Questioning Language Models"** [[paper](https://arxiv.org/abs//2508.03682)]
+* [Aug 2025] **"Refine-n-Judge: Curating High-Quality Preference Chains for LLM-Fine-Tuning"** [[paper](https://www.arxiv.org/abs/2508.01543)]

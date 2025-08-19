@@ -39,6 +39,11 @@
 * [May 2025] **"Efficient Agent Training for Computer Use"** [[paper](https://arxiv.org/abs/2505.13909)]
 * [May 2025] **"ARPO: End-to-End Policy Optimization for GUI Agents with Experience Replay"** [[paper](https://arxiv.org/abs/2505.16282)]
 * [Jun 2025] **"AgentSynth: Scalable Task Generation for Generalist Computer-Use Agents"** [[paper](https://www.arxiv.org/abs/2506.14205)]
+* [Aug 2025] **"OPENCUA: Open Foundations for Computer-Use Agents"** [[paper](https://arxiv.org/abs/2508.09123)]
+* [Aug 2025] **"SEAgent: Self-Evolving Computer Use Agent with Autonomous Learning from Experience"** [[paper](https://www.arxiv.org/abs/2508.04700)]
+* 📖 [Aug 2025] **"OS Agents: A Survey on MLLM-based Agents for General Computing Devices Use"** [[paper](https://arxiv.org/abs/2508.04482)]
+* [Aug 2025] **"CoAct-1: Computer-using Agents with Coding as Actions"** [[paper](https://arxiv.org/abs/2508.03923)]
+* [Aug 2025] **"Web-CogReasoner: Towards Knowledge-Induced Cognitive Reasoning for Web Agents"** [[paper](https://www.arxiv.org/abs/2508.01858)]
 
 ### Web Agents
 * ⚖️ [Jul 2022] **"WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents"** [[paper](https://arxiv.org/abs/2207.01206)]

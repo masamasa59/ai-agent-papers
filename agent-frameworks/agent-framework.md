@@ -81,6 +81,8 @@
 * 📖 [Jun 2025] **"Graphs Meet AI Agents: Taxonomy, Progress, and Future Opportunities"** [[paper](https://arxiv.org/abs/2506.18019)]
 * [Jun 2025] **"OAgents: An Empirical Study of Building Effective Agents"** [[paper](https://www.arxiv.org/abs/2506.15741)]
 * 📖 [Jul 2025] **"A Survey of Context Engineering for Large Language Models"** [[paper](https://arxiv.org/abs/2507.13334)]
+* [Aug 2025] **"Sculptor: Empowering LLMs with Cognitive Agency via Active Context Management"** [[paper](https://arxiv.org/abs/2508.04664)]
+* [Aug 2025] **"Agent Lightning: Train ANY AI Agents with Reinforcement Learning"** [[paper](https://arxiv.org/abs/2508.03680)]
 
 ## Multi-Agent
 * [Mar 2023] **"CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society"** [[paper](https://arxiv.org/abs/2303.17760)]
@@ -132,3 +134,5 @@
 * [Jun 2025] **"HADA: Human-AI Agent Decision Alignment Architecture"** [[paper](https://arxiv.org/abs/2506.04253)]
 * [Jun 2025] **"LLM Agents Are the Antidote to Walled Gardens"** [[paper](https://arxiv.org/abs/2506.23978)]
 * [Jul 2025] **"ProactiveVA: Proactive Visual Analytics with LLM-Based UI Agent"** [[paper](https://www.arxiv.org/abs/2507.18165)]
+* 📖 [Aug 2025] **"A Survey on Agentic Service Ecosystems: Measurement, Analysis, and Optimization"** [[paper](https://arxiv.org/abs/2508.07343)]
+* 📖 [Aug 2025] **"A Survey on AgentOps: Categorization, Challenges, and Future Directions"** [[paper](https://www.arxiv.org/abs/2508.02121)]

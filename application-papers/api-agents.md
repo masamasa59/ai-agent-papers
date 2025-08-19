@@ -39,3 +39,4 @@
 * [Jun 2025] **"AgenticControl: An Automated Control Design Framework Using Large Language Models"** [[paper](https://www.arxiv.org/abs/2506.19160)]
 * 📖 [Jun 2025] **"A Survey of AI for Materials Science: Foundation Models, LLM Agents, Datasets, and Tools"** [[paper](https://arxiv.org/abs/2506.20743)]
 * [Jul 2025] **"Autonomous Control Leveraging LLMs: An Agentic Framework for Next-Generation Industrial Automation"** [[paper](https://arxiv.org/abs/2507.07115)]
+* ⚖️ [Aug 2025] **"OdysseyBench: Evaluating LLM Agents on Long-Horizon Complex Office Application Workflows"** [[paper](https://arxiv.org/abs/2508.09124)]

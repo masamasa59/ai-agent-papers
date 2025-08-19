@@ -54,4 +54,9 @@
 * [Feb 2025] **"Pokemon Red via Reinforcement Learning"** [[paper](https://arxiv.org/abs/2502.19920)]
 * 📖 [May 2025] **"Multi-agent Embodied AI: Advances and Future Directions"** [[paper](https://arxiv.org/abs/2505.05108v1)]
 * [May 2025] **"Measuring General Intelligence with Generated Games"** [[paper](https://arxiv.org/abs/2505.07215)]
-* [Jun 2025] **"Ella: Embodied Social Agents with Lifelong Memory"** [[paper](https://arxiv.org/abs/2506.24019)]s
+* [Jun 2025] **"Ella: Embodied Social Agents with Lifelong Memory"** [[paper](https://arxiv.org/abs/2506.24019)]
+* 📖 [Aug 2025] Vision-Language-Action Models for Robotics: A Review Towards Real-World Applications [[paper](https://vla-survey.github.io/data/paper.pdf)]
+* [Aug 2025] **Seeing, Listening, Remembering, and Reasoning: A Multimodal Agent with Long-Term Memory** [[paper](https://www.arxiv.org/abs/2508.09736)]
+* [Aug 2025] **"MolmoAct: Action Reasoning Models that can Reason in Space"** [[paper](https://arxiv.org/abs/2508.07917)]
+* [Aug 2025] **"Toward Versatile Embodied Agents"** [[paper](https://arxiv.org/abs/2508.07033)]
+* [Aug 2025] **"Sotopia-RL: Reward Design for Social Intelligence"** [[paper](https://www.arxiv.org/abs/2508.03905)]

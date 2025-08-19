@@ -39,6 +39,9 @@ These papers discuss an agent’s memory function and its self-evolution.
 * [Jul 2025] **"AGENT KB: Leveraging Cross-Domain Experience for Agentic Problem Solving"** [[paper](https://arxiv.org/abs/2507.06229)]
 * [Jul 2025] **"MIRIX: Multi-Agent Memory System for LLM-Based Agents"** [[paper](https://arxiv.org/abs/2507.07957)]
 * [Jul 2025] **"MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent"** [[paper](https://arxiv.org/abs/2507.02259)]
+* [Aug 2025] **Seeing, Listening, Remembering, and Reasoning: A Multimodal Agent with Long-Term Memory** [[paper](https://www.arxiv.org/abs/2508.09736)]
+* [Aug 2025] **"Memp: Exploring Agent Procedural Memory"** [[paper](https://www.arxiv.org/abs/2508.06433)]
+* [Aug 2025] **"Nemori: Self-Organizing Agent Memory Inspired by Cognitive Science"** [[paper](https://arxiv.org/abs/2508.03341)]
 
 ## Self-Evolution (Self-Improvement)
 * [May 2024] **Offline Training of Language Model Agents with Functions as Learnable Weights"** [[paper](https://arxiv.org/abs/2402.11359)]
@@ -96,3 +99,7 @@ These papers discuss an agent’s memory function and its self-evolution.
 * [Jun 2025] **"Evolving Prompts In-Context: An Open-ended, Self-replicating Perspective"** [[paper](https://arxiv.org/abs/2506.17930)]
 * [Jul 2025] **"EvoAgentX: An Automated Framework for Evolving Agentic Workflows"** [[paper](http://arxiv.org/abs/2507.03616)]
 * [Jul 2025] **"Foundation Model Self-Play: Open-Ended Strategy Innovation via Foundation Models"** [[paper](https://arxiv.org/abs/2507.06466)]
+* 📖 [Aug 2025] **"A Comprehensive Survey of Self-Evolving AI Agents"** [[paper](https://arxiv.org/abs/2508.07407)]
+* [Aug 2025] **"SEAgent: Self-Evolving Computer Use Agent with Autonomous Learning from Experience"** [[paper](https://www.arxiv.org/abs/2508.04700)]
+* [Aug 2025] **"HealthFlow: A Self-Evolving AI Agent with Meta Planning for Autonomous Healthcare Research"** [[paper](https://arxiv.org/abs/2508.02621)]
+* [Aug 2025] **"SE-Agent: Self-Evolution Trajectory Optimization in Multi-Step Reasoning with LLM-Based Agents"** [[paper](https://arxiv.org/abs/2508.02085)]

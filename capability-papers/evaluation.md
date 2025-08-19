@@ -42,3 +42,4 @@
 * ⚖️ [Jun 2025] **"AssertBench: A Benchmark for Evaluating Self-Assertion in Large Language Models"** [[paper](https://arxiv.org/abs/2506.11110)]
 * ⚖️ [Jun 2025] **"Agent-RewardBench: Towards a Unified Benchmark for Reward Modeling across Perception, Planning, and Safety in Real-World Multimodal Agents"** [[paper](https://arxiv.org/abs/2506.21252)]
 * ⚖️ [Jul 2025] **"MCPEval: Automatic MCP-based Deep Evaluation for AI Agent Models"** [[paper](https://arxiv.org/abs/2507.12806)]
+* [Aug 2025] **"Efficient Agents: Building Effective Agents While Reducing Cost"** [[paper](https://www.arxiv.org/abs/2508.02694)]

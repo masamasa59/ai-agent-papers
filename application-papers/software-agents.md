@@ -47,3 +47,6 @@
 * 📖 [Jun 2025] **"A Survey of LLM-based Automated Program Repair: Taxonomies, Design Paradigms, and Applications"** [[paper](https://arxiv.org/abs/2506.23749)]
 * [Jul 2025] **"Enhancing COBOL Code Explanations: A Multi-Agents Approach Using Large Language Models"** [[paper](https://arxiv.org/abs/2507.02182)]
 * [Jul 2025] **"BUGSCOPE: LEARN TO FIND BUGS LIKE HUMAN"** [[paper](https://arxiv.org/abs/2507.15671)]
+* [Aug 2025] **"SHIELDA: Structured Handling of Exceptions in LLM-Driven Agentic Workflows"** [[paper](https://arxiv.org/abs/2508.07935)]
+* [Aug 2025] **"Tool-integrated Reinforcement Learning for Repo Deep Search"** [[paper](https://www.arxiv.org/abs/2508.03012)]
+* 📖 [Aug 2025] **"A Survey on Code Generation with LLM-based Agents"** [[paper](https://arxiv.org/html/2508.00083v1)]

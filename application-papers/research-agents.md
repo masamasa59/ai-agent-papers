@@ -61,3 +61,6 @@
 * [Jul 2025] **"Open Source Planning & Control System with Language Agents for Autonomous Scientific Discovery"** [[paper](https://arxiv.org/abs/2507.07257)]
 * [Jul 2025] **"Open-ended Scientific Discovery via Bayesian Surprise"** [[paper](https://arxiv.org/abs/2507.00310)]
 * [Jul 2025] **"Large Language Models as Innovators: A Framework to Leverage Latent Space Exploration for Novelty Discovery"** [[paper](https://arxiv.org/abs/2507.13874)]
+* [Jul 2025] **"AlphaGo Moment for Model Architecture Discovery"** [[paper](https://arxiv.org/abs/2507.18074)]
+* [Aug 2025] **"K-Dense Analyst: Towards Fully Automated Scientific Analysis"** [[paper](https://arxiv.org/abs/2508.07043)]
+* [Aug 2025] **"Multi-Agent Taskforce Collaboration: Self-Correction of Compounding Errors in Long-Form Literature Review Generation"** [[paper](https://www.arxiv.org/abs/2508.04306)]
