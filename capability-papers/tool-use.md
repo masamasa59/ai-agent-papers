@@ -69,6 +69,7 @@ These papers discuss whether or not agents can properly use tools
 * [Jun 2025] **"Distilling Tool Knowledge into Language Models via Back-Translated Traces"** [[paper](https://www.arxiv.org/abs/2506.19171)]
 * [Jul 2025] **"Making REST APIs Agent-Ready: From OpenAPI to Model Context Protocol Servers for Tool-Augmented LLMs"** [[paper](https://www.arxiv.org/abs/2507.16044)]
 * [Jul 2025] **"Towards Enforcing Company Policy Adherence in Agentic Workflows"** [[paper](https://arxiv.org/abs/2507.16459)]
+* [Jul 2025] **"MemTool: Optimizing Short-Term Memory Management for Dynamic Tool Calling in LLM Agent Multi-Turn Conversations"** [[paper](https://arxiv.org/abs/2507.21428)]
 * ⚖️ [Jul 2025] **"MCPEval: Automatic MCP-based Deep Evaluation for AI Agent Models"** [[paper](https://arxiv.org/abs/2507.12806)]
 * ⚖️ [Jul 2025] **"LiveMCPBench: Can Agents Navigate an Ocean of MCP Tools?"** [[paper](https://arxiv.org/abs/2508.01780)]
 * ⚖️ [Aug 2025] **" MCP-Universe: Benchmarking Large Language Models with Real-World Model Context Protocol Servers"** [[paper](https://arxiv.org/abs/2508.14704)]

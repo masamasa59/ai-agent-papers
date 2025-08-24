@@ -49,6 +49,8 @@
 * 📖 [Jun 2025] **"Towards Agentic RAG with Deep Reasoning: A Survey of RAG-Reasoning Systems in LLMs"** [[paper](https://arxiv.org/abs/2506.10408v1)]
 * [Jul 2025] **"Deep Researcher with Test-Time Diffusion"** [[paper](https://www.arxiv.org/abs/2507.16075)]
 * [Jul 2025] **"Interaction as Intelligence: Deep Research With Human-AI Partnership"** [[paper](https://arxiv.org/abs/2507.15759)]
+* [Jul 2025] **"DeepSieve: Information Sieving via LLM-as-a-Knowledge-Router"** [[paper](https://arxiv.org/abs/2507.22050)]
+* [Jul 2025] **"Artificial Intelligence In Patent And Market Intelligence: A New Paradigm For Technology Scouting"** [[paper](https://arxiv.org/abs/2507.20322)]
 * [Aug 2025] **"SSRL: Self-Search Reinforcement Learning"** [[paper](https://arxiv.org/abs/2508.10874v1)]
 * ⚖️ [Aug 2025] **"WideSearch: Benchmarking Agentic Broad Info-Seeking"** [[paper](https://arxiv.org/abs/2508.07999)]
 * [Aug 2025] **"TURA: Tool-Augmented Unified Retrieval Agent for AI Search"** [[paper](https://www.arxiv.org/abs/2508.04604)]

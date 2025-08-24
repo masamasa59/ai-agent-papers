@@ -87,6 +87,8 @@
 * [Jun 2025] **"Agent-to-Agent Theory of Mind: Testing Interlocutor Awareness among Large Language Models"** [[paper](https://arxiv.org/abs/2506.22957)]
 * [Jul 2025] **"AGENTSNET: Coordination and Collaborative Reasoning in Multi-Agent LLMs"** [[paper](https://arxiv.org/abs/2507.08616)]
 * [Jul 2025] **"Enhancing COBOL Code Explanations: A Multi-Agents Approach Using Large Language Models"** [[paper](https://arxiv.org/abs/2507.02182)]
+* [Jul 2025] **"MASCA: LLM based-Multi Agents System for Credit Assessment"** [[paper](https://arxiv.org/abs/2507.22758)]
+* [Jul 2025] **"Towards Cognitive Synergy in LLM-Based Multi-Agent Systems: Integrating Theory of Mind and Critical Evaluation"** [[paper](https://arxiv.org/abs/2507.21969)]
 
 ### World Simulation
 * [Apr 2023] **"Generative agents: Interactive simulacra of human behavior"** [[paper](https://arxiv.org/abs/2304.03442)]
@@ -123,3 +125,5 @@
 * [Jul 2025] **"CREW-WILDFIRE: Benchmarking Agentic Multi-Agent Collaborations at Scale"** [[paper](https://arxiv.org/abs/2507.05178)]
 * [Jul 2025] **"LLM Economist: Large Population Models and Mechanism Design in Multi-Agent Generative Simulacra"** [[paper](https://arxiv.org/abs/2507.15815)]
 * 📖 [Jul 2025] **"Large Language Models for Agent-Based Modelling: Current and possible uses across the modelling cycle"** [[paper](https://arxiv.org/abs/2507.05723)]
+* 📖 [Jul 2025] **"A survey of multi-agent geosimulation methodologies: from ABM to LLM"** [[paper](https://arxiv.org/abs/2507.23694)]
+* 📖 [Jul 2025] **"Integrating LLM in Agent-Based Social Simulation: Opportunities and Challenges"** [[paper](https://arxiv.org/abs/2507.19364)]

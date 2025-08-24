@@ -81,6 +81,7 @@
 * 📖 [Jun 2025] **"Graphs Meet AI Agents: Taxonomy, Progress, and Future Opportunities"** [[paper](https://arxiv.org/abs/2506.18019)]
 * [Jun 2025] **"OAgents: An Empirical Study of Building Effective Agents"** [[paper](https://www.arxiv.org/abs/2506.15741)]
 * 📖 [Jul 2025] **"A Survey of Context Engineering for Large Language Models"** [[paper](https://arxiv.org/abs/2507.13334)]
+* [Jul 2025] **"SIMURA: Towards General Goal-Oriented Agent via Simulative Reasoning Architecture with LLM-Based World Model"** [[paper](https://arxiv.org/abs/2507.23773)]
 * [Aug 2025] **"Sculptor: Empowering LLMs with Cognitive Agency via Active Context Management"** [[paper](https://arxiv.org/abs/2508.04664)]
 * [Aug 2025] **"Agent Lightning: Train ANY AI Agents with Reinforcement Learning"** [[paper](https://arxiv.org/abs/2508.03680)]
 
@@ -107,7 +108,9 @@
 * [Jul 2025] **"EvoAgentX: An Automated Framework for Evolving Agentic Workflows"** [[paper](http://arxiv.org/abs/2507.03616)]
 * [Jul 2025] **"Exploring Advanced LLM Multi-Agent Systems Based on Blackboard Architecture"** [[paper](https://arxiv.org/abs/2507.01701)]
 * [Jul 2025] **"Synergizing Logical Reasoning, Knowledge Management and Collaboration in Multi-Agent LLM System"** [[paper](https://arxiv.org/abs/2507.02170)]
+* [Jul 2025] **"MetaAgent: Automatically Constructing Multi-Agent Systems Based on Finite State Machines"** [[paper](https://arxiv.org/abs/2507.22606)]
 * [Aug 2025] **"Analyzing Information Sharing and Coordination in Multi-Agent Planning"** [[paper](https://arxiv.org/abs/2508.12981)]
+
 
 ## Agent Ops & UX
 * [Feb 2024] **"Towards better Human-Agent Alignment: Assessing Task Utility in LLM-Powered Applications"** [[paper](https://arxiv.org/abs/2402.09015)]

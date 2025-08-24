@@ -67,4 +67,6 @@
 * ⚖️ [Jun 2025] **"DABstep: Data Agent Benchmark for Multi-step Reasoning"** [[paper](https://arxiv.org/abs/2506.23719)]
 * 📖 [Jul 2025] **"Toward Real-World Table Agents: Capabilities, Workflows, and Design Principles for LLM-based Table Intelligence"** [[paper](https://arxiv.org/abs/2507.10281)]
 * [Jul 2025] **"Data Agent: A Holistic Architecture for Orchestrating Data+AI Ecosystems"** [[paper](https://arxiv.org/abs/2507.01599)]
+* ⚖️ [Jul 2025]**"DSBC : Data Science task Benchmarking with Context engineering"** [[paper](https://arxiv.org/abs/2507.23336)]
+* [Jul 2025] **"I2I-STRADA -- Information to Insights via Structured Reasoning Agent for Data Analysis"** [[paper](https://arxiv.org/abs/2507.17874)]
 * 📖 [Aug 2025] **"Large Language Model-based Data Science Agent: A Survey"** [[paper](https://www.arxiv.org/abs/2508.02744)]

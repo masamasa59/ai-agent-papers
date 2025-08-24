@@ -48,5 +48,6 @@ These papers discuss the safety and risks of agents.
 * 📖 [Jun 2025] **"A Survey on Autonomy-Induced Security Risks in Large Model-Based Agents"** [[paper](https://arxiv.org/abs/2506.23844)]
 * [Jul 2025] **"GAF-Guard: An Agentic Framework for Risk Management and Governance in Large Language Models"** [[paper](https://arxiv.org/abs/2507.02986)]
 * [Jul 2025] **"Towards Enforcing Company Policy Adherence in Agentic Workflows"** [[paper](https://arxiv.org/abs/2507.16459)]
+* 🔥 [Jul 2025] **"Security Challenges in AI Agent Deployment: Insights from a Large Scale Public Competition"** [[paper](https://arxiv.org/abs/2507.20526)]
 * 📖 [Jul 2025] **"Frontier AI Risk Management Framework in Practice: A Risk Analysis Technical Report"** [[paper](https://arxiv.org/abs/2507.16534)]
 * [Aug 2025] **"Search-Time Data Contamination"** [[paper](https://www.arxiv.org/abs/2508.13180)]
