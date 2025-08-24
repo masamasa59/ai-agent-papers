@@ -42,6 +42,8 @@ These papers discuss an agent’s memory function and its self-evolution.
 * [Aug 2025] **Seeing, Listening, Remembering, and Reasoning: A Multimodal Agent with Long-Term Memory** [[paper](https://www.arxiv.org/abs/2508.09736)]
 * [Aug 2025] **"Memp: Exploring Agent Procedural Memory"** [[paper](https://www.arxiv.org/abs/2508.06433)]
 * [Aug 2025] **"Nemori: Self-Organizing Agent Memory Inspired by Cognitive Science"** [[paper](https://arxiv.org/abs/2508.03341)]
+* [Aug 2025] **"Coarse-to-Fine Grounded Memory for LLM Agent Planning"** [[paper](https://arxiv.org/abs/2508.15305)]
+
 
 ## Self-Evolution (Self-Improvement)
 * [May 2024] **Offline Training of Language Model Agents with Functions as Learnable Weights"** [[paper](https://arxiv.org/abs/2402.11359)]
@@ -103,3 +105,4 @@ These papers discuss an agent’s memory function and its self-evolution.
 * [Aug 2025] **"SEAgent: Self-Evolving Computer Use Agent with Autonomous Learning from Experience"** [[paper](https://www.arxiv.org/abs/2508.04700)]
 * [Aug 2025] **"HealthFlow: A Self-Evolving AI Agent with Meta Planning for Autonomous Healthcare Research"** [[paper](https://arxiv.org/abs/2508.02621)]
 * [Aug 2025] **"SE-Agent: Self-Evolution Trajectory Optimization in Multi-Step Reasoning with LLM-Based Agents"** [[paper](https://arxiv.org/abs/2508.02085)]
+* [Aug 2025] **"HERAKLES: Hierarchical Skill Compilation for Open-ended LLM Agents"** [[paper](https://arxiv.org/abs/2508.14751v1)]

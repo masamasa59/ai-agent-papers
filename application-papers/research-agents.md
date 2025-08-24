@@ -64,3 +64,4 @@
 * [Jul 2025] **"AlphaGo Moment for Model Architecture Discovery"** [[paper](https://arxiv.org/abs/2507.18074)]
 * [Aug 2025] **"K-Dense Analyst: Towards Fully Automated Scientific Analysis"** [[paper](https://arxiv.org/abs/2508.07043)]
 * [Aug 2025] **"Multi-Agent Taskforce Collaboration: Self-Correction of Compounding Errors in Long-Form Literature Review Generation"** [[paper](https://www.arxiv.org/abs/2508.04306)]
+* 📖 [Aug 2025] **"From AI for Science to Agentic Science: A Survey on Autonomous Scientific Discovery"** [[paper](https://arxiv.org/abs/2508.14111)]

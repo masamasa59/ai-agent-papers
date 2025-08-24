@@ -52,3 +52,4 @@
 * [Aug 2025] **"SSRL: Self-Search Reinforcement Learning"** [[paper](https://arxiv.org/abs/2508.10874v1)]
 * ⚖️ [Aug 2025] **"WideSearch: Benchmarking Agentic Broad Info-Seeking"** [[paper](https://arxiv.org/abs/2508.07999)]
 * [Aug 2025] **"TURA: Tool-Augmented Unified Retrieval Agent for AI Search"** [[paper](https://www.arxiv.org/abs/2508.04604)]
+* 📖 [Aug 2025] **"Deep Research: A Survey of Autonomous Research Agents"** [[paper](https://arxiv.org/abs/2508.12752)]

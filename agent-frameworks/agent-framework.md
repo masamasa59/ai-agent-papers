@@ -107,6 +107,7 @@
 * [Jul 2025] **"EvoAgentX: An Automated Framework for Evolving Agentic Workflows"** [[paper](http://arxiv.org/abs/2507.03616)]
 * [Jul 2025] **"Exploring Advanced LLM Multi-Agent Systems Based on Blackboard Architecture"** [[paper](https://arxiv.org/abs/2507.01701)]
 * [Jul 2025] **"Synergizing Logical Reasoning, Knowledge Management and Collaboration in Multi-Agent LLM System"** [[paper](https://arxiv.org/abs/2507.02170)]
+* [Aug 2025] **"Analyzing Information Sharing and Coordination in Multi-Agent Planning"** [[paper](https://arxiv.org/abs/2508.12981)]
 
 ## Agent Ops & UX
 * [Feb 2024] **"Towards better Human-Agent Alignment: Assessing Task Utility in LLM-Powered Applications"** [[paper](https://arxiv.org/abs/2402.09015)]
@@ -136,3 +137,4 @@
 * [Jul 2025] **"ProactiveVA: Proactive Visual Analytics with LLM-Based UI Agent"** [[paper](https://www.arxiv.org/abs/2507.18165)]
 * 📖 [Aug 2025] **"A Survey on Agentic Service Ecosystems: Measurement, Analysis, and Optimization"** [[paper](https://arxiv.org/abs/2508.07343)]
 * 📖 [Aug 2025] **"A Survey on AgentOps: Categorization, Challenges, and Future Directions"** [[paper](https://www.arxiv.org/abs/2508.02121)]
+* [Aug 2025] **"Illuminating LLM Coding Agents: Visual Analytics for Deeper Understanding and Enhancement"** [[paper](https://arxiv.org/abs/2508.12555)]

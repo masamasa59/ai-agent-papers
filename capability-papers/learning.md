@@ -49,3 +49,4 @@
 * [Jun 2025] **"L0: Reinforcement Learning to Become General Agents"** [[paper](https://arxiv.org/abs/2506.23667)]
 * 📖 [Jul 2025] **"A Survey on Vision-Language-Action Models: An Action Tokenization Perspective"** [[paper](https://arxiv.org/abs/2507.01925)]
 * [Jul 2025] **"MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent"** [[paper](https://arxiv.org/abs/2507.02259)]
+* [Aug 2025] **"Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL"** [[paper](https://www.arxiv.org/abs/2508.13167)]

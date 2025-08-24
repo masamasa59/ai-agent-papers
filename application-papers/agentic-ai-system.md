@@ -88,3 +88,7 @@ Agents in various tasks such as education, healthcare, and the press.
 * [Aug 2025] **"Toward Verifiable Misinformation Detection: A Multi-Tool LLM Agent Framework"** [[paper](https://www.arxiv.org/abs/2508.03092)]
 * [Aug 2025] **"HealthFlow: A Self-Evolving AI Agent with Meta Planning for Autonomous Healthcare Research"** [[paper](https://arxiv.org/abs/2508.02621)]
 * ⚖️ [Aug 2025] **"Finance Agent Benchmark: Benchmarking LLMs on Real-world Financial Research Tasks"** [[paper](https://arxiv.org/abs/2508.00828)]
+* [Aug 2025] **"The Collaboration Paradox: Why Generative AI Requires Both Strategic Intelligence and Operational Stability in Supply Chain Management"** [[paper](https://www.arxiv.org/abs/2508.13942)]
+* ⚖️ [Aug 2025] **"AIM-Bench: Evaluating Decision-making Biases of Agentic LLM as Inventory Manager"** [[paper](https://arxiv.org/abs/2508.11416)]
+* [Aug 2025] **"AlphaAgents: Large Language Model based Multi-Agents for Equity Portfolio Constructions"** [[paper](https://arxiv.org/abs/2508.11152)]
+* [Aug 2025] **"Towards Reliable Multi-Agent Systems for Marketing Applications via Reflection, Memory, and Planning"** [[paper](https://arxiv.org/abs/2508.11120)]

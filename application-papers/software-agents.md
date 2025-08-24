@@ -50,3 +50,4 @@
 * [Aug 2025] **"SHIELDA: Structured Handling of Exceptions in LLM-Driven Agentic Workflows"** [[paper](https://arxiv.org/abs/2508.07935)]
 * [Aug 2025] **"Tool-integrated Reinforcement Learning for Repo Deep Search"** [[paper](https://www.arxiv.org/abs/2508.03012)]
 * 📖 [Aug 2025] **"A Survey on Code Generation with LLM-based Agents"** [[paper](https://arxiv.org/html/2508.00083v1)]
+* [Aug 2025] **"Rethinking Autonomy: Preventing Failures in AI-Driven Software Engineering"** [[paper](https://arxiv.org/abs/2508.11824)]

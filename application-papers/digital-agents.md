@@ -44,6 +44,7 @@
 * 📖 [Aug 2025] **"OS Agents: A Survey on MLLM-based Agents for General Computing Devices Use"** [[paper](https://arxiv.org/abs/2508.04482)]
 * [Aug 2025] **"CoAct-1: Computer-using Agents with Coding as Actions"** [[paper](https://arxiv.org/abs/2508.03923)]
 * [Aug 2025] **"Web-CogReasoner: Towards Knowledge-Induced Cognitive Reasoning for Web Agents"** [[paper](https://www.arxiv.org/abs/2508.01858)]
+* ⚖️ [Aug 2025] **"You Don’t Know Until You Click: Automated GUI Testing for Production-Ready Software Evaluation"** [[paper](https://arxiv.org/abs/2508.14104)]
 
 ### Web Agents
 * ⚖️ [Jul 2022] **"WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents"** [[paper](https://arxiv.org/abs/2207.01206)]
