@@ -34,6 +34,7 @@ These papers discuss the safety and risks of agents.
 * [Dec 2024] **"Towards Action Hijacking of Large Language Model-based Agent"** [[ppaer](https://arxiv.org/abs/2412.10807)]
 * ⚖️ [Dec 2024] **"SafeAgentBench: A Benchmark for Safe Task Planning of Embodied LLM Agents"** [[ppaer](https://arxiv.org/abs/2412.13178)]
 * [Jan 2025] **"Context is Key for Agent Security"** [[paper](https://arxiv.org/abs/2501.17070)]
+* [Feb 2025] **"Safety is Essential for Responsible Open-Ended Systems"** [[paper](https://arxiv.org/abs/2502.04512)]
 * [Mar 2025] **"A Practical Memory Injection Attack against LLM Agents"** [[paper](https://arxiv.org/abs/2503.03704)]
 * 📖 [Mar 2025] **"A Survey on Trustworthy LLM Agents: Threats and Countermeasures"** [[paper](https://arxiv.org/abs/2503.09648)]
 * [Apr 2025] **"How to evaluate control measures for LLM agents? A trajectory from today to superintelligence"** [[paper](https://arxiv.org/abs/2504.05259)]
@@ -50,3 +51,4 @@ These papers discuss the safety and risks of agents.
 * [Jul 2025] **"Towards Enforcing Company Policy Adherence in Agentic Workflows"** [[paper](https://arxiv.org/abs/2507.16459)]
 * 📖 [Jul 2025] **"Frontier AI Risk Management Framework in Practice: A Risk Analysis Technical Report"** [[paper](https://arxiv.org/abs/2507.16534)]
 * [Aug 2025] **"Search-Time Data Contamination"** [[paper](https://www.arxiv.org/abs/2508.13180)]
+* [Aug 2025] **"Reliable Weak-to-Strong Monitoring of LLM Agents"** [[paper](https://arxiv.org/abs/2508.19461)]

@@ -40,3 +40,5 @@
 * 📖 [Jun 2025] **"A Survey of AI for Materials Science: Foundation Models, LLM Agents, Datasets, and Tools"** [[paper](https://arxiv.org/abs/2506.20743)]
 * [Jul 2025] **"Autonomous Control Leveraging LLMs: An Agentic Framework for Next-Generation Industrial Automation"** [[paper](https://arxiv.org/abs/2507.07115)]
 * ⚖️ [Aug 2025] **"OdysseyBench: Evaluating LLM Agents on Long-Horizon Complex Office Application Workflows"** [[paper](https://arxiv.org/abs/2508.09124)]
+* [Aug 2025] **"Re4: Scientific Computing Agent with Rewriting, Resolution, Review and Revision"** [[paper](https://arxiv.org/abs/2508.20729)]
+* [Aug 2025] **"GDS Agent: A Graph Algorithmic Reasoning Agent"** [[paper](https://arxiv.org/abs/2508.20637)]

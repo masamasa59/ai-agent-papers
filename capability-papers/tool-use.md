@@ -72,3 +72,5 @@ These papers discuss whether or not agents can properly use tools
 * ⚖️ [Jul 2025] **"MCPEval: Automatic MCP-based Deep Evaluation for AI Agent Models"** [[paper](https://arxiv.org/abs/2507.12806)]
 * ⚖️ [Jul 2025] **"LiveMCPBench: Can Agents Navigate an Ocean of MCP Tools?"** [[paper](https://arxiv.org/abs/2508.01780)]
 * ⚖️ [Aug 2025] **" MCP-Universe: Benchmarking Large Language Models with Real-World Model Context Protocol Servers"** [[paper](https://arxiv.org/abs/2508.14704)]
+* [Aug 2025] **"Understanding Tool-Integrated Reasoning"** [[paper](https://arxiv.org/abs/2508.19201)]
+* ⚖️ [Aug 2025] **"MCP-Bench: Benchmarking Tool-Using LLM Agents with Complex Real-World Tasks via MCP Servers"** [[paper](https://www.arxiv.org/abs/2508.20453)]

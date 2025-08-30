@@ -83,6 +83,7 @@
 * 📖 [Jul 2025] **"A Survey of Context Engineering for Large Language Models"** [[paper](https://arxiv.org/abs/2507.13334)]
 * [Aug 2025] **"Sculptor: Empowering LLMs with Cognitive Agency via Active Context Management"** [[paper](https://arxiv.org/abs/2508.04664)]
 * [Aug 2025] **"Agent Lightning: Train ANY AI Agents with Reinforcement Learning"** [[paper](https://arxiv.org/abs/2508.03680)]
+* 📖 [Aug 2025] **"LLM-based Agentic Reasoning Frameworks: A Survey from Methods to Scenarios"** [[paper](https://arxiv.org/abs/2508.17692)]
 
 ## Multi-Agent
 * [Mar 2023] **"CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society"** [[paper](https://arxiv.org/abs/2303.17760)]
@@ -120,6 +121,7 @@
 * [Dec 2024] **"Specifications: The missing link to making the development of LLM systems an engineering discipline"** [[paper](https://arxiv.org/abs/2412.05299)]
 * [Dec 2024] **"Agents Are Not Enough"** [[paper](https://arxiv.org/html/2412.16241v1)]
 * [Jan 2025] **"Authenticated Delegation and Authorized AI Agents"** [[paper](https://www.arxiv.org/abs/2501.09674)]
+* [Jan 2025] **"AI Governance through Markets"** [[paper](https://arxiv.org/abs/2501.17755)]
 * [Feb 2025] **"Agency Is Frame-Dependent"** [[paper](https://arxiv.org/abs/2502.04403)]
 * 📖 [Apr 2025] **"A Survey of AI Agent Protocols"** [[paper](https://arxiv.org/abs/2504.16736)]
 * 📖 [May 2025] **"A Survey on Large Language Model based Human-Agent Systems"** [[paper](https://arxiv.org/abs/2505.00753)]
@@ -138,3 +140,6 @@
 * 📖 [Aug 2025] **"A Survey on Agentic Service Ecosystems: Measurement, Analysis, and Optimization"** [[paper](https://arxiv.org/abs/2508.07343)]
 * 📖 [Aug 2025] **"A Survey on AgentOps: Categorization, Challenges, and Future Directions"** [[paper](https://www.arxiv.org/abs/2508.02121)]
 * [Aug 2025] **"Illuminating LLM Coding Agents: Visual Analytics for Deeper Understanding and Enhancement"** [[paper](https://arxiv.org/abs/2508.12555)]
+* [Aug 2025] **"AgentScope 1.0: A Developer-Centric Framework for Building Agentic Applications"** [[paper](https://arxiv.org/abs/2508.16279)]
+* [Aug 2025] **"Rethinking Testing for LLM Applications: Characteristics, Challenges, and a Lightweight Interaction Protocol"** [[paper](https://arxiv.org/abs/2508.20737)]
+* [Aug 2025] **"Aegis: Taxonomy and Optimizations for Overcoming Agent-Environment Failures in LLM Agents"** [[paper](https://arxiv.org/abs/2508.19504)]

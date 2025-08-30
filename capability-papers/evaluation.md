@@ -45,3 +45,4 @@
 * [Aug 2025] **"Efficient Agents: Building Effective Agents While Reducing Cost"** [[paper](https://www.arxiv.org/abs/2508.02694)]
 * [Aug 2025] **"Exploring Autonomous Agents: A Closer Look at Why They Fail When Completing Tasks"** [[paper](https://arxiv.org/abs/2508.13143)]
 * ⚖️ [Aug 2025] **"FutureX: An Advanced Live Benchmark for LLM Agents in Future Prediction"** [[paper](https://arxiv.org/abs/2508.11987)]
+* ⚖️ [Aug 2025] **"UQ: Assessing Language Models on Unsolved Questions"** [[paper](https://arxiv.org/abs/2508.17580)]
