@@ -68,3 +68,4 @@
 * 📖 [Jul 2025] **"Toward Real-World Table Agents: Capabilities, Workflows, and Design Principles for LLM-based Table Intelligence"** [[paper](https://arxiv.org/abs/2507.10281)]
 * [Jul 2025] **"Data Agent: A Holistic Architecture for Orchestrating Data+AI Ecosystems"** [[paper](https://arxiv.org/abs/2507.01599)]
 * 📖 [Aug 2025] **"Large Language Model-based Data Science Agent: A Survey"** [[paper](https://www.arxiv.org/abs/2508.02744)]
+* [Aug 2025] **"The AI Data Scientist"** [[paper](https://arxiv.org/abs/2508.18113)]

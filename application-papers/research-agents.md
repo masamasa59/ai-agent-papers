@@ -69,7 +69,6 @@
 * [Aug 2025] **"K-Dense Analyst: Towards Fully Automated Scientific Analysis"** [[paper](https://arxiv.org/abs/2508.07043)]
 * [Aug 2025] **"Multi-Agent Taskforce Collaboration: Self-Correction of Compounding Errors in Long-Form Literature Review Generation"** [[paper](https://www.arxiv.org/abs/2508.04306)]
 * 📖 [Aug 2025] **"From AI for Science to Agentic Science: A Survey on Autonomous Scientific Discovery"** [[paper](https://arxiv.org/abs/2508.14111)]
-* [Aug 2025] **"The AI Data Scientist"** [[paper](https://arxiv.org/abs/2508.18113)]
 * [Aug 2025] **"Spacer: Towards Engineered Scientific Inspiration"** [[paper](https://arxiv.org/abs/2508.17661)]
 * [Aug 2025] **"PosterGen: Aesthetic-Aware Paper-to-Poster Generation via Multi-Agent LLMs"** [[paper](https://arxiv.org/abs/2508.17188)]
 * [Aug 2025] **"BIODISCO: Multi-agent hypothesis generation with dual-mode evidence, iterative feedback and temporal evaluation"** [[paper](https://www.arxiv.org/abs/2508.01285)]

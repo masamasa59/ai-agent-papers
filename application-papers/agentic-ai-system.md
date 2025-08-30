@@ -83,6 +83,7 @@ Agents in various tasks such as education, healthcare, and the press.
 * [Jul 2025] **"Enabling Self-Improving Agents to Learn at Test Time With Human-In-The-Loop Guidance"** [[paper](https://www.arxiv.org/abs/2507.17131)]
 * [Jul 2025] **"Compliance Brain Assistant: Conversational Agentic AI for Assisting Compliance Tasks in Enterprise Environments"** [[paper](https://arxiv.org/abs/2507.17289)]
 * [Jul 2025] **"Towards a rigorous evaluation of RAG systems: the challenge of due diligence"** [[paper](https://www.arxiv.org/abs/2507.21753)]
+* [Jul 2025] **"MK2 at PBIG Competition: A Prompt Generation Solution"** [[paper](https://arxiv.org/abs/2507.08335)]
 * [Aug 2025] **"Evaluating Large Language Models as Expert Annotators"** [[paper](https://arxiv.org/abs/2508.07827)]
 * ⚖️ [Aug 2025] **"ShoppingBench: A Real-World Intent-Grounded Shopping Benchmark for LLM-based Agents"** [[paper](https://www.arxiv.org/abs/2508.04266)]
 * [Aug 2025] **"WINELL: Wikipedia Never-Ending Updating with LLM Agents"** [[paper](https://arxiv.org/abs/2508.03728)]
@@ -96,4 +97,3 @@ Agents in various tasks such as education, healthcare, and the press.
 * [Aug 2025] **"LLM-Based Agents for Competitive Landscape Mapping in Drug Asset Due Diligence"** [[paper](https://arxiv.org/abs/2508.16571)]
 * [Aug 2025] **"GLARE: Agentic Reasoning for Legal Judgment Prediction"** [[paper](https://arxiv.org/abs/2508.16383)]
 * [Aug 2025] **"The Anatomy of a Personal Health Agent"** [[paper](https://www.arxiv.org/abs/2508.20148)]
-* [Jul 2025] **"MK2 at PBIG Competition: A Prompt Generation Solution"** [[paper](https://arxiv.org/abs/2507.08335)]

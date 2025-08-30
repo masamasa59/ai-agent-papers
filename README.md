@@ -15,6 +15,35 @@ Updated biweekly.
     <figcaption style="text-align: center;">AI Agent Workflows</figcaption>
 </figure>
 
+# August Highlights (Updated 31 August)
+### Self-Evolving Agents
+* **"Enabling Self-Improving Agents to Learn at Test Time With Human-In-The-Loop Guidance"** [[paper](https://arxiv.org/abs/2507.17131)]
+* 📖 **"A Comprehensive Survey of Self-Evolving AI Agents"** [[paper](https://arxiv.org/abs/2508.07407)]
+* **"HealthFlow: A Self-Evolving AI Agent with Meta Planning for Autonomous Healthcare Research"** [[paper](https://arxiv.org/abs/2508.02621)]
+* **"SEAgent: Self-Evolving Computer Use Agent with Autonomous Learning from Experience"** 
+* **"SE-Agent: Self-Evolution Trajectory Optimization in Multi-Step Reasoning with LLM-Based Agents"** [[paper](https://arxiv.org/abs/2508.02085)]
+* **"HERAKLES: Hierarchical Skill Compilation for Open-ended LLM Agents"** [[paper](https://arxiv.org/abs/2508.14751v1)]
+* ⚖️ **"Building Self-Evolving Agents via Experience-Driven Lifelong Learning: A Framework and Benchmark"** [[paper](https://arxiv.org/abs/2508.19005)]
+
+### Memory based llm Agents
+* **Seeing, Listening, Remembering, and Reasoning: A Multimodal Agent with Long-Term Memory** [[paper](https://www.arxiv.org/abs/2508.09736)]
+* **"Memp: Exploring Agent Procedural Memory"** [[paper](https://www.arxiv.org/abs/2508.06433)]
+* **"Nemori: Self-Organizing Agent Memory Inspired by Cognitive Science"** [[paper](https://arxiv.org/abs/2508.03341)]
+* **"Coarse-to-Fine Grounded Memory for LLM Agent Planning"** [[paper](https://arxiv.org/abs/2508.15305)]
+* **"Learn to Memorize: Optimizing LLM-based Agents with Adaptive Memory Framework"** [[paper](https://arxiv.org/abs/2508.16629)]
+* **"Memento: Fine-tuning LLM Agents without Fine-tuning LLMs"** [[paper](https://www.arxiv.org/abs/2508.16153)]
+* **"Memory-R1: Enhancing Large Language Model Agents to Manage and Utilize Memories via Reinforcement Learning"** [[paper](https://arxiv.org/abs/2508.19828)]
+
+### Ideation Agents
+* **"K-Dense Analyst: Towards Fully Automated Scientific Analysis"** [[paper](https://arxiv.org/abs/2508.07043)]
+* 📖 **"From AI for Science to Agentic Science: A Survey on Autonomous Scientific Discovery"** [[paper](https://arxiv.org/abs/2508.14111)]
+* **"The AI Data Scientist"** [[paper](https://arxiv.org/abs/2508.18113)]
+* **"Spacer: Towards Engineered Scientific Inspiration"** [[paper](https://arxiv.org/abs/2508.17661)]
+* **"BIODISCO: Multi-agent hypothesis generation with dual-mode evidence, iterative feedback and temporal evaluation"** [[paper](https://www.arxiv.org/abs/2508.01285)]
+* **"Expert-Guided LLM Reasoning for Battery Discovery: From AI-Driven Hypothesis to Synthesis and Characterization"** [[paper](https://arxiv.org/abs/2507.16110)]
+* **"MK2 at PBIG Competition: A Prompt Generation Solution"** [[paper](https://arxiv.org/abs/2507.08335)]
+
+
 # July Highlights (Updated 26 July)
 ### Agent Blueprints
 * **"LLM Agents Are the Antidote to Walled Gardens"**, University of Oxford. [[paper](https://arxiv.org/abs/2506.23978)]
@@ -236,6 +265,7 @@ Updated biweekly.
 📖: Survey papers  
 ⚖️: Benchmark papers
 - **Agent Capabilities**
+  - [Ideation](capability-papers/ideation.md)
   - [Planning](capability-papers/planning.md)
   - [Reasoning](capability-papers/reasoning.md)
   - [Profile](capability-papers/profile.md)
@@ -243,13 +273,14 @@ Updated biweekly.
   - [Tool Use](capability-papers/tool-use.md)
   - [Self-Correction](capability-papers/self-correction.md)
   - [Memory](capability-papers/memory.md)
-  - [Self-Evolution](capability-papers/memory.md/#self-evolution-self-improvement)
+  - [Self-Evolution](capability-papers/self-evolution.md/#self-evolution-self-improvement)
   - [Safety](capability-papers/safety.md)
   - [Agent Tuning](capability-papers/learning.md)
   - [Agent Evaluation](capability-papers/evaluation.md)
 - **GenAI Agents Architecture**
   - [Single-Agent](agent-frameworks/agent-framework.md#single-agents)
   - [Multi-Agent](agent-frameworks/agent-framework.md#multi-agents)
+  - [Agent-Ops](agent-frameworks/agent-framework.md#agent-ops--ux)
 - **GenAI Agents Applications**
   - [Embodied Agents](application-papers/embodied-agents.md)
   - [Digital Agents](application-papers/digital-agents.md)
