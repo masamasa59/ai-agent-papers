@@ -15,7 +15,52 @@ Updated biweekly.
     <figcaption style="text-align: center;">AI Agent Workflows</figcaption>
 </figure>
 
-# August Highlights (Updated 31 August)
+## Paper Categories
+🔥: Recommended papers  
+📖: Survey papers  
+⚖️: Benchmark papers
+- **Agent Capabilities**
+  - [Ideation](capability-papers/ideation.md)
+  - [Planning](capability-papers/planning.md)
+  - [Reasoning](capability-papers/reasoning.md)
+  - [Profile](capability-papers/profile.md)
+  - [Perception](capability-papers/perception.md)
+  - [Tool Use](capability-papers/tool-use.md)
+  - [Self-Correction](capability-papers/self-correction.md)
+  - [Memory](capability-papers/memory.md)
+  - [Self-Evolution](capability-papers/self-evolution.md/#self-evolution-self-improvement)
+  - [Safety](capability-papers/safety.md)
+  - [Agent Tuning](capability-papers/learning.md)
+  - [Agent Evaluation](capability-papers/evaluation.md)
+- **GenAI Agents Architecture**
+  - [Single-Agent](agent-frameworks/agent-framework.md#single-agents)
+  - [Multi-Agent](agent-frameworks/agent-framework.md#multi-agents)
+  - [Agent-Ops](agent-frameworks/agent-framework.md#agent-ops--ux)
+- **GenAI Agents Applications**
+  - [Embodied Agents](application-papers/embodied-agents.md)
+  - [Digital Agents](application-papers/digital-agents.md)
+    - [GUI Agents](application-papers/digital-agents.md/#computer-controlled-app-based-agents)
+    - [Web Agents](application-papers/digital-agents.md/#web-based-agents)
+    - [Mobile Agents](application-papers/digital-agents.md/#mobile-based-agents)
+  - [Software Agents](application-papers/software-agents.md)
+  - [Data Agents](application-papers/data-agents.md)
+  - [Research Agents](application-papers/research-agents.md)
+  - [API Agents](application-papers/api-agents.md)
+  - [Deep Research Agents](application-papers/deep-research-agents.md)
+  - [Agentic AI Systems](application-papers/agentic-ai-system.md)
+  - [Multi-Agents](application-papers/multi-agent.md)
+    - [MAD](application-papers/multi-agent.md#mad)
+    - [Problem Solving](application-papers/multi-agent.md#problem-solving)
+    - [World Simulation](application-papers/multi-agent.md#world-simulation)
+- **GenAI Agents Presentations**
+  - [Tutorial & Lecture](lectures/tutorial-lecture.md)
+
+## References
+- [LLM Agents Papers](https://github.com/zjunlp/LLMAgentPapers)
+- [Awesome LLM-Powered Agent](https://github.com/hyp1231/awesome-llm-powered-agent/)
+ - [Awesome LLM agents](https://github.com/kaushikb11/awesome-llm-agents)
+
+## August Highlights (Updated 31 August)
 ### Self-Evolving Agents
 * **"Enabling Self-Improving Agents to Learn at Test Time With Human-In-The-Loop Guidance"** [[paper](https://arxiv.org/abs/2507.17131)]
 * 📖 **"A Comprehensive Survey of Self-Evolving AI Agents"** [[paper](https://arxiv.org/abs/2508.07407)]
@@ -44,7 +89,7 @@ Updated biweekly.
 * **"MK2 at PBIG Competition: A Prompt Generation Solution"** [[paper](https://arxiv.org/abs/2507.08335)]
 
 
-# July Highlights (Updated 26 July)
+## July Highlights (Updated 26 July)
 ### Agent Blueprints
 * **"LLM Agents Are the Antidote to Walled Gardens"**, University of Oxford. [[paper](https://arxiv.org/abs/2506.23978)]
 * **"Exploring Advanced LLM Multi-Agent Systems Based on Blackboard Architecture"**, State Key Laboratory. [[paper](https://arxiv.org/abs/2507.01701)]
@@ -96,7 +141,7 @@ Updated biweekly.
 * **"MIRIX: Multi-Agent Memory System for LLM-Based Agents"**, MIRIX AI. [[paper](https://arxiv.org/abs/2507.07957)]
 
 
-# June Highlights (Updated 30 June)
+## June Highlights (Updated 30 June)
 ### Deep Research Agents 
 * ⚖️ **"DeepResearch Bench: A Comprehensive Benchmark for Deep Research Agents"** [[paper](https://arxiv.org/abs/2506.11763)]
 * 📖 **"From Web Search towards Agentic Deep Research: Incentivizing Search with Reasoning Agents"** [[paper](https://www.arxiv.org/abs/2506.18959)]
@@ -258,49 +303,3 @@ Updated biweekly.
 * 📖 **"Advances and Challenges in Foundation Agents: From Brain-Inspired Intelligence to Evolutionary, Collaborative, and Safe Systems"**[[paper](https://arxiv.org/abs/2504.01990)]
 * 📖 **"Adaptive Human-Agent Teaming: A Review of Empirical Studies from the Process Dynamics Perspective"** [[paper](https://arxiv.org/abs/2504.10918)]
 * 📖 **"A Survey of AI Agent Protocols"** [[paper](https://arxiv.org/abs/2504.16736)]
-
-
-## Paper Categories
-🔥: Recommended papers  
-📖: Survey papers  
-⚖️: Benchmark papers
-- **Agent Capabilities**
-  - [Ideation](capability-papers/ideation.md)
-  - [Planning](capability-papers/planning.md)
-  - [Reasoning](capability-papers/reasoning.md)
-  - [Profile](capability-papers/profile.md)
-  - [Perception](capability-papers/perception.md)
-  - [Tool Use](capability-papers/tool-use.md)
-  - [Self-Correction](capability-papers/self-correction.md)
-  - [Memory](capability-papers/memory.md)
-  - [Self-Evolution](capability-papers/self-evolution.md/#self-evolution-self-improvement)
-  - [Safety](capability-papers/safety.md)
-  - [Agent Tuning](capability-papers/learning.md)
-  - [Agent Evaluation](capability-papers/evaluation.md)
-- **GenAI Agents Architecture**
-  - [Single-Agent](agent-frameworks/agent-framework.md#single-agents)
-  - [Multi-Agent](agent-frameworks/agent-framework.md#multi-agents)
-  - [Agent-Ops](agent-frameworks/agent-framework.md#agent-ops--ux)
-- **GenAI Agents Applications**
-  - [Embodied Agents](application-papers/embodied-agents.md)
-  - [Digital Agents](application-papers/digital-agents.md)
-    - [GUI Agents](application-papers/digital-agents.md/#computer-controlled-app-based-agents)
-    - [Web Agents](application-papers/digital-agents.md/#web-based-agents)
-    - [Mobile Agents](application-papers/digital-agents.md/#mobile-based-agents)
-  - [Software Agents](application-papers/software-agents.md)
-  - [Data Agents](application-papers/data-agents.md)
-  - [Research Agents](application-papers/research-agents.md)
-  - [API Agents](application-papers/api-agents.md)
-  - [Deep Research Agents](application-papers/deep-research-agents.md)
-  - [Agentic AI Systems](application-papers/agentic-ai-system.md)
-  - [Multi-Agents](application-papers/multi-agent.md)
-    - [MAD](application-papers/multi-agent.md#mad)
-    - [Problem Solving](application-papers/multi-agent.md#problem-solving)
-    - [World Simulation](application-papers/multi-agent.md#world-simulation)
-- **GenAI Agents Presentations**
-  - [Tutorial & Lecture](lectures/tutorial-lecture.md)
-
-## References
-- [LLM Agents Papers](https://github.com/zjunlp/LLMAgentPapers)
-- [Awesome LLM-Powered Agent](https://github.com/hyp1231/awesome-llm-powered-agent/)
- - [Awesome LLM agents](https://github.com/kaushikb11/awesome-llm-agents)
