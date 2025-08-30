@@ -45,7 +45,7 @@
 * [Aug 2025] **"CoAct-1: Computer-using Agents with Coding as Actions"** [[paper](https://arxiv.org/abs/2508.03923)]
 * [Aug 2025] **"Web-CogReasoner: Towards Knowledge-Induced Cognitive Reasoning for Web Agents"** [[paper](https://www.arxiv.org/abs/2508.01858)]
 * ⚖️ [Aug 2025] **"You Don’t Know Until You Click: Automated GUI Testing for Production-Ready Software Evaluation"** [[paper](https://arxiv.org/abs/2508.14104)]
-
+* [Aug 2025] **"Phi-Ground Tech Report: Advancing Perception in GUI Grounding"** [[paper](https://arxiv.org/abs/2507.23779)]
 ### Web Agents
 * ⚖️ [Jul 2022] **"WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents"** [[paper](https://arxiv.org/abs/2207.01206)]
 * [Jun 2023] **"Mind2Web: Towards a Generalist Agent for the Web"** [[paper](https://arxiv.org/abs/2306.06070)]
@@ -83,6 +83,8 @@
 * [May 2025] **"WEB-SHEPHERD:Advancing PRMs for Reinforcing Web Agents"** [[paper](https://arxiv.org/abs/2505.15277)]
 * [Jun 2025] **"Build the web for agents, not agents for the web"** [[paper](https://arxiv.org/abs/2506.10953)]
 * [Jul 2025] **"WebSailor: Navigating Super-human Reasoning for Web Agent"** [[paper](https://arxiv.org/abs/2507.02592)]
+* 🔥 [Jul 2025] **"Agentic Web: Weaving the Next Web with AI Agents"** [[paper](https://arxiv.org/abs/2507.21206)]
+
 
 ### Mobile Agents
 * [Aug 2023] **"AutoDroid: LLM-powered Task Automation in Android"** [[paper](https://arxiv.org/abs/2308.15272)]

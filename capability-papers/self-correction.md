@@ -45,6 +45,8 @@ These papers discuss whether agents can autonomously recover from errors.
 * [May 2025] **"Reflect, Retry, Reward:Self-Improving LLMs via Reinforcement Learning"** [[paper](https://arxiv.org/abs/2505.24726)]
 * [Jun 2025] **"Incentivizing LLMs to Self-Verify Their Answers"** [[paper](https://arxiv.org/abs/2506.01369)]
 * [Jul 2025] **"Rubrics as Rewards: Reinforcement Learning Beyond Verifiable Domains"** [[paper](https://arxiv.org/abs/2507.17746)]
+* [Jul 2025] **"Multi-Agent-as-Judge: Aligning LLM-Agent-Based Automated Evaluation with Multi-Dimensional Human Evaluation"** [[paper](https://arxiv.org/abs/2507.21028)]
+* ⚖️ [Jul 2025] **"CLEAR: Error Analysis via LLM-as-a-Judge Made Easy"** [[paper](https://arxiv.org/abs/2507.18392)]
 * ⚖️ [Aug 2025] **"Auto-Eval Judge: Towards a General Agentic Framework for Task Completion Evaluation"** [[paper](https://www.arxiv.org/abs/2508.05508)]
 * ⚖️ [Aug 2025] **"CompassVerifier: A Unified and Robust Verifier for LLMs Evaluation and Outcome Reward"** [[paper](https://arxiv.org/abs/2508.03686)]
 * 📖 [Aug 2025] **"When AIs Judge AIs: The Rise of Agent-as-a-Judge Evaluation for LLMs"** [[paper](https://arxiv.org/abs/2508.02994)]

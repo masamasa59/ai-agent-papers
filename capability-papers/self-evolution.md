@@ -1,4 +1,3 @@
-
 ## Self-Evolution (Self-Improvement)
 * [May 2024] **Offline Training of Language Model Agents with Functions as Learnable Weights"** [[paper](https://arxiv.org/abs/2402.11359)]
 * 📖 [May 2024] **A Survey on Self-Evolution of Large Language Models"** [[paper](https://arxiv.org/abs/2404.14387)]
@@ -55,7 +54,8 @@
 * [Jun 2025] **"Evolving Prompts In-Context: An Open-ended, Self-replicating Perspective"** [[paper](https://arxiv.org/abs/2506.17930)]
 * [Jul 2025] **"EvoAgentX: An Automated Framework for Evolving Agentic Workflows"** [[paper](http://arxiv.org/abs/2507.03616)]
 * [Jul 2025] **"Foundation Model Self-Play: Open-Ended Strategy Innovation via Foundation Models"** [[paper](https://arxiv.org/abs/2507.06466)]
-* [Jul 2025] **"Enabling Self-Improving Agents to Learn at Test Time With Human-In-The-Loop Guidance"** [[paper](https://arxiv.org/abs/2507.17131)]
+* 📖 [Jul 2025] **"A Survey of Self-Evolving Agents: On Path to Artificial Super Intelligence"** [[paper](https://arxiv.org/abs/2507.21046)]
+* [Jul 2025] **"MindFlow+: A Self-Evolving Agent for E-Commerce Customer Service"** [[paper](https://arxiv.org/abs/2507.18884)]
 * 📖 [Aug 2025] **"A Comprehensive Survey of Self-Evolving AI Agents"** [[paper](https://arxiv.org/abs/2508.07407)]
 * [Aug 2025] **"SEAgent: Self-Evolving Computer Use Agent with Autonomous Learning from Experience"** [[paper](https://www.arxiv.org/abs/2508.04700)]
 * [Aug 2025] **"HealthFlow: A Self-Evolving AI Agent with Meta Planning for Autonomous Healthcare Research"** [[paper](https://arxiv.org/abs/2508.02621)]

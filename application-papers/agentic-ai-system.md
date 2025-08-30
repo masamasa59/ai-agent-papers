@@ -84,6 +84,8 @@ Agents in various tasks such as education, healthcare, and the press.
 * [Jul 2025] **"Compliance Brain Assistant: Conversational Agentic AI for Assisting Compliance Tasks in Enterprise Environments"** [[paper](https://arxiv.org/abs/2507.17289)]
 * [Jul 2025] **"Towards a rigorous evaluation of RAG systems: the challenge of due diligence"** [[paper](https://www.arxiv.org/abs/2507.21753)]
 * [Jul 2025] **"MK2 at PBIG Competition: A Prompt Generation Solution"** [[paper](https://arxiv.org/abs/2507.08335)]
+* [Jul 2025] **"Chatting with your ERP: A Recipe"** [[paper](https://arxiv.org/abs/2507.23429)]
+**"MindFlow+: A Self-Evolving Agent for E-Commerce Customer Service"** [[paper](https://arxiv.org/abs/2507.18884)]
 * [Aug 2025] **"Evaluating Large Language Models as Expert Annotators"** [[paper](https://arxiv.org/abs/2508.07827)]
 * ⚖️ [Aug 2025] **"ShoppingBench: A Real-World Intent-Grounded Shopping Benchmark for LLM-based Agents"** [[paper](https://www.arxiv.org/abs/2508.04266)]
 * [Aug 2025] **"WINELL: Wikipedia Never-Ending Updating with LLM Agents"** [[paper](https://arxiv.org/abs/2508.03728)]
