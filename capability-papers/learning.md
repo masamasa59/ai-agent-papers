@@ -52,3 +52,5 @@
 * [Aug 2025] **"Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent Distillation and Agentic RL"** [[paper](https://www.arxiv.org/abs/2508.13167)]
 * [Aug 2025] **"Learn to Memorize: Optimizing LLM-based Agents with Adaptive Memory Framework"** [[paper](https://arxiv.org/abs/2508.16629)]
 * [Jul 2025] **"Agentic Reinforced Policy Optimization"** [[paper](https://arxiv.org/abs/2507.19849)]
+* [Aug 2025] **"rStar2-Agent: Agentic Reasoning Technical Report"** [[paper](https://www.arxiv.org/abs/2508.20722)]
+* [Sep 2025] **"The Landscape of Agentic Reinforcement Learning for LLMs: A Survey"** [[paper](https://arxiv.org/abs/2509.02547)]

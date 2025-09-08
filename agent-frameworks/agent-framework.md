@@ -146,3 +146,5 @@
 * [Aug 2025] **"AgentScope 1.0: A Developer-Centric Framework for Building Agentic Applications"** [[paper](https://arxiv.org/abs/2508.16279)]
 * [Aug 2025] **"Rethinking Testing for LLM Applications: Characteristics, Challenges, and a Lightweight Interaction Protocol"** [[paper](https://arxiv.org/abs/2508.20737)]
 * [Aug 2025] **"Aegis: Taxonomy and Optimizations for Overcoming Agent-Environment Failures in LLM Agents"** [[paper](https://arxiv.org/abs/2508.19504)]
+* [Aug 2025] **"AI Compute Architecture and Evolution Trends"** [[paper](https://arxiv.org/abs/2508.21394)]
+* [Sep 2025] **"AgenTracer: Who Is Inducing Failure in the LLM Agentic Systems?"** [[paper](https://arxiv.org/abs/2509.03312)]

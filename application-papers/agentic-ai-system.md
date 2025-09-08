@@ -99,3 +99,6 @@ Agents in various tasks such as education, healthcare, and the press.
 * [Aug 2025] **"LLM-Based Agents for Competitive Landscape Mapping in Drug Asset Due Diligence"** [[paper](https://arxiv.org/abs/2508.16571)]
 * [Aug 2025] **"GLARE: Agentic Reasoning for Legal Judgment Prediction"** [[paper](https://arxiv.org/abs/2508.16383)]
 * [Aug 2025] **"The Anatomy of a Personal Health Agent"** [[paper](https://www.arxiv.org/abs/2508.20148)]
+* [Sep 2025] **"FaMA: LLM-Empowered Agentic Assistant for Consumer-to-Consumer Marketplace"** [[paper](https://arxiv.org/abs/2509.03890)]
+* [Sep 2025] **"Leveraging LLM-Based Agents for Intelligent Supply Chain Planning"** [[paper](https://arxiv.org/abs/2509.03890)]
+* [Sep 2025] **"NEWSAGENT: Benchmarking Multimodal Agents as Journalists with Real-World Newswriting Tasks"** [[paper](https://arxiv.org/abs/2509.00446)]

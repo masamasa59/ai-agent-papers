@@ -49,3 +49,5 @@
 * [Aug 2025] **"Exploring Autonomous Agents: A Closer Look at Why They Fail When Completing Tasks"** [[paper](https://arxiv.org/abs/2508.13143)]
 * ⚖️ [Aug 2025] **"FutureX: An Advanced Live Benchmark for LLM Agents in Future Prediction"** [[paper](https://arxiv.org/abs/2508.11987)]
 * ⚖️ [Aug 2025] **"UQ: Assessing Language Models on Unsolved Questions"** [[paper](https://arxiv.org/abs/2508.17580)]
+* [Aug 2025] **"How Can Input Reformulation Improve Tool Usage Accuracy in a Complex Dynamic Environment? A Study on τ-bench"** [[paper](https://arxiv.org/abs/2508.20931)]
+* [Sep 2025] **"JudgeAgent: Dynamically Evaluate LLMs with Agent-as-Interviewer"** [[paper](https://arxiv.org/abs/2509.02097)]

@@ -60,6 +60,21 @@ Updated biweekly.
 - [Awesome LLM-Powered Agent](https://github.com/hyp1231/awesome-llm-powered-agent/)
  - [Awesome LLM agents](https://github.com/kaushikb11/awesome-llm-agents)
 
+## September Highlights (Updated  Sep)
+### Ideation & Decision Meking
+* **"The Need for Verification in AI-Driven Scientific Discovery"** [[paper](https://arxiv.org/abs/2509.01398)]
+* **"What Would an LLM Do? Evaluating Policymaking Capabilities of Large Language Models"** [[paper](https://arxiv.org/abs/2509.03827v1)]
+* **"LLM-empowered Agents Simulation Framework for Scenario Generation in Service Ecosystem Governance Social World Models"** [[paper](https://arxiv.org/abs/2509.01441)]
+* **"Language Models Do Not Follow Occam’s Razor: A Benchmark for Inductive and Abductive Reasoning"** [[paper](https://arxiv.org/abs/2509.03345)]
+* **"LLM-empowered Agents Simulation Framework for Scenario Generation in Service Ecosystem Governance"** [[paper](https://arxiv.org/abs/2509.01441)]
+
+### Learning
+* **"rStar2-Agent: Agentic Reasoning Technical Report"** [[paper](https://www.arxiv.org/abs/2508.20722)]
+* **"The Landscape of Agentic Reinforcement Learning for LLMs: A Survey"** [[paper](https://arxiv.org/abs/2509.02547)]
+
+### Memory
+* **"ArcMemo: Abstract Reasoning Composition with Lifelong LLM Memory"** [[paper](https://arxiv.org/abs/2509.04439)]
+
 ## August Highlights (Updated 31 August)
 ### Self-Evolving Agents
 * **"Enabling Self-Improving Agents to Learn at Test Time With Human-In-The-Loop Guidance"** [[paper](https://arxiv.org/abs/2507.17131)]

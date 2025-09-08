@@ -53,3 +53,4 @@ These papers discuss the safety and risks of agents.
 * 📖 [Jul 2025] **"Frontier AI Risk Management Framework in Practice: A Risk Analysis Technical Report"** [[paper](https://arxiv.org/abs/2507.16534)]
 * [Aug 2025] **"Search-Time Data Contamination"** [[paper](https://www.arxiv.org/abs/2508.13180)]
 * [Aug 2025] **"Reliable Weak-to-Strong Monitoring of LLM Agents"** [[paper](https://arxiv.org/abs/2508.19461)]
+* [Sep 2025] **"Self-adaptive Dataset Construction for Real-World Multimodal Safety Scenarios"** [[paper](https://www.arxiv.org/abs/2509.04403)]

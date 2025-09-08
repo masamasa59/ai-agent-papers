@@ -18,7 +18,7 @@
 * [Mar 2025] **"Why Do Multi-Agent LLM Systems Fail?"** [[paper](https://arxiv.org/abs/2503.13657)]
 * 📖 [Mar 2025] **"A Comprehensive Survey on Multi-Agent Cooperative Decision-Making: Scenarios, Approaches, Challenges and Perspectives"** [[paper](https://arxiv.org/abs/2503.13415)]
 * 📖 [May 2025] **"Creativity in LLM-based Multi-Agent Systems: A Survey"** [[paper](https://www.arxiv.org/abs/2505.21116)]
-
+Contemporary Agent Technology: LLM-Driven Advancements vs Classic Multi-Agent Systems
 
 ### MAD（Multi-Agent Debate）
 * [May 2023] **"Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate"** [[paper](https://arxiv.org/abs/2305.19118)]
@@ -131,3 +131,5 @@
 * [Aug 2025] **"Noise, Adaptation, and Strategy: Assessing LLM Fidelity in Decision-Making"** [[paper](https://www.arxiv.org/abs/2508.15926)]
 * 📖 [Jul 2025] **"A survey of multi-agent geosimulation methodologies: from ABM to LLM"** [[paper](https://arxiv.org/abs/2507.23694)]
 * 📖 [Jul 2025] **"Integrating LLM in Agent-Based Social Simulation: Opportunities and Challenges"** [[paper](https://arxiv.org/abs/2507.19364)]
+* [Sep 2025] **"What Would an LLM Do? Evaluating Policymaking Capabilities of Large Language Models"** [[paper](https://arxiv.org/abs/2509.03827v1)]
+* [Sep 2025] **"LLM-empowered Agents Simulation Framework for Scenario Generation in Service Ecosystem Governance Social World Models"** [[paper](https://arxiv.org/abs/2509.01441)]

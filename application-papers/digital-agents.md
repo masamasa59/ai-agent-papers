@@ -46,6 +46,8 @@
 * [Aug 2025] **"Web-CogReasoner: Towards Knowledge-Induced Cognitive Reasoning for Web Agents"** [[paper](https://www.arxiv.org/abs/2508.01858)]
 * ⚖️ [Aug 2025] **"You Don’t Know Until You Click: Automated GUI Testing for Production-Ready Software Evaluation"** [[paper](https://arxiv.org/abs/2508.14104)]
 * [Aug 2025] **"Phi-Ground Tech Report: Advancing Perception in GUI Grounding"** [[paper](https://arxiv.org/abs/2507.23779)]
+* [Sep 2025] **"Are LLM Agents the New RPA? A Comparative Study with RPA Across Enterprise Workflows"** [[paper](https://arxiv.org/abs/2509.04198)]
+
 ### Web Agents
 * ⚖️ [Jul 2022] **"WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents"** [[paper](https://arxiv.org/abs/2207.01206)]
 * [Jun 2023] **"Mind2Web: Towards a Generalist Agent for the Web"** [[paper](https://arxiv.org/abs/2306.06070)]

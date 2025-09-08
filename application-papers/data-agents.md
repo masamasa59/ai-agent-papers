@@ -72,3 +72,4 @@
 * ⚖️ [Jul 2025]**"DSBC : Data Science task Benchmarking with Context engineering"** [[paper](https://arxiv.org/abs/2507.23336)]
 * [Jul 2025] **"I2I-STRADA -- Information to Insights via Structured Reasoning Agent for Data Analysis"** [[paper](https://arxiv.org/abs/2507.17874)]
 * 📖 [Aug 2025] **"Large Language Model-based Data Science Agent: A Survey"** [[paper](https://www.arxiv.org/abs/2508.02744)]
+* [Sep 2025] **"Multi-Agent Data Visualization and Narrative Generation"** [[paper](https://arxiv.org/abs/2509.00481)]

@@ -36,3 +36,5 @@ These papers discuss profiles that define the roles of agents, including role-pl
 * [Aug 2025] **"Noise, Adaptation, and Strategy: Assessing LLM Fidelity in Decision-Making"** [[paper](https://www.arxiv.org/abs/2508.15926)]
 * [Jul 2025] **"Persona Vectors: Monitoring and Controlling Character Traits in Language Models"** [[paper](https://arxiv.org/abs/2507.21509)]
 * [Jul 2025] **"Multi-Agent-as-Judge: Aligning LLM-Agent-Based Automated Evaluation with Multi-Dimensional Human Evaluation"** [[paper](https://arxiv.org/abs/2507.21028)]
+* [Sep 2025] **"Psychologically Enhanced AI Agents"** [[paper](https://arxiv.org/abs/2509.04343)]
+* [Sep 2025] **"Are LLM Agents Behaviorally Coherent? Latent Profiles for Social Simulation"** [[paper](https://arxiv.org/abs/2509.03736)]

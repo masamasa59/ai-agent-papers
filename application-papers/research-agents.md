@@ -73,3 +73,4 @@
 * [Aug 2025] **"Spacer: Towards Engineered Scientific Inspiration"** [[paper](https://arxiv.org/abs/2508.17661)]
 * [Aug 2025] **"PosterGen: Aesthetic-Aware Paper-to-Poster Generation via Multi-Agent LLMs"** [[paper](https://arxiv.org/abs/2508.17188)]
 * [Aug 2025] **"BIODISCO: Multi-agent hypothesis generation with dual-mode evidence, iterative feedback and temporal evaluation"** [[paper](https://www.arxiv.org/abs/2508.01285)]
+* [Sep 2025] **"The Need for Verification in AI-Driven Scientific Discovery"** [[paper](https://arxiv.org/abs/2509.01398)]
