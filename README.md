@@ -2,13 +2,8 @@
 Updated biweekly.
 
 ## AI Agent
-* AI agents are autonomous software entities that leverage intelligence technologies such as large language models and reinforcement learning to interact with their environment and pursue defined goals.
-
-* They acquire and generate information through external APIs, sensors, and code execution capabilities, enabling context-aware decision-making and action selection.
-
-* Through self-learning and feedback loops, they continuously improve their performance, minimizing human intervention while handling complex tasks.
-
-* By supporting multimodal inputs and coordinating with other agents, they realize diverse cognitive functions such as dialogue, reasoning, and strategic planning.
+AI agents can think, act, and complete tasks by themselves.  
+But can they really replace our jobs?
 
 <figure style="text-align: center;">
     <img alt="" src="./assets/ai-agent-workflow.png" width="500" />
