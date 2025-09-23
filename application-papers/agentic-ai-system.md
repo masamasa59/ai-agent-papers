@@ -102,3 +102,7 @@ Agents in various tasks such as education, healthcare, and the press.
 * [Sep 2025] **"FaMA: LLM-Empowered Agentic Assistant for Consumer-to-Consumer Marketplace"** [[paper](https://arxiv.org/abs/2509.03890)]
 * [Sep 2025] **"Leveraging LLM-Based Agents for Intelligent Supply Chain Planning"** [[paper](https://arxiv.org/abs/2509.03890)]
 * [Sep 2025] **"NEWSAGENT: Benchmarking Multimodal Agents as Journalists with Real-World Newswriting Tasks"** [[paper](https://arxiv.org/abs/2509.00446)]
+* [Sep 2025] **"Co-Investigator AI: The Rise of Agentic AI for Smarter, Trustworthy AML Compliance Narratives"** [[paper](https://arxiv.org/abs/2509.08380)]
+* 📖 [Sep 2025] **"A Systematic Survey on Large Language Models for Evolutionary Optimization: From Modeling to Solving"** [[paper](https://arxiv.org/abs/2509.08269)]
+* [Sep 2025] **"An Agentic Toolkit for Adaptive Information Extraction from Regulatory Documents"** [[paper](https://arxiv.org/abs/2509.11773)]
+* 📖 [Sep 2025] **"A Survey of Reasoning and Agentic Systems in Time Series with Large Language Models"** [[paper](https://arxiv.org/abs/2509.11575)]

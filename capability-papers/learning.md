@@ -54,3 +54,7 @@
 * [Jul 2025] **"Agentic Reinforced Policy Optimization"** [[paper](https://arxiv.org/abs/2507.19849)]
 * [Aug 2025] **"rStar2-Agent: Agentic Reasoning Technical Report"** [[paper](https://www.arxiv.org/abs/2508.20722)]
 * [Sep 2025] **"The Landscape of Agentic Reinforcement Learning for LLMs: A Survey"** [[paper](https://arxiv.org/abs/2509.02547)]
+* [Sep 2025] **"Bridging the Capability Gap: Harmonizing Multi-Agent Systems via Joint Alignment Tuning"** [[paper](https://arxiv.org/abs/2509.09629)]
+* [Sep 2025] **"AgentGym-RL:Training LLM Agents for Long-Horizon Decision Making through Multi-Turn Reinforcement Learning"** [[paper](https://arxiv.org/abs/2509.08755)]
+* [Sep 2025] **"Scaling Agents via Continual Pre-training"** [[paper](https://arxiv.org/abs/2509.13310)]
+* [Sep 2025] **"Harnessing Uncertainty: Entropy-Modulated Policy Gradients for Long-Horizon LLM Agents"** [[paper](https://arxiv.org/abs/2509.09265)]

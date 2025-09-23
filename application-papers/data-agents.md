@@ -73,3 +73,6 @@
 * [Jul 2025] **"I2I-STRADA -- Information to Insights via Structured Reasoning Agent for Data Analysis"** [[paper](https://arxiv.org/abs/2507.17874)]
 * 📖 [Aug 2025] **"Large Language Model-based Data Science Agent: A Survey"** [[paper](https://www.arxiv.org/abs/2508.02744)]
 * [Sep 2025] **"Multi-Agent Data Visualization and Narrative Generation"** [[paper](https://arxiv.org/abs/2509.00481)]
+* ⚖️ [Sep 2025] **"Towards Adaptive ML Benchmarks: Web-Agent-Driven Construction, Domain Expansion, and Metric Optimization"** [[paper](https://arxiv.org/abs/2509.09321)]
+* [Sep 2025] **"Agents of Discovery"** [[paper](https://arxiv.org/abs/2509.08535)]
+* [Sep 2025] **"Doc2Chart: Intent-Driven Zero-Shot Chart Generation from Documents"** [[paper](https://arxiv.org/abs/2507.14819)]

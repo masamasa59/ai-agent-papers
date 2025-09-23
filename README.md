@@ -60,22 +60,39 @@ Updated biweekly.
 - [Awesome LLM-Powered Agent](https://github.com/hyp1231/awesome-llm-powered-agent/)
  - [Awesome LLM agents](https://github.com/kaushikb11/awesome-llm-agents)
 
-## September Highlights (Updated  Sep)
+## September Highlights (Updated 24 Sep)
 ### Ideation & Decision Meking
 * **"The Need for Verification in AI-Driven Scientific Discovery"** [[paper](https://arxiv.org/abs/2509.01398)]
 * **"What Would an LLM Do? Evaluating Policymaking Capabilities of Large Language Models"** [[paper](https://arxiv.org/abs/2509.03827v1)]
 * **"LLM-empowered Agents Simulation Framework for Scenario Generation in Service Ecosystem Governance Social World Models"** [[paper](https://arxiv.org/abs/2509.01441)]
 * **"Language Models Do Not Follow Occam’s Razor: A Benchmark for Inductive and Abductive Reasoning"** [[paper](https://arxiv.org/abs/2509.03345)]
 * **"LLM-empowered Agents Simulation Framework for Scenario Generation in Service Ecosystem Governance"** [[paper](https://arxiv.org/abs/2509.01441)]
+* **"VulAgent: A Hypothesis Validation-Based Multi-Agent System for Software Vulnerability Detection"** [[paper](https://arxiv.org/abs/2509.11523)]
+* **"Tackling One Health Risks: How Large Language Models are leveraged for Risk Negotiation and Consensus-building"** [[paper](https://arxiv.org/abs/2509.09906)]
+* **"Agents of Discovery"** [[paper](https://arxiv.org/abs/2509.08535)]
+
+### Long-Horizon Task
+* **"ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization"** [[paper](https://arxiv.org/abs/2509.13313)]
+* **"Empowering LLMs with Parameterized Skills for Adversarial Long-Horizon Planning"** [[paper](https://arxiv.org/abs/2509.13127)]
+* **"The Illusion of Diminishing Returns: Measuring Long Horizon Execution in LLMs"** [[paper](https://arxiv.org/abs/2509.09677)]
+* **"WebExplorer: Explore and Evolve for Training Long-Horizon Web Agents"** [[paper](https://arxiv.org/abs/2509.06501)]
+
+### Long-Context Task
+* ⚖️ **"LoCoBench: A Benchmark for Long-Context Large Language Models in Complex Software Engineering"** [[[paper](https://arxiv.org/abs/2509.09614)]]
+* **"SWE-QA: Can Language Models Answer Repository-level Code Questions?"** [[paper](https://arxiv.org/abs/2509.14635)]
 
 ### Learning
 * **"rStar2-Agent: Agentic Reasoning Technical Report"** [[paper](https://www.arxiv.org/abs/2508.20722)]
 * **"The Landscape of Agentic Reinforcement Learning for LLMs: A Survey"** [[paper](https://arxiv.org/abs/2509.02547)]
-
-### Memory
+* **"Scaling Agents via Continual Pre-training"** [[paper](https://arxiv.org/abs/2509.13310)]
+* **"ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization"** [[paper](https://arxiv.org/abs/2509.13313)]
 * **"ArcMemo: Abstract Reasoning Composition with Lifelong LLM Memory"** [[paper](https://arxiv.org/abs/2509.04439)]
 
-## August Highlights (Updated 31 August)
+### Survey
+* 📖 **"LLM-based Agentic Reasoning Frameworks: A Survey from Methods to Scenarios"** [[paper](https://arxiv.org/abs/2508.17692)]
+* 📖 **"Reinforcement Learning Foundations for Deep Research Systems: A Survey"** [[paper](https://arxiv.org/abs/2509.06733)]
+
+## August Highlights
 ### Self-Evolving Agents
 * **"Enabling Self-Improving Agents to Learn at Test Time With Human-In-The-Loop Guidance"** [[paper](https://arxiv.org/abs/2507.17131)]
 * 📖 **"A Comprehensive Survey of Self-Evolving AI Agents"** [[paper](https://arxiv.org/abs/2508.07407)]
@@ -104,7 +121,7 @@ Updated biweekly.
 * **"MK2 at PBIG Competition: A Prompt Generation Solution"** [[paper](https://arxiv.org/abs/2507.08335)]
 
 
-## July Highlights (Updated 26 July)
+## July Highlights
 ### Agent Blueprints
 * **"LLM Agents Are the Antidote to Walled Gardens"**, University of Oxford. [[paper](https://arxiv.org/abs/2506.23978)]
 * **"Exploring Advanced LLM Multi-Agent Systems Based on Blackboard Architecture"**, State Key Laboratory. [[paper](https://arxiv.org/abs/2507.01701)]
@@ -156,7 +173,7 @@ Updated biweekly.
 * **"MIRIX: Multi-Agent Memory System for LLM-Based Agents"**, MIRIX AI. [[paper](https://arxiv.org/abs/2507.07957)]
 
 
-## June Highlights (Updated 30 June)
+## June Highlights
 ### Deep Research Agents 
 * ⚖️ **"DeepResearch Bench: A Comprehensive Benchmark for Deep Research Agents"** [[paper](https://arxiv.org/abs/2506.11763)]
 * 📖 **"From Web Search towards Agentic Deep Research: Incentivizing Search with Reasoning Agents"** [[paper](https://www.arxiv.org/abs/2506.18959)]
@@ -189,7 +206,7 @@ Updated biweekly.
 * **"AgenticControl: An Automated Control Design Framework Using Large Language Models"** [[paper](https://www.arxiv.org/abs/2506.19160)]
 * 📖 **"A Survey of AI for Materials Science: Foundation Models, LLM Agents, Datasets, and Tools"** [[paper](https://arxiv.org/abs/2506.20743)]
 
-## May Highlights (Updated 31 May)
+## May Highlights
 ### Inference Time Computing 
 * 📖 **"A Survey of Slow Thinking-based Reasoning LLMs using Reinforced Learning and Inference-time Scaling Law"** [[paper](https://www.arxiv.org/abs/2505.02665)]
 * 📖 **"Perception, Reason, Think, and Plan: A Survey on Large Multimodal Reasoning Models"** [[paper](https://arxiv.org/abs/2505.04921v1)]

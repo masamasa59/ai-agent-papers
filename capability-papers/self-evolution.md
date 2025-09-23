@@ -62,3 +62,4 @@
 * [Aug 2025] **"SE-Agent: Self-Evolution Trajectory Optimization in Multi-Step Reasoning with LLM-Based Agents"** [[paper](https://arxiv.org/abs/2508.02085)]
 * [Aug 2025] **"HERAKLES: Hierarchical Skill Compilation for Open-ended LLM Agents"** [[paper](https://arxiv.org/abs/2508.14751v1)]
 * ⚖️ [Aug 2025] **"Building Self-Evolving Agents via Experience-Driven Lifelong Learning: A Framework and Benchmark"** [[paper](https://arxiv.org/abs/2508.19005)]
+* 📖 [Sep 2025] **"A Systematic Survey on Large Language Models for Evolutionary Optimization: From Modeling to Solving"** [[paper](https://arxiv.org/abs/2509.08269)]

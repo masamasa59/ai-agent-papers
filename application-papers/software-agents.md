@@ -52,3 +52,8 @@
 * [Aug 2025] **"Tool-integrated Reinforcement Learning for Repo Deep Search"** [[paper](https://www.arxiv.org/abs/2508.03012)]
 * 📖 [Aug 2025] **"A Survey on Code Generation with LLM-based Agents"** [[paper](https://arxiv.org/html/2508.00083v1)]
 * [Aug 2025] **"Rethinking Autonomy: Preventing Failures in AI-Driven Software Engineering"** [[paper](https://arxiv.org/abs/2508.11824)]
+* ⚖️ [Sep 2025] **"LoCoBench: A Benchmark for Long-Context Large Language Models in Complex Software Engineering"** [[[paper](https://arxiv.org/abs/2509.09614)]]
+* [Sep 2025] **"On the Use of Agentic Coding: An Empirical Study of Pull Requests on GitHub"** [[paper](https://arxiv.org/abs/2509.14745)]
+* [Sep 2025] **"SWE-QA: Can Language Models Answer Repository-level Code Questions?"** [[paper](https://arxiv.org/abs/2509.14635)]
+* [Sep 2025] **"VulAgent: A Hypothesis Validation-Based Multi-Agent System for Software Vulnerability Detection"** [[paper](https://arxiv.org/abs/2509.11523)]
+* [Sep 2025] **"Agentic Software Engineering: Foundational Pillars and a Research Roadmap"** [[paper](https://arxiv.org/abs/2509.06216)]

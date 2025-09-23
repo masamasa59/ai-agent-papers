@@ -58,3 +58,7 @@
 * ⚖️ [Aug 2025] **"ReportBench: Evaluating Deep Research Agents via Academic Survey Tasks"** [[paper](https://www.arxiv.org/abs/2508.15804)]
 * [Sep 2025] **"Open Data Synthesis for Deep Research"** [[paper](https://arxiv.org/abs/2509.00375)]
 * [Sep 2025] **"Universal Deep Research: Bring Your Own Model and Strategy"** [[paper](https://arxiv.org/abs/2509.00244)]
+* 📖 [Sep 2025] **"Reinforcement Learning Foundations for Deep Research Systems: A Survey"** [[paper](https://arxiv.org/abs/2509.06733)]
+* [Sep 2025] **"SFR-DeepResearch: Towards Effective Reinforcement Learning for Autonomously Reasoning Single Agents"** [[paper](https://arxiv.org/abs/2509.06283)]
+* [Sep 2025] **"DeepTRACE: Auditing Deep Research AI Systems for Tracking Reliability Across Citations and Evidence"** [[paper](https://arxiv.org/abs/2509.04499)]
+* [Sep 2025] **"MedResearcher-R1: Expert-Level Medical Deep Researcher via A Knowledge-Informed Trajectory Synthesis Framework"** [[paper](https://arxiv.org/abs/2508.14880)]

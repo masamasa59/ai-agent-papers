@@ -60,3 +60,4 @@
 * [Aug 2025] **"MolmoAct: Action Reasoning Models that can Reason in Space"** [[paper](https://arxiv.org/abs/2508.07917)]
 * [Aug 2025] **"Toward Versatile Embodied Agents"** [[paper](https://arxiv.org/abs/2508.07033)]
 * [Aug 2025] **"Sotopia-RL: Reward Design for Social Intelligence"** [[paper](https://www.arxiv.org/abs/2508.03905)]
+* [Sep 2025] **"F1: A Vision-Language-Action Model Bridging Understanding and Generation to Actions"** [[paper](https://arxiv.org/abs/2509.06951)]

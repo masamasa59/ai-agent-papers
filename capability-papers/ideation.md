@@ -1,3 +1,5 @@
 * [Aug 2025] **"Can LLMs Identify Tax Abuse?"** [[paper](https://www.arxiv.org/abs/2508.20097)]
 * [Sep 2025] **"Language Models Do Not Follow Occam’s Razor: A Benchmark for Inductive and Abductive Reasoning"** [[paper](https://arxiv.org/abs/2509.03345)]
 * [Sep 2025] **"LLM-empowered Agents Simulation Framework for Scenario Generation in Service Ecosystem Governance"** [[paper](https://arxiv.org/abs/2509.01441)]
+* [Sep 2025] **"VulAgent: A Hypothesis Validation-Based Multi-Agent System for Software Vulnerability Detection"** [[paper](https://arxiv.org/abs/2509.11523)]
+* [Sep 2025] **"Tackling One Health Risks: How Large Language Models are leveraged for Risk Negotiation and Consensus-building"** [[paper](https://arxiv.org/abs/2509.09906)]

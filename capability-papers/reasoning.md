@@ -75,3 +75,6 @@
 * [Aug 2025] **"Self-Questioning Language Models"** [[paper](https://arxiv.org/abs//2508.03682)]
 * [Aug 2025] **"Refine-n-Judge: Curating High-Quality Preference Chains for LLM-Fine-Tuning"** [[paper](https://www.arxiv.org/abs/2508.01543)]
 * 📖 [Aug 2025] **"LLM-based Agentic Reasoning Frameworks: A Survey from Methods to Scenarios"** [[paper](https://arxiv.org/abs/2508.17692)]
+* [Sep 2025] **"The Illusion of Diminishing Returns: Measuring Long Horizon Execution in LLMs"** [[paper](https://arxiv.org/abs/2509.09677)]
+* [Sep 2025] **"The Majority is not always right: RL training for solution aggregation"** [[paper](https://arxiv.org/abs/2509.06870)]
+* [Sep 2025] **"Test-Time Scaling in Reasoning Models Is Not Effective for Knowledge-Intensive Tasks Yet"** [[paper](https://arxiv.org/abs/2509.06861)]

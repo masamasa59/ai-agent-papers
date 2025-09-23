@@ -49,3 +49,4 @@ These papers discuss an agent’s memory function and its self-evolution.
 * [Aug 2025] **"Memento: Fine-tuning LLM Agents without Fine-tuning LLMs"** [[paper](https://www.arxiv.org/abs/2508.16153)]
 * [Aug 2025] **"Memory-R1: Enhancing Large Language Model Agents to Manage and Utilize Memories via Reinforcement Learning"** [[paper](https://arxiv.org/abs/2508.19828)]
 * [Sep 2025] **"ArcMemo: Abstract Reasoning Composition with Lifelong LLM Memory"** [[paper](https://arxiv.org/abs/2509.04439)]
+* [Sep 2025] **"ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization"** [[paper](https://arxiv.org/abs/2509.13313)]

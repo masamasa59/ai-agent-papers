@@ -51,3 +51,5 @@
 * ⚖️ [Aug 2025] **"UQ: Assessing Language Models on Unsolved Questions"** [[paper](https://arxiv.org/abs/2508.17580)]
 * [Aug 2025] **"How Can Input Reformulation Improve Tool Usage Accuracy in a Complex Dynamic Environment? A Study on τ-bench"** [[paper](https://arxiv.org/abs/2508.20931)]
 * [Sep 2025] **"JudgeAgent: Dynamically Evaluate LLMs with Agent-as-Interviewer"** [[paper](https://arxiv.org/abs/2509.02097)]
+* ⚖️ [Sep 2025] **"HumanAgencyBench: Scalable Evaluation of Human Agency Support in AI Assistants"** [[paper](https://arxiv.org/abs/2509.08494)]
+* ⚖️ [Sep 2025] **"Rationality Check! Benchmarking the Rationality of Large Language Models"** [[paper](https://arxiv.org/abs/2509.14546)]

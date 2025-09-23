@@ -76,3 +76,5 @@ These papers discuss whether or not agents can properly use tools
 * [Aug 2025] **"Understanding Tool-Integrated Reasoning"** [[paper](https://arxiv.org/abs/2508.19201)]
 * ⚖️ [Aug 2025] **"MCP-Bench: Benchmarking Tool-Using LLM Agents with Complex Real-World Tasks via MCP Servers"** [[paper](https://www.arxiv.org/abs/2508.20453)]
 * [Aug 2025] **"How Can Input Reformulation Improve Tool Usage Accuracy in a Complex Dynamic Environment? A Study on τ-bench"** [[paper](https://arxiv.org/abs/2508.20931)]
+* [Sep 2025] **"Empowering LLMs with Parameterized Skills for Adversarial Long-Horizon Planning"** [[paper](https://arxiv.org/abs/2509.13127)]
+* [Sep 2025] **"MCP-AgentBench: Evaluating Real-World Language Agent Performance with MCP-Mediated Tools"** [[paper](https://arxiv.org/abs/2509.09734)]

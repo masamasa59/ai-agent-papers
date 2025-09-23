@@ -43,3 +43,4 @@ These papers discuss agent planning.
 * [Feb 2025] **"Conversational Planning for Personal Plans"** [[paper](https://arxiv.org/abs/2502.19500)]
 * 📖 [May 2025] **"Large Language Models for Planning: A Comprehensive and Systematic Survey"** [[paper](https://arxiv.org/abs/2505.19683)]
 * [Jul 2025] **"From Reasoning to Super-Intelligence: A Search-Theoretic Perspective"** [[paper](https://arxiv.org/abs/2507.15865)]
+* [Sep 2025] **"Empowering LLMs with Parameterized Skills for Adversarial Long-Horizon Planning"** [[paper](https://arxiv.org/abs/2509.13127)]

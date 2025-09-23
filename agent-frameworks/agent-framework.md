@@ -113,7 +113,7 @@
 * [Aug 2025] **"Analyzing Information Sharing and Coordination in Multi-Agent Planning"** [[paper](https://arxiv.org/abs/2508.12981)]
 
 
-## Agent Ops & UX
+## Agent Ops & UX & Business
 * [Feb 2024] **"Towards better Human-Agent Alignment: Assessing Task Utility in LLM-Powered Applications"** [[paper](https://arxiv.org/abs/2402.09015)]
 * [Apr 2024] **Deconstructing Human-AI Collaboration: Agency, Interaction, and Adaptation"** [[paper](https://arxiv.org/abs/2404.12056)]
 * [May 2024] **Human-Centered LLM-Agent User Interface: A Position Paper"** [[paper](https://arxiv.org/abs/2405.13050)]
@@ -148,3 +148,8 @@
 * [Aug 2025] **"Aegis: Taxonomy and Optimizations for Overcoming Agent-Environment Failures in LLM Agents"** [[paper](https://arxiv.org/abs/2508.19504)]
 * [Aug 2025] **"AI Compute Architecture and Evolution Trends"** [[paper](https://arxiv.org/abs/2508.21394)]
 * [Sep 2025] **"AgenTracer: Who Is Inducing Failure in the LLM Agentic Systems?"** [[paper](https://arxiv.org/abs/2509.03312)]
+* [Sep 2025] **"Triadic Fusion of Cognitive, Functional, and Causal Dimensions for Explainable LLMs: The TAXAL Framework"** [[paper](https://www.arxiv.org/abs/2509.05199)]
+* [Sep 2025] **"TalkToAgent: A Human-centric Explanation of Reinforcement Learning Agents with Large Language Models"** [[paper](https://arxiv.org/abs/2509.04809)]
+* [Sep 2025] **"AgentCompass: Towards Reliable Evaluation of Agentic Workflows in Production"** [[paper](https://arxiv.org/abs/2509.14647)]
+* [Sep 2025] **"Virtual Agent Economies"** [[paper](https://arxiv.org/abs/2509.10147)]
+* [Sep 2025] **"From Digital Distrust to Codified Honesty: Experimental Evidence on Generative AI in Credence Goods Markets"** [[paper](https://arxiv.org/abs/2509.06069)]
