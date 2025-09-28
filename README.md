@@ -55,7 +55,7 @@ But can they really replace our jobs?
 - [Awesome LLM-Powered Agent](https://github.com/hyp1231/awesome-llm-powered-agent/)
  - [Awesome LLM agents](https://github.com/kaushikb11/awesome-llm-agents)
 
-## September Highlights (Updated 24 Sep)
+## September Highlights (Updated 28 Sep)
 ### Ideation Task
 * **"The Need for Verification in AI-Driven Scientific Discovery"** [[paper](https://arxiv.org/abs/2509.01398)]
 * **"What Would an LLM Do? Evaluating Policymaking Capabilities of Large Language Models"** [[paper](https://arxiv.org/abs/2509.03827v1)]
