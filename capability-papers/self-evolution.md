@@ -63,3 +63,8 @@
 * [Aug 2025] **"HERAKLES: Hierarchical Skill Compilation for Open-ended LLM Agents"** [[paper](https://arxiv.org/abs/2508.14751v1)]
 * ⚖️ [Aug 2025] **"Building Self-Evolving Agents via Experience-Driven Lifelong Learning: A Framework and Benchmark"** [[paper](https://arxiv.org/abs/2508.19005)]
 * 📖 [Sep 2025] **"A Systematic Survey on Large Language Models for Evolutionary Optimization: From Modeling to Solving"** [[paper](https://arxiv.org/abs/2509.08269)]
+* [Sep 2025] **"ShinkaEvolve: Towards Open-Ended And Sample-Efficient Program Evolution"** [[paper](https://arxiv.org/abs/2509.19349)]
+* [Sep 2025] **"Towards General Agentic Intelligence via Environment Scaling"** [[paper](https://arxiv.org/abs/2509.13311)]
+* [Sep 2025] **"Agent²: An Agent-Generates-Agent Framework for Reinforcement Learning Automation"** [[paper](https://arxiv.org/abs/2509.13368)]
+* [Sep 2025] **"Self-Improving Embodied Foundation Models"** [[paper](https://arxiv.org/abs/2509.15155)]
+* [Sep 2025] **"Recon-Act: A Self-Evolving Multi-Agent Browser-Use System via Web Reconnaissance, Tool Generation, and Task Execution"** [[paper](https://arxiv.org/abs/2509.21072)]

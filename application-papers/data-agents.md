@@ -76,3 +76,4 @@
 * ⚖️ [Sep 2025] **"Towards Adaptive ML Benchmarks: Web-Agent-Driven Construction, Domain Expansion, and Metric Optimization"** [[paper](https://arxiv.org/abs/2509.09321)]
 * [Sep 2025] **"Agents of Discovery"** [[paper](https://arxiv.org/abs/2509.08535)]
 * [Sep 2025] **"Doc2Chart: Intent-Driven Zero-Shot Chart Generation from Documents"** [[paper](https://arxiv.org/abs/2507.14819)]
+* [Sep 2025] **"Autonomous Data Agents: A New Opportunity for Smart Data"** [[paper](https://arxiv.org/abs/2509.18710)]

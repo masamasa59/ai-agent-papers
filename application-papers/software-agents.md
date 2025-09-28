@@ -57,3 +57,4 @@
 * [Sep 2025] **"SWE-QA: Can Language Models Answer Repository-level Code Questions?"** [[paper](https://arxiv.org/abs/2509.14635)]
 * [Sep 2025] **"VulAgent: A Hypothesis Validation-Based Multi-Agent System for Software Vulnerability Detection"** [[paper](https://arxiv.org/abs/2509.11523)]
 * [Sep 2025] **"Agentic Software Engineering: Foundational Pillars and a Research Roadmap"** [[paper](https://arxiv.org/abs/2509.06216)]
+* ⚖️ [Sep 2025] **"SWE-Bench Pro: Can AI Agents Solve Long-Horizon Software Engineering Tasks?"** [[paper](https://arxiv.org/abs/2509.16941)]

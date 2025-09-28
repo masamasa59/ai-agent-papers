@@ -85,6 +85,8 @@
 * [Aug 2025] **"Sculptor: Empowering LLMs with Cognitive Agency via Active Context Management"** [[paper](https://arxiv.org/abs/2508.04664)]
 * [Aug 2025] **"Agent Lightning: Train ANY AI Agents with Reinforcement Learning"** [[paper](https://arxiv.org/abs/2508.03680)]
 * 📖 [Aug 2025] **"LLM-based Agentic Reasoning Frameworks: A Survey from Methods to Scenarios"** [[paper](https://arxiv.org/abs/2508.17692)]
+* 📖 [Sep 2025] **"Generalizability of Large Language Model-Based Agents: A Comprehensive Survey"** [[paper](https://arxiv.org/abs/2509.16330)]
+* [Sep 2025] **"What Do LLM Agents Do When Left Alone? Evidence of Spontaneous Meta-Cognitive Patterns"** [[paper](https://arxiv.org/abs/2509.21224)]
 
 ## Multi-Agent
 * [Mar 2023] **"CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society"** [[paper](https://arxiv.org/abs/2303.17760)]
@@ -111,7 +113,10 @@
 * [Jul 2025] **"Synergizing Logical Reasoning, Knowledge Management and Collaboration in Multi-Agent LLM System"** [[paper](https://arxiv.org/abs/2507.02170)]
 * [Jul 2025] **"MetaAgent: Automatically Constructing Multi-Agent Systems Based on Finite State Machines"** [[paper](https://arxiv.org/abs/2507.22606)]
 * [Aug 2025] **"Analyzing Information Sharing and Coordination in Multi-Agent Planning"** [[paper](https://arxiv.org/abs/2508.12981)]
-
+* [Sep 2025] **"Difficulty-Aware Agent Orchestration in LLM-Powered Workflows"** [[paper](https://arxiv.org/abs/2509.11079)]
+* [Sep 2025] **"Agentic Lybic: Multi-Agent Execution System with Tiered Reasoning and Orchestration"** [[paper](https://arxiv.org/abs/2509.11067)]
+* [Sep 2025] **"Federation of Agents: A Semantics-Aware Communication Fabric for Large-Scale Agentic AI"** [[paper](https://arxiv.org/abs/2509.20175)]
+* [Sep 2025] **"Orchestrator: Active Inference for Multi-Agent Systems in Long-Horizon Tasks"** [[paper](https://arxiv.org/abs/2509.05651)]
 
 ## Agent Ops & UX & Business
 * [Feb 2024] **"Towards better Human-Agent Alignment: Assessing Task Utility in LLM-Powered Applications"** [[paper](https://arxiv.org/abs/2402.09015)]
@@ -153,3 +158,4 @@
 * [Sep 2025] **"AgentCompass: Towards Reliable Evaluation of Agentic Workflows in Production"** [[paper](https://arxiv.org/abs/2509.14647)]
 * [Sep 2025] **"Virtual Agent Economies"** [[paper](https://arxiv.org/abs/2509.10147)]
 * [Sep 2025] **"From Digital Distrust to Codified Honesty: Experimental Evidence on Generative AI in Credence Goods Markets"** [[paper](https://arxiv.org/abs/2509.06069)]
+* [Sep 2025] **"Perspectra: Choosing Your Experts Enhances Critical Thinking in Multi-Agent Research Ideation"** [[paper](https://arxiv.org/abs/2509.20553)]

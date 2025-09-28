@@ -89,6 +89,9 @@
 * [Jul 2025] **"WebSailor: Navigating Super-human Reasoning for Web Agent"** [[paper](https://arxiv.org/abs/2507.02592)]
 * 🔥 [Jul 2025] **"Agentic Web: Weaving the Next Web with AI Agents"** [[paper](https://arxiv.org/abs/2507.21206)]
 * [Sep 2025] **"WebExplorer: Explore and Evolve for Training Long-Horizon Web Agents"** [[paper](https://arxiv.org/abs/2509.06501)]
+* [Sep 2025] **"Recon-Act: A Self-Evolving Multi-Agent Browser-Use System via Web Reconnaissance, Tool Generation, and Task Execution"** [[paper](https://arxiv.org/abs/2509.21072)]
+
+
 
 ### Mobile Agents
 * [Aug 2023] **"AutoDroid: LLM-powered Task Automation in Android"** [[paper](https://arxiv.org/abs/2308.15272)]

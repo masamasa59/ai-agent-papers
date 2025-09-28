@@ -52,3 +52,4 @@ These papers discuss whether agents can autonomously recover from errors.
 * 📖 [Aug 2025] **"When AIs Judge AIs: The Rise of Agent-as-a-Judge Evaluation for LLMs"** [[paper](https://arxiv.org/abs/2508.02994)]
 * [Aug 2025] **"Refine-n-Judge: Curating High-Quality Preference Chains for LLM-Fine-Tuning"** [[paper](https://www.arxiv.org/abs/2508.01543)]
 * [Sep 2025] **"Loong: Synthesize Long Chain-of-Thoughts at Scale through Verifiers"** [[paper](https://www.arxiv.org/abs/2509.03059)]
+* [Sep 2025] **"SAMULE: Self-Learning Agents Enhanced by Multi-level Reflection"** [[paper](https://arxiv.org/abs/2509.20562)]

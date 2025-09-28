@@ -54,3 +54,4 @@ These papers discuss the safety and risks of agents.
 * [Aug 2025] **"Search-Time Data Contamination"** [[paper](https://www.arxiv.org/abs/2508.13180)]
 * [Aug 2025] **"Reliable Weak-to-Strong Monitoring of LLM Agents"** [[paper](https://arxiv.org/abs/2508.19461)]
 * [Sep 2025] **"Self-adaptive Dataset Construction for Real-World Multimodal Safety Scenarios"** [[paper](https://www.arxiv.org/abs/2509.04403)]
+* 📖 [Sep 2025] **"LLM-based Agents Suffer from Hallucinations: A Survey of Taxonomy, Methods, and Directions"** [[paper](https://arxiv.org/abs/2509.18970)]

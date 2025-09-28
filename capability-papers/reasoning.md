@@ -78,3 +78,4 @@
 * [Sep 2025] **"The Illusion of Diminishing Returns: Measuring Long Horizon Execution in LLMs"** [[paper](https://arxiv.org/abs/2509.09677)]
 * [Sep 2025] **"The Majority is not always right: RL training for solution aggregation"** [[paper](https://arxiv.org/abs/2509.06870)]
 * [Sep 2025] **"Test-Time Scaling in Reasoning Models Is Not Effective for Knowledge-Intensive Tasks Yet"** [[paper](https://arxiv.org/abs/2509.06861)]
+* [Sep 2025] **"Understanding the Thinking Process of Reasoning Models: A Perspective　from Schoenfeld’s Episode Theory"** [[paper](https://arxiv.org/abs/2509.14662)]

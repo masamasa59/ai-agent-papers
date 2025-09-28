@@ -56,7 +56,7 @@ But can they really replace our jobs?
  - [Awesome LLM agents](https://github.com/kaushikb11/awesome-llm-agents)
 
 ## September Highlights (Updated 24 Sep)
-### Ideation & Decision Meking
+### Ideation Task
 * **"The Need for Verification in AI-Driven Scientific Discovery"** [[paper](https://arxiv.org/abs/2509.01398)]
 * **"What Would an LLM Do? Evaluating Policymaking Capabilities of Large Language Models"** [[paper](https://arxiv.org/abs/2509.03827v1)]
 * **"LLM-empowered Agents Simulation Framework for Scenario Generation in Service Ecosystem Governance Social World Models"** [[paper](https://arxiv.org/abs/2509.01441)]
@@ -71,21 +71,36 @@ But can they really replace our jobs?
 * **"Empowering LLMs with Parameterized Skills for Adversarial Long-Horizon Planning"** [[paper](https://arxiv.org/abs/2509.13127)]
 * **"The Illusion of Diminishing Returns: Measuring Long Horizon Execution in LLMs"** [[paper](https://arxiv.org/abs/2509.09677)]
 * **"WebExplorer: Explore and Evolve for Training Long-Horizon Web Agents"** [[paper](https://arxiv.org/abs/2509.06501)]
+* ⚖️ **"SWE-Bench Pro: Can AI Agents Solve Long-Horizon Software Engineering Tasks?"** [[paper](https://arxiv.org/abs/2509.16941)]
+* **"Orchestrator: Active Inference for Multi-Agent Systems in Long-Horizon Tasks"** [[paper](https://arxiv.org/abs/2509.05651)]
 
 ### Long-Context Task
 * ⚖️ **"LoCoBench: A Benchmark for Long-Context Large Language Models in Complex Software Engineering"** [[[paper](https://arxiv.org/abs/2509.09614)]]
 * **"SWE-QA: Can Language Models Answer Repository-level Code Questions?"** [[paper](https://arxiv.org/abs/2509.14635)]
+* **"ArcMemo: Abstract Reasoning Composition with Lifelong LLM Memory"** [[paper](https://arxiv.org/abs/2509.04439)]
+* **"ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization"** [[paper](https://arxiv.org/abs/2509.13313)]
 
-### Learning
+### Agent Tuning
 * **"rStar2-Agent: Agentic Reasoning Technical Report"** [[paper](https://www.arxiv.org/abs/2508.20722)]
 * **"The Landscape of Agentic Reinforcement Learning for LLMs: A Survey"** [[paper](https://arxiv.org/abs/2509.02547)]
 * **"Scaling Agents via Continual Pre-training"** [[paper](https://arxiv.org/abs/2509.13310)]
-* **"ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization"** [[paper](https://arxiv.org/abs/2509.13313)]
-* **"ArcMemo: Abstract Reasoning Composition with Lifelong LLM Memory"** [[paper](https://arxiv.org/abs/2509.04439)]
+* **"Online Process Reward Learning for Agentic Reinforcement Learning"** [[paper](https://arxiv.org/abs/2509.19199)]
+* **"Tree Search for LLM Agent Reinforcement Learning"** [[paper](https://arxiv.org/abs/2509.21240)]
+* **"LIMI: Less is More for Agency"** [[paper](https://arxiv.org/abs/2509.17567)]
+
+### Self-Evolving Agents
+* **"ShinkaEvolve: Towards Open-Ended And Sample-Efficient Program Evolution"** [[paper](https://arxiv.org/abs/2509.19349)]
+* **"Towards General Agentic Intelligence via Environment Scaling"** [[paper](https://arxiv.org/abs/2509.13311)]
+* **"Agent²: An Agent-Generates-Agent Framework for Reinforcement Learning Automation"** [[paper](https://arxiv.org/abs/2509.13368)]
+* **"Self-Improving Embodied Foundation Models"** [[paper](https://arxiv.org/abs/2509.15155)]
+* **"Recon-Act: A Self-Evolving Multi-Agent Browser-Use System via Web Reconnaissance, Tool Generation, and Task Execution"** [[paper](https://arxiv.org/abs/2509.21072)]
+
 
 ### Survey
 * 📖 **"LLM-based Agentic Reasoning Frameworks: A Survey from Methods to Scenarios"** [[paper](https://arxiv.org/abs/2508.17692)]
 * 📖 **"Reinforcement Learning Foundations for Deep Research Systems: A Survey"** [[paper](https://arxiv.org/abs/2509.06733)]
+* 📖 **"LLM-based Agents Suffer from Hallucinations: A Survey of Taxonomy, Methods, and Directions"** [[paper](https://arxiv.org/abs/2509.18970)]
+* 📖 **"LLMs4All: A Review on Large Language Models for Research and Applications in Academic Disciplines"** [[paper](https://arxiv.org/abs/2509.19580)]
 
 ## August Highlights
 ### Self-Evolving Agents

@@ -89,8 +89,8 @@ Contemporary Agent Technology: LLM-Driven Advancements vs Classic Multi-Agent Sy
 * [Jul 2025] **"Enhancing COBOL Code Explanations: A Multi-Agents Approach Using Large Language Models"** [[paper](https://arxiv.org/abs/2507.02182)]
 * [Jul 2025] **"MASCA: LLM based-Multi Agents System for Credit Assessment"** [[paper](https://arxiv.org/abs/2507.22758)]
 * [Jul 2025] **"Towards Cognitive Synergy in LLM-Based Multi-Agent Systems: Integrating Theory of Mind and Critical Evaluation"** [[paper](https://arxiv.org/abs/2507.21969)]
-* [Sep 2025] **"Orchestrator: Active Inference for Multi-Agent Systems in Long-Horizon Tasks"** [[paper](https://arxiv.org/abs/2509.05651)]
 * [Sep 2025] **"CrowdAgent: Multi-Agent Managed Multi-Source Annotation System"** [[paper](https://arxiv.org/abs/2509.14030)]
+
 
 ### World Simulation
 * [Apr 2023] **"Generative agents: Interactive simulacra of human behavior"** [[paper](https://arxiv.org/abs/2304.03442)]

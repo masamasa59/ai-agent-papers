@@ -77,3 +77,4 @@
 * [Sep 2025] **"Paper2Agent: Reimagining Research Papers As Interactive and Reliable AI Agents"** [[paper](https://arxiv.org/abs/2509.06917)]
 * [Sep 2025] **"OpenLens AI: Fully Autonomous Research Agent for Health Informatics"** [[paper](https://arxiv.org/abs/2509.14778)]
 * [Sep 2025] **"AI and the Future of Academic Peer Review"** [[paper](https://arxiv.org/abs/2509.14189)]
+* [Sep 2025] **"Agentic AutoSurvey: Let LLMs Survey LLMs"** [[paper](https://arxiv.org/abs/2509.18661)]

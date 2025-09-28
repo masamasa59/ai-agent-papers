@@ -106,3 +106,7 @@ Agents in various tasks such as education, healthcare, and the press.
 * 📖 [Sep 2025] **"A Systematic Survey on Large Language Models for Evolutionary Optimization: From Modeling to Solving"** [[paper](https://arxiv.org/abs/2509.08269)]
 * [Sep 2025] **"An Agentic Toolkit for Adaptive Information Extraction from Regulatory Documents"** [[paper](https://arxiv.org/abs/2509.11773)]
 * 📖 [Sep 2025] **"A Survey of Reasoning and Agentic Systems in Time Series with Large Language Models"** [[paper](https://arxiv.org/abs/2509.11575)]
+* [Sep 2025] **"FinDebate: Multi-Agent Collaborative Intelligence for Financial Analysis"** [[paper](https://arxiv.org/abs/2509.17395)]
+* 📖 [Sep 2025] **"LLMs4All: A Review on Large Language Models for Research and Applications in Academic Disciplines"** [[paper](https://arxiv.org/abs/2509.19580)]
+* [Sep 2025] **"Interactive Recommendation Agent with Active User Commands"** [[paper](https://arxiv.org/abs/2509.21317)]
+* [Sep 2025] **"VCBench: Benchmarking LLMs in Venture Capital"** [[paper](https://arxiv.org/abs/2509.14448)]

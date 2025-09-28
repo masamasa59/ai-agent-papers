@@ -53,3 +53,6 @@
 * [Sep 2025] **"JudgeAgent: Dynamically Evaluate LLMs with Agent-as-Interviewer"** [[paper](https://arxiv.org/abs/2509.02097)]
 * ⚖️ [Sep 2025] **"HumanAgencyBench: Scalable Evaluation of Human Agency Support in AI Assistants"** [[paper](https://arxiv.org/abs/2509.08494)]
 * ⚖️ [Sep 2025] **"Rationality Check! Benchmarking the Rationality of Large Language Models"** [[paper](https://arxiv.org/abs/2509.14546)]
+* ⚖️ [Sep 2025] **"GDPval: Evaluating AI Model Performance on Real-World Economically Valuable Tasks"** [[paper](https://openai.com/index/gdpval/)]
+* ⚖️ [Sep 2025] **"ARE: Scaling Up Agent Environments and Evaluations"** [[paper](http://arxiv.org/abs/2509.17158)]
+* ⚖️ [Sep 2025] **"AgentArch: A Comprehensive Benchmark to Evaluate Agent Architectures in Enterprise"** [[paper](https://www.arxiv.org/abs/2509.10769)]

@@ -62,3 +62,4 @@
 * [Sep 2025] **"SFR-DeepResearch: Towards Effective Reinforcement Learning for Autonomously Reasoning Single Agents"** [[paper](https://arxiv.org/abs/2509.06283)]
 * [Sep 2025] **"DeepTRACE: Auditing Deep Research AI Systems for Tracking Reliability Across Citations and Evidence"** [[paper](https://arxiv.org/abs/2509.04499)]
 * [Sep 2025] **"MedResearcher-R1: Expert-Level Medical Deep Researcher via A Knowledge-Informed Trajectory Synthesis Framework"** [[paper](https://arxiv.org/abs/2508.14880)]
+* [Sep 2025] **"Agentic AutoSurvey: Let LLMs Survey LLMs"** [[paper](https://arxiv.org/abs/2509.18661)]
