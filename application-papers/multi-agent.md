@@ -136,3 +136,5 @@ Contemporary Agent Technology: LLM-Driven Advancements vs Classic Multi-Agent Sy
 * [Sep 2025] **"What Would an LLM Do? Evaluating Policymaking Capabilities of Large Language Models"** [[paper](https://arxiv.org/abs/2509.03827v1)]
 * [Sep 2025] **"LLM-empowered Agents Simulation Framework for Scenario Generation in Service Ecosystem Governance Social World Models"** [[paper](https://arxiv.org/abs/2509.01441)]
 * [Sep 2025] **"Simulating Dispute Mediation with LLM-Based Agents for Legal Research"** [[paper](https://arxiv.org/abs/2509.06586)]
+* [Sep 2025] **"MAS^2: Self-Generative, Self-Configuring, Self-Rectifying Multi-Agent Systems"** [[paper](https://arxiv.org/abs/2509.24323)]
+* [Sep 2025] **"AgenTracer: Who Is Inducing Failure in the LLM Agentic Systems?"** [[paper](https://arxiv.org/abs/2509.03312)]

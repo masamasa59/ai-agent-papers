@@ -51,3 +51,4 @@ These papers discuss an agent’s memory function and its self-evolution.
 * [Sep 2025] **"ArcMemo: Abstract Reasoning Composition with Lifelong LLM Memory"** [[paper](https://arxiv.org/abs/2509.04439)]
 * [Sep 2025] **"ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization"** [[paper](https://arxiv.org/abs/2509.13313)]
 * [Sep 2025] **"Meta-Memory: Retrieving and Integrating Semantic-Spatial Memories for Robot Spatial Reasoning"** [[paper](https://arxiv.org/abs/2509.20754)]
+* [Sep 2025] **"MemGen: Weaving Generative Latent Memory for Self-Evolving Agents"** [[paper](https://arxiv.org/abs/2509.24704)]
