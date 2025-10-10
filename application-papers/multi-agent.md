@@ -36,6 +36,8 @@ Contemporary Agent Technology: LLM-Driven Advancements vs Classic Multi-Agent Sy
 * [May 2025] **"Towards Multi-Agent Reasoning Systems for Collaborative Expertise Delegation: An Exploratory Design Study"** [[paper](https://www.arxiv.org/abs/2505.07313)]
 * [May 2025] **"Revisiting Multi-Agent Debate as Test-Time Scaling: A Systematic Study of Conditional Effectiveness"** [[paper](https://www.arxiv.org/abs/2505.22960)]
 * [Jul 2025] **"Foundation Model Self-Play: Open-Ended Strategy Innovation via Foundation Models"** [[paper](https://arxiv.org/abs/2507.06466)]
+* [Sep 2025] **"MALLM: Multi-Agent Large Language Models Framework"** [[paper](https://arxiv.org/abs/2509.11656v2)]
+
 
 ### Problem Solving
 * [Mar 2023] **"CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society"** [[paper](https://arxiv.org/abs/2303.17760)]
@@ -83,6 +85,7 @@ Contemporary Agent Technology: LLM-Driven Advancements vs Classic Multi-Agent Sy
 * [Feb 2025] **"Flow-of-Action: SOP Enhanced LLM-Based Multi-Agent System for Root Cause Analysis"** [[paper](https://www.arxiv.org/abs/2502.08224)]
 * 📖 [Apr 2025] **"Adaptive Human-Agent Teaming: A Review of Empirical Studies from the Process Dynamics Perspective"** [[paper](https://arxiv.org/abs/2504.10918)]
 * [May 2025] **"Which Agent Causes Task Failures and When? On Automated Failure Attribution of LLM Multi-Agent Systems"** [[paper](https://www.arxiv.org/abs/2505.00212)]
+* [May 2025] **"Stay Focused: Problem Drift in Multi-Agent Debate"** [[paper](https://arxiv.org/abs/2502.19559)]
 * [Jun 2025] **"AgentOrchestra: A Hierarchical Multi-Agent Framework for General-Purpose Task Solving"** [[paper](https://www.arxiv.org/abs/2506.12508)]
 * [Jun 2025] **"Agent-to-Agent Theory of Mind: Testing Interlocutor Awareness among Large Language Models"** [[paper](https://arxiv.org/abs/2506.22957)]
 * [Jul 2025] **"AGENTSNET: Coordination and Collaborative Reasoning in Multi-Agent LLMs"** [[paper](https://arxiv.org/abs/2507.08616)]
@@ -90,6 +93,7 @@ Contemporary Agent Technology: LLM-Driven Advancements vs Classic Multi-Agent Sy
 * [Jul 2025] **"MASCA: LLM based-Multi Agents System for Credit Assessment"** [[paper](https://arxiv.org/abs/2507.22758)]
 * [Jul 2025] **"Towards Cognitive Synergy in LLM-Based Multi-Agent Systems: Integrating Theory of Mind and Critical Evaluation"** [[paper](https://arxiv.org/abs/2507.21969)]
 * [Sep 2025] **"CrowdAgent: Multi-Agent Managed Multi-Source Annotation System"** [[paper](https://arxiv.org/abs/2509.14030)]
+* [Sep 2025] **"MALLM: Multi-Agent Large Language Models Framework"** [[paper](https://arxiv.org/abs/2509.11656v2)]
 
 
 ### World Simulation
