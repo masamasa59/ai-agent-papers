@@ -117,6 +117,7 @@
 * [Sep 2025] **"Agentic Lybic: Multi-Agent Execution System with Tiered Reasoning and Orchestration"** [[paper](https://arxiv.org/abs/2509.11067)]
 * [Sep 2025] **"Federation of Agents: A Semantics-Aware Communication Fabric for Large-Scale Agentic AI"** [[paper](https://arxiv.org/abs/2509.20175)]
 * [Sep 2025] **"Orchestrator: Active Inference for Multi-Agent Systems in Long-Horizon Tasks"** [[paper](https://arxiv.org/abs/2509.05651)]
+* [Sep 2025] **"MALLM: Multi-Agent Large Language Models Framework"** [[paper](https://arxiv.org/abs/2509.11656v2)]
 
 ## Agent Ops & UX & Business
 * [Feb 2024] **"Towards better Human-Agent Alignment: Assessing Task Utility in LLM-Powered Applications"** [[paper](https://arxiv.org/abs/2402.09015)]
