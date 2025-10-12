@@ -27,11 +27,11 @@ But can they really replace our jobs?
   - [Safety](capability-papers/safety.md)
   - [Agent Tuning](capability-papers/learning.md)
   - [Agent Evaluation](capability-papers/evaluation.md)
-- **GenAI Agents Architecture**
+- **AI Agents Architecture**
   - [Single-Agent](agent-frameworks/agent-framework.md#single-agents)
   - [Multi-Agent](agent-frameworks/agent-framework.md#multi-agents)
   - [Agent-Ops](agent-frameworks/agent-framework.md#agent-ops--ux)
-- **GenAI Agents Applications**
+- **AI Agents Applications**
   - [Embodied Agents](application-papers/embodied-agents.md)
   - [Digital Agents](application-papers/digital-agents.md)
     - [GUI Agents](application-papers/digital-agents.md/#computer-controlled-app-based-agents)
@@ -43,6 +43,8 @@ But can they really replace our jobs?
   - [API Agents](application-papers/api-agents.md)
   - [Deep Research Agents](application-papers/deep-research-agents.md)
   - [Agentic AI Systems](application-papers/agentic-ai-system.md)
+  - [Enterprise Agents](application-papers/enterprise-agents.md)
+  - [Financial Agents](application-papers/finance-agents.md)
   - [Multi-Agents](application-papers/multi-agent.md)
     - [MAD](application-papers/multi-agent.md#mad)
     - [Problem Solving](application-papers/multi-agent.md#problem-solving)
@@ -54,6 +56,18 @@ But can they really replace our jobs?
 - [LLM Agents Papers](https://github.com/zjunlp/LLMAgentPapers)
 - [Awesome LLM-Powered Agent](https://github.com/hyp1231/awesome-llm-powered-agent/)
  - [Awesome LLM agents](https://github.com/kaushikb11/awesome-llm-agents)
+
+## October Highlights (Updated 12 Oct)
+* **"ACON: Optimizing Context Compression for Long-horizon LLM Agents"** [[paper](https://arxiv.org/abs/2510.00615)]
+* **"Agentic Context Engineering: Evolving Contexts for Self-Improving Language Models"** [[paper](https://arxiv.org/abs/2510.04618)]
+* **"ReasoningBank: Scaling Agent Self-Evolving with Reasoning Memory"** [[paper](https://arxiv.org/abs/2509.25140)]
+* **"Learning on the Job: An Experience-Driven, Self-Evolving Agent for Long-Horizon Tasks"** [[paper](https://arxiv.org/abs/2510.08002)]
+* **"Your Agent May Misevolve: Emergent Risks in Self-evolving LLM Agents"** [[paper](https://arxiv.org/abs/2509.26354)]
+* **"Where LLM Agents Fail and How They Can Learn From Failures"** [[paper](https://arxiv.org/abs/2509.25370)]
+* **"AlphaApollo: Orchestrating Foundation Models and Professional Tools into a Self-Evolving System for Deep Agentic Reasoning"** [[paper](https://arxiv.org/abs/2510.06261)]
+* **"Scientific Algorithm Discovery by Augmenting AlphaEvolve with Deep Research"** [[paper](https://arxiv.org/abs/2510.06056)]
+* **"Artificially intelligent agents in the social and behavioral sciences: A history and outlook"** [[paper](https://arxiv.org/abs/2510.05743)]
+* **"Agentic Services Computing"** [[paper](https://arxiv.org/abs/2509.24380)]
 
 ## September Highlights (Updated 28 Sep)
 ### Ideation Task
