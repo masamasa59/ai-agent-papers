@@ -61,3 +61,7 @@
 * [Sep 2025] **"Online Process Reward Learning for Agentic Reinforcement Learning"** [[paper](https://arxiv.org/abs/2509.19199)]
 * [Sep 2025] **"Tree Search for LLM Agent Reinforcement Learning"** [[paper](https://arxiv.org/abs/2509.21240)]
 * [Sep 2025] **"LIMI: Less is More for Agency"** [[paper](https://arxiv.org/abs/2509.17567)]
+* [Oct 2025] **"A Tale of LLMs and Induced Small Proxies: Scalable Agents for Knowledge Mining"** [[paper](https://arxiv.org/abs/2510.01427)]
+* [Oct 2025] **"GEM: A Gym for Agentic LLMs"** [[paper](https://arxiv.org/abs/2510.01051)]
+* [Oct 2025] **"ToolBrain: A Flexible Reinforcement Learning Framework for Agentic Tools"** [[paper](https://arxiv.org/abs/2510.00023)]
+* [Oct 2025] **"Agent Learning via Early Experience"** [[paper](https://arxiv.org/abs/2510.08558)]

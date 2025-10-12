@@ -18,7 +18,7 @@
 * [Mar 2025] **"Why Do Multi-Agent LLM Systems Fail?"** [[paper](https://arxiv.org/abs/2503.13657)]
 * 📖 [Mar 2025] **"A Comprehensive Survey on Multi-Agent Cooperative Decision-Making: Scenarios, Approaches, Challenges and Perspectives"** [[paper](https://arxiv.org/abs/2503.13415)]
 * 📖 [May 2025] **"Creativity in LLM-based Multi-Agent Systems: A Survey"** [[paper](https://www.arxiv.org/abs/2505.21116)]
-Contemporary Agent Technology: LLM-Driven Advancements vs Classic Multi-Agent Systems
+* [Sep 2025] **"Contemporary Agent Technology: LLM-Driven Advancements vs Classic Multi-Agent Systems"** [[paper](https://arxiv.org/abs/2509.02515)]
 
 ### MAD（Multi-Agent Debate）
 * [May 2023] **"Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate"** [[paper](https://arxiv.org/abs/2305.19118)]
@@ -90,7 +90,7 @@ Contemporary Agent Technology: LLM-Driven Advancements vs Classic Multi-Agent Sy
 * [Jul 2025] **"MASCA: LLM based-Multi Agents System for Credit Assessment"** [[paper](https://arxiv.org/abs/2507.22758)]
 * [Jul 2025] **"Towards Cognitive Synergy in LLM-Based Multi-Agent Systems: Integrating Theory of Mind and Critical Evaluation"** [[paper](https://arxiv.org/abs/2507.21969)]
 * [Sep 2025] **"CrowdAgent: Multi-Agent Managed Multi-Source Annotation System"** [[paper](https://arxiv.org/abs/2509.14030)]
-
+* [Oct 2025] **"TACOS: Task Agnostic COordinator of a multi-drone System"** [[paper](https://arxiv.org/abs/2510.01869)]
 
 ### World Simulation
 * [Apr 2023] **"Generative agents: Interactive simulacra of human behavior"** [[paper](https://arxiv.org/abs/2304.03442)]

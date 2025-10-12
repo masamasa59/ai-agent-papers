@@ -44,3 +44,4 @@ These papers discuss agent planning.
 * 📖 [May 2025] **"Large Language Models for Planning: A Comprehensive and Systematic Survey"** [[paper](https://arxiv.org/abs/2505.19683)]
 * [Jul 2025] **"From Reasoning to Super-Intelligence: A Search-Theoretic Perspective"** [[paper](https://arxiv.org/abs/2507.15865)]
 * [Sep 2025] **"Empowering LLMs with Parameterized Skills for Adversarial Long-Horizon Planning"** [[paper](https://arxiv.org/abs/2509.13127)]
+* [Oct 2025] **"A Goal Without a Plan Is Just a Wish: Efficient and Effective Global Planner Training for Long-Horizon Agent Tasks"** [[paper](https://arxiv.org/abs/2510.05608)]

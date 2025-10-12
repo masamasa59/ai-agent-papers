@@ -79,3 +79,8 @@ These papers discuss whether or not agents can properly use tools
 * [Sep 2025] **"Empowering LLMs with Parameterized Skills for Adversarial Long-Horizon Planning"** [[paper](https://arxiv.org/abs/2509.13127)]
 * [Sep 2025] **"MCP-AgentBench: Evaluating Real-World Language Agent Performance with MCP-Mediated Tools"** [[paper](https://arxiv.org/abs/2509.09734)]
 * [Sep 2025] **"Failure Makes the Agent Stronger: Enhancing Accuracy through Structured Reflection for Reliable Tool Interactions"** [[paper](https://arxiv.org/abs/2509.18847)]
+* [Sep 2025] **"Toward Effective Tool-Integrated Reasoning via Self-Evolved Preference Learning"** [[paper](https://arxiv.org/abs/2509.23285)]
+* ⚖️ [Sep 2025] **"MCPMark: A Benchmark for Stress-Testing Realistic and Comprehensive MCP Use"** [[paper](https://arxiv.org/abs/2509.24002)]
+* [Oct 2025] **"TUMIX: Multi-Agent Test-Time Scaling with Tool-Use Mixture"** [[paper](https://arxiv.org/abs/2510.01279)]
+* [Oct 2025] **"ToolBrain: A Flexible Reinforcement Learning Framework for Agentic Tools"** [[paper](https://arxiv.org/abs/2510.00023)]
+* [Oct 2025] **"ToolLibGen: Scalable Automatic Tool Creation and Aggregation for LLM Reasoning"** [[paper](https://arxiv.org/abs/2510.07768)]

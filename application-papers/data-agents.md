@@ -77,3 +77,7 @@
 * [Sep 2025] **"Agents of Discovery"** [[paper](https://arxiv.org/abs/2509.08535)]
 * [Sep 2025] **"Doc2Chart: Intent-Driven Zero-Shot Chart Generation from Documents"** [[paper](https://arxiv.org/abs/2507.14819)]
 * [Sep 2025] **"Autonomous Data Agents: A New Opportunity for Smart Data"** [[paper](https://arxiv.org/abs/2509.18710)]
+* [Sep 2025] **"Scaling Generalist Data-Analytic Agents"** [[paper](https://arxiv.org/abs/2509.25084)]
+* 📖 [Oct 2025] **"LLM/Agent-as-Data-Analyst: A Survey"** [[paper](https://arxiv.org/abs/2509.23988)]
+* [Oct 2025] **"LLM-based Multi-Agent Blackboard System for Information Discovery in Data Science"** [[paper](https://arxiv.org/abs/2510.01285)]
+* [Oct 2025] **"A Tale of LLMs and Induced Small Proxies: Scalable Agents for Knowledge Mining"** [[paper](https://arxiv.org/abs/2510.01427)]

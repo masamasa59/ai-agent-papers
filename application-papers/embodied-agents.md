@@ -63,3 +63,5 @@
 * [Sep 2025] **"F1: A Vision-Language-Action Model Bridging Understanding and Generation to Actions"** [[paper](https://arxiv.org/abs/2509.06951)]
 * [Sep 2025] **"Embodied AI: From LLMs to World Models"** [[paper](https://arxiv.org/abs/2509.20021)]
 * [Sep 2025] **"Self-Improving Embodied Foundation Models"** [[paper](https://arxiv.org/abs/2509.15155)]
+* [Oct 2025] **"TACOS: Task Agnostic COordinator of a multi-drone System"** [[paper](https://arxiv.org/abs/2510.01869)]
+* 📖 [Oct 2025] **"The Safety Challenge of World Models for Embodied AI Agents: A Review"** [[paper](https://arxiv.org/abs/2510.05865)]

@@ -87,6 +87,9 @@
 * 📖 [Aug 2025] **"LLM-based Agentic Reasoning Frameworks: A Survey from Methods to Scenarios"** [[paper](https://arxiv.org/abs/2508.17692)]
 * 📖 [Sep 2025] **"Generalizability of Large Language Model-Based Agents: A Comprehensive Survey"** [[paper](https://arxiv.org/abs/2509.16330)]
 * [Sep 2025] **"What Do LLM Agents Do When Left Alone? Evidence of Spontaneous Meta-Cognitive Patterns"** [[paper](https://arxiv.org/abs/2509.21224)]
+* [Sep 2025] **"Where LLM Agents Fail and How They Can Learn From Failures"** [[paper](https://arxiv.org/abs/2509.25370)]
+* [Oct 2025] **"Inefficiencies of Meta Agents for Agent Design"** [[paper](https://arxiv.org/abs/2510.06711)]
+
 
 ## Multi-Agent
 * [Mar 2023] **"CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society"** [[paper](https://arxiv.org/abs/2303.17760)]
@@ -117,6 +120,10 @@
 * [Sep 2025] **"Agentic Lybic: Multi-Agent Execution System with Tiered Reasoning and Orchestration"** [[paper](https://arxiv.org/abs/2509.11067)]
 * [Sep 2025] **"Federation of Agents: A Semantics-Aware Communication Fabric for Large-Scale Agentic AI"** [[paper](https://arxiv.org/abs/2509.20175)]
 * [Sep 2025] **"Orchestrator: Active Inference for Multi-Agent Systems in Long-Horizon Tasks"** [[paper](https://arxiv.org/abs/2509.05651)]
+MAS²: Self-Generative, Self-Configuring, Self-Rectifying Multi-Agent Systems
+LLM-based Multi-Agent Blackboard System for Information Discovery in Data Science
+TUMIX: Multi-Agent Test-Time Scaling with Tool-Use Mixture
+A Multi-Agent Framework for Stateful Inference-Time Search
 
 ## Agent Ops & UX & Business
 * [Feb 2024] **"Towards better Human-Agent Alignment: Assessing Task Utility in LLM-Powered Applications"** [[paper](https://arxiv.org/abs/2402.09015)]
@@ -159,3 +166,5 @@
 * [Sep 2025] **"Virtual Agent Economies"** [[paper](https://arxiv.org/abs/2509.10147)]
 * [Sep 2025] **"From Digital Distrust to Codified Honesty: Experimental Evidence on Generative AI in Credence Goods Markets"** [[paper](https://arxiv.org/abs/2509.06069)]
 * [Sep 2025] **"Perspectra: Choosing Your Experts Enhances Critical Thinking in Multi-Agent Research Ideation"** [[paper](https://arxiv.org/abs/2509.20553)]
+* [Sep 2025] **"Agentic Services Computing"** [[paper](https://arxiv.org/abs/2509.24380)]
+* [Oct 2025] **"Agent-in-the-Loop: A Data Flywheel for Continuous Improvement in LLM-based Customer Support"** [[paper](https://arxiv.org/abs/2510.06674)]

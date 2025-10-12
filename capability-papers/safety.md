@@ -55,3 +55,8 @@ These papers discuss the safety and risks of agents.
 * [Aug 2025] **"Reliable Weak-to-Strong Monitoring of LLM Agents"** [[paper](https://arxiv.org/abs/2508.19461)]
 * [Sep 2025] **"Self-adaptive Dataset Construction for Real-World Multimodal Safety Scenarios"** [[paper](https://www.arxiv.org/abs/2509.04403)]
 * 📖 [Sep 2025] **"LLM-based Agents Suffer from Hallucinations: A Survey of Taxonomy, Methods, and Directions"** [[paper](https://arxiv.org/abs/2509.18970)]
+* [Sep 2025] **"SafeEvalAgent: Toward Agentic and Self-Evolving Safety Evaluation of LLMs"** [[paper](https://arxiv.org/abs/2509.26100)]
+* [Sep 2025] **"Dive into the Agent Matrix: A Realistic Evaluation of Self-Replication Risk in LLM Agents"** [[paper](https://arxiv.org/abs/2509.25302)]
+* [Oct 2025] **"When Hallucination Costs Millions: Benchmarking AI Agents in High-Stakes Adversarial Financial Markets"** [[paper](https://arxiv.org/abs/2510.00332)]
+* [Oct 2025] **"Agentic Misalignment: How LLMs Could Be Insider Threats"** [[paper](https://arxiv.org/abs/2510.05179)]
+* 📖 [Oct 2025] **"The Safety Challenge of World Models for Embodied AI Agents: A Review"** [[paper](https://arxiv.org/abs/2510.05865)]

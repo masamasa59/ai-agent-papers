@@ -56,3 +56,4 @@
 * ⚖️ [Sep 2025] **"GDPval: Evaluating AI Model Performance on Real-World Economically Valuable Tasks"** [[paper](https://openai.com/index/gdpval/)]
 * ⚖️ [Sep 2025] **"ARE: Scaling Up Agent Environments and Evaluations"** [[paper](http://arxiv.org/abs/2509.17158)]
 * ⚖️ [Sep 2025] **"AgentArch: A Comprehensive Benchmark to Evaluate Agent Architectures in Enterprise"** [[paper](https://www.arxiv.org/abs/2509.10769)]
+* ⚖️ [Sep 2025] **"ManagerBench: Evaluating the Safety-Pragmatism Trade-off in Autonomous LLMs"** [[paper](https://arxiv.org/abs/2510.00857)]

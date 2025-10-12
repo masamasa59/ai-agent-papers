@@ -1,0 +1,4 @@
+* [Feb 2024] **"A Multimodal Foundation Agent for Financial Trading: Tool-Augmented, Diversified, and Generalist"** [[paper](https://arxiv.org/abs/2402.18485)]
+* ⚖️ [Aug 2025] **"Finance Agent Benchmark: Benchmarking LLMs on Real-world Financial Research Tasks"** [[paper](https://arxiv.org/abs/2508.00828)]
+* [Sep 2025] **"FinDebate: Multi-Agent Collaborative Intelligence for Financial Analysis"** [[paper](https://arxiv.org/abs/2509.17395)]
+* [Oct 2025] **"GuruAgents: Emulating Wise Investors with Prompt-Guided LLM Agents"** [[paper](https://arxiv.org/abs/2510.01664)]

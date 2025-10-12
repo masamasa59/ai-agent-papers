@@ -48,7 +48,7 @@
 * [Aug 2025] **"Phi-Ground Tech Report: Advancing Perception in GUI Grounding"** [[paper](https://arxiv.org/abs/2507.23779)]
 * [Sep 2025] **"Are LLM Agents the New RPA? A Comparative Study with RPA Across Enterprise Workflows"** [[paper](https://arxiv.org/abs/2509.04198)]
 * [Sep 2025] **"Dark Patterns Meet GUI Agents: LLM Agent Susceptibility to Manipulative Interfaces and the Role of Human Oversight"** [[paper](https://www.arxiv.org/abs/2509.10723)]
-
+* [Oct 2025] **"The Unreasonable Effectiveness of Scaling Agents for Computer Use"** [[paper](https://arxiv.org/abs/2510.02250)]
 
 ### Web Agents
 * ⚖️ [Jul 2022] **"WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents"** [[paper](https://arxiv.org/abs/2207.01206)]
@@ -90,7 +90,8 @@
 * 🔥 [Jul 2025] **"Agentic Web: Weaving the Next Web with AI Agents"** [[paper](https://arxiv.org/abs/2507.21206)]
 * [Sep 2025] **"WebExplorer: Explore and Evolve for Training Long-Horizon Web Agents"** [[paper](https://arxiv.org/abs/2509.06501)]
 * [Sep 2025] **"Recon-Act: A Self-Evolving Multi-Agent Browser-Use System via Web Reconnaissance, Tool Generation, and Task Execution"** [[paper](https://arxiv.org/abs/2509.21072)]
-
+* [Sep 2025] **"WALT: Web Agents that Learn Tools"** [[paper](https://arxiv.org/abs/2510.01524)]
+* [Sep 2025] **"Just Do It!? Computer-Use Agents Exhibit Blind Goal-Directedness"** [[paper](https://arxiv.org/abs/2510.01670)]
 
 
 ### Mobile Agents
@@ -107,3 +108,4 @@
 * 📖 [Apr 2025] **"LLM-Powered GUI Agents in Phone Automation: Surveying Progress and Prospects"** [[paper](https://arxiv.org/abs/2504.19838)]
 * [Jun 2025] **"GUI-Actor: Coordinate-Free Visual Grounding for GUI Agents"** [[paper](https://arxiv.org/abs/2506.03143)]
 * [Jun 2025] **"Beyond Syntax: Action Semantics Learning for App Agents"** [[paper](https://arxiv.org/abs/2506.17697)]
+* [Oct 2025] **"ReInAgent: A Context-Aware GUI Agent Enabling Human-in-the-Loop Mobile Task Navigation"** [[paper](https://arxiv.org/abs/2510.07988)]

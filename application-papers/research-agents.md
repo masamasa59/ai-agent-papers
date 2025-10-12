@@ -78,3 +78,5 @@
 * [Sep 2025] **"OpenLens AI: Fully Autonomous Research Agent for Health Informatics"** [[paper](https://arxiv.org/abs/2509.14778)]
 * [Sep 2025] **"AI and the Future of Academic Peer Review"** [[paper](https://arxiv.org/abs/2509.14189)]
 * [Sep 2025] **"Agentic AutoSurvey: Let LLMs Survey LLMs"** [[paper](https://arxiv.org/abs/2509.18661)]
+* [Sep 2025] **"TusoAI: Agentic Optimization for Scientific Methods"** [[paper](https://arxiv.org/abs/2509.23986)]
+* [Oct 2025] **"Scientific Algorithm Discovery by Augmenting AlphaEvolve with Deep Research"** [[paper](https://arxiv.org/abs/2510.06056)]
