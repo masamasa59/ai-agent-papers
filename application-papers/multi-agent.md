@@ -81,6 +81,7 @@
 * [Jan 2025] **"Multi-Agent Geospatial Copilots for Remote Sensing Workflows"** [[paper](https://arxiv.org/abs/2501.16254)]
 * [Feb 2025] **"Position: Towards a Responsible LLM-empowered Multi-Agent Systems"** [[paper](https://arxiv.org/abs/2502.01714)]
 * [Feb 2025] **"Flow-of-Action: SOP Enhanced LLM-Based Multi-Agent System for Root Cause Analysis"** [[paper](https://www.arxiv.org/abs/2502.08224)]
+* [Apr 2025] **"Achilles Heel of Distributed Multi-Agent Systems"** [[paper](https://arxiv.org/abs/2504.07461)]
 * 📖 [Apr 2025] **"Adaptive Human-Agent Teaming: A Review of Empirical Studies from the Process Dynamics Perspective"** [[paper](https://arxiv.org/abs/2504.10918)]
 * [May 2025] **"Which Agent Causes Task Failures and When? On Automated Failure Attribution of LLM Multi-Agent Systems"** [[paper](https://www.arxiv.org/abs/2505.00212)]
 * [Jun 2025] **"AgentOrchestra: A Hierarchical Multi-Agent Framework for General-Purpose Task Solving"** [[paper](https://www.arxiv.org/abs/2506.12508)]
@@ -90,6 +91,7 @@
 * [Jul 2025] **"MASCA: LLM based-Multi Agents System for Credit Assessment"** [[paper](https://arxiv.org/abs/2507.22758)]
 * [Jul 2025] **"Towards Cognitive Synergy in LLM-Based Multi-Agent Systems: Integrating Theory of Mind and Critical Evaluation"** [[paper](https://arxiv.org/abs/2507.21969)]
 * [Sep 2025] **"CrowdAgent: Multi-Agent Managed Multi-Source Annotation System"** [[paper](https://arxiv.org/abs/2509.14030)]
+* [Oct 2025] **"CoMAS: Co-Evolving Multi-Agent Systems via Interaction Rewards"** [[paper](https://arxiv.org/abs/2510.08529)]
 * [Oct 2025] **"TACOS: Task Agnostic COordinator of a multi-drone System"** [[paper](https://arxiv.org/abs/2510.01869)]
 
 ### World Simulation
