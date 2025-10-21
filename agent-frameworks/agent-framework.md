@@ -120,10 +120,10 @@
 * [Sep 2025] **"Agentic Lybic: Multi-Agent Execution System with Tiered Reasoning and Orchestration"** [[paper](https://arxiv.org/abs/2509.11067)]
 * [Sep 2025] **"Federation of Agents: A Semantics-Aware Communication Fabric for Large-Scale Agentic AI"** [[paper](https://arxiv.org/abs/2509.20175)]
 * [Sep 2025] **"Orchestrator: Active Inference for Multi-Agent Systems in Long-Horizon Tasks"** [[paper](https://arxiv.org/abs/2509.05651)]
-MAS²: Self-Generative, Self-Configuring, Self-Rectifying Multi-Agent Systems
-LLM-based Multi-Agent Blackboard System for Information Discovery in Data Science
-TUMIX: Multi-Agent Test-Time Scaling with Tool-Use Mixture
-A Multi-Agent Framework for Stateful Inference-Time Search
+* [Oct 2025] **"MAS²: Self-Generative, Self-Configuring, Self-Rectifying Multi-Agent Systems"** [[paper](https://arxiv.org/abs/2509.24323)]
+* [Oct 2025] **"LLM-based Multi-Agent Blackboard System for Information Discovery in Data Science"** [[paper](https://arxiv.org/abs/2510.01285)]
+* [Oct 2025] **"TUMIX: Multi-Agent Test-Time Scaling with Tool-Use Mixture"** [[paper](https://arxiv.org/abs/2510.01279)]
+* [Oct 2025] **"A Multi-Agent Framework for Stateful Inference-Time Search"** [[paper](https://arxiv.org/abs/2510.07147)]
 
 ## Agent Ops & UX & Business
 * [Feb 2024] **"Towards better Human-Agent Alignment: Assessing Task Utility in LLM-Powered Applications"** [[paper](https://arxiv.org/abs/2402.09015)]

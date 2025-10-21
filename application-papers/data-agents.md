@@ -15,7 +15,7 @@
 * ⚖️ [Nov 2023] **"ML-Bench: Evaluating Large Language Models and Agents for Machine Learning Tasks on Repository-Level Code"** [[paper](https://arxiv.org/abs/2311.09835)]
 * ⚖️ [Jan 2024] **"InfiAgent-DABench: Evaluating Agents on Data Analysis Tasks"** [[paper](https://arxiv.org/abs/2401.05507)]
 * [Feb 2024] **"Data Interpreter: An LLM Agent for Data Science"** [[paper](https://arxiv.org/abs/2402.18679)]
-* [Feb 2024] **"MatPlotAgent: Method and Evaluation for LLM-Based Agentic Scientific Data Visualization"** [[paper]https://arxiv.org/abs/2402.11453)]
+* [Feb 2024] **"MatPlotAgent: Method and Evaluation for LLM-Based Agentic Scientific Data Visualization"** [[paper](https://arxiv.org/abs/2402.11453)]
 * [Feb 2024] **"DS-Agent: Automated Data Science by Empowering Large Language Models with Case-Based Reasoning"** [[paper](https://arxiv.org/abs/2402.17453)]
 * [Mar 2024] **"SheetAgent: Towards a Generalist Agent for Spreadsheet Reasoning and Manipulation via Large Language Models"** [[paper](https://arxiv.org/abs/2403.03636)]
 * [Apr 2024] **"A Multimodal Automated Interpretability Agent"** [[paper](https://arxiv.org/abs/2404.14394)]

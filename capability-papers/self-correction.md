@@ -55,3 +55,4 @@ These papers discuss whether agents can autonomously recover from errors.
 * [Sep 2025] **"SAMULE: Self-Learning Agents Enhanced by Multi-level Reflection"** [[paper](https://arxiv.org/abs/2509.20562)]
 * [Sep 2025] **"Who’s Your Judge? On the Detectability of LLM-Generated Judgments"** [[paper](https://arxiv.org/abs/2509.25154)]
 * 📖 [Oct 2025] **"A Survey of Process Reward Models: From Outcome Signals to Process Supervisions for Large Language Models"** [[paper](https://arxiv.org/abs/2510.08049)]
+* [Oct 2025] **"Online Rubrics Elicitation from Pairwise Comparisons"** [[paper](https://arxiv.org/abs/2510.07284)]

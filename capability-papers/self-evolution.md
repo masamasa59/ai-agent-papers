@@ -84,3 +84,6 @@
 * [Oct 2025] **"Agentic Context Engineering: Evolving Contexts for Self-Improving Language Models"** [[paper](https://arxiv.org/abs/2510.04618)]
 * [Oct 2025] **"Agent Learning via Early Experience"** [[paper](https://arxiv.org/abs/2510.08558)]
 * [Oct 2025] **"Inefficiencies of Meta Agents for Agent Design"** [[paper](https://arxiv.org/abs/2510.06711)]
+* 📖 [Oct 2025] **"Unifying Tree Search Algorithm and Reward Design for LLM Reasoning: A Survey"** [[paper](https://arxiv.org/abs/2510.09988)]
+* [Oct 2025] **"Alloy: Generating Reusable Agent Workflows from User Demonstration"** [[paper](https://arxiv.org/abs/2510.10049)]
+* [Oct 2025] **"CoMAS: Co-Evolving Multi-Agent Systems via Interaction Rewards"** [[paper](https://arxiv.org/abs/2510.08529)]

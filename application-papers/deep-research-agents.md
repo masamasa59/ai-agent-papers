@@ -70,3 +70,4 @@
 * ⚖️ [Oct 2025] **"InfoMosaic-Bench: Evaluating Multi-Source Information Seeking in Tool-Augmented Agents"** [[paper](https://arxiv.org/abs/2510.02271)]
 * [Oct 2025] **"FlowSearch: Advancing Deep Research with Dynamic Structured Knowledge Flow"** [[paper](https://arxiv.org/abs/2510.08521)]
 * [Oct 2025] **"Understanding DeepResearch via Reports"** [[paper](https://arxiv.org/abs/2510.07861)]
+* [Oct 2025] **"DEEPPLANNER: Scaling Planning Capability for Deep Research Agents via Advantage Shaping"** [[paper](https://arxiv.org/abs/2510.12979)]

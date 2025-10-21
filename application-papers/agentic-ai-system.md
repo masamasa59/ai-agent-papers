@@ -104,3 +104,6 @@ Agents in various tasks such as education, healthcare, and the press.
 * [Oct 2025] **"Agent Bain vs. Agent McKinsey: A New Text-to-SQL Benchmark for the Business Domain"** [[paper](https://arxiv.org/abs/2510.07309)]
 * [Oct 2025] **"Agentic Generative AI for Media Content Discovery at the National Football League"** [[paper](https://arxiv.org/abs/2510.07297)]
 * [Oct 2025] **"Artificially intelligent agents in the social and behavioral sciences: A history and outlook"** [[paper](https://arxiv.org/abs/2510.05743)]
+* [Oct 2025] **"Agentic Systems in Radiology: Design, Applications, Evaluation, and Challenges"** [[paper](https://arxiv.org/abs/2510.09404)]
+* [Oct 2025] **"Automating Structural Engineering Workflows with Large Language Model Agents"** [[paper](https://arxiv.org/abs/2510.11004)]
+* [Oct 2025] **"Document Intelligence in the Era of Large Language Models: A Survey"** [[paper](https://arxiv.org/abs/2510.13366)]

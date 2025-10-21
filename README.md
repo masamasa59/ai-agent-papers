@@ -68,6 +68,11 @@ But can they really replace our jobs?
 * **"Scientific Algorithm Discovery by Augmenting AlphaEvolve with Deep Research"** [[paper](https://arxiv.org/abs/2510.06056)]
 * **"Artificially intelligent agents in the social and behavioral sciences: A history and outlook"** [[paper](https://arxiv.org/abs/2510.05743)]
 * **"Agentic Services Computing"** [[paper](https://arxiv.org/abs/2509.24380)]
+* **"Don’t Just Fine-tune the Agent, Tune the Environment"** [[paper](https://arxiv.org/abs/2510.10197)]
+* **"Memory as Action: Autonomous Context Curation for Long-Horizon Agentic Tasks"** [[paper](https://arxiv.org/abs/2510.12635)]
+* **"LLM-REVal: Can We Trust LLM Reviewers Yet?"** [[paper](https://arxiv.org/abs/2510.12367)]
+* ⚖️ **"Holistic Agent Leaderboard: The Missing Infrastructure for AI Agent Evaluation"** [[paper](https://arxiv.org/abs/2510.11977)]
+* 📖 **"Unifying Tree Search Algorithm and Reward Design for LLM Reasoning: A Survey"** [[paper](https://arxiv.org/abs/2510.09988)]
 
 ## September Highlights (Updated 28 Sep)
 ### Ideation Task

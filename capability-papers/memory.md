@@ -57,3 +57,4 @@ These papers discuss an agent’s memory function and its self-evolution.
 * [Oct 2025] **"MEMTRACK: Evaluating Long-Term Memory and State Tracking in Multi-Platform Dynamic Agent Environments"** [[paper](https://arxiv.org/abs/2510.01353)]
 * [Oct 2025] **"Improving Code Localization with Repository Memory"** [[paper](https://arxiv.org/abs/2510.01003)]
 * [Oct 2025] **"ACON: Optimizing Context Compression for Long-horizon LLM Agents"** [[paper](https://arxiv.org/abs/2510.00615)]
+* [Oct 2025] **"Memory as Action: Autonomous Context Curation for Long-Horizon Agentic Tasks"** [[paper](https://arxiv.org/abs/2510.12635)]

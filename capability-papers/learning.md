@@ -65,3 +65,5 @@
 * [Oct 2025] **"GEM: A Gym for Agentic LLMs"** [[paper](https://arxiv.org/abs/2510.01051)]
 * [Oct 2025] **"ToolBrain: A Flexible Reinforcement Learning Framework for Agentic Tools"** [[paper](https://arxiv.org/abs/2510.00023)]
 * [Oct 2025] **"Agent Learning via Early Experience"** [[paper](https://arxiv.org/abs/2510.08558)]
+* [Oct 2025] **"Don’t Just Fine-tune the Agent, Tune the Environment"** [[paper](https://arxiv.org/abs/2510.10197)]
+* [Oct 2025] **"In-the-Flow Agentic System Optimization for Effective Planning and Tool Use"** [[paper](https://arxiv.org/abs/2510.05592), [repo](https://github.com/lupantech/AgentFlow)]

@@ -49,6 +49,7 @@
 * [Sep 2025] **"Are LLM Agents the New RPA? A Comparative Study with RPA Across Enterprise Workflows"** [[paper](https://arxiv.org/abs/2509.04198)]
 * [Sep 2025] **"Dark Patterns Meet GUI Agents: LLM Agent Susceptibility to Manipulative Interfaces and the Role of Human Oversight"** [[paper](https://www.arxiv.org/abs/2509.10723)]
 * [Oct 2025] **"The Unreasonable Effectiveness of Scaling Agents for Computer Use"** [[paper](https://arxiv.org/abs/2510.02250)]
+* [Oct 2025] **"BrowserAgent: Building Web Agents with Human-Inspired Web Browsing Actions"** [[paper](https://arxiv.org/abs/2510.10666)]
 
 ### Web Agents
 * ⚖️ [Jul 2022] **"WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents"** [[paper](https://arxiv.org/abs/2207.01206)]
