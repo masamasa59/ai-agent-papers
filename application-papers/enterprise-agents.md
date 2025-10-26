@@ -7,3 +7,4 @@
 * [Jul 2025] **"Compliance Brain Assistant: Conversational Agentic AI for Assisting Compliance Tasks in Enterprise Environments"** [[paper](https://arxiv.org/abs/2507.17289)]
 * [Jul 2025] **"Chatting with your ERP: A Recipe"** [[paper](https://arxiv.org/abs/2507.23429)]
 * ⚖️ [Sep 2025] **"SCUBA: Salesforce Computer Use Benchmark"** [[paper](https://arxiv.org/abs/2509.26506)]
+* 📖 [Oct 2025] **"Empowering Real-World: A Survey on the Technology, Practice, and Evaluation of LLM-driven Industry Agents"** [[paper](https://arxiv.org/abs/2510.17491)]

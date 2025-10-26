@@ -67,3 +67,7 @@
 * [Oct 2025] **"Agent Learning via Early Experience"** [[paper](https://arxiv.org/abs/2510.08558)]
 * [Oct 2025] **"Don’t Just Fine-tune the Agent, Tune the Environment"** [[paper](https://arxiv.org/abs/2510.10197)]
 * [Oct 2025] **"In-the-Flow Agentic System Optimization for Effective Planning and Tool Use"** [[paper](https://arxiv.org/abs/2510.05592), [repo](https://github.com/lupantech/AgentFlow)]
+* [Oct 2025] **"Search Self-play: Pushing the Frontier of Agent Capability without Supervision"** [[paper](https://arxiv.org/abs/2510.18821)]
+* [Oct 2025] **"Deep Self-Evolving Reasoning"** [[paper](https://arxiv.org/abs/2510.17498)]
+* 📖 [Oct 2025] **"A Comprehensive Survey on Reinforcement Learning-based Agentic Search: Foundations, Roles, Optimizations, Evaluations, and Applications"** [[paper](https://arxiv.org/abs/2510.16724)]
+* [Oct 2025] **"EvolveR: Self-Evolving LLM Agents through an Experience-Driven Lifecycle"** [[paper](https://www.arxiv.org/abs/2510.16079)]

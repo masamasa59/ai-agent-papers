@@ -87,3 +87,7 @@
 * 📖 [Oct 2025] **"Unifying Tree Search Algorithm and Reward Design for LLM Reasoning: A Survey"** [[paper](https://arxiv.org/abs/2510.09988)]
 * [Oct 2025] **"Alloy: Generating Reusable Agent Workflows from User Demonstration"** [[paper](https://arxiv.org/abs/2510.10049)]
 * [Oct 2025] **"CoMAS: Co-Evolving Multi-Agent Systems via Interaction Rewards"** [[paper](https://arxiv.org/abs/2510.08529)]
+* [Oct 2025] **"EvolveR: Self-Evolving LLM Agents through an Experience-Driven Lifecycle"** [[paper](https://www.arxiv.org/abs/2510.16079)]
+* [Oct 2025] **"LLM Agents Beyond Utility: An Open-Ended Perspective"** [[paper](https://arxiv.org/abs/2510.14548)]
+* [Oct 2025] **"CodeEvolve: An Open Source Evolutionary Coding Agent for Algorithm Discovery and Optimization"** [[paper](https://arxiv.org/abs/2510.14150)]
+* [Oct 2025] **"Towards Agentic Self-Learning LLMs in Search Environment"** [[paper](https://www.arxiv.org/abs/2510.14253)]

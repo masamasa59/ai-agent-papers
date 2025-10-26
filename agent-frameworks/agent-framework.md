@@ -89,7 +89,8 @@
 * [Sep 2025] **"What Do LLM Agents Do When Left Alone? Evidence of Spontaneous Meta-Cognitive Patterns"** [[paper](https://arxiv.org/abs/2509.21224)]
 * [Sep 2025] **"Where LLM Agents Fail and How They Can Learn From Failures"** [[paper](https://arxiv.org/abs/2509.25370)]
 * [Oct 2025] **"Inefficiencies of Meta Agents for Agent Design"** [[paper](https://arxiv.org/abs/2510.06711)]
-
+* 📖 [Oct 2025] **"Beyond Pipelines: A Survey of the Paradigm Shift toward Model-Native Agentic AI"** [[paper](https://arxiv.org/abs/2510.16720)]
+* [Oct 2025] **"From Craft to Constitution: A Governance-First Paradigm for Principled Agent Engineering"** [[paper](https://www.arxiv.org/abs/2510.13857)]
 
 ## Multi-Agent
 * [Mar 2023] **"CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society"** [[paper](https://arxiv.org/abs/2303.17760)]
@@ -124,6 +125,7 @@
 * [Oct 2025] **"LLM-based Multi-Agent Blackboard System for Information Discovery in Data Science"** [[paper](https://arxiv.org/abs/2510.01285)]
 * [Oct 2025] **"TUMIX: Multi-Agent Test-Time Scaling with Tool-Use Mixture"** [[paper](https://arxiv.org/abs/2510.01279)]
 * [Oct 2025] **"A Multi-Agent Framework for Stateful Inference-Time Search"** [[paper](https://arxiv.org/abs/2510.07147)]
+* [Oct 2025] **"Fetch.ai: An Architecture for Modern Multi-Agent Systems"** [[paper](https://www.arxiv.org/abs/2510.18699)]
 
 ## Agent Ops & UX & Business
 * [Feb 2024] **"Towards better Human-Agent Alignment: Assessing Task Utility in LLM-Powered Applications"** [[paper](https://arxiv.org/abs/2402.09015)]
@@ -168,3 +170,4 @@
 * [Sep 2025] **"Perspectra: Choosing Your Experts Enhances Critical Thinking in Multi-Agent Research Ideation"** [[paper](https://arxiv.org/abs/2509.20553)]
 * [Sep 2025] **"Agentic Services Computing"** [[paper](https://arxiv.org/abs/2509.24380)]
 * [Oct 2025] **"Agent-in-the-Loop: A Data Flywheel for Continuous Improvement in LLM-based Customer Support"** [[paper](https://arxiv.org/abs/2510.06674)]
+* [Oct 2025] **"What Limits Agentic Systems Efficiency?"** [[paper](https://www.arxiv.org/abs/2510.16276)]

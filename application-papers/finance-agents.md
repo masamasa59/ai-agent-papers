@@ -2,3 +2,4 @@
 * ⚖️ [Aug 2025] **"Finance Agent Benchmark: Benchmarking LLMs on Real-world Financial Research Tasks"** [[paper](https://arxiv.org/abs/2508.00828)]
 * [Sep 2025] **"FinDebate: Multi-Agent Collaborative Intelligence for Financial Analysis"** [[paper](https://arxiv.org/abs/2509.17395)]
 * [Oct 2025] **"GuruAgents: Emulating Wise Investors with Prompt-Guided LLM Agents"** [[paper](https://arxiv.org/abs/2510.01664)]
+* [Oct 2025] **"FinDeepResearch: Evaluating Deep Research Agents in Rigorous Financial Analysis"** [[paper](https://www.arxiv.org/abs/2510.13936)]

@@ -81,3 +81,4 @@
 * [Sep 2025] **"Understanding the Thinking Process of Reasoning Models: A Perspective　from Schoenfeld’s Episode Theory"** [[paper](https://arxiv.org/abs/2509.14662)]
 * [Oct 2025] **"Self-Improving LLM Agents at Test-Time"** [[paper](https://arxiv.org/abs/2510.07841)]
 * [Oct 2025] **"A Multi-Agent Framework for Stateful Inference-Time Search"** [[paper](https://arxiv.org/abs/2510.07147)]
+* [Oct 2025] **"Deep Self-Evolving Reasoning"** [[paper](https://arxiv.org/abs/2510.17498)]

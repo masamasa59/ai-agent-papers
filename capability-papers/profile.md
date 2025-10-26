@@ -38,3 +38,4 @@ These papers discuss profiles that define the roles of agents, including role-pl
 * [Jul 2025] **"Multi-Agent-as-Judge: Aligning LLM-Agent-Based Automated Evaluation with Multi-Dimensional Human Evaluation"** [[paper](https://arxiv.org/abs/2507.21028)]
 * [Sep 2025] **"Psychologically Enhanced AI Agents"** [[paper](https://arxiv.org/abs/2509.04343)]
 * [Sep 2025] **"Are LLM Agents Behaviorally Coherent? Latent Profiles for Social Simulation"** [[paper](https://arxiv.org/abs/2509.03736)]
+* [Sep 2025] **"HugAgent: Evaluating LLMs in Simulating Human-Like Individual Reasoning"** [[paper](https://arxiv.org/abs/2510.15144)]

@@ -81,3 +81,5 @@
 * 📖 [Oct 2025] **"LLM/Agent-as-Data-Analyst: A Survey"** [[paper](https://arxiv.org/abs/2509.23988)]
 * [Oct 2025] **"LLM-based Multi-Agent Blackboard System for Information Discovery in Data Science"** [[paper](https://arxiv.org/abs/2510.01285)]
 * [Oct 2025] **"A Tale of LLMs and Induced Small Proxies: Scalable Agents for Knowledge Mining"** [[paper](https://arxiv.org/abs/2510.01427)]
+* [Oct 2025] **"DeepAnalyze: Agentic Large Language Models for Autonomous Data Science"** [[paper](https://arxiv.org/abs/2510.16872)]
+* [Oct 2025] **"FACTS: Table Summarization via Offline Template Generation with Agentic Workflows"** [[paper](https://www.arxiv.org/abs/2510.13920)]

@@ -85,3 +85,4 @@
 * [Oct 2025] **"Autonomous Agents for Scientific Discovery: Orchestrating Scientists, Language, Code, and Physics"** [[paper](https://arxiv.org/abs/2510.09901)]
 * [Oct 2025] **"SR-Scientist: Scientific Equation Discovery With Agentic AI"** [[paper](https://arxiv.org/abs/2510.11661)]
 * [Oct 2025] **"LLM-REVal: Can We Trust LLM Reviewers Yet?"** [[paper](https://arxiv.org/abs/2510.12367)]
+* [Oct 2025] **"BadScientist: Can a Research Agent Write Convincing but Unsound Papers that Fool LLM Reviewers?"** [[paper](https://arxiv.org/abs/2510.18003)]

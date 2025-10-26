@@ -73,6 +73,12 @@ But can they really replace our jobs?
 * **"LLM-REVal: Can We Trust LLM Reviewers Yet?"** [[paper](https://arxiv.org/abs/2510.12367)]
 * ⚖️ **"Holistic Agent Leaderboard: The Missing Infrastructure for AI Agent Evaluation"** [[paper](https://arxiv.org/abs/2510.11977)]
 * 📖 **"Unifying Tree Search Algorithm and Reward Design for LLM Reasoning: A Survey"** [[paper](https://arxiv.org/abs/2510.09988)]
+* 📖 **"Empowering Real-World: A Survey on the Technology, Practice, and Evaluation of LLM-driven Industry Agents"** [[paper](https://arxiv.org/abs/2510.17491)]
+* 📖 **"Beyond Pipelines: A Survey of the Paradigm Shift toward Model-Native Agentic AI"** [[paper](https://arxiv.org/abs/2510.16720)]
+* **"LLM Agents Beyond Utility: An Open-Ended Perspective"** [[paper](https://arxiv.org/abs/2510.14548)]
+* **"Deep Self-Evolving Reasoning"** [[paper](https://arxiv.org/abs/2510.17498)]
+* 📖 **"A Comprehensive Survey on Reinforcement Learning-based Agentic Search: Foundations, Roles, Optimizations, Evaluations, and Applications"** [[paper](https://arxiv.org/abs/2510.16724)]
+* **"BadScientist: Can a Research Agent Write Convincing but Unsound Papers that Fool LLM Reviewers?"** [[paper](https://arxiv.org/abs/2510.18003)]
 
 ## September Highlights (Updated 28 Sep)
 ### Ideation Task

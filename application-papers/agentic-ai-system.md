@@ -107,3 +107,5 @@ Agents in various tasks such as education, healthcare, and the press.
 * [Oct 2025] **"Agentic Systems in Radiology: Design, Applications, Evaluation, and Challenges"** [[paper](https://arxiv.org/abs/2510.09404)]
 * [Oct 2025] **"Automating Structural Engineering Workflows with Large Language Model Agents"** [[paper](https://arxiv.org/abs/2510.11004)]
 * [Oct 2025] **"Document Intelligence in the Era of Large Language Models: A Survey"** [[paper](https://arxiv.org/abs/2510.13366)]
+* [Oct 2025] **"Human-Agent Collaborative Paper-to-Page Crafting for Under $0.1"** [[paper](https://arxiv.org/abs/2510.19600)]
+* [Oct 2025] **"An Agentic Framework with LLMs for Solving Complex Vehicle Routing Problems"** [[paper](https://www.arxiv.org/abs/2510.16701)]
