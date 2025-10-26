@@ -57,7 +57,7 @@ But can they really replace our jobs?
 - [Awesome LLM-Powered Agent](https://github.com/hyp1231/awesome-llm-powered-agent/)
  - [Awesome LLM agents](https://github.com/kaushikb11/awesome-llm-agents)
 
-## October Highlights (Updated 12 Oct)
+## October Highlights (Updated 26 Oct)
 * **"ACON: Optimizing Context Compression for Long-horizon LLM Agents"** [[paper](https://arxiv.org/abs/2510.00615)]
 * **"Agentic Context Engineering: Evolving Contexts for Self-Improving Language Models"** [[paper](https://arxiv.org/abs/2510.04618)]
 * **"ReasoningBank: Scaling Agent Self-Evolving with Reasoning Memory"** [[paper](https://arxiv.org/abs/2509.25140)]
