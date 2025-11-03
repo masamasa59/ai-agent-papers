@@ -71,3 +71,6 @@
 * [Oct 2025] **"Deep Self-Evolving Reasoning"** [[paper](https://arxiv.org/abs/2510.17498)]
 * 📖 [Oct 2025] **"A Comprehensive Survey on Reinforcement Learning-based Agentic Search: Foundations, Roles, Optimizations, Evaluations, and Applications"** [[paper](https://arxiv.org/abs/2510.16724)]
 * [Oct 2025] **"EvolveR: Self-Evolving LLM Agents through an Experience-Driven Lifecycle"** [[paper](https://www.arxiv.org/abs/2510.16079)]
+* [Oct 2025] **"Agent Data Protocol: Unifying Datasets for Diverse, Effective Fine-tuning of LLM Agents"** [[paper](https://arxiv.org/abs/2510.24702)]
+* [Oct 2025] **"Reasoning-Aware GRPO using Process Mining"** [[paper](https://arxiv.org/abs/2510.25065)]
+* [Oct 2025] **"The Era of Agentic Organization: Learning to Organize with Language Models"** [[paper](https://arxiv.org/abs/2510.26658)]

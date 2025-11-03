@@ -17,6 +17,7 @@ These papers discuss the perceptual abilities that enable agents to understand t
 * [Nov 2024] **"Needle Threading: Can LLMs Follow Threads through Near-Million-Scale Haystacks?"** [[paper](https://arxiv.org/abs/2411.05000)]
 * [Nov 2024] **"IntentGPT: Few-shot Intent Discovery with Large Language Models"** [[paper](https://arxiv.org/abs/2411.10670)]
 * [Oct 2025] **"Scaling Long-Horizon LLM Agent via Context-Folding"** [[paper](https://arxiv.org/abs/2510.11967)]
+* [Oct 2025] **"Model-Document Protocol for AI Search"** [[paper](https://www.arxiv.org/abs/2510.25160)]
 
 ### Image
 * ⚖️ [Feb 2024] **"PCA-Bench: Evaluating Multimodal Large Language Models in Perception-Cognition-Action Chain"** [[paper](https://arxiv.org/abs/2402.15527)]

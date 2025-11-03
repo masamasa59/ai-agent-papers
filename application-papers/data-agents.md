@@ -83,3 +83,4 @@
 * [Oct 2025] **"A Tale of LLMs and Induced Small Proxies: Scalable Agents for Knowledge Mining"** [[paper](https://arxiv.org/abs/2510.01427)]
 * [Oct 2025] **"DeepAnalyze: Agentic Large Language Models for Autonomous Data Science"** [[paper](https://arxiv.org/abs/2510.16872)]
 * [Oct 2025] **"FACTS: Table Summarization via Offline Template Generation with Agentic Workflows"** [[paper](https://www.arxiv.org/abs/2510.13920)]
+* 📖 [Oct 2025] **"A Survey of Data Agents: Emerging Paradigm or Overstated Hype?"** [[paper](https://arxiv.org/abs/2510.23587)]

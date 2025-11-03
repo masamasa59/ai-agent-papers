@@ -60,3 +60,4 @@
 * ⚖️ [Sep 2025] **"SWE-Bench Pro: Can AI Agents Solve Long-Horizon Software Engineering Tasks?"** [[paper](https://arxiv.org/abs/2509.16941)]
 * [Sep 2025] **"Devstral: Fine-tuning Language Models for Coding Agent Applications"** [[paper](https://arxiv.org/abs/2509.25193)]
 * [Oct 2025] **"Improving Code Localization with Repository Memory"** [[paper](https://arxiv.org/abs/2510.01003)]
+* [Oct 2025] **"Code Aesthetics with Agentic Reward Feedback"** [[paper](https://arxiv.org/abs/2510.23272)]

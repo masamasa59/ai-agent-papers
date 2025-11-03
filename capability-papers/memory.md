@@ -59,3 +59,5 @@ These papers discuss an agent’s memory function and its self-evolution.
 * [Oct 2025] **"ACON: Optimizing Context Compression for Long-horizon LLM Agents"** [[paper](https://arxiv.org/abs/2510.00615)]
 * [Oct 2025] **"Memory as Action: Autonomous Context Curation for Long-Horizon Agentic Tasks"** [[paper](https://arxiv.org/abs/2510.12635)]
 * [Oct 2025] **"AUGUSTUS: An LLM-Driven Multimodal Agent System with Contextualized User Memory"** [[paper](https://arxiv.org/abs/2510.15261)]
+* [Oct 2025] **"Evaluating Long-Term Memory for Long-Context Question Answering"** [[paper](https://arxiv.org/abs/2510.23730)]
+* [Oct 2025] **"AgentFold: Long-Horizon Web Agents with Proactive Context Management"** [[paper](https://arxiv.org/abs/2510.24699)]

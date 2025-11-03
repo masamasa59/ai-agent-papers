@@ -58,3 +58,4 @@
 * ⚖️ [Sep 2025] **"AgentArch: A Comprehensive Benchmark to Evaluate Agent Architectures in Enterprise"** [[paper](https://www.arxiv.org/abs/2509.10769)]
 * ⚖️ [Sep 2025] **"ManagerBench: Evaluating the Safety-Pragmatism Trade-off in Autonomous LLMs"** [[paper](https://arxiv.org/abs/2510.00857)]
 * ⚖️ [Oct 2025] **"Holistic Agent Leaderboard: The Missing Infrastructure for AI Agent Evaluation"** [[paper](https://arxiv.org/abs/2510.11977)]
+* [Oct 2025] **"Automating Benchmark Design"** [[paper](https://www.arxiv.org/abs/2510.25039)]

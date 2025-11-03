@@ -8,3 +8,5 @@
 * [Sep 2025] **"TusoAI: Agentic Optimization for Scientific Methods"** [[paper](https://arxiv.org/abs/2509.23986)]
 * [Sep 2025] **"CreAgentive: An Agent Workflow Driven Multi-Category Creative Generation Engine"** [[paper](https://arxiv.org/abs/2509.26461)]
 * [Sep 2025] **"Toward Systems Foundations for Agentic Exploration"** [[paper](https://arxiv.org/abs/2510.05556)]
+* [Oct 2025] **"Idea2Plan: Exploring AI-Powered Research Planning"** [[paper](https://www.arxiv.org/abs/2510.24891)]
+* [Oct 2025] **"Automating Benchmark Design"** [[paper](https://www.arxiv.org/abs/2510.25039)]

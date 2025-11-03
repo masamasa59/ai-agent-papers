@@ -91,6 +91,8 @@
 * [Oct 2025] **"Inefficiencies of Meta Agents for Agent Design"** [[paper](https://arxiv.org/abs/2510.06711)]
 * 📖 [Oct 2025] **"Beyond Pipelines: A Survey of the Paradigm Shift toward Model-Native Agentic AI"** [[paper](https://arxiv.org/abs/2510.16720)]
 * [Oct 2025] **"From Craft to Constitution: A Governance-First Paradigm for Principled Agent Engineering"** [[paper](https://www.arxiv.org/abs/2510.13857)]
+* [Oct 2025] **"DeepAgent: A General Reasoning Agent with Scalable Toolsets"** [[paper](https://arxiv.org/abs/2510.21618)]
+* [Oct 2025] **"The FM Agent"** [[paper](https://arxiv.org/abs/2510.26144v1)]
 
 ## Multi-Agent
 * [Mar 2023] **"CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society"** [[paper](https://arxiv.org/abs/2303.17760)]
@@ -126,6 +128,7 @@
 * [Oct 2025] **"TUMIX: Multi-Agent Test-Time Scaling with Tool-Use Mixture"** [[paper](https://arxiv.org/abs/2510.01279)]
 * [Oct 2025] **"A Multi-Agent Framework for Stateful Inference-Time Search"** [[paper](https://arxiv.org/abs/2510.07147)]
 * [Oct 2025] **"Fetch.ai: An Architecture for Modern Multi-Agent Systems"** [[paper](https://www.arxiv.org/abs/2510.18699)]
+* [Oct 2025] **"The Era of Agentic Organization: Learning to Organize with Language Models"** [[paper](https://arxiv.org/abs/2510.26658)]
 
 ## Agent Ops & UX & Business
 * [Feb 2024] **"Towards better Human-Agent Alignment: Assessing Task Utility in LLM-Powered Applications"** [[paper](https://arxiv.org/abs/2402.09015)]
@@ -171,3 +174,4 @@
 * [Sep 2025] **"Agentic Services Computing"** [[paper](https://arxiv.org/abs/2509.24380)]
 * [Oct 2025] **"Agent-in-the-Loop: A Data Flywheel for Continuous Improvement in LLM-based Customer Support"** [[paper](https://arxiv.org/abs/2510.06674)]
 * [Oct 2025] **"What Limits Agentic Systems Efficiency?"** [[paper](https://www.arxiv.org/abs/2510.16276)]
+* [Oct 2025] **"Magentic Marketplace: An Open-Source Environment for Studying Agentic Markets"** [[paper](https://arxiv.org/abs/2510.25779)]

@@ -57,28 +57,42 @@ But can they really replace our jobs?
 - [Awesome LLM-Powered Agent](https://github.com/hyp1231/awesome-llm-powered-agent/)
  - [Awesome LLM agents](https://github.com/kaushikb11/awesome-llm-agents)
 
-## October Highlights (Updated 26 Oct)
+## October Highlights (Updated 31 Oct)
+### Context Engineering
 * **"ACON: Optimizing Context Compression for Long-horizon LLM Agents"** [[paper](https://arxiv.org/abs/2510.00615)]
 * **"Agentic Context Engineering: Evolving Contexts for Self-Improving Language Models"** [[paper](https://arxiv.org/abs/2510.04618)]
+* **"AgentFold: Long-Horizon Web Agents with Proactive Context Management"** [[paper](https://arxiv.org/abs/2510.24699)]
+* **"Memory as Action: Autonomous Context Curation for Long-Horizon Agentic Tasks"** [[paper](https://arxiv.org/abs/2510.12635)]
+
+### Experience based Self-Evolving Agents
 * **"ReasoningBank: Scaling Agent Self-Evolving with Reasoning Memory"** [[paper](https://arxiv.org/abs/2509.25140)]
 * **"Learning on the Job: An Experience-Driven, Self-Evolving Agent for Long-Horizon Tasks"** [[paper](https://arxiv.org/abs/2510.08002)]
-* **"Your Agent May Misevolve: Emergent Risks in Self-evolving LLM Agents"** [[paper](https://arxiv.org/abs/2509.26354)]
 * **"Where LLM Agents Fail and How They Can Learn From Failures"** [[paper](https://arxiv.org/abs/2509.25370)]
+* **"MGA: Memory-Driven GUI Agent for Observation-Centric Interaction"** [[paper](https://arxiv.org/abs/2510.24168)]
+* **"Your Agent May Misevolve: Emergent Risks in Self-evolving LLM Agents"** [[paper](https://arxiv.org/abs/2509.26354)]
+* **"The FM Agent"** [[paper](https://arxiv.org/abs/2510.26144v1)]
+* **"Deep Self-Evolving Reasoning"** [[paper](https://arxiv.org/abs/2510.17498)]
 * **"AlphaApollo: Orchestrating Foundation Models and Professional Tools into a Self-Evolving System for Deep Agentic Reasoning"** [[paper](https://arxiv.org/abs/2510.06261)]
 * **"Scientific Algorithm Discovery by Augmenting AlphaEvolve with Deep Research"** [[paper](https://arxiv.org/abs/2510.06056)]
+
+### Others
 * **"Artificially intelligent agents in the social and behavioral sciences: A history and outlook"** [[paper](https://arxiv.org/abs/2510.05743)]
 * **"Agentic Services Computing"** [[paper](https://arxiv.org/abs/2509.24380)]
 * **"Don’t Just Fine-tune the Agent, Tune the Environment"** [[paper](https://arxiv.org/abs/2510.10197)]
-* **"Memory as Action: Autonomous Context Curation for Long-Horizon Agentic Tasks"** [[paper](https://arxiv.org/abs/2510.12635)]
 * **"LLM-REVal: Can We Trust LLM Reviewers Yet?"** [[paper](https://arxiv.org/abs/2510.12367)]
 * ⚖️ **"Holistic Agent Leaderboard: The Missing Infrastructure for AI Agent Evaluation"** [[paper](https://arxiv.org/abs/2510.11977)]
+* **"LLM Agents Beyond Utility: An Open-Ended Perspective"** [[paper](https://arxiv.org/abs/2510.14548)]
+* **"BadScientist: Can a Research Agent Write Convincing but Unsound Papers that Fool LLM Reviewers?"** [[paper](https://arxiv.org/abs/2510.18003)]
+* **"Idea2Plan: Exploring AI-Powered Research Planning"** [[paper](https://www.arxiv.org/abs/2510.24891)]
+* **"Model-Document Protocol for AI Search"** [[paper](https://www.arxiv.org/abs/2510.25160)]
+* **"Magentic Marketplace: An Open-Source Environment for Studying Agentic Markets"** [[paper](https://arxiv.org/abs/2510.25779)]
+
+### Surveys
+* 📖 **"A Comprehensive Survey on Reinforcement Learning-based Agentic Search: Foundations, Roles, Optimizations, Evaluations, and Applications"** [[paper](https://arxiv.org/abs/2510.16724)]
 * 📖 **"Unifying Tree Search Algorithm and Reward Design for LLM Reasoning: A Survey"** [[paper](https://arxiv.org/abs/2510.09988)]
 * 📖 **"Empowering Real-World: A Survey on the Technology, Practice, and Evaluation of LLM-driven Industry Agents"** [[paper](https://arxiv.org/abs/2510.17491)]
 * 📖 **"Beyond Pipelines: A Survey of the Paradigm Shift toward Model-Native Agentic AI"** [[paper](https://arxiv.org/abs/2510.16720)]
-* **"LLM Agents Beyond Utility: An Open-Ended Perspective"** [[paper](https://arxiv.org/abs/2510.14548)]
-* **"Deep Self-Evolving Reasoning"** [[paper](https://arxiv.org/abs/2510.17498)]
-* 📖 **"A Comprehensive Survey on Reinforcement Learning-based Agentic Search: Foundations, Roles, Optimizations, Evaluations, and Applications"** [[paper](https://arxiv.org/abs/2510.16724)]
-* **"BadScientist: Can a Research Agent Write Convincing but Unsound Papers that Fool LLM Reviewers?"** [[paper](https://arxiv.org/abs/2510.18003)]
+* 📖 **"A Survey of Data Agents: Emerging Paradigm or Overstated Hype?"** [[paper](https://arxiv.org/abs/2510.23587)]
 
 ## September Highlights (Updated 28 Sep)
 ### Ideation Task

@@ -72,3 +72,4 @@
 * [Oct 2025] **"Understanding DeepResearch via Reports"** [[paper](https://arxiv.org/abs/2510.07861)]
 * [Oct 2025] **"DEEPPLANNER: Scaling Planning Capability for Deep Research Agents via Advantage Shaping"** [[paper](https://arxiv.org/abs/2510.12979)]
 * [Oct 2025] **"Search Self-play: Pushing the Frontier of Agent Capability without Supervision"** [[paper](https://arxiv.org/abs/2510.18821)]
+* [Oct 2025] **"Model-Document Protocol for AI Search"** [[paper](https://www.arxiv.org/abs/2510.25160)]

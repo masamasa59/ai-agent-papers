@@ -91,3 +91,6 @@
 * [Oct 2025] **"LLM Agents Beyond Utility: An Open-Ended Perspective"** [[paper](https://arxiv.org/abs/2510.14548)]
 * [Oct 2025] **"CodeEvolve: An Open Source Evolutionary Coding Agent for Algorithm Discovery and Optimization"** [[paper](https://arxiv.org/abs/2510.14150)]
 * [Oct 2025] **"Towards Agentic Self-Learning LLMs in Search Environment"** [[paper](https://www.arxiv.org/abs/2510.14253)]
+* [Oct 2025] **"Multi-Agent Evolve: LLM Self-Improve through Co-evolution"** [[paper](https://arxiv.org/abs/2510.23595)]
+* [Oct 2025] **"ALITA-G: Self-Evolving Generative Agent for Agent Generation"** [[paper](https://arxiv.org/abs/2510.23601)]
+* [Oct 2025] **"The FM Agent"** [[paper](https://arxiv.org/abs/2510.26144v1)]
