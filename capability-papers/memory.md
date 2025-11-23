@@ -61,3 +61,7 @@ These papers discuss an agent’s memory function and its self-evolution.
 * [Oct 2025] **"AUGUSTUS: An LLM-Driven Multimodal Agent System with Contextualized User Memory"** [[paper](https://arxiv.org/abs/2510.15261)]
 * [Oct 2025] **"Evaluating Long-Term Memory for Long-Context Question Answering"** [[paper](https://arxiv.org/abs/2510.23730)]
 * [Oct 2025] **"AgentFold: Long-Horizon Web Agents with Proactive Context Management"** [[paper](https://arxiv.org/abs/2510.24699)]
+* [Nov 2025] **"LiCoMemory: Lightweight and Cognitive Agentic Memory for Efficient Long-Term Reasoning"** [[paper](https://arxiv.org/abs/2511.01448v1)]
+* [Nov 2025] **"HaluMem: Evaluating Hallucinations in Memory Systems of Agents"** [[paper](https://arxiv.org/abs/2511.03506v2)]
+* [Nov 2025] **"O-Mem: Omni Memory System for Personalized, Long Horizon, Self-Evolving Agents"** [[paper](https://arxiv.org/abs/2511.13593v2)]
+* [Nov 2025] **"Procedural Knowledge Improves Agentic LLM Workflows"** [[paper](https://arxiv.org/abs/2511.07568v1)]

@@ -38,6 +38,7 @@
 * [May 2025] **"Revisiting Multi-Agent Debate as Test-Time Scaling: A Systematic Study of Conditional Effectiveness"** [[paper](https://www.arxiv.org/abs/2505.22960)]
 * [Jul 2025] **"Foundation Model Self-Play: Open-Ended Strategy Innovation via Foundation Models"** [[paper](https://arxiv.org/abs/2507.06466)]
 * [Sep 2025] **"MALLM: Multi-Agent Large Language Models Framework"** [[paper](https://arxiv.org/abs/2509.11656)]
+* [Nov 2025] **"Can LLM Agents Really Debate? A Controlled Study of Multi-Agent Debate in Logical Reasoning"** [[paper](https://arxiv.org/abs/2511.07784v1)]
 
 ### Problem Solving
 * [Mar 2023] **"CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society"** [[paper](https://arxiv.org/abs/2303.17760)]
@@ -93,6 +94,8 @@
 * [Jul 2025] **"Towards Cognitive Synergy in LLM-Based Multi-Agent Systems: Integrating Theory of Mind and Critical Evaluation"** [[paper](https://arxiv.org/abs/2507.21969)]
 * [Sep 2025] **"CrowdAgent: Multi-Agent Managed Multi-Source Annotation System"** [[paper](https://arxiv.org/abs/2509.14030)]
 * [Oct 2025] **"TACOS: Task Agnostic COordinator of a multi-drone System"** [[paper](https://arxiv.org/abs/2510.01869)]
+* [Nov 2025] **"Detecting Silent Failures in Multi-Agentic AI Trajectories"** [[paper](https://arxiv.org/abs/2511.04032v1)]
+* [Nov 2025] **"The Collaboration Gap"** [[paper](https://arxiv.org/abs/2511.02687v1)]
 
 ### World Simulation
 * [Apr 2023] **"Generative agents: Interactive simulacra of human behavior"** [[paper](https://arxiv.org/abs/2304.03442)]

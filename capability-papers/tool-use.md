@@ -86,3 +86,4 @@ These papers discuss whether or not agents can properly use tools
 * [Oct 2025] **"ToolLibGen: Scalable Automatic Tool Creation and Aggregation for LLM Reasoning"** [[paper](https://arxiv.org/abs/2510.07768)]
 * [Oct 2025] **"TheMCPCompany: Creating General-purpose Agents with Task-specific Tools"** [[paper](https://arxiv.org/abs/2510.19286)]
 * [Oct 2025] **"Incentivizing Agentic Reasoning in LLM Judges via Tool-Integrated Reinforcement Learning"** [[paper](https://arxiv.org/abs/2510.23038)]
+* [Nov 2025] **"Agent0: Unleashing Self-Evolving Agents from Zero Data via Tool-Integrated Reasoning"** [[paper](https://arxiv.org/abs/2511.16043v1)]

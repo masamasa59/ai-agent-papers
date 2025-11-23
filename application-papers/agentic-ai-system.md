@@ -109,3 +109,6 @@ Agents in various tasks such as education, healthcare, and the press.
 * [Oct 2025] **"Document Intelligence in the Era of Large Language Models: A Survey"** [[paper](https://arxiv.org/abs/2510.13366)]
 * [Oct 2025] **"Human-Agent Collaborative Paper-to-Page Crafting for Under $0.1"** [[paper](https://arxiv.org/abs/2510.19600)]
 * [Oct 2025] **"An Agentic Framework with LLMs for Solving Complex Vehicle Routing Problems"** [[paper](https://www.arxiv.org/abs/2510.16701)]
+* [Oct 2025] **"Glia: A Human-Inspired AI for Automated Systems Design and Optimization"** [[paper](https://arxiv.org/abs/2510.27176v3)]
+* [Nov 2025] **"From LLMs to Agents: A Comparative Evaluation of LLMs and LLM-based Agents in Security Patch Detection"** [[paper](https://arxiv.org/abs/2511.08060v1)]
+* [Nov 2025] **"AIA Forecaster: Technical Report"** [[paper](https://arxiv.org/abs/2511.07678v1)]

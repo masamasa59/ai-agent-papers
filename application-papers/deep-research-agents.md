@@ -73,3 +73,4 @@
 * [Oct 2025] **"DEEPPLANNER: Scaling Planning Capability for Deep Research Agents via Advantage Shaping"** [[paper](https://arxiv.org/abs/2510.12979)]
 * [Oct 2025] **"Search Self-play: Pushing the Frontier of Agent Capability without Supervision"** [[paper](https://arxiv.org/abs/2510.18821)]
 * [Oct 2025] **"Model-Document Protocol for AI Search"** [[paper](https://www.arxiv.org/abs/2510.25160)]
+* ⚖️ [Nov 2025] **"RESEARCHRUBRICS: A Benchmark of Prompts and Rubrics For Evaluating Deep Research Agents"** [[paper](https://arxiv.org/abs/2511.07685v1)]

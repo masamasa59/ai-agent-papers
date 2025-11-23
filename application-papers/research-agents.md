@@ -87,3 +87,5 @@
 * [Oct 2025] **"LLM-REVal: Can We Trust LLM Reviewers Yet?"** [[paper](https://arxiv.org/abs/2510.12367)]
 * [Oct 2025] **"BadScientist: Can a Research Agent Write Convincing but Unsound Papers that Fool LLM Reviewers?"** [[paper](https://arxiv.org/abs/2510.18003)]
 * [Oct 2025] **"Idea2Plan: Exploring AI-Powered Research Planning"** [[paper](https://www.arxiv.org/abs/2510.24891)]
+* [Nov 2025] **"AlphaResearch: Accelerating New Algorithm Discovery with Language Models"** [[paper](https://arxiv.org/abs/2511.08522v1)]
+* 📖 [Nov 2025] **"Large Language Models for Scientific Idea Generation: A Creativity-Centered Survey"** [[paper](https://arxiv.org/abs/2511.07448v1)]

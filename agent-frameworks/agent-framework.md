@@ -93,6 +93,7 @@
 * [Oct 2025] **"From Craft to Constitution: A Governance-First Paradigm for Principled Agent Engineering"** [[paper](https://www.arxiv.org/abs/2510.13857)]
 * [Oct 2025] **"DeepAgent: A General Reasoning Agent with Scalable Toolsets"** [[paper](https://arxiv.org/abs/2510.21618)]
 * [Oct 2025] **"The FM Agent"** [[paper](https://arxiv.org/abs/2510.26144v1)]
+* 📖 [Oct 2025] **"Context Engineering 2.0: The Context of Context Engineering"** [[paper](https://arxiv.org/abs/2510.26493v1)]
 
 ## Multi-Agent
 * [Mar 2023] **"CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society"** [[paper](https://arxiv.org/abs/2303.17760)]
@@ -175,3 +176,4 @@
 * [Oct 2025] **"Agent-in-the-Loop: A Data Flywheel for Continuous Improvement in LLM-based Customer Support"** [[paper](https://arxiv.org/abs/2510.06674)]
 * [Oct 2025] **"What Limits Agentic Systems Efficiency?"** [[paper](https://www.arxiv.org/abs/2510.16276)]
 * [Oct 2025] **"Magentic Marketplace: An Open-Source Environment for Studying Agentic Markets"** [[paper](https://arxiv.org/abs/2510.25779)]
+* [Nov 2025] **"Detecting Silent Failures in Multi-Agentic AI Trajectories"** [[paper](https://arxiv.org/abs/2511.04032v1)]

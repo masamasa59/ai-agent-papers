@@ -74,3 +74,8 @@
 * [Oct 2025] **"Agent Data Protocol: Unifying Datasets for Diverse, Effective Fine-tuning of LLM Agents"** [[paper](https://arxiv.org/abs/2510.24702)]
 * [Oct 2025] **"Reasoning-Aware GRPO using Process Mining"** [[paper](https://arxiv.org/abs/2510.25065)]
 * [Oct 2025] **"The Era of Agentic Organization: Learning to Organize with Language Models"** [[paper](https://arxiv.org/abs/2510.26658)]
+* [Nov 2025] **"Simulating Environments with Reasoning Models for Agent Training"** [[paper](https://arxiv.org/abs/2511.01824v1)]
+* [Nov 2025] **"VisPlay: Self-Evolving Vision-Language Models from Images"** [[paper](https://arxiv.org/abs/2511.15661v2)]
+* [Nov 2025] **"Agent0: Unleashing Self-Evolving Agents from Zero Data via Tool-Integrated Reasoning"** [[paper](https://arxiv.org/abs/2511.16043v1)]
+* [Nov 2025] **"Agent-R1: Training Powerful LLM Agents with End-to-End Reinforcement Learning"** [[paper](https://arxiv.org/abs/2511.16043v1)]
+* [Nov 2025] **"Scaling Agent Learning via Experience Synthesis"** [[paper](https://arxiv.org/abs/2511.03773v2)]

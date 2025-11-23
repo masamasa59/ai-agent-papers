@@ -65,3 +65,4 @@
 * [Sep 2025] **"Self-Improving Embodied Foundation Models"** [[paper](https://arxiv.org/abs/2509.15155)]
 * [Oct 2025] **"TACOS: Task Agnostic COordinator of a multi-drone System"** [[paper](https://arxiv.org/abs/2510.01869)]
 * 📖 [Oct 2025] **"The Safety Challenge of World Models for Embodied AI Agents: A Review"** [[paper](https://arxiv.org/abs/2510.05865)]
+* 📖 [Nov 2025] **"10 Open Challenges Steering the Future of Vision-Language-Action Models"** [[paper](https://arxiv.org/abs/2511.05936v1)]

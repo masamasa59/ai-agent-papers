@@ -82,3 +82,5 @@
 * [Oct 2025] **"Self-Improving LLM Agents at Test-Time"** [[paper](https://arxiv.org/abs/2510.07841)]
 * [Oct 2025] **"A Multi-Agent Framework for Stateful Inference-Time Search"** [[paper](https://arxiv.org/abs/2510.07147)]
 * [Oct 2025] **"Deep Self-Evolving Reasoning"** [[paper](https://arxiv.org/abs/2510.17498)]
+* [Nov 2025] **"OpenSIR: Open-Ended Self-Improving Reasoner"** [[paper](https://arxiv.org/abs/2511.00602v1)]
+* [Nov 2025] **"Solving a Million-Step LLM Task with Zero Errors"** [[paper](https://arxiv.org/abs/2511.09030v1)]

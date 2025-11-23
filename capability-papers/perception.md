@@ -18,6 +18,7 @@ These papers discuss the perceptual abilities that enable agents to understand t
 * [Nov 2024] **"IntentGPT: Few-shot Intent Discovery with Large Language Models"** [[paper](https://arxiv.org/abs/2411.10670)]
 * [Oct 2025] **"Scaling Long-Horizon LLM Agent via Context-Folding"** [[paper](https://arxiv.org/abs/2510.11967)]
 * [Oct 2025] **"Model-Document Protocol for AI Search"** [[paper](https://www.arxiv.org/abs/2510.25160)]
+* 📖 [Oct 2025] **"Context Engineering 2.0: The Context of Context Engineering"** [[paper](https://arxiv.org/abs/2510.26493v1)]
 
 ### Image
 * ⚖️ [Feb 2024] **"PCA-Bench: Evaluating Multimodal Large Language Models in Perception-Cognition-Action Chain"** [[paper](https://arxiv.org/abs/2402.15527)]

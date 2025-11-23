@@ -54,6 +54,7 @@
 * [Oct 2025] **"MGA: Memory-Driven GUI Agent for Observation-Centric Interaction"** [[paper](https://arxiv.org/abs/2510.24168)]
 * [Oct 2025] **"UltraCUA: A Foundation Model for Computer Use Agents with Hybrid Action"** [[paper](https://arxiv.org/abs/2510.17790)]
 * [Oct 2025] **"ColorAgent: Building A Robust, Personalized, and Interactive OS Agent"** [[paper](https://arxiv.org/abs/2510.19386)]
+* [Nov 2025] **"UFO3: Weaving the Digital Agent Galaxy"** [[paper](https://arxiv.org/abs/2511.11332v1)]
 
 ### Web Agents
 * ⚖️ [Jul 2022] **"WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents"** [[paper](https://arxiv.org/abs/2207.01206)]

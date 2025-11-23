@@ -57,12 +57,31 @@ But can they really replace our jobs?
 - [Awesome LLM-Powered Agent](https://github.com/hyp1231/awesome-llm-powered-agent/)
  - [Awesome LLM agents](https://github.com/kaushikb11/awesome-llm-agents)
 
+## November Highlights (Updated 23 Nov)
+
+### Self-Evolving Agents
+* **"VisPlay: Self-Evolving Vision-Language Models from Images"** [[paper](https://arxiv.org/abs/2511.15661v2)]
+* **"Agent-R1: Training Powerful LLM Agents with End-to-End Reinforcement Learning"** [[paper](https://arxiv.org/abs/2511.16043v1)]
+* **"LIVE-SWE-AGENT: Can Software Engineering Agents Self-Evolve on the Fly?"** [[paper](https://arxiv.org/abs/2511.13998v1)]
+* **"AgentEvolver: Towards Efficient Self-Evolving Agent System"** [[paper](https://arxiv.org/abs/2511.10395v1)]
+* 📖 **"Scaling Environments for LLM Agents in the Era of Learning from Interaction: A Survey"** [[paper](https://arxiv.org/abs/2511.09586v1)]
+* **"Real-Time Reasoning Agents in Evolving Environments"** [[paper](https://arxiv.org/abs/2511.04898v1)]
+* **"FLEX: Continuous Agent Evolution via Forward Learning from Experience"** [[paper](https://arxiv.org/abs/2511.06449v1)]
+
+### Agent Tuning
+* **"Simulating Environments with Reasoning Models for Agent Training"** [[paper](https://arxiv.org/abs/2511.01824v1)]
+* **"VisPlay: Self-Evolving Vision-Language Models from Images"** [[paper](https://arxiv.org/abs/2511.15661v2)]
+* **"Agent0: Unleashing Self-Evolving Agents from Zero Data via Tool-Integrated Reasoning"** [[paper](https://arxiv.org/abs/2511.16043v1)]
+* **"Agent-R1: Training Powerful LLM Agents with End-to-End Reinforcement Learning"** [[paper](https://arxiv.org/abs/2511.16043v1)]
+* **"Scaling Agent Learning via Experience Synthesis"** [[paper](https://arxiv.org/abs/2511.03773v2)]
+
 ## October Highlights (Updated 31 Oct)
 ### Context Engineering
 * **"ACON: Optimizing Context Compression for Long-horizon LLM Agents"** [[paper](https://arxiv.org/abs/2510.00615)]
 * **"Agentic Context Engineering: Evolving Contexts for Self-Improving Language Models"** [[paper](https://arxiv.org/abs/2510.04618)]
 * **"AgentFold: Long-Horizon Web Agents with Proactive Context Management"** [[paper](https://arxiv.org/abs/2510.24699)]
 * **"Memory as Action: Autonomous Context Curation for Long-Horizon Agentic Tasks"** [[paper](https://arxiv.org/abs/2510.12635)]
+* 📖 **"Context Engineering 2.0: The Context of Context Engineering"** [[paper](https://arxiv.org/abs/2510.26493v1)]
 
 ### Experience based Self-Evolving Agents
 * **"ReasoningBank: Scaling Agent Self-Evolving with Reasoning Memory"** [[paper](https://arxiv.org/abs/2509.25140)]

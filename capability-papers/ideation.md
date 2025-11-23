@@ -10,3 +10,6 @@
 * [Sep 2025] **"Toward Systems Foundations for Agentic Exploration"** [[paper](https://arxiv.org/abs/2510.05556)]
 * [Oct 2025] **"Idea2Plan: Exploring AI-Powered Research Planning"** [[paper](https://www.arxiv.org/abs/2510.24891)]
 * [Oct 2025] **"Automating Benchmark Design"** [[paper](https://www.arxiv.org/abs/2510.25039)]
+* [Nov 2025] **"AlphaResearch: Accelerating New Algorithm Discovery with Language Models"** [[paper](https://arxiv.org/abs/2511.08522v1)]
+* [Nov 2025] **"Deep Ideation: Designing LLM Agents to Generate Novel Research Ideas on Scientific Concept Network"** [[paper](https://arxiv.org/abs/2511.02238v1)]
+* 📖 [Nov 2025] **"Large Language Models for Scientific Idea Generation: A Creativity-Centered Survey"** [[paper](https://arxiv.org/abs/2511.07448v1)]
