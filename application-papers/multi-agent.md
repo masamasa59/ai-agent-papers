@@ -143,3 +143,4 @@
 * [Sep 2025] **"Simulating Dispute Mediation with LLM-Based Agents for Legal Research"** [[paper](https://arxiv.org/abs/2509.06586)]
 * [Sep 2025] **"MAS^2: Self-Generative, Self-Configuring, Self-Rectifying Multi-Agent Systems"** [[paper](https://arxiv.org/abs/2509.24323)]
 * [Sep 2025] **"AgenTracer: Who Is Inducing Failure in the LLM Agentic Systems?"** [[paper](https://arxiv.org/abs/2509.03312)]
+* [Dec 2025] **"SimWorld: AnOpen-endedRealistic Simulator for AutonomousAgents in Physical andSocial Worlds"** [[paper](https://arxiv.org/abs/2512.01078v1)]

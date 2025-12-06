@@ -13,3 +13,6 @@
 * [Nov 2025] **"AlphaResearch: Accelerating New Algorithm Discovery with Language Models"** [[paper](https://arxiv.org/abs/2511.08522v1)]
 * [Nov 2025] **"Deep Ideation: Designing LLM Agents to Generate Novel Research Ideas on Scientific Concept Network"** [[paper](https://arxiv.org/abs/2511.02238v1)]
 * 📖 [Nov 2025] **"Large Language Models for Scientific Idea Generation: A Creativity-Centered Survey"** [[paper](https://arxiv.org/abs/2511.07448v1)]
+* ⚖️ [Nov 2025] **"InsightEval: An Expert-Curated Benchmark for Assessing Insight Discovery in LLM-Driven Data Agents"** [[paper](https://www.arxiv.org/abs/2511.22884)]
+* [Dec 2025] **"Evaluating Generalization Capabilities of LLM-Based Agents in Mixed-Motive Scenarios Using Concordia"** [[paper](https://arxiv.org/abs/2512.03318v1)]
+* ⚖️ [Dec 2025] **"InnoGym: Benchmarking the Innovation Potential of AI Agents"** [[paper](https://arxiv.org/abs/2512.01822v1)]

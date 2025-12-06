@@ -55,6 +55,7 @@
 * [Oct 2025] **"UltraCUA: A Foundation Model for Computer Use Agents with Hybrid Action"** [[paper](https://arxiv.org/abs/2510.17790)]
 * [Oct 2025] **"ColorAgent: Building A Robust, Personalized, and Interactive OS Agent"** [[paper](https://arxiv.org/abs/2510.19386)]
 * [Nov 2025] **"UFO3: Weaving the Digital Agent Galaxy"** [[paper](https://arxiv.org/abs/2511.11332v1)]
+* [Nov 2025] **"Computer-Use Agents as Judges for Generative User Interface"** [[paper](https://arxiv.org/abs/2511.15567v1)]
 
 ### Web Agents
 * ⚖️ [Jul 2022] **"WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents"** [[paper](https://arxiv.org/abs/2207.01206)]
@@ -98,7 +99,7 @@
 * [Sep 2025] **"Recon-Act: A Self-Evolving Multi-Agent Browser-Use System via Web Reconnaissance, Tool Generation, and Task Execution"** [[paper](https://arxiv.org/abs/2509.21072)]
 * [Sep 2025] **"WALT: Web Agents that Learn Tools"** [[paper](https://arxiv.org/abs/2510.01524)]
 * [Sep 2025] **"Just Do It!? Computer-Use Agents Exhibit Blind Goal-Directedness"** [[paper](https://arxiv.org/abs/2510.01670)]
-
+* [Dec 2025] **"Evaluating Long-Context Reasoning in LLM-Based WebAgents"** [[paper](https://arxiv.org/abs/2512.04307v1)]
 
 ### Mobile Agents
 * [Aug 2023] **"AutoDroid: LLM-powered Task Automation in Android"** [[paper](https://arxiv.org/abs/2308.15272)]

@@ -65,3 +65,6 @@ These papers discuss an agent’s memory function and its self-evolution.
 * [Nov 2025] **"HaluMem: Evaluating Hallucinations in Memory Systems of Agents"** [[paper](https://arxiv.org/abs/2511.03506v2)]
 * [Nov 2025] **"O-Mem: Omni Memory System for Personalized, Long Horizon, Self-Evolving Agents"** [[paper](https://arxiv.org/abs/2511.13593v2)]
 * [Nov 2025] **"Procedural Knowledge Improves Agentic LLM Workflows"** [[paper](https://arxiv.org/abs/2511.07568v1)]
+* [Nov 2025] **"Improving Language Agents through BREW"** [[paper](https://arxiv.org/abs/2511.20297v1)]
+* [Nov 2025] **"General Agentic Memory Via Deep Research"** [[paper](https://arxiv.org/abs/2511.18423v1)]
+* [Nov 2025] **"Episodic Memory in Agentic Frameworks: Suggesting Next Tasks"** [[paper](https://arxiv.org/abs/2511.17775v1)]

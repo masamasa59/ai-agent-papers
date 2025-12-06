@@ -57,7 +57,7 @@ But can they really replace our jobs?
 - [Awesome LLM-Powered Agent](https://github.com/hyp1231/awesome-llm-powered-agent/)
  - [Awesome LLM agents](https://github.com/kaushikb11/awesome-llm-agents)
 
-## November Highlights (Updated 23 Nov)
+## November Highlights (Updated 30 Nov)
 
 ### Self-Evolving Agents
 * **"VisPlay: Self-Evolving Vision-Language Models from Images"** [[paper](https://arxiv.org/abs/2511.15661v2)]
@@ -67,6 +67,17 @@ But can they really replace our jobs?
 * 📖 **"Scaling Environments for LLM Agents in the Era of Learning from Interaction: A Survey"** [[paper](https://arxiv.org/abs/2511.09586v1)]
 * **"Real-Time Reasoning Agents in Evolving Environments"** [[paper](https://arxiv.org/abs/2511.04898v1)]
 * **"FLEX: Continuous Agent Evolution via Forward Learning from Experience"** [[paper](https://arxiv.org/abs/2511.06449v1)]
+* **"Evo-Memory: Benchmarking LLM Agent Test-time Learning with Self-Evolving Memory"** [[paper](https://arxiv.org/abs/2511.20857v1)]
+* **"A2Flow: Automating Agentic Workflow Generation via Self-Adaptive Abstraction Operators"** [[paper](https://arxiv.org/abs/2511.20693v1)]
+* **"Evolution without an Oracle: Driving Effective Evolution with LLM Judges"** [[paper](https://arxiv.org/abs/2511.19489v1)]
+* **"GigaEvo: An Open Source Optimization Framework Powered By LLMs And Evolution Algorithms"** [[paper](https://arxiv.org/abs/2511.17592v1)]
+* **"OmniScientist: Toward a Co-evolving Ecosystem of Human and AI Scientists"** [[paper](https://arxiv.org/abs/2511.16931v1)]
+* **"ThetaEvolve: Test-time Learning on Open Problems"** [[paper](https://arxiv.org/abs/2511.23473v1)]
+
+### Agent Memory
+* **"Improving Language Agents through BREW"** [[paper](https://arxiv.org/abs/2511.20297v1)]
+* **"General Agentic Memory Via Deep Research"** [[paper](https://arxiv.org/abs/2511.18423v1)]
+* **"Episodic Memory in Agentic Frameworks: Suggesting Next Tasks"** [[paper](https://arxiv.org/abs/2511.17775v1)]
 
 ### Agent Tuning
 * **"Simulating Environments with Reasoning Models for Agent Training"** [[paper](https://arxiv.org/abs/2511.01824v1)]

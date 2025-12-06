@@ -84,3 +84,4 @@
 * [Oct 2025] **"Deep Self-Evolving Reasoning"** [[paper](https://arxiv.org/abs/2510.17498)]
 * [Nov 2025] **"OpenSIR: Open-Ended Self-Improving Reasoner"** [[paper](https://arxiv.org/abs/2511.00602v1)]
 * [Nov 2025] **"Solving a Million-Step LLM Task with Zero Errors"** [[paper](https://arxiv.org/abs/2511.09030v1)]
+* [Dec 2025] **"The Art of Scaling Test-Time Compute for Large Language Models"** [[paper](https://arxiv.org/abs/2512.02008v1)]

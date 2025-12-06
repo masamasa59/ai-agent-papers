@@ -112,3 +112,4 @@ Agents in various tasks such as education, healthcare, and the press.
 * [Oct 2025] **"Glia: A Human-Inspired AI for Automated Systems Design and Optimization"** [[paper](https://arxiv.org/abs/2510.27176v3)]
 * [Nov 2025] **"From LLMs to Agents: A Comparative Evaluation of LLMs and LLM-based Agents in Security Patch Detection"** [[paper](https://arxiv.org/abs/2511.08060v1)]
 * [Nov 2025] **"AIA Forecaster: Technical Report"** [[paper](https://arxiv.org/abs/2511.07678v1)]
+* ⚖️ [Dec 2025] **"GovBench: Benchmarking LLM Agents for Real-World Data Governance Workflows"** [[paper](https://arxiv.org/abs/2512.04416v1)]

@@ -79,3 +79,4 @@
 * [Nov 2025] **"Agent0: Unleashing Self-Evolving Agents from Zero Data via Tool-Integrated Reasoning"** [[paper](https://arxiv.org/abs/2511.16043v1)]
 * [Nov 2025] **"Agent-R1: Training Powerful LLM Agents with End-to-End Reinforcement Learning"** [[paper](https://arxiv.org/abs/2511.16043v1)]
 * [Nov 2025] **"Scaling Agent Learning via Experience Synthesis"** [[paper](https://arxiv.org/abs/2511.03773v2)]
+* [Nov 2025] **"AutoEnv: Automated Environments for Measuring Cross-Environment Agent Learning"** [[paper](https://arxiv.org/abs/2511.19304v1)]

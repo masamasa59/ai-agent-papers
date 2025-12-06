@@ -10,3 +10,5 @@
 * 📖 [Oct 2025] **"Empowering Real-World: A Survey on the Technology, Practice, and Evaluation of LLM-driven Industry Agents"** [[paper](https://arxiv.org/abs/2510.17491)]
 * [Oct 2025] **"CRMWeaver: Building Powerful Business Agent via Agentic RL and Shared Memories"** [[paper](https://www.arxiv.org/abs/2510.25333)]
 * [Oct 2025] **"Can LLMs Help You at Work? A Sandbox for Evaluating LLM Agents in Enterprise Environments"** [[paper](https://arxiv.org/abs/2510.27287v1)]
+* ⚖️ [Dec 2025] **"GovBench: Benchmarking LLM Agents for Real-World Data Governance Workflows"** [[paper](https://arxiv.org/abs/2512.04416v1)]
+* [Dec 2025] **"DeepRule: An Integrated Framework for Automated Business Rule Generation via Deep Predictive Modeling and Hybrid Search Optimization"** [[paper](https://arxiv.org/abs/2512.03607v1)]

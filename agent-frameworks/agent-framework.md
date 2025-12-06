@@ -94,6 +94,10 @@
 * [Oct 2025] **"DeepAgent: A General Reasoning Agent with Scalable Toolsets"** [[paper](https://arxiv.org/abs/2510.21618)]
 * [Oct 2025] **"The FM Agent"** [[paper](https://arxiv.org/abs/2510.26144v1)]
 * 📖 [Oct 2025] **"Context Engineering 2.0: The Context of Context Engineering"** [[paper](https://arxiv.org/abs/2510.26493v1)]
+* [Nov 2025] **"Improving Language Agents through BREW"** [[paper](https://arxiv.org/abs/2511.20297v1)]
+* [Nov 2025] **"Solving Context Window Overflow in AI Agents"** [[paper](https://www.arxiv.org/abs/2511.22729)]
+* 📖 [Nov 2025] **"From Code Foundation Models to Agents and Applications: A Practical Guide to Code Intelligence"** [[paper](https://arxiv.org/abs/2511.18538v1)]
+* [Dec 2025] **"An Empirical Study of Agent Developer Practices in AI Agent Frameworks"** [[paper](https://arxiv.org/abs/2512.01939v1)]
 
 ## Multi-Agent
 * [Mar 2023] **"CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society"** [[paper](https://arxiv.org/abs/2303.17760)]
@@ -130,6 +134,8 @@
 * [Oct 2025] **"A Multi-Agent Framework for Stateful Inference-Time Search"** [[paper](https://arxiv.org/abs/2510.07147)]
 * [Oct 2025] **"Fetch.ai: An Architecture for Modern Multi-Agent Systems"** [[paper](https://www.arxiv.org/abs/2510.18699)]
 * [Oct 2025] **"The Era of Agentic Organization: Learning to Organize with Language Models"** [[paper](https://arxiv.org/abs/2510.26658)]
+* [Nov 2025] **"Latent Collaboration in Multi-Agent Systems"** [[paper](https://arxiv.org/abs/2511.20639v1)]
+* [Dec 2025] **"Learning to Orchestrate Agents in Natural Language with the Conductor"** [[paper](https://arxiv.org/abs/2512.04388v1)]
 
 ## Agent Ops & UX & Business
 * [Feb 2024] **"Towards better Human-Agent Alignment: Assessing Task Utility in LLM-Powered Applications"** [[paper](https://arxiv.org/abs/2402.09015)]
@@ -177,3 +183,5 @@
 * [Oct 2025] **"What Limits Agentic Systems Efficiency?"** [[paper](https://www.arxiv.org/abs/2510.16276)]
 * [Oct 2025] **"Magentic Marketplace: An Open-Source Environment for Studying Agentic Markets"** [[paper](https://arxiv.org/abs/2510.25779)]
 * [Nov 2025] **"Detecting Silent Failures in Multi-Agentic AI Trajectories"** [[paper](https://arxiv.org/abs/2511.04032v1)]
+* [Dec 2025] **"AgentBay: A Hybrid Interaction Sandbox for Seamless Human-AI Intervention in Agentic Systems"** [[paper](https://arxiv.org/abs/2512.04367v1)]
+* [Dec 2025] **"HAI-Eval: Measuring Human-AI Synergy in Collaborative Coding"** [[paper](https://arxiv.org/abs/2512.04111v1)]

@@ -84,3 +84,5 @@
 * [Oct 2025] **"DeepAnalyze: Agentic Large Language Models for Autonomous Data Science"** [[paper](https://arxiv.org/abs/2510.16872)]
 * [Oct 2025] **"FACTS: Table Summarization via Offline Template Generation with Agentic Workflows"** [[paper](https://www.arxiv.org/abs/2510.13920)]
 * 📖 [Oct 2025] **"A Survey of Data Agents: Emerging Paradigm or Overstated Hype?"** [[paper](https://arxiv.org/abs/2510.23587)]
+* ⚖️ [Nov 2025] **"InsightEval: An Expert-Curated Benchmark for Assessing Insight Discovery in LLM-Driven Data Agents"** [[paper](https://www.arxiv.org/abs/2511.22884)]
+* ⚖️ [Dec 2025] **"DAComp: Benchmarking Data Agents across the Full Data Intelligence Lifecycle"** [[paper](https://arxiv.org/abs/2512.04324)]
