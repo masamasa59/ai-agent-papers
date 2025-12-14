@@ -89,3 +89,4 @@
 * [Oct 2025] **"Idea2Plan: Exploring AI-Powered Research Planning"** [[paper](https://www.arxiv.org/abs/2510.24891)]
 * [Nov 2025] **"AlphaResearch: Accelerating New Algorithm Discovery with Language Models"** [[paper](https://arxiv.org/abs/2511.08522v1)]
 * 📖 [Nov 2025] **"Large Language Models for Scientific Idea Generation: A Creativity-Centered Survey"** [[paper](https://arxiv.org/abs/2511.07448v1)]
+* [Nov 2025] **"OmniScientist: Toward a Co-evolving Ecosystem of Human and AI Scientists"** [[paper](https://arxiv.org/abs/2511.16931v1)]

@@ -59,3 +59,6 @@
 * ⚖️ [Sep 2025] **"ManagerBench: Evaluating the Safety-Pragmatism Trade-off in Autonomous LLMs"** [[paper](https://arxiv.org/abs/2510.00857)]
 * ⚖️ [Oct 2025] **"Holistic Agent Leaderboard: The Missing Infrastructure for AI Agent Evaluation"** [[paper](https://arxiv.org/abs/2510.11977)]
 * [Oct 2025] **"Automating Benchmark Design"** [[paper](https://www.arxiv.org/abs/2510.25039)]
+* [Dec 2025] **"The AdoptionandUsageof AIAgents: Early EvidencefromPerplexity∗"** [[paper](https://arxiv.org/abs/2512.07828v2)]
+* [Dec 2025] **"Measuring Agents in Production"** [[paper](https://arxiv.org/abs/2512.04123v1)]
+* [Dec 2025] **"Towards a Science of Scaling Agent Systems"** [[paper](https://arxiv.org/abs/2512.08296v1)]

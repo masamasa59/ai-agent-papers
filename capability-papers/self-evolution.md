@@ -109,3 +109,5 @@
 * [Nov 2025] **"ThetaEvolve: Test-time Learning on Open Problems"** [[paper](https://arxiv.org/abs/2511.23473v1)]
 * [Dec 2025] **"Strategic Self-Improvement for Competitive Agents in AI Labour Markets"** [[paper](https://arxiv.org/abs/2512.04988v1)]
 * [Dec 2025] **"Guided Self-Evolving LLMs with Minimal Human Supervision"** [[paper](https://arxiv.org/abs/2512.02472v1)]
+* [Dec 2025] **"Evolving Excellence: Automated Optimization of LLM-based Agents"** [[paper](https://arxiv.org/abs/2512.09108v1)]
+* [Dec 2025] **"Remember Me, Refine Me: A Dynamic Procedural Memory Framework for Experience-Driven Agent Evolution"** [[paper](https://arxiv.org/abs/2512.10696)]

@@ -98,6 +98,7 @@
 * [Nov 2025] **"Solving Context Window Overflow in AI Agents"** [[paper](https://www.arxiv.org/abs/2511.22729)]
 * 📖 [Nov 2025] **"From Code Foundation Models to Agents and Applications: A Practical Guide to Code Intelligence"** [[paper](https://arxiv.org/abs/2511.18538v1)]
 * [Dec 2025] **"An Empirical Study of Agent Developer Practices in AI Agent Frameworks"** [[paper](https://arxiv.org/abs/2512.01939v1)]
+* [Dec 2025] **"Everything is Context: Agentic File System Abstraction for Context Engineering"** [[paper](https://arxiv.org/abs/2512.05470v1)]
 
 ## Multi-Agent
 * [Mar 2023] **"CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society"** [[paper](https://arxiv.org/abs/2303.17760)]
@@ -136,6 +137,8 @@
 * [Oct 2025] **"The Era of Agentic Organization: Learning to Organize with Language Models"** [[paper](https://arxiv.org/abs/2510.26658)]
 * [Nov 2025] **"Latent Collaboration in Multi-Agent Systems"** [[paper](https://arxiv.org/abs/2511.20639v1)]
 * [Dec 2025] **"Learning to Orchestrate Agents in Natural Language with the Conductor"** [[paper](https://arxiv.org/abs/2512.04388v1)]
+* [Dec 2025] **"DoVer: Intervention-Driven Auto Debugging for LLM Multi-Agent Systems"** [[paper](https://arxiv.org/abs/2512.06749v2)]
+* [Dec 2025] **"On the Dynamics of Multi-Agent LLM Communities Driven by Value Diversity"** [[paper](https://arxiv.org/abs/2512.10665)]
 
 ## Agent Ops & UX & Business
 * [Feb 2024] **"Towards better Human-Agent Alignment: Assessing Task Utility in LLM-Powered Applications"** [[paper](https://arxiv.org/abs/2402.09015)]
@@ -185,3 +188,4 @@
 * [Nov 2025] **"Detecting Silent Failures in Multi-Agentic AI Trajectories"** [[paper](https://arxiv.org/abs/2511.04032v1)]
 * [Dec 2025] **"AgentBay: A Hybrid Interaction Sandbox for Seamless Human-AI Intervention in Agentic Systems"** [[paper](https://arxiv.org/abs/2512.04367v1)]
 * [Dec 2025] **"HAI-Eval: Measuring Human-AI Synergy in Collaborative Coding"** [[paper](https://arxiv.org/abs/2512.04111v1)]
+* [Dec 2025] **"AI & Human Co-Improvement for Safer Co-Superintelligence"** [[paper](https://arxiv.org/abs/2512.05356v1)]

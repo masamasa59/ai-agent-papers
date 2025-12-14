@@ -39,3 +39,4 @@ These papers discuss the perceptual abilities that enable agents to understand t
 * [May 2024] **Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis"** [[paper](https://arxiv.org/abs/2405.21075)]
 * [Jun 2024] **DrVideo: Document Retrieval Based Long Video Understanding"** [[paper](https://arxiv.org/abs/2406.12846)]
 * [Oct 2024] **"Adaptive Video Understanding Agent: Enhancing efficiency with dynamic frame sampling and feedback-driven reasoning"** [[paper](https://arxiv.org/abs/2410.20252)]
+* [Dec 2025] **"World Models That Know When They Don’t Know: Controllable Video Generation with Calibrated Uncertainty"** [[paper](https://arxiv.org/abs/2512.05927v1)]

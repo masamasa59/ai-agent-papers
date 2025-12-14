@@ -61,3 +61,6 @@ These papers discuss the safety and risks of agents.
 * [Oct 2025] **"Agentic Misalignment: How LLMs Could Be Insider Threats"** [[paper](https://arxiv.org/abs/2510.05179)]
 * 📖 [Oct 2025] **"The Safety Challenge of World Models for Embodied AI Agents: A Review"** [[paper](https://arxiv.org/abs/2510.05865)]
 * [Dec 2025] **"Is Vibe Coding Safe? Benchmarking Vulnerability of Agent-Generated Code in Real-World Tasks"** [[paper](https://arxiv.org/abs/2512.03262v1)]
+* [Dec 2025] **"SABER: Small Actions, Big Errors - Safeguarding Mutating Steps in LLM Agents"** [[paper](https://arxiv.org/abs/2512.07850v1)]
+* [Dec 2025] **"Insured Agents: A Decentralized Trust Insurance Mechanism for Agentic Economy"** [[paper](https://arxiv.org/abs/2512.08737v1)]
+* [Dec 2025] **"EcomBench: Towards Holistic Evaluation of Foundation Agents in E-commerce"** [[paper](https://arxiv.org/abs/2512.08868v2)]

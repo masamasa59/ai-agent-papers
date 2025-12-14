@@ -56,6 +56,8 @@
 * [Oct 2025] **"ColorAgent: Building A Robust, Personalized, and Interactive OS Agent"** [[paper](https://arxiv.org/abs/2510.19386)]
 * [Nov 2025] **"UFO3: Weaving the Digital Agent Galaxy"** [[paper](https://arxiv.org/abs/2511.11332v1)]
 * [Nov 2025] **"Computer-Use Agents as Judges for Generative User Interface"** [[paper](https://arxiv.org/abs/2511.15567v1)]
+* [Dec 2025] **"AgentProg: Empowering Long-Horizon GUI Agents with Program-Guided Context Management"** [[paper](https://arxiv.org/abs/2512.10371v1)]
+
 
 ### Web Agents
 * ⚖️ [Jul 2022] **"WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents"** [[paper](https://arxiv.org/abs/2207.01206)]

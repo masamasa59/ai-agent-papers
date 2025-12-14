@@ -76,3 +76,4 @@
 * ⚖️ [Nov 2025] **"RESEARCHRUBRICS: A Benchmark of Prompts and Rubrics For Evaluating Deep Research Agents"** [[paper](https://arxiv.org/abs/2511.07685v1)]
 * [Nov 2025] **"General Agentic Memory Via Deep Research"** [[paper](https://arxiv.org/abs/2511.18423v1)]
 * 📖 [Dec 2025] **"Deep Research: A Systematic Survey"** [[paper](https://arxiv.org/abs/2512.02038v1)]
+* [Dec 2025] **"How Far Are We from Genuinely Useful Deep Research Agents?"** [[paper](https://arxiv.org/abs/2512.01948v1)]

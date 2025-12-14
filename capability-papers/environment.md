@@ -1,0 +1,1 @@
+* [Dec 2025] **"Nex-N1: Agentic Models Trained via a Unified Ecosystem for Large-Scale Environment Construction"** [[paper](https://arxiv.org/abs/2512.04987v1)]
