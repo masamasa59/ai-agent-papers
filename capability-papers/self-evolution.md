@@ -111,3 +111,5 @@
 * [Dec 2025] **"Guided Self-Evolving LLMs with Minimal Human Supervision"** [[paper](https://arxiv.org/abs/2512.02472v1)]
 * [Dec 2025] **"Evolving Excellence: Automated Optimization of LLM-based Agents"** [[paper](https://arxiv.org/abs/2512.09108v1)]
 * [Dec 2025] **"Remember Me, Refine Me: A Dynamic Procedural Memory Framework for Experience-Driven Agent Evolution"** [[paper](https://arxiv.org/abs/2512.10696)]
+* [Dec 2025] **"Beyond Training: Enabling Self-Evolution of Agents with MOBIMEM"** [[paper](https://arxiv.org/abs/2512.15784v1)]
+* [Dec 2025] **"SCOPE: Prompt Evolution for Enhancing Agent Effectiveness"** [[paper](https://arxiv.org/abs/2512.15374v1)]
