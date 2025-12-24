@@ -69,6 +69,7 @@ These papers discuss an agent’s memory function and its self-evolution.
 * [Nov 2025] **"General Agentic Memory Via Deep Research"** [[paper](https://arxiv.org/abs/2511.18423v1)]
 * [Nov 2025] **"Episodic Memory in Agentic Frameworks: Suggesting Next Tasks"** [[paper](https://arxiv.org/abs/2511.17775v1)]
 * [Dec 2025] **"Remember Me, Refine Me: A Dynamic Procedural Memory Framework for Experience-Driven Agent Evolution"** [[paper](https://arxiv.org/abs/2512.10696)]
+* [Dec 2025] **"Hindsight is 20/20: Building Agent Memory that Retains, Recalls, and Reflects"**[[paper](https://arxiv.org/abs/2512.12818)
 * [Dec 2025] **"CodeMem: Architecting Reproducible Agents via　Dynamic MCP and Procedural Memory"** [[paper](https://arxiv.org/abs/2512.15813v1)]
 * [Dec 2025] **"Beyond Training: Enabling Self-Evolution of Agents with MOBIMEM"** [[paper](https://arxiv.org/abs/2512.15784v1)]
 * [Dec 2025] **"Hindsight is 20/20: Building Agent Memory that Retains, Recalls, and Reflects"** [[paper](https://arxiv.org/abs/2512.12818v1)]
