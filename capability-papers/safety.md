@@ -64,3 +64,4 @@ These papers discuss the safety and risks of agents.
 * [Dec 2025] **"SABER: Small Actions, Big Errors - Safeguarding Mutating Steps in LLM Agents"** [[paper](https://arxiv.org/abs/2512.07850v1)]
 * [Dec 2025] **"Insured Agents: A Decentralized Trust Insurance Mechanism for Agentic Economy"** [[paper](https://arxiv.org/abs/2512.08737v1)]
 * [Dec 2025] **"EcomBench: Towards Holistic Evaluation of Foundation Agents in E-commerce"** [[paper](https://arxiv.org/abs/2512.08868v2)]
+* [Dec 2025] **"Distributional AGI Safety"** [[paper](https://arxiv.org/abs/2512.16856v1)]
