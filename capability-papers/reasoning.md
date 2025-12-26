@@ -87,3 +87,4 @@
 * [Dec 2025] **"The Art of Scaling Test-Time Compute for Large Language Models"** [[paper](https://arxiv.org/abs/2512.02008v1)]
 * [Dec 2025] **"Long-horizon Reasoning Agent for Olympiad-Level Mathematical Problem Solving"** [[paper](https://arxiv.org/abs/2512.10739)]
 * [Dec 2025] **"Laser: Governing Long-Horizon Agentic Search via Structured Protocol and Context Register"** [[paper](https://arxiv.org/abs/2512.20458v1)]
+* [Dec 2025] **"Model-First Reasoning LLM Agents: Reducing Hallucinations through Explicit Problem Modeling"** [[paper](https://arxiv.org/abs/2512.14474)]
