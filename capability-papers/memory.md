@@ -69,8 +69,11 @@ These papers discuss an agent’s memory function and its self-evolution.
 * [Nov 2025] **"General Agentic Memory Via Deep Research"** [[paper](https://arxiv.org/abs/2511.18423v1)]
 * [Nov 2025] **"Episodic Memory in Agentic Frameworks: Suggesting Next Tasks"** [[paper](https://arxiv.org/abs/2511.17775v1)]
 * [Dec 2025] **"Remember Me, Refine Me: A Dynamic Procedural Memory Framework for Experience-Driven Agent Evolution"** [[paper](https://arxiv.org/abs/2512.10696)]
-* [Dec 2025] **"Hindsight is 20/20: Building Agent Memory that Retains, Recalls, and Reflects"**[[paper](https://arxiv.org/abs/2512.12818)
 * [Dec 2025] **"CodeMem: Architecting Reproducible Agents via　Dynamic MCP and Procedural Memory"** [[paper](https://arxiv.org/abs/2512.15813v1)]
 * [Dec 2025] **"Beyond Training: Enabling Self-Evolution of Agents with MOBIMEM"** [[paper](https://arxiv.org/abs/2512.15784v1)]
 * [Dec 2025] **"Hindsight is 20/20: Building Agent Memory that Retains, Recalls, and Reflects"** [[paper](https://arxiv.org/abs/2512.12818v1)]
 * 📖 [Dec 2025] **"Memory in the Age of AI Agents: A Survey Forms, Functions and Dynamics"** [[paper](https://arxiv.org/abs/2512.13564v1)]
+* [Dec 2025] **"MemEvolve: Meta-Evolution of Agent Memory Systems"** [[paper](https://arxiv.org/abs/2512.18746v1)]
+* [Dec 2025] **"Rethinking Knowledge Distillation in Collaborative Machine Learning: Memory, Knowledge, and Their Interactions"** [[paper](https://arxiv.org/abs/2512.19972v1)]
+* [Dec 2025] **"Synthesizing Procedural Memory: Challenges and Architectures in Automated Workflow Generation"** [[paper](https://arxiv.org/abs/2512.20278v1)]
+* [Dec 2025] **"A Plan Reuse Mechanism for LLM-Driven Agent"** [[paper](https://arxiv.org/abs/2512.21309v1)]

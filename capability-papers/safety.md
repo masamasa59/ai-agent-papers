@@ -65,3 +65,5 @@ These papers discuss the safety and risks of agents.
 * [Dec 2025] **"Insured Agents: A Decentralized Trust Insurance Mechanism for Agentic Economy"** [[paper](https://arxiv.org/abs/2512.08737v1)]
 * [Dec 2025] **"EcomBench: Towards Holistic Evaluation of Foundation Agents in E-commerce"** [[paper](https://arxiv.org/abs/2512.08868v2)]
 * [Dec 2025] **"Distributional AGI Safety"** [[paper](https://arxiv.org/abs/2512.16856v1)]
+* [Dec 2025] **"Systemic Risks of Interacting AI"** [[paper](https://arxiv.org/abs/2512.17793v1)]
+* [Dec 2025] **"AprielGuard"** [[paper](https://arxiv.org/abs/2512.20293v1)]

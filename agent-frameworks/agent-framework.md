@@ -189,3 +189,4 @@
 * [Dec 2025] **"AgentBay: A Hybrid Interaction Sandbox for Seamless Human-AI Intervention in Agentic Systems"** [[paper](https://arxiv.org/abs/2512.04367v1)]
 * [Dec 2025] **"HAI-Eval: Measuring Human-AI Synergy in Collaborative Coding"** [[paper](https://arxiv.org/abs/2512.04111v1)]
 * [Dec 2025] **"AI & Human Co-Improvement for Safer Co-Superintelligence"** [[paper](https://arxiv.org/abs/2512.05356v1)]
+* [Dec 2025] **"Monitoring Monitorability"** [[paper](https://arxiv.org/abs/2512.18311v1)]

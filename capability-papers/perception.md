@@ -20,6 +20,7 @@ These papers discuss the perceptual abilities that enable agents to understand t
 * [Oct 2025] **"Model-Document Protocol for AI Search"** [[paper](https://www.arxiv.org/abs/2510.25160)]
 * 📖 [Oct 2025] **"Context Engineering 2.0: The Context of Context Engineering"** [[paper](https://arxiv.org/abs/2510.26493v1)]
 * [Dec 2025] **"Let's (not) just put things in Context: Test-Time Training for Long-Context LLMs"** [[paper](https://arxiv.org/abs/2512.13898v1)]
+* [Dec 2025] **"From Word to World: Can Large Language Models be Implicit Text-based World Models?"** [[paper](https://arxiv.org/abs/2512.18832v1)]
 
 ### Image
 * ⚖️ [Feb 2024] **"PCA-Bench: Evaluating Multimodal Large Language Models in Perception-Cognition-Action Chain"** [[paper](https://arxiv.org/abs/2402.15527)]

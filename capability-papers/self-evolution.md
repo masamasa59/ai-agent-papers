@@ -113,3 +113,5 @@
 * [Dec 2025] **"Remember Me, Refine Me: A Dynamic Procedural Memory Framework for Experience-Driven Agent Evolution"** [[paper](https://arxiv.org/abs/2512.10696)]
 * [Dec 2025] **"Beyond Training: Enabling Self-Evolution of Agents with MOBIMEM"** [[paper](https://arxiv.org/abs/2512.15784v1)]
 * [Dec 2025] **"SCOPE: Prompt Evolution for Enhancing Agent Effectiveness"** [[paper](https://arxiv.org/abs/2512.15374v1)]
+* [Dec 2025] **"Reinforcement Learning for Self-Improving Agent with Skill Library"** [[paper](https://arxiv.org/abs/2512.17102v1)]
+* [Dec 2025] **"MemEvolve: Meta-Evolution of Agent Memory Systems"** [[paper](https://arxiv.org/abs/2512.18746v1)]
