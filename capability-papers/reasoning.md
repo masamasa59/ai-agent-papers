@@ -86,3 +86,4 @@
 * [Nov 2025] **"Solving a Million-Step LLM Task with Zero Errors"** [[paper](https://arxiv.org/abs/2511.09030v1)]
 * [Dec 2025] **"The Art of Scaling Test-Time Compute for Large Language Models"** [[paper](https://arxiv.org/abs/2512.02008v1)]
 * [Dec 2025] **"Long-horizon Reasoning Agent for Olympiad-Level Mathematical Problem Solving"** [[paper](https://arxiv.org/abs/2512.10739)]
+* [Dec 2025] **"Model-First Reasoning LLM Agents: Reducing Hallucinations through Explicit Problem Modeling"** [[paper](https://arxiv.org/abs/2512.14474)]
