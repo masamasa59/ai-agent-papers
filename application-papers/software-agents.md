@@ -63,6 +63,7 @@
 * [Oct 2025] **"Improving Code Localization with Repository Memory"** [[paper](https://arxiv.org/abs/2510.01003)]
 * [Oct 2025] **"Code Aesthetics with Agentic Reward Feedback"** [[paper](https://arxiv.org/abs/2510.23272)]
 * [Oct 2025] **"Understanding Code Agent Behaviour: An Empirical Study of Success and Failure Trajectories"** [[paper](https://arxiv.org/abs/2511.00197v1)]
+* 📖 [Oct 2025] **"A Survey of Vibe Coding with Large Language Models"** [[paper](https://arxiv.org/abs/2510.12399)]
 * [Nov 2025] **"The OpenHands Software Agent SDK: A Composable and Extensible Foundation for Production Agents"** [[paper](https://arxiv.org/abs/2511.03690v1)]
 * [Nov 2025] **"LIVE-SWE-AGENT: Can Software Engineering Agents Self-Evolve on the Fly?"** [[paper](https://arxiv.org/abs/2511.13998v1)]
 * [Nov 2025] **"LoCoBench-Agent: An Interactive Benchmark for LLM Agents in Long-Context Software Engineering"** [[paper](https://arxiv.org/abs/2511.13998v1)]
