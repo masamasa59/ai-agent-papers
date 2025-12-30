@@ -91,6 +91,7 @@
 * 📖 [Nov 2025] **"Large Language Models for Scientific Idea Generation: A Creativity-Centered Survey"** [[paper](https://arxiv.org/abs/2511.07448v1)]
 * [Nov 2025] **"OmniScientist: Toward a Co-evolving Ecosystem of Human and AI Scientists"** [[paper](https://arxiv.org/abs/2511.16931v1)]
 * [Dec 2025] **"Towards AI-Supported Research: a Vision of the TIB　AIssistant"** [[paper](https://arxiv.org/abs/2512.16447)]
-* [Dec 2025] **"Evaluating Large Language Models in Scientific Discovery"** [[paper](https://arxiv.org/abs/2512.15567v1)]
+* ⚖️ [Dec 2025] **"Evaluating Large Language Models in Scientific Discovery"** [[paper](https://arxiv.org/abs/2512.15567v1)]
 * [Dec 2025] **"Bohrium + SciMaster: Building the Infrastructure and Ecosystem for Agentic Science at Scale"** [[paper](https://arxiv.org/abs/2512.20469v1)]
 * [Dec 2025] **"Probing Scientific General Intelligence of LLMs with Scientist-Aligned Workflows"** [[paper](https://arxiv.org/abs/2512.16969v1)]
+* [Dec 2025] **"AI Urban Scientist: Multi-Agent Collaborative　Automation for Urban Research"** [[paper](https://arxiv.org/abs/2512.07849)]

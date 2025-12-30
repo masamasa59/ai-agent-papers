@@ -81,4 +81,4 @@
 * [Nov 2025] **"Scaling Agent Learning via Experience Synthesis"** [[paper](https://arxiv.org/abs/2511.03773v2)]
 * [Nov 2025] **"AutoEnv: Automated Environments for Measuring Cross-Environment Agent Learning"** [[paper](https://arxiv.org/abs/2511.19304v1)]
 * [Dec 2025] **"Self-Improving VLM Judges Without Human Annotations"** [[paper](https://arxiv.org/abs/2512.05145v1)]
-* [Dec 2025] **"Adaptation of Agentic AI"** [[paper](https://arxiv.org/abs/2512.16301v1)]
+* 📖 [Dec 2025] **"Adaptation of Agentic AI"** [[paper](https://arxiv.org/abs/2512.16301v1)]

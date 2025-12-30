@@ -118,3 +118,4 @@ Agents in various tasks such as education, healthcare, and the press.
 * 📖 [Dec 2025] **"Event Extraction in Large Language Model: A Holistic Survey of Method, Modality, and Future"** [[paper](https://arxiv.org/abs/2512.19537v1)]
 * [Dec 2025] **"FinAgent: An Agentic AI Framework Integrating Personal Finance and Nutrition Planning"** [[paper](https://arxiv.org/abs/2512.20991v1)]
 * [Dec 2025] **"LLM-as-a-Prophet: Understanding Predictive Intelligence with Prophet Arena"** [[paper](https://arxiv.org/abs/2510.17638v2)]
+* [Dec 2025] **"SoMe: A Realistic Benchmark for LLM-based Social Media Agents"** [[paper](https://arxiv.org/abs/2512.14720)]

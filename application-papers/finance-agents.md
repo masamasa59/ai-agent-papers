@@ -3,4 +3,5 @@
 * [Sep 2025] **"FinDebate: Multi-Agent Collaborative Intelligence for Financial Analysis"** [[paper](https://arxiv.org/abs/2509.17395)]
 * [Oct 2025] **"GuruAgents: Emulating Wise Investors with Prompt-Guided LLM Agents"** [[paper](https://arxiv.org/abs/2510.01664)]
 * [Oct 2025] **"FinDeepResearch: Evaluating Deep Research Agents in Rigorous Financial Analysis"** [[paper](https://www.arxiv.org/abs/2510.13936)]
+* [Nov 2025] **"When AI Agents Collude Online: Financial Fraud Risks by Collaborative LLM Agents on Social Platforms"** [[paper](https://arxiv.org/abs/2511.06448v1)]
 * ⚖️ [Dec 2025] **"Finch: Benchmarking Finance & Accounting across Spreadsheet-Centric Enterprise Workflows"** [[paper](https://arxiv.org/abs/2512.13168v1)]

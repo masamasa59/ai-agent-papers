@@ -94,6 +94,8 @@
 * [Oct 2025] **"DeepAgent: A General Reasoning Agent with Scalable Toolsets"** [[paper](https://arxiv.org/abs/2510.21618)]
 * [Oct 2025] **"The FM Agent"** [[paper](https://arxiv.org/abs/2510.26144v1)]
 * 📖 [Oct 2025] **"Context Engineering 2.0: The Context of Context Engineering"** [[paper](https://arxiv.org/abs/2510.26493v1)]
+* 📖 [Oct 2025] **"Agentic AI: A Comprehensive Survey of Architectures, Applications, and Future Directions"** [[paper](https://arxiv.org/abs/2510.25445v1)]
+* 📖 [Nov 2025] **"Intelligent Agents with Emotional Intelligence: Current Trends, Challenges, and Future Prospects"** [[paper](https://arxiv.org/abs/2511.20657v1)]
 * [Nov 2025] **"Improving Language Agents through BREW"** [[paper](https://arxiv.org/abs/2511.20297v1)]
 * [Nov 2025] **"Solving Context Window Overflow in AI Agents"** [[paper](https://www.arxiv.org/abs/2511.22729)]
 * 📖 [Nov 2025] **"From Code Foundation Models to Agents and Applications: A Practical Guide to Code Intelligence"** [[paper](https://arxiv.org/abs/2511.18538v1)]

@@ -93,9 +93,12 @@
 * [Jul 2025] **"MASCA: LLM based-Multi Agents System for Credit Assessment"** [[paper](https://arxiv.org/abs/2507.22758)]
 * [Jul 2025] **"Towards Cognitive Synergy in LLM-Based Multi-Agent Systems: Integrating Theory of Mind and Critical Evaluation"** [[paper](https://arxiv.org/abs/2507.21969)]
 * [Sep 2025] **"CrowdAgent: Multi-Agent Managed Multi-Source Annotation System"** [[paper](https://arxiv.org/abs/2509.14030)]
+* [Sep 2025] **"MAS^2: Self-Generative, Self-Configuring, Self-Rectifying Multi-Agent Systems"** [[paper](https://arxiv.org/abs/2509.24323)]
+* [Sep 2025] **"AgenTracer: Who Is Inducing Failure in the LLM Agentic Systems?"** [[paper](https://arxiv.org/abs/2509.03312)]
 * [Oct 2025] **"TACOS: Task Agnostic COordinator of a multi-drone System"** [[paper](https://arxiv.org/abs/2510.01869)]
 * [Nov 2025] **"Detecting Silent Failures in Multi-Agentic AI Trajectories"** [[paper](https://arxiv.org/abs/2511.04032v1)]
 * [Nov 2025] **"The Collaboration Gap"** [[paper](https://arxiv.org/abs/2511.02687v1)]
+* [Sep 2025] **"MAS^2: Self-Generative, Self-Configuring, Self-Rectifying Multi-Agent Systems"** [[paper](https://arxiv.org/abs/2509.24323)]
 
 ### World Simulation
 * [Apr 2023] **"Generative agents: Interactive simulacra of human behavior"** [[paper](https://arxiv.org/abs/2304.03442)]
@@ -141,6 +144,5 @@
 * [Sep 2025] **"What Would an LLM Do? Evaluating Policymaking Capabilities of Large Language Models"** [[paper](https://arxiv.org/abs/2509.03827v1)]
 * [Sep 2025] **"LLM-empowered Agents Simulation Framework for Scenario Generation in Service Ecosystem Governance Social World Models"** [[paper](https://arxiv.org/abs/2509.01441)]
 * [Sep 2025] **"Simulating Dispute Mediation with LLM-Based Agents for Legal Research"** [[paper](https://arxiv.org/abs/2509.06586)]
-* [Sep 2025] **"MAS^2: Self-Generative, Self-Configuring, Self-Rectifying Multi-Agent Systems"** [[paper](https://arxiv.org/abs/2509.24323)]
-* [Sep 2025] **"AgenTracer: Who Is Inducing Failure in the LLM Agentic Systems?"** [[paper](https://arxiv.org/abs/2509.03312)]
-* [Dec 2025] **"SimWorld: AnOpen-endedRealistic Simulator for AutonomousAgents in Physical andSocial Worlds"** [[paper](https://arxiv.org/abs/2512.01078v1)]
+* [Oct 2025] **"Emergent Coordinated Behaviors in Networked LLM Agents: Modeling the Strategic Dynamics of Information Operations"** [[paper](https://arxiv.org/abs/2510.25003v1)]
+* [Dec 2025] **"SimWorld: AnOpen-ended Realistic Simulator for AutonomousAgents in Physical and Social Worlds"** [[paper](https://arxiv.org/abs/2512.01078v1)]

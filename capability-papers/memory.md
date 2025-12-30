@@ -74,6 +74,6 @@ These papers discuss an agent’s memory function and its self-evolution.
 * [Dec 2025] **"Hindsight is 20/20: Building Agent Memory that Retains, Recalls, and Reflects"** [[paper](https://arxiv.org/abs/2512.12818v1)]
 * 📖 [Dec 2025] **"Memory in the Age of AI Agents: A Survey Forms, Functions and Dynamics"** [[paper](https://arxiv.org/abs/2512.13564v1)]
 * [Dec 2025] **"MemEvolve: Meta-Evolution of Agent Memory Systems"** [[paper](https://arxiv.org/abs/2512.18746v1)]
-* [Dec 2025] **"Rethinking Knowledge Distillation in Collaborative Machine Learning: Memory, Knowledge, and Their Interactions"** [[paper](https://arxiv.org/abs/2512.19972v1)]
+* 📖 [Dec 2025] **"Rethinking Knowledge Distillation in Collaborative Machine Learning: Memory, Knowledge, and Their Interactions"** [[paper](https://arxiv.org/abs/2512.19972v1)]
 * [Dec 2025] **"Synthesizing Procedural Memory: Challenges and Architectures in Automated Workflow Generation"** [[paper](https://arxiv.org/abs/2512.20278v1)]
 * [Dec 2025] **"A Plan Reuse Mechanism for LLM-Driven Agent"** [[paper](https://arxiv.org/abs/2512.21309v1)]
