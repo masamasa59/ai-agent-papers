@@ -154,7 +154,6 @@ But can they really replace our jobs?
 * **"What Would an LLM Do? Evaluating Policymaking Capabilities of Large Language Models"** [[paper](https://arxiv.org/abs/2509.03827v1)]
 * **"LLM-empowered Agents Simulation Framework for Scenario Generation in Service Ecosystem Governance Social World Models"** [[paper](https://arxiv.org/abs/2509.01441)]
 * **"Language Models Do Not Follow Occam’s Razor: A Benchmark for Inductive and Abductive Reasoning"** [[paper](https://arxiv.org/abs/2509.03345)]
-* **"LLM-empowered Agents Simulation Framework for Scenario Generation in Service Ecosystem Governance"** [[paper](https://arxiv.org/abs/2509.01441)]
 * **"VulAgent: A Hypothesis Validation-Based Multi-Agent System for Software Vulnerability Detection"** [[paper](https://arxiv.org/abs/2509.11523)]
 * **"Tackling One Health Risks: How Large Language Models are leveraged for Risk Negotiation and Consensus-building"** [[paper](https://arxiv.org/abs/2509.09906)]
 * **"Agents of Discovery"** [[paper](https://arxiv.org/abs/2509.08535)]

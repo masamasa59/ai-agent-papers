@@ -23,6 +23,7 @@
 * [Fall 2024] **"Large Language Model Agents (MOOC)"** [[slide](https://rdi.berkeley.edu/llm-agents-mooc/slides/llm_agent_history.pdf)] [[project](https://rdi.berkeley.edu/llm-agents/f24)]
 * [Apr 2025] **"Welcome to the Era of Experience"** [[paper](https://storage.googleapis.com/deepmind-media/Era-of-Experience%20/The%20Era%20of%20Experience%20Paper.pdf)]
 * [Apr 2025] **"A practical guide to building agents"** [[paper](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf)]
+* [Apr 2025] **"Artificial Intelligence Index Report 2025"** [[paper](https://arxiv.org/pdf/2504.07139)]
 
 ## Design Patterns
 - **"langgraph-agents-with-amazon-bedrock"** [[code](https://github.com/aws-samples/langgraph-agents-with-amazon-bedrock)]
