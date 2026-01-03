@@ -63,3 +63,4 @@
 * 🔥 [Dec 2025] **"Measuring Agents in Production"** [[paper](https://arxiv.org/abs/2512.04123v1)]
 * 🔥 [Dec 2025] **"Towards a Science of Scaling Agent Systems"** [[paper](https://arxiv.org/abs/2512.08296v1)]
 * [Dec 2025] **"Scaling Laws for Economic Productivity:Experimental Evidence in LLM-Assisted Consulting, Data Analyst, and Management Tasks"** [[paper](https://arxiv.org/abs/2512.21316v1)]
+* [Dec 2025] **"Do Large Language Models Know What They Are Capable Of?"** [[paper](https://arxiv.org/abs/2512.24661v1)]

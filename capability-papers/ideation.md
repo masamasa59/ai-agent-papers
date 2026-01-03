@@ -22,3 +22,4 @@
 * ⚖️ [Dec 2025] **"InnoGym: Benchmarking the Innovation Potential of AI Agents"** [[paper](https://arxiv.org/abs/2512.01822v1)]
 * [Dec 2025] **"Heaven-Sent or Hell-Bent? Benchmarking the Intelligence and Defectiveness of LLM Hallucinations"** [[paper](https://www.arxiv.org/abs/2512.21635)]
 * [Dec 2025] **"Oogiri-Master: Benchmarking Humor Understanding via Oogiri"** [[paper](https://arxiv.org/abs/2512.21494)]
+* [Dec 2025] **"Divergent-Convergent Thinking in Large Language Models for Creative Problem Generation"** [[paper](https://arxiv.org/abs/2512.23601v1)]

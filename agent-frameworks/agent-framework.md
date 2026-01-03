@@ -101,6 +101,8 @@
 * 📖 [Nov 2025] **"From Code Foundation Models to Agents and Applications: A Practical Guide to Code Intelligence"** [[paper](https://arxiv.org/abs/2511.18538v1)]
 * [Dec 2025] **"An Empirical Study of Agent Developer Practices in AI Agent Frameworks"** [[paper](https://arxiv.org/abs/2512.01939v1)]
 * [Dec 2025] **"Everything is Context: Agentic File System Abstraction for Context Engineering"** [[paper](https://arxiv.org/abs/2512.05470v1)]
+* [Dec 2025] **"Let It Flow: Agentic Crafting on Rock and Roll, Building the ROME Model within an Open Agentic Learning Ecosystem"** [[paper](https://arxiv.org/abs/2512.24873v1)]
+
 
 ## Multi-Agent
 * [Mar 2023] **"CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society"** [[paper](https://arxiv.org/abs/2303.17760)]

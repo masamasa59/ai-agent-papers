@@ -75,3 +75,4 @@
 * [Dec 2025] **"DeepCode: Open Agentic Coding"** [[paper](https://arxiv.org/abs/2512.07921v1)]
 * [Dec 2025] **"Confucius Code Agent: An Open-sourced AI Software Engineer at Industrial Scale"** [[paper](https://arxiv.org/abs/2512.10398v1)]
 * [Dec 2025] **"HAI-Eval: Measuring Human-AI Synergy in Collaborative Coding"** [[paper](https://arxiv.org/abs/2512.04111v1)]
+* [Dec 2025] **"Toward Training Superintelligent Software Agents through Self-Play SWE-RL"** [[paper](https://arxiv.org/abs/2512.18552v1)]

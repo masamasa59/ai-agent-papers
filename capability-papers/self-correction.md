@@ -58,3 +58,4 @@ These papers discuss whether agents can autonomously recover from errors.
 * [Oct 2025] **"Online Rubrics Elicitation from Pairwise Comparisons"** [[paper](https://arxiv.org/abs/2510.07284)]
 * ⚖️ [Nov 2025] **"RefineBench: Evaluating Refinement Capability of Language Models via Checklists"** [[paper](https://arxiv.org/abs/2511.22173v1)]
 * [Dec 2025] **"OPV: Outcome-based Process Verifier for Efficient Long Chain-of-Thought Verification"** [[paper](https://arxiv.org/abs/2512.10756)]
+* [Dec 2025] **"SmartSnap: Proactive Evidence Seeking for Self-Verifying Agents"** [[paper](https://arxiv.org/abs/2512.22322v1)]

@@ -115,3 +115,5 @@
 * [Dec 2025] **"SCOPE: Prompt Evolution for Enhancing Agent Effectiveness"** [[paper](https://arxiv.org/abs/2512.15374v1)]
 * [Dec 2025] **"Reinforcement Learning for Self-Improving Agent with Skill Library"** [[paper](https://arxiv.org/abs/2512.17102v1)]
 * [Dec 2025] **"MemEvolve: Meta-Evolution of Agent Memory Systems"** [[paper](https://arxiv.org/abs/2512.18746v1)]
+* [Dec 2025] **"CASCADE: Cumulative Agentic Skill Creation through Autonomous Development and Evolution"** [[paper](https://arxiv.org/abs/2512.23880v1)]
+* [Dec 2025] **"Toward Training Superintelligent Software Agents through Self-Play SWE-RL"** [[paper](https://arxiv.org/abs/2512.18552v1)]
