@@ -109,6 +109,7 @@ But can they really replace our jobs?
 * **"Agent0: Unleashing Self-Evolving Agents from Zero Data via Tool-Integrated Reasoning"** [[paper](https://arxiv.org/abs/2511.16043v1)]
 * **"Agent-R1: Training Powerful LLM Agents with End-to-End Reinforcement Learning"** [[paper](https://arxiv.org/abs/2511.16043v1)]
 * **"Scaling Agent Learning via Experience Synthesis"** [[paper](https://arxiv.org/abs/2511.03773v2)]
+* **"AlignUSER: Human-Aligned LLM Agents via World Models for Recommender System Evaluation"** [[paper](https://arxiv.org/abs/2601.00930)]
 
 ## October Highlights (Updated 31 Oct)
 ### Context Engineering
