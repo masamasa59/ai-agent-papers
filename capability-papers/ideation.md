@@ -23,3 +23,6 @@
 * [Dec 2025] **"Heaven-Sent or Hell-Bent? Benchmarking the Intelligence and Defectiveness of LLM Hallucinations"** [[paper](https://www.arxiv.org/abs/2512.21635)]
 * [Dec 2025] **"Oogiri-Master: Benchmarking Humor Understanding via Oogiri"** [[paper](https://arxiv.org/abs/2512.21494)]
 * [Dec 2025] **"Divergent-Convergent Thinking in Large Language Models for Creative Problem Generation"** [[paper](https://arxiv.org/abs/2512.23601v1)]
+* [Jan 2026] **"Progressive Ideation using an Agentic AI Framework for Human-AI Co-Creation"** [[paper](https://arxiv.org/abs/2601.00475)]
+* [Jan 2026] **"OpenNovelty: An LLM-powered Agentic System for Verifiable Scholarly Novelty Assessment"** [[paper](https://www.arxiv.org/abs/2601.01576)]
+* [Jan 2026] **"Sci-Reasoning: A Dataset Decoding AI Innovation Patterns"** [[paper](https://arxiv.org/abs/2601.04577v1)]

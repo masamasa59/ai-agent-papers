@@ -78,3 +78,7 @@
 * 📖 [Dec 2025] **"Deep Research: A Systematic Survey"** [[paper](https://arxiv.org/abs/2512.02038v1)]
 * 🔥 [Dec 2025] **"How Far Are We from Genuinely Useful Deep Research Agents?"** [[paper](https://arxiv.org/abs/2512.01948v1)]
 * [Dec 2025] **"Step-DeepResearch Technical Report"** [[paper](https://arxiv.org/abs/2512.20491v1)]
+* [Jan 2026] **"DeepSynth-Eval: Objectively Evaluating Information Consolidation in Deep Survey Writing"** [[paper](https://arxiv.org/abs/2601.03540)]
+* [Jan 2026] **"Mind2Report: A Cognitive Deep Research Agent for Expert-Level Commercial Report Synthesis"** [[paper](https://www.arxiv.org/abs/2601.04879)]
+* [Jan 2026] **"SmartSearch: Process Reward-Guided Query Refinement for Search Agents"** [[paper](https://www.arxiv.org/abs/2601.04888)]
+* [Jan 2026] **"DocDancer: Towards Agentic Document-Grounded Information Seeking"** [[paper](https://arxiv.org/abs/2601.05163)]

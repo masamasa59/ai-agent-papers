@@ -8,3 +8,4 @@
 * ⚖️ [Dec 2025] **"Finch: Benchmarking Finance & Accounting across Spreadsheet-Centric Enterprise Workflows"** [[paper](https://arxiv.org/abs/2512.13168v1)]
 * [Dec 2025] **"Generative AI for Analysts"** [[paper](https://arxiv.org/abs/2512.19705v1)]
 * [Dec 2025] **"Automated Analysis of Sustainability Reports: Using Large Language Models for the Extraction and Prediction of EU Taxonomy-Compliant KPIs"** [[paper](https://arxiv.org/abs/2512.24289v1)]
+* [Jan 2026] **"FINDEEPFORECAST: A Live Multi-Agent System for Benchmarking Deep Research Agents in Financial Forecasting"** [[paper](https://www.arxiv.org/abs/2601.05039)]

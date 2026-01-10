@@ -117,3 +117,8 @@
 * [Dec 2025] **"MemEvolve: Meta-Evolution of Agent Memory Systems"** [[paper](https://arxiv.org/abs/2512.18746v1)]
 * [Dec 2025] **"CASCADE: Cumulative Agentic Skill Creation through Autonomous Development and Evolution"** [[paper](https://arxiv.org/abs/2512.23880v1)]
 * [Dec 2025] **"Toward Training Superintelligent Software Agents through Self-Play SWE-RL"** [[paper](https://arxiv.org/abs/2512.18552v1)]
+* [Dec 2025] **"SWE-EVO: Benchmarking Coding Agents in　Long-Horizon Software Evolution Scenarios"** [[paper](https://www.arxiv.org/abs/2512.18470)]
+* [Dec 2025] **"Accelerating Scientific Discovery with Autonomous Goal-evolving Agents (SAGA)"** [[paper](https://arxiv.org/abs/2512.21782)]
+* [Jan 2026] **"JENIUS AGENT: Towards Experience-Driven Accuracy Optimization in Real-World Scenarios"** [[paper](https://arxiv.org/abs/2601.01857)]
+* [Jan 2026] **"EvoRoute: Experience-Driven Self-Routing LLM Agent Systems"** [[paper](https://arxiv.org/abs/2601.02695)]
+* [Jan 2026] **"MEMRL: Self-Evolving Agents via Runtime Reinforcement Learning on Episodic Memory"** [[paper](https://arxiv.org/abs/2601.03192)]

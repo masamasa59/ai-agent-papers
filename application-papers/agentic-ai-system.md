@@ -120,3 +120,5 @@ Agents in various tasks such as education, healthcare, and the press.
 * [Dec 2025] **"LLM-as-a-Prophet: Understanding Predictive Intelligence with Prophet Arena"** [[paper](https://arxiv.org/abs/2510.17638v2)]
 * [Dec 2025] **"SoMe: A Realistic Benchmark for LLM-based Social Media Agents"** [[paper](https://arxiv.org/abs/2512.14720)]
 * [Dec 2025] **"An Comparative Analysis about KYC on a Recommendation System Toward Agentic Recommendation System"** [[paper](https://arxiv.org/abs/2512.23961v1)]
+* [Jan 2026] **"Digital Twin AI: Opportunities and Challenges from Large Language Models to World Models"** [[paper](https://arxiv.org/abs/2601.01321)]
+* [Jan 2026] **"Agentic AI in Remote Sensing: Foundations, Taxonomy, and Emerging Systems"** [[paper](https://arxiv.org/abs/2601.01891)]

@@ -82,3 +82,5 @@
 * [Nov 2025] **"AutoEnv: Automated Environments for Measuring Cross-Environment Agent Learning"** [[paper](https://arxiv.org/abs/2511.19304v1)]
 * [Dec 2025] **"Self-Improving VLM Judges Without Human Annotations"** [[paper](https://arxiv.org/abs/2512.05145v1)]
 * 📖 [Dec 2025] **"Adaptation of Agentic AI"** [[paper](https://arxiv.org/abs/2512.16301v1)]
+* [Jan 2026] **"Agentic Memory: Learning Unified Long-Term and Short-Term Memory Management for Large Language Model Agents"** [[paper](https://arxiv.org/abs/2601.01885)]
+* [Jan 2026] **"SIMUAGENT: An LLM-Based Simulink Modeling Assistant Enhanced with Reinforcement Learning"** [[paper](https://arxiv.org/abs/2601.05187)]

@@ -13,3 +13,4 @@
 * ⚖️ [Dec 2025] **"GovBench: Benchmarking LLM Agents for Real-World Data Governance Workflows"** [[paper](https://arxiv.org/abs/2512.04416v1)]
 * [Dec 2025] **"DeepRule: An Integrated Framework for Automated Business Rule Generation via Deep Predictive Modeling and Hybrid Search Optimization"** [[paper](https://arxiv.org/abs/2512.03607v1)]
 * [Dec 2025] **"Advances in Agentic AI: Back to the Future"** [[paper](https://arxiv.org/abs/2512.24856)]
+* [Jan 2026] **"Time-Scaling Is What Agents Need Now"** [[paper](https://arxiv.org/abs/2601.02714)]

@@ -42,3 +42,4 @@
 * ⚖️ [Aug 2025] **"OdysseyBench: Evaluating LLM Agents on Long-Horizon Complex Office Application Workflows"** [[paper](https://arxiv.org/abs/2508.09124)]
 * [Aug 2025] **"Re4: Scientific Computing Agent with Rewriting, Resolution, Review and Revision"** [[paper](https://arxiv.org/abs/2508.20729)]
 * [Aug 2025] **"GDS Agent: A Graph Algorithmic Reasoning Agent"** [[paper](https://arxiv.org/abs/2508.20637)]
+* [Jan 2026] **"From Idea to Co-Creation: A Planner–Actor–Critic Framework for Agent Augmented 3D Modeling"** [[paper](https://www.arxiv.org/abs/2601.05016)]

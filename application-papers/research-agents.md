@@ -95,3 +95,8 @@
 * [Dec 2025] **"Bohrium + SciMaster: Building the Infrastructure and Ecosystem for Agentic Science at Scale"** [[paper](https://arxiv.org/abs/2512.20469v1)]
 * [Dec 2025] **"Probing Scientific General Intelligence of LLMs with Scientist-Aligned Workflows"** [[paper](https://arxiv.org/abs/2512.16969v1)]
 * [Dec 2025] **"AI Urban Scientist: Multi-Agent Collaborative　Automation for Urban Research"** [[paper](https://arxiv.org/abs/2512.07849)]
+* [Dec 2025] **"Accelerating Scientific Discovery with Autonomous Goal-evolving Agents (SAGA)"** [[paper](https://arxiv.org/abs/2512.21782)]
+* [Jan 2026] **"OpenNovelty: An LLM-powered Agentic System for Verifiable Scholarly Novelty Assessment"** [[paper](https://www.arxiv.org/abs/2601.01576)]
+* [Jan 2026] **"SCINETBENCH: A Relation-Aware Benchmark for Scientific Literature Retrieval Agents"** [[paper](https://arxiv.org/abs/2601.03260v1)]
+* [Jan 2026] **"Why LLMs Aren’t Scientists Yet: Lessons from Four Autonomous Research Attempts "** [[paper](https://www.arxiv.org/abs/2601.03315)]
+* [Jan 2026] **"Sci-Reasoning: A Dataset Decoding AI Innovation Patterns"** [[paper](https://arxiv.org/abs/2601.04577v1)]
