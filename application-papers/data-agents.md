@@ -88,3 +88,5 @@
 * ⚖️ [Dec 2025] **"DAComp: Benchmarking Data Agents across the Full Data Intelligence Lifecycle"** [[paper](https://arxiv.org/abs/2512.04324)]
 * [Dec 2025] **"Can Agentic AI Match the Performance of Human Data Scientists?"** [[paper](https://arxiv.org/abs/2512.20959v1)]
 * [Dec 2025] **"AMAP Agentic Planning Technical Report"** [[paper](https://arxiv.org/abs/2512.24957v1)]
+* [Jan 2026] **"Can We Predict Before Executing Machine Learning Agents?"** [[paper](https://arxiv.org/abs/2601.05930v1)]
+* [Jan 2026] **"Toward Ultra-Long-Horizon Agentic Science: Cognitive Accumulation for Machine Learning Engineering"** [[paper](https://arxiv.org/abs/2601.10402v1)]

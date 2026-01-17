@@ -11,3 +11,6 @@
 * [Jan 2026] **"Digital Twin AI: Opportunities and Challenges from Large Language Models to World Models"** [[paper](https://arxiv.org/abs/2601.01321)]
 * [Jan 2026] **"Current Agents Fail to Leverage World Model as Tool for Foresight"** [[paper](https://arxiv.org/abs/2601.03905v2)]
 * [Jan 2026] **"Learning Latent Action World Models In The Wild"** [[paper](https://arxiv.org/abs/2601.05230)]
+* [Jan 2026] **"What Do LLMAgents Know About Their World? Task2Quiz: A Paradigm for Studying Environment Understanding"** [[paper](https://arxiv.org/abs/2601.09503v1)]
+* [Jan 2026] **"World Craft: Agentic Framework to Create Visualizable Worlds via Text"** [[paper](https://arxiv.org/abs/2601.09150v1)]
+* [Jan 2026] **"Imagine-then-Plan: Agent Learning from Adaptive Lookahead with World Models"** [[paper](https://arxiv.org/abs/2601.08955v1)]

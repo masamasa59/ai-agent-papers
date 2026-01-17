@@ -100,3 +100,7 @@
 * [Jan 2026] **"SCINETBENCH: A Relation-Aware Benchmark for Scientific Literature Retrieval Agents"** [[paper](https://arxiv.org/abs/2601.03260v1)]
 * [Jan 2026] **"Why LLMs Aren’t Scientists Yet: Lessons from Four Autonomous Research Attempts "** [[paper](https://www.arxiv.org/abs/2601.03315)]
 * [Jan 2026] **"Sci-Reasoning: A Dataset Decoding AI Innovation Patterns"** [[paper](https://arxiv.org/abs/2601.04577v1)]
+* [Jan 2026] **"Proof of Time: A Benchmark for Evaluating Scientific Idea Judgments"** [[paper](https://arxiv.org/abs/2601.07606v1)]
+* [Jan 2026] **"DIAGPaper: Diagnosing Valid and Specific Weaknesses in Scientific Papers via Multi-Agent Reasoning"** [[paper](https://arxiv.org/abs/2601.07611v1)]
+* [Jan 2026] **"Agentic AI and Machine Learning for Accelerated Materials Discovery and Applications"** [[paper](https://arxiv.org/abs/2601.09027)]
+* [Jan 2026] **"Benchmarking Autonomy in Scientific Experiments: A Hierarchical Taxonomy for Autonomous Large-Scale Facilities"** [[paper](https://arxiv.org/abs/2601.06978v1)]

@@ -1,0 +1,6 @@
+* [Dec 2025] **"LLM-as-a-Prophet: Understanding Predictive Intelligence with Prophet Arena"** [[paper](https://arxiv.org/abs/2510.17638v2)]
+* [Jan 2026] **"Crisis-Bench: Benchmarking Strategic Ambiguity and Reputation　Management in Large Language Models"** [[paper](https://arxiv.org/abs/2601.05570v1)]
+* [Jan 2026] **"Can We Predict Before Executing Machine Learning Agents?"** [[paper](https://arxiv.org/abs/2601.05930v1)]
+* [Jan 2026] **"Automating Supply Chain Disruption Monitoring via an Agentic AI Approach"** [[paper](https://arxiv.org/abs/2601.09680v1)]
+* [Jan 2026] **"MAXS: Meta-Adaptive Exploration with LLM Agents"** [[paper](https://arxiv.org/abs/2601.09259v1)]
+* [Jan 2026] **"Imagine-then-Plan: Agent Learning from Adaptive Lookahead with World Models"** [[paper](https://arxiv.org/abs/2601.08955v1)]

@@ -82,3 +82,5 @@
 * [Jan 2026] **"Mind2Report: A Cognitive Deep Research Agent for Expert-Level Commercial Report Synthesis"** [[paper](https://www.arxiv.org/abs/2601.04879)]
 * [Jan 2026] **"SmartSearch: Process Reward-Guided Query Refinement for Search Agents"** [[paper](https://www.arxiv.org/abs/2601.04888)]
 * [Jan 2026] **"DocDancer: Towards Agentic Document-Grounded Information Seeking"** [[paper](https://arxiv.org/abs/2601.05163)]
+* ⚖️ [Jan 2026] **"DeepResearchEval: An Automated Framework for Deep Research Task Construction and Agentic Evaluation"** [[paper](https://arxiv.org/abs/2601.09688v1)]
+* ⚖️ [Jan 2026] **"DeepResearch Bench II: Diagnosing Deep Research Agents via Rubrics from Expert Report"** [[paper](https://arxiv.org/abs/2601.08536v1)]

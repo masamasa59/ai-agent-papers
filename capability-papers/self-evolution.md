@@ -122,3 +122,8 @@
 * [Jan 2026] **"JENIUS AGENT: Towards Experience-Driven Accuracy Optimization in Real-World Scenarios"** [[paper](https://arxiv.org/abs/2601.01857)]
 * [Jan 2026] **"EvoRoute: Experience-Driven Self-Routing LLM Agent Systems"** [[paper](https://arxiv.org/abs/2601.02695)]
 * [Jan 2026] **"MEMRL: Self-Evolving Agents via Runtime Reinforcement Learning on Episodic Memory"** [[paper](https://arxiv.org/abs/2601.03192)]
+* [Jan 2026] **"PACEvolve: Enabling Long-Horizon Progress-Aware Consistent Evolution"** [[paper](https://arxiv.org/abs/2601.10657v1)]
+* [Jan 2026] **"Beyond Static Tools: Test-Time Tool Evolution for Scientific Reasoning"** [[paper](https://arxiv.org/abs/2601.07641v1)]
+* [Jan 2026] **"WISE-Flow: Workflow-Induced Structured Experience for Self-Evolving Conversational Service Agents"** [[paper](https://arxiv.org/abs/2601.08158v1)]
+* [Jan 2026] **"To Retrieve or To Think? An Agentic Approach for Context Evolution"** [[paper](https://arxiv.org/abs/2601.08747v2)]
+* [Jan 2026] **"Controlled Self-Evolution for Algorithmic Code Optimization"** [[paper](https://arxiv.org/abs/2601.07348v4)]

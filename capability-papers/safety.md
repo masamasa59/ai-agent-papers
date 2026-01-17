@@ -67,3 +67,4 @@ These papers discuss the safety and risks of agents.
 * [Dec 2025] **"Distributional AGI Safety"** [[paper](https://arxiv.org/abs/2512.16856v1)]
 * [Dec 2025] **"Systemic Risks of Interacting AI"** [[paper](https://arxiv.org/abs/2512.17793v1)]
 * [Dec 2025] **"AprielGuard"** [[paper](https://arxiv.org/abs/2512.20293v1)]
+* [Jan 2026] **"Socio-technical aspects of Agentic AI"** [[paper](https://arxiv.org/abs/2601.06064v1)]

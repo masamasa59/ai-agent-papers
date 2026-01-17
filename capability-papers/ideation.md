@@ -26,3 +26,7 @@
 * [Jan 2026] **"Progressive Ideation using an Agentic AI Framework for Human-AI Co-Creation"** [[paper](https://arxiv.org/abs/2601.00475)]
 * [Jan 2026] **"OpenNovelty: An LLM-powered Agentic System for Verifiable Scholarly Novelty Assessment"** [[paper](https://www.arxiv.org/abs/2601.01576)]
 * [Jan 2026] **"Sci-Reasoning: A Dataset Decoding AI Innovation Patterns"** [[paper](https://arxiv.org/abs/2601.04577v1)]
+* [Jan 2026] **"SuS: Strategy-aware Surprise for Intrinsic Exploration"** [[paper](https://arxiv.org/abs/2601.10349v1)]
+* [Jan 2026] **"Proof of Time: A Benchmark for Evaluating Scientific Idea Judgments"** [[paper](https://arxiv.org/abs/2601.07606v1)]
+* [Jan 2026] **"LLM Review: Enhancing Creative Writing via Blind Peer Review Feedback"** [[paper](https://arxiv.org/abs/2601.08003v1)]
+* [Jan 2026] **"Agentic AI and Machine Learning for Accelerated Materials Discovery and Applications"** [[paper](https://arxiv.org/abs/2601.09027)]

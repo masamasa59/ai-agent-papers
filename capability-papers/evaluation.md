@@ -64,3 +64,5 @@
 * 🔥 [Dec 2025] **"Towards a Science of Scaling Agent Systems"** [[paper](https://arxiv.org/abs/2512.08296v1)]
 * [Dec 2025] **"Scaling Laws for Economic Productivity:Experimental Evidence in LLM-Assisted Consulting, Data Analyst, and Management Tasks"** [[paper](https://arxiv.org/abs/2512.21316v1)]
 * [Dec 2025] **"Do Large Language Models Know What They Are Capable Of?"** [[paper](https://arxiv.org/abs/2512.24661v1)]
+* [Jan 2026] **"Active Evaluation of General Agents: Problem Definition and Comparison of Baseline Algorithms"** [[paper](https://arxiv.org/abs/2601.07651v1)]
+* [Jan 2026] **"The Hierarchy of Agentic Capabilities: Evaluating Frontier Models on Realistic RL Environments"** [[paper](https://arxiv.org/abs/2601.09032v1)]

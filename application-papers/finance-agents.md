@@ -9,3 +9,5 @@
 * [Dec 2025] **"Generative AI for Analysts"** [[paper](https://arxiv.org/abs/2512.19705v1)]
 * [Dec 2025] **"Automated Analysis of Sustainability Reports: Using Large Language Models for the Extraction and Prediction of EU Taxonomy-Compliant KPIs"** [[paper](https://arxiv.org/abs/2512.24289v1)]
 * [Jan 2026] **"FINDEEPFORECAST: A Live Multi-Agent System for Benchmarking Deep Research Agents in Financial Forecasting"** [[paper](https://www.arxiv.org/abs/2601.05039)]
+* ⚖️ [Jan 2026] **"FinVault: Benchmarking Financial Agent Safety in Execution-Grounded Environments"** [[paper](https://arxiv.org/abs/2601.07853v1)]
+* [Jan 2026] **"Advancing ESG Intelligence: An Expert-level Agent and Comprehensive Benchmark for Sustainable Finance"** [[paper](https://arxiv.org/abs/2601.08676v2)]
