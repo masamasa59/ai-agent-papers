@@ -59,6 +59,10 @@ But can they really replace our jobs?
 
 
 ## Jan Hilights
+
+### Agentic Reasoning
+* 📖 [Jan 2026] **"Agentic Reasoning for Large Language Models"** [[paper](https://arxiv.org/abs/2601.12538v1)]
+
 ### Self-Evolving Agents
 * **"JENIUS AGENT: Towards Experience-Driven Accuracy Optimization in Real-World Scenarios"** [[paper](https://arxiv.org/abs/2601.01857)]
 * **"EvoRoute: Experience-Driven Self-Routing LLM Agent Systems"** [[paper](https://arxiv.org/abs/2601.02695)]
@@ -68,6 +72,8 @@ But can they really replace our jobs?
 * **"WISE-Flow: Workflow-Induced Structured Experience for Self-Evolving Conversational Service Agents"** [[paper](https://arxiv.org/abs/2601.08158v1)]
 * **"To Retrieve or To Think? An Agentic Approach for Context Evolution"** [[paper](https://arxiv.org/abs/2601.08747v2)]
 * **"Controlled Self-Evolution for Algorithmic Code Optimization"** [[paper](https://arxiv.org/abs/2601.07348v4)]
+* [Jan 2026] **"Learn Like Humans: Use Meta-cognitive Reflection for Efficient Self-Improvement"** [[paper](https://arxiv.org/abs/2601.11974v1)]
+* 📖 [Jan 2026] **"From Storage to Experience: A Survey on the Evolution of LLM Agent Memory Mechanisms"** [[paper](https://www.preprints.org/manuscript/202601.0618)]
 
 ### Memory
 * **"Agentic Memory: Learning Unified Long-Term and Short-Term Memory Management for Large Language Model Agents"** [[paper](https://arxiv.org/abs/2601.01885)]
@@ -93,6 +99,8 @@ But can they really replace our jobs?
 * **"Proof of Time: A Benchmark for Evaluating Scientific Idea Judgments"** [[paper](https://arxiv.org/abs/2601.07606v1)]
 * **"LLM Review: Enhancing Creative Writing via Blind Peer Review Feedback"** [[paper](https://arxiv.org/abs/2601.08003v1)]
 * **"Agentic AI and Machine Learning for Accelerated Materials Discovery and Applications"** [[paper](https://arxiv.org/abs/2601.09027)]
+* [Jan 2026] **"Who Owns Creativity and Who Does the Work? Trade-offs in LLM-Supported Research Ideation"** [[paper](https://arxiv.org/abs/2601.12152v1)]
+* [Jan 2026] **"Improved Bug Localization with AI Agents Leveraging Hypothesis and Dynamic Cognition"** [[paper](https://arxiv.org/abs/2601.12522v1)]
 
 ## December Highlights (Updated 30 Dec)
 

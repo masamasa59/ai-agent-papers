@@ -14,3 +14,4 @@
 * [Jan 2026] **"What Do LLMAgents Know About Their World? Task2Quiz: A Paradigm for Studying Environment Understanding"** [[paper](https://arxiv.org/abs/2601.09503v1)]
 * [Jan 2026] **"World Craft: Agentic Framework to Create Visualizable Worlds via Text"** [[paper](https://arxiv.org/abs/2601.09150v1)]
 * [Jan 2026] **"Imagine-then-Plan: Agent Learning from Adaptive Lookahead with World Models"** [[paper](https://arxiv.org/abs/2601.08955v1)]
+* [Jan 2026] **"Aligning Agentic World Models via Knowledgeable Experience Learning"** [[paper](https://arxiv.org/abs/2601.13247v1)]

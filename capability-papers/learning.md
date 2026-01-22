@@ -84,3 +84,4 @@
 * 📖 [Dec 2025] **"Adaptation of Agentic AI"** [[paper](https://arxiv.org/abs/2512.16301v1)]
 * [Jan 2026] **"Agentic Memory: Learning Unified Long-Term and Short-Term Memory Management for Large Language Model Agents"** [[paper](https://arxiv.org/abs/2601.01885)]
 * [Jan 2026] **"SIMUAGENT: An LLM-Based Simulink Modeling Assistant Enhanced with Reinforcement Learning"** [[paper](https://arxiv.org/abs/2601.05187)]
+* [Jan 2026] **"Knowledge is Not Enough: Injecting RL Skills for Continual Adaptation"** [[paper](https://arxiv.org/abs/2601.11258v1)]

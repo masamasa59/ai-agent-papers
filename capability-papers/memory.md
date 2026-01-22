@@ -92,3 +92,4 @@ These papers discuss an agent’s memory function and its self-evolution.
 * [Jan 2026] **"Fine-Mem: Fine-Grained Feedback Alignment for Long-Horizon Memory Management"** [[paper](https://arxiv.org/abs/2601.08435v1)]
 * [Jan 2026] **"Structured Episodic Event Memory"** [[paper](https://arxiv.org/abs/2601.06411v1)]
 * [Jan 2026] **"Active Context Compression: Autonomous Memory Management in LLM Agents"**[[paper](https://arxiv.org/abs/2601.07190v1)]
+* 📖 [Jan 2026] **"From Storage to Experience: A Survey on the Evolution of LLM Agent Memory Mechanisms"** [[paper](https://www.preprints.org/manuscript/202601.0618)]

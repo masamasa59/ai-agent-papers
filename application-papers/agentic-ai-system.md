@@ -126,3 +126,4 @@ Agents in various tasks such as education, healthcare, and the press.
 * [Jan 2026] **"Automating Supply Chain Disruption Monitoring via an Agentic AI Approach"** [[paper](https://arxiv.org/abs/2601.09680v1)]
 * [Jan 2026] **"Evaluating Implicit Regulatory Compliance in LLM Tool Invocation via Logic-Guided Synthesis"** [[paper](https://arxiv.org/abs/2601.08196v1)]
 * 📖 [Jan 2026] **"LLM Agents in Law: Taxonomy, Applications, and Challenges"** [[paper](https://arxiv.org/abs/2601.06216v1)]
+* [Jan 2026] **"FutureX-Pro: Extending Future Prediction to High-Value Vertical Domains"** [[paper](https://arxiv.org/abs/2601.12259v1)]

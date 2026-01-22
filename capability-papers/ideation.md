@@ -30,3 +30,5 @@
 * [Jan 2026] **"Proof of Time: A Benchmark for Evaluating Scientific Idea Judgments"** [[paper](https://arxiv.org/abs/2601.07606v1)]
 * [Jan 2026] **"LLM Review: Enhancing Creative Writing via Blind Peer Review Feedback"** [[paper](https://arxiv.org/abs/2601.08003v1)]
 * [Jan 2026] **"Agentic AI and Machine Learning for Accelerated Materials Discovery and Applications"** [[paper](https://arxiv.org/abs/2601.09027)]
+* [Jan 2026] **"Who Owns Creativity and Who Does the Work? Trade-offs in LLM-Supported Research Ideation"** [[paper](https://arxiv.org/abs/2601.12152v1)]
+* [Jan 2026] **"Improved Bug Localization with AI Agents Leveraging Hypothesis and Dynamic Cognition"** [[paper](https://arxiv.org/abs/2601.12522v1)]

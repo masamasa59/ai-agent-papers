@@ -145,6 +145,8 @@
 * [Dec 2025] **"Learning to Orchestrate Agents in Natural Language with the Conductor"** [[paper](https://arxiv.org/abs/2512.04388v1)]
 * [Dec 2025] **"DoVer: Intervention-Driven Auto Debugging for LLM Multi-Agent Systems"** [[paper](https://arxiv.org/abs/2512.06749v2)]
 * [Dec 2025] **"On the Dynamics of Multi-Agent LLM Communities Driven by Value Diversity"** [[paper](https://arxiv.org/abs/2512.10665)]
+* [Jan 2026] **"Can Small Agent Collaboration Beat a Single Big LLM?"** [[paper](https://arxiv.org/abs/2601.11327v1)]
+* [Jan 2026] **"Rethinking the Value of Multi-Agent Workflow: A Strong Single Agent Baseline"** [[paper](https://arxiv.org/abs/2601.12307v1)]
 
 ## Agent Ops & UX & Business
 * [Feb 2024] **"Towards better Human-Agent Alignment: Assessing Task Utility in LLM-Powered Applications"** [[paper](https://arxiv.org/abs/2402.09015)]

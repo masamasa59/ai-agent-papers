@@ -78,3 +78,4 @@
 * [Dec 2025] **"Toward Training Superintelligent Software Agents through Self-Play SWE-RL"** [[paper](https://arxiv.org/abs/2512.18552v1)]
 * [Dec 2025] **"Confucius Code Agent: Scalable Agent Scaffolding　for Real-World Codebases"** [[paper](https://arxiv.org/abs/2512.10398)]
 * [Dec 2025] **"SWE-EVO: Benchmarking Coding Agents in　Long-Horizon Software Evolution Scenarios"** [[paper](https://www.arxiv.org/abs/2512.18470)]
+* [Jan 2026] **"Improved Bug Localization with AI Agents Leveraging Hypothesis and Dynamic Cognition"** [[paper](https://arxiv.org/abs/2601.12522v1)]
