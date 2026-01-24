@@ -105,6 +105,7 @@
 * 📖 [Jan 2026] **"AI Agent Systems: Architectures, Applications, and Evaluation"** [[paper](https://arxiv.org/abs/2601.01743)]
 * [Jan 2026] **"Time-Scaling Is What Agents Need Now"** [[paper](https://arxiv.org/abs/2601.02714)]
 * [Jan 2026] **"AgentOCR: Reimagining Agent History via Optical Self-Compression"** [[paper](https://arxiv.org/abs/2601.04786)]
+* 📖 [Jan 2026] **"Toward Efficient Agents: Memory, Tool learning, and Planning"** [[paper](https://arxiv.org/abs/2601.14192v1)]
 
 ## Multi-Agent
 * [Mar 2023] **"CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society"** [[paper](https://arxiv.org/abs/2303.17760)]

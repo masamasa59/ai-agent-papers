@@ -85,3 +85,4 @@
 * ⚖️ [Jan 2026] **"DeepResearchEval: An Automated Framework for Deep Research Task Construction and Agentic Evaluation"** [[paper](https://arxiv.org/abs/2601.09688v1)]
 * ⚖️ [Jan 2026] **"DeepResearch Bench II: Diagnosing Deep Research Agents via Rubrics from Expert Report"** [[paper](https://arxiv.org/abs/2601.08536v1)]
 * ⚖️ [Jan 2026] **"Can Deep Research Agents Find and Organize? Evaluating the Synthesis Gap with Expert Taxonomies"** [[paper](https://arxiv.org/abs/2601.12369v1)]
+* [Jan 2026] **"Inference-Time Scaling of Verification: Self-Evolving Deep Research Agents via Test-Time Rubric-Guided Verification"** [[paper](https://arxiv.org/abs/2601.15808)]

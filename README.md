@@ -58,10 +58,11 @@ But can they really replace our jobs?
  - [Awesome LLM agents](https://github.com/kaushikb11/awesome-llm-agents)
 
 
-## Jan Hilights
+## Jan/26 Highlights
 
 ### Agentic Reasoning
-* 📖 [Jan 2026] **"Agentic Reasoning for Large Language Models"** [[paper](https://arxiv.org/abs/2601.12538v1)]
+* 📖 **"Agentic Reasoning for Large Language Models"** [[paper](https://arxiv.org/abs/2601.12538v1)]
+* 📖 **"Toward Efficient Agents: Memory, Tool learning, and Planning"** [[paper](https://arxiv.org/abs/2601.14192v1)]
 
 ### Self-Evolving Agents
 * **"JENIUS AGENT: Towards Experience-Driven Accuracy Optimization in Real-World Scenarios"** [[paper](https://arxiv.org/abs/2601.01857)]
@@ -72,8 +73,9 @@ But can they really replace our jobs?
 * **"WISE-Flow: Workflow-Induced Structured Experience for Self-Evolving Conversational Service Agents"** [[paper](https://arxiv.org/abs/2601.08158v1)]
 * **"To Retrieve or To Think? An Agentic Approach for Context Evolution"** [[paper](https://arxiv.org/abs/2601.08747v2)]
 * **"Controlled Self-Evolution for Algorithmic Code Optimization"** [[paper](https://arxiv.org/abs/2601.07348v4)]
-* [Jan 2026] **"Learn Like Humans: Use Meta-cognitive Reflection for Efficient Self-Improvement"** [[paper](https://arxiv.org/abs/2601.11974v1)]
-* 📖 [Jan 2026] **"From Storage to Experience: A Survey on the Evolution of LLM Agent Memory Mechanisms"** [[paper](https://www.preprints.org/manuscript/202601.0618)]
+* **"Learn Like Humans: Use Meta-cognitive Reflection for Efficient Self-Improvement"** [[paper](https://arxiv.org/abs/2601.11974v1)]
+* 📖 **"From Storage to Experience: A Survey on the Evolution of LLM Agent Memory Mechanisms"** [[paper](https://www.preprints.org/manuscript/202601.0618)]
+* **"Inference-Time Scaling of Verification: Self-Evolving Deep Research Agents via Test-Time Rubric-Guided Verification"** [[paper](https://arxiv.org/abs/2601.15808)]
 
 ### Memory
 * **"Agentic Memory: Learning Unified Long-Term and Short-Term Memory Management for Large Language Model Agents"** [[paper](https://arxiv.org/abs/2601.01885)]
@@ -99,10 +101,12 @@ But can they really replace our jobs?
 * **"Proof of Time: A Benchmark for Evaluating Scientific Idea Judgments"** [[paper](https://arxiv.org/abs/2601.07606v1)]
 * **"LLM Review: Enhancing Creative Writing via Blind Peer Review Feedback"** [[paper](https://arxiv.org/abs/2601.08003v1)]
 * **"Agentic AI and Machine Learning for Accelerated Materials Discovery and Applications"** [[paper](https://arxiv.org/abs/2601.09027)]
-* [Jan 2026] **"Who Owns Creativity and Who Does the Work? Trade-offs in LLM-Supported Research Ideation"** [[paper](https://arxiv.org/abs/2601.12152v1)]
-* [Jan 2026] **"Improved Bug Localization with AI Agents Leveraging Hypothesis and Dynamic Cognition"** [[paper](https://arxiv.org/abs/2601.12522v1)]
+* **"Who Owns Creativity and Who Does the Work? Trade-offs in LLM-Supported Research Ideation"** [[paper](https://arxiv.org/abs/2601.12152v1)]
+* **"Improved Bug Localization with AI Agents Leveraging Hypothesis and Dynamic Cognition"** [[paper](https://arxiv.org/abs/2601.12522v1)]
+* **"Rethinking the AI Scientist: Interactive Multi-Agent Workflows for Scientific Discovery"** [[paper](https://www.arxiv.org/abs/2601.12542)]
+* **"Learning to Discover at Test Time"** [[paper](https://arxiv.org/abs/2601.16175)]
 
-## December Highlights (Updated 30 Dec)
+## Dec/25 Highlights (Updated 30 Dec)
 
 ### Self-Evolving Agents
 * **"Strategic Self-Improvement for Competitive Agents in AI Labour Markets"** [[paper](https://arxiv.org/abs/2512.04988v1)]
@@ -123,3 +127,7 @@ But can they really replace our jobs?
 * ⚖️ **"Evaluating Large Language Models in Scientific Discovery"** [[paper](https://arxiv.org/abs/2512.15567v1)]
 * 🔥 **"How Far Are We from Genuinely Useful Deep Research Agents?"** [[paper](https://arxiv.org/abs/2512.01948v1)]
 * **"Can Agentic AI Match the Performance of Human Data Scientists?"** [[paper](https://arxiv.org/abs/2512.20959v1)]
+
+
+## 2025 Highlights 
+04/25 ~ 12/25 [[link](lectures/2025_trend.md)]

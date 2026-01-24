@@ -79,3 +79,4 @@
 * [Dec 2025] **"Confucius Code Agent: Scalable Agent Scaffolding　for Real-World Codebases"** [[paper](https://arxiv.org/abs/2512.10398)]
 * [Dec 2025] **"SWE-EVO: Benchmarking Coding Agents in　Long-Horizon Software Evolution Scenarios"** [[paper](https://www.arxiv.org/abs/2512.18470)]
 * [Jan 2026] **"Improved Bug Localization with AI Agents Leveraging Hypothesis and Dynamic Cognition"** [[paper](https://arxiv.org/abs/2601.12522v1)]
+* [Jan 2026] **"LLM-in-Sandbox Elicits General Agentic Intelligence"** [[paper](https://arxiv.org/abs/2601.16206v1)]

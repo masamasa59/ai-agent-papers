@@ -106,3 +106,6 @@
 * [Jan 2026] **"Benchmarking Autonomy in Scientific Experiments: A Hierarchical Taxonomy for Autonomous Large-Scale Facilities"** [[paper](https://arxiv.org/abs/2601.06978v1)]
 * [Jan 2026] **"LimAgents: Multi-Agent LLMs for Generating Research Limitations"** [[paper](https://arxiv.org/abs/2601.11578v1)]
 * [Jan 2026] **"Who Owns Creativity and Who Does the Work? Trade-offs in LLM-Supported Research Ideation"** [[paper](https://arxiv.org/abs/2601.12152v1)]
+* [Jan 2026] **"Rethinking the AI Scientist: Interactive Multi-Agent Workflows for Scientific Discovery"** [[paper](https://www.arxiv.org/abs/2601.12542)]
+* [Jan 2026] **"Towards Execution-Grounded Automated AI Research"** [[paper](https://arxiv.org/abs/2601.14525v1)]
+* [Jan 2026] **"Large-Scale Multi-dimensional Knowledge Profiling of Scientific Literature"** [[paper](https://arxiv.org/abs/2601.15170v1)]
