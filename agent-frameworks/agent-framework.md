@@ -106,6 +106,8 @@
 * [Jan 2026] **"Time-Scaling Is What Agents Need Now"** [[paper](https://arxiv.org/abs/2601.02714)]
 * [Jan 2026] **"AgentOCR: Reimagining Agent History via Optical Self-Compression"** [[paper](https://arxiv.org/abs/2601.04786)]
 * 📖 [Jan 2026] **"Toward Efficient Agents: Memory, Tool learning, and Planning"** [[paper](https://arxiv.org/abs/2601.14192v1)]
+* 📖 [Jan 2026] **"Agentic Design Patterns: A System-Theoretic Framework"** [[paper](https://arxiv.org/abs/2601.19752)]
+* [Feb 2026] **"FS-Researcher: Test-Time Scaling for Long-Horizon Research Tasks with File-System-Based Agents"** [[paper](https://arxiv.org/abs/2602.01566)]
 
 ## Multi-Agent
 * [Mar 2023] **"CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society"** [[paper](https://arxiv.org/abs/2303.17760)]
@@ -148,6 +150,7 @@
 * [Dec 2025] **"On the Dynamics of Multi-Agent LLM Communities Driven by Value Diversity"** [[paper](https://arxiv.org/abs/2512.10665)]
 * [Jan 2026] **"Can Small Agent Collaboration Beat a Single Big LLM?"** [[paper](https://arxiv.org/abs/2601.11327v1)]
 * [Jan 2026] **"Rethinking the Value of Multi-Agent Workflow: A Strong Single Agent Baseline"** [[paper](https://arxiv.org/abs/2601.12307v1)]
+
 
 ## Agent Ops & UX & Business
 * [Feb 2024] **"Towards better Human-Agent Alignment: Assessing Task Utility in LLM-Powered Applications"** [[paper](https://arxiv.org/abs/2402.09015)]
@@ -200,3 +203,7 @@
 * [Dec 2025] **"AI & Human Co-Improvement for Safer Co-Superintelligence"** [[paper](https://arxiv.org/abs/2512.05356v1)]
 * [Dec 2025] **"Monitoring Monitorability"** [[paper](https://arxiv.org/abs/2512.18311v1)]
 * [Jan 2026] **"Architecting AgentOps Needs ℂℍ𝔸ℕ𝔾𝔼"** [[paper](https://arxiv.org/abs/2601.06456v1)]
+* [Jan 2026] **"When ‘Better’ Prompts Hurt: Evaluation-Driven Iteration for LLM Applications"** [[paper](https://arxiv.org/abs/2601.22025v1)]
+* [Jan 2026] **"How AI Impacts Skill Formation"** [[paper](https://arxiv.org/abs/2601.20245)]
+* ⚖️ [Feb 2026] **"ProAgentBench: Evaluating LLM Agents for Proactive Assistance with Real-World Data"** [[paper](https://arxiv.org/abs/2602.04482)]
+* [Feb 2026] **"From Human-Human Collaboration to Human-Agent Collaboration: A Vision, Design Philosophy, and an Empirical Framework for Achieving Successful Partnerships Between Humans and LLM Agents"** [[paper](https://arxiv.org/abs/2602.05987)]

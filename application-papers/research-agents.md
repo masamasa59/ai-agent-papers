@@ -109,3 +109,8 @@
 * [Jan 2026] **"Rethinking the AI Scientist: Interactive Multi-Agent Workflows for Scientific Discovery"** [[paper](https://www.arxiv.org/abs/2601.12542)]
 * [Jan 2026] **"Towards Execution-Grounded Automated AI Research"** [[paper](https://arxiv.org/abs/2601.14525v1)]
 * [Jan 2026] **"Large-Scale Multi-dimensional Knowledge Profiling of Scientific Literature"** [[paper](https://arxiv.org/abs/2601.15170v1)]
+* [Jan 2026] **"Generating Literature-Driven Scientific Theories at Scale"** [[paper](https://arxiv.org/abs/2601.16282)]
+* [Jan 2026] **"PaperBanana: Automating Academic Illustration for AI Scientists"** [[paper](https://arxiv.org/abs/2601.23265)]
+* ⚖️ [Feb 2026] **"FIRE-Bench: Evaluating Agents on the Rediscovery of Scientific Insights"** [[paper](https://arxiv.org/abs/2602.02905)]
+* [Feb 2026] **"DeltaEvolve: Accelerating Scientific Discovery through Momentum-Driven Evolution"** [[paper](https://arxiv.org/abs/2602.02919)]
+* [Feb 2026] **"Accelerating Scientific Research with Gemini: Case Studies and Common Techniques"** [[paper](https://arxiv.org/abs/2602.03837)]

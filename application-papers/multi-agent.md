@@ -147,3 +147,5 @@
 * [Sep 2025] **"Simulating Dispute Mediation with LLM-Based Agents for Legal Research"** [[paper](https://arxiv.org/abs/2509.06586)]
 * [Oct 2025] **"Emergent Coordinated Behaviors in Networked LLM Agents: Modeling the Strategic Dynamics of Information Operations"** [[paper](https://arxiv.org/abs/2510.25003v1)]
 * [Dec 2025] **"SimWorld: AnOpen-ended Realistic Simulator for AutonomousAgents in Physical and Social Worlds"** [[paper](https://arxiv.org/abs/2512.01078v1)]
+* [Jan 2026] **"Towards Universal Urban Patterns-of-Life Simulation"** [[paper](https://arxiv.org/abs/2601.22099v1)]
+* [Jan 2026] **"When Nobody Around Is Real: Exploring Public Opinions and User Experiences on the Multi-Agent AI Social Platform"** [[paper](https://arxiv.org/abs/2601.18275)]

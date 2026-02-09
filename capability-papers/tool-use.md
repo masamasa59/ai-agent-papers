@@ -88,3 +88,4 @@ These papers discuss whether or not agents can properly use tools
 * [Oct 2025] **"Incentivizing Agentic Reasoning in LLM Judges via Tool-Integrated Reinforcement Learning"** [[paper](https://arxiv.org/abs/2510.23038)]
 * [Nov 2025] **"Agent0: Unleashing Self-Evolving Agents from Zero Data via Tool-Integrated Reasoning"** [[paper](https://arxiv.org/abs/2511.16043v1)]
 * [Jan 2026] **"Beyond Perfect APIs: A Comprehensive Evaluation of LLM Agents Under Real-World API Complexity"** [[paper](https://arxiv.org/abs/2601.00268)]
+* [Jan 2026] **"Optimizing Agentic Workflows using Meta-tools"** [[paper](https://arxiv.org/abs/2601.22037v1)]

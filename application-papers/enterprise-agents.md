@@ -15,3 +15,5 @@
 * [Dec 2025] **"Advances in Agentic AI: Back to the Future"** [[paper](https://arxiv.org/abs/2512.24856)]
 * [Jan 2026] **"Time-Scaling Is What Agents Need Now"** [[paper](https://arxiv.org/abs/2601.02714)]
 * ⚖️ [Jan 2026] **"AGENCYBENCH: Benchmarking the Frontiers of Autonomous Agents in 1M-Token Real-World Contexts"** [[paper](https://arxiv.org/abs/2601.11044v2)]
+* ⚖️ [Jan 2026] **"Agent Benchmarks Fail Public Sector Requirements"** [[paper](https://arxiv.org/abs/2601.20617v1)]
+* [Jan 2026] **"Agentic Business Process Management Systems"** [[paper](https://arxiv.org/abs/2601.18833)]

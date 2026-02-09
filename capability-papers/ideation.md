@@ -34,3 +34,7 @@
 * [Jan 2026] **"Improved Bug Localization with AI Agents Leveraging Hypothesis and Dynamic Cognition"** [[paper](https://arxiv.org/abs/2601.12522v1)]
 * [Jan 2026] **"Rethinking the AI Scientist: Interactive Multi-Agent Workflows for Scientific Discovery"** [[paper](https://www.arxiv.org/abs/2601.12542)]
 * [Jan 2026] **"Learning to Discover at Test Time"** [[paper](https://arxiv.org/abs/2601.16175)]
+* [Jan 2026] **"Insight Agents: An LLM-Based Multi-Agent System for Data Insights"** [[paper](https://arxiv.org/abs/2601.20048)]
+* [Jan 2026] **"Probing the Future of Meta-Analysis: Eliciting Design Principles via an Agentic Research IDE"** [[paper](https://arxiv.org/abs/2601.18239)]
+* [Jan 2026] **"Generating Literature-Driven Scientific Theories at Scale"** [[paper](https://arxiv.org/abs/2601.16282)]
+* ⚖️ [Feb 2026] **"ODYSSEYARENA: Benchmarking Large Language Models For Long-Horizon, Active and Inductive Interactions"** [[paper](https://arxiv.org/abs/2602.05843)]

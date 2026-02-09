@@ -85,3 +85,7 @@
 * [Jan 2026] **"Agentic Memory: Learning Unified Long-Term and Short-Term Memory Management for Large Language Model Agents"** [[paper](https://arxiv.org/abs/2601.01885)]
 * [Jan 2026] **"SIMUAGENT: An LLM-Based Simulink Modeling Assistant Enhanced with Reinforcement Learning"** [[paper](https://arxiv.org/abs/2601.05187)]
 * [Jan 2026] **"Knowledge is Not Enough: Injecting RL Skills for Continual Adaptation"** [[paper](https://arxiv.org/abs/2601.11258v1)]
+* [Jan 2026] **"Spark: Strategic Policy-Aware Exploration via Dynamic Branching for Long-Horizon Agentic Learning"** [[paper](https://arxiv.org/abs/2601.20209)]
+* [Jan 2026] **"POPE: Learning to Reason on Hard Problems via Privileged On-Policy Exploration"** [[paper](https://arxiv.org/abs/2601.18779)]
+* [Feb 2026] **"Learning to Reason in 13 Parameters"** [[paper](https://arxiv.org/abs/2602.04118)]
+* [Feb 2026] **"Scaling Small Agents Through Strategy Auctions"** [[paper](https://arxiv.org/abs/2602.04837)]

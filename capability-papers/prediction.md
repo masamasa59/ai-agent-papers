@@ -4,3 +4,5 @@
 * [Jan 2026] **"Automating Supply Chain Disruption Monitoring via an Agentic AI Approach"** [[paper](https://arxiv.org/abs/2601.09680v1)]
 * [Jan 2026] **"MAXS: Meta-Adaptive Exploration with LLM Agents"** [[paper](https://arxiv.org/abs/2601.09259v1)]
 * [Jan 2026] **"Imagine-then-Plan: Agent Learning from Adaptive Lookahead with World Models"** [[paper](https://arxiv.org/abs/2601.08955v1)]
+* [Jan 2026] **"Automating Forecasting Question Generation and Resolution for AI Evaluation"** [[paper](https://arxiv.org/abs/2601.22444)]
+* [Feb 2026] **"ProAct: Agentic Lookahead in Interactive Environments"** [[paper](https://arxiv.org/abs/2602.05327)]

@@ -94,3 +94,4 @@
 * [Jan 2026] **"Time-Scaling Is What Agents Need Now"** [[paper](https://arxiv.org/abs/2601.02714)]
 * [Jan 2026] **"MAXS: Meta-Adaptive Exploration with LLM Agents"** [[paper](https://arxiv.org/abs/2601.09259v1)]
 * 📖 [Jan 2026] **"Agentic Reasoning for Large Language Models"** [[paper](https://arxiv.org/abs/2601.12538v1)]
+* [Jan 2026] **"Just-In-Time Reinforcement Learning: Continual Learning in LLM Agents Without Gradient Updates"** [[paper](https://arxiv.org/abs/2601.18510)]

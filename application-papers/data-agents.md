@@ -91,3 +91,6 @@
 * [Jan 2026] **"Can We Predict Before Executing Machine Learning Agents?"** [[paper](https://arxiv.org/abs/2601.05930v1)]
 * [Jan 2026] **"Toward Ultra-Long-Horizon Agentic Science: Cognitive Accumulation for Machine Learning Engineering"** [[paper](https://arxiv.org/abs/2601.10402v1)]
 * ⚖️ [Jan 2026] **"DSAEval: Evaluating Data Science Agents on a Wide Range of Real-World Data Science Problems"** [[paper](https://arxiv.org/abs/2601.13591v1)]
+* [Jan 2026] **"Towards Intelligent Urban Park Development Monitoring: LLM Agents for Multi-Modal Information Fusion and Analysis"** [[paper](https://arxiv.org/abs/2601.20206)]
+* [Jan 2026] **"Insight Agents: An LLM-Based Multi-Agent System for Data Insights"** [[paper](https://arxiv.org/abs/2601.20048)]
+* [Feb 2026] **"SQLAgent: Learning to Explore Before Generating as a Data Engineer"** [[paper](https://arxiv.org/abs/2602.01952)]

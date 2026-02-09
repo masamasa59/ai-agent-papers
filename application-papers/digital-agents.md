@@ -59,6 +59,9 @@
 * [Dec 2025] **"AgentProg: Empowering Long-Horizon GUI Agents with Program-Guided Context Management"** [[paper](https://arxiv.org/abs/2512.10371v1)]
 * [Dec 2025] **"Step-GUI Technical Report"** [[paper](https://arxiv.org/abs/2512.15431v1)]
 * [Dec 2025] **"From User Interface to Agent Interface: Efficiency Optimization of UI Representations for LLM Agents"** [[paper](https://arxiv.org/abs/2512.13438v1)]
+* ⚖️ [Jan 2026] **"OS-Marathon: Benchmarking Computer-Use Agents on Long-Horizon Repetitive Tasks"** [[paper](https://arxiv.org/abs/2601.20650v1)]
+* [Jan 2026] **"OmegaUse: Building a General-Purpose GUI Agent for Autonomous Task Execution"** [[paper](https://arxiv.org/abs/2601.20380v1)]
+
 
 ### Web Agents
 * ⚖️ [Jul 2022] **"WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents"** [[paper](https://arxiv.org/abs/2207.01206)]
@@ -120,3 +123,5 @@
 * [Jun 2025] **"GUI-Actor: Coordinate-Free Visual Grounding for GUI Agents"** [[paper](https://arxiv.org/abs/2506.03143)]
 * [Jun 2025] **"Beyond Syntax: Action Semantics Learning for App Agents"** [[paper](https://arxiv.org/abs/2506.17697)]
 * [Oct 2025] **"ReInAgent: A Context-Aware GUI Agent Enabling Human-in-the-Loop Mobile Task Navigation"** [[paper](https://arxiv.org/abs/2510.07988)]
+* [Jan 2026] **"Curiosity Driven Knowledge Retrieval for Mobile Agents"** [[paper](https://arxiv.org/abs/2601.19306)]
+* 📖 [Feb 2026] **"Data Agents: Levels, State of the Art, and Open Problems"** [[paper](https://arxiv.org/abs/2602.04261)]

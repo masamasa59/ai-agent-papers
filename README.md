@@ -58,7 +58,7 @@ But can they really replace our jobs?
  - [Awesome LLM agents](https://github.com/kaushikb11/awesome-llm-agents)
 
 
-## Jan/26 Highlights
+## Jan/３０ Highlights
 
 ### Agentic Reasoning
 * 📖 **"Agentic Reasoning for Large Language Models"** [[paper](https://arxiv.org/abs/2601.12538v1)]
@@ -76,6 +76,9 @@ But can they really replace our jobs?
 * **"Learn Like Humans: Use Meta-cognitive Reflection for Efficient Self-Improvement"** [[paper](https://arxiv.org/abs/2601.11974v1)]
 * 📖 **"From Storage to Experience: A Survey on the Evolution of LLM Agent Memory Mechanisms"** [[paper](https://www.preprints.org/manuscript/202601.0618)]
 * **"Inference-Time Scaling of Verification: Self-Evolving Deep Research Agents via Test-Time Rubric-Guided Verification"** [[paper](https://arxiv.org/abs/2601.15808)]
+* **"Optimizing Agentic Workflows using Meta-tools"** [[paper](https://arxiv.org/abs/2601.22037v1)]
+* **"Yunjue Agent Tech Report: A Fully Reproducible, Zero-Start In-Situ Self-Evolving Agent System for Open-Ended Tasks"** [[paper](https://arxiv.org/abs/2601.18226)]
+* **"Large Language Model Agents Are Not Always Faithful Self-Evolvers"** [[paper](https://arxiv.org/abs/2601.22436)]
 
 ### Memory
 * **"Agentic Memory: Learning Unified Long-Term and Short-Term Memory Management for Large Language Model Agents"** [[paper](https://arxiv.org/abs/2601.01885)]
@@ -92,6 +95,8 @@ But can they really replace our jobs?
 * **"Fine-Mem: Fine-Grained Feedback Alignment for Long-Horizon Memory Management"** [[paper](https://arxiv.org/abs/2601.08435v1)]
 * **"Structured Episodic Event Memory"** [[paper](https://arxiv.org/abs/2601.06411v1)]
 * **"Active Context Compression: Autonomous Memory Management in LLM Agents"**[[paper](https://arxiv.org/abs/2601.07190v1)]
+* 📖 **"From Storage to Experience: A Survey on the Evolution of LLM Agent Memory Mechanisms"** [[paper](https://www.preprints.org/manuscript/202601.0618)]
+* **"AutoRefine: From Trajectories to Reusable Expertise for Continual LLM Agent Refinement"** [[paper](https://arxiv.org/abs/2601.22758)]
 
 ### Creative Task
 * **"Progressive Ideation using an Agentic AI Framework for Human-AI Co-Creation"** [[paper](https://arxiv.org/abs/2601.00475)]
@@ -105,6 +110,9 @@ But can they really replace our jobs?
 * **"Improved Bug Localization with AI Agents Leveraging Hypothesis and Dynamic Cognition"** [[paper](https://arxiv.org/abs/2601.12522v1)]
 * **"Rethinking the AI Scientist: Interactive Multi-Agent Workflows for Scientific Discovery"** [[paper](https://www.arxiv.org/abs/2601.12542)]
 * **"Learning to Discover at Test Time"** [[paper](https://arxiv.org/abs/2601.16175)]
+* **"Insight Agents: An LLM-Based Multi-Agent System for Data Insights"** [[paper](https://arxiv.org/abs/2601.20048)]
+* **"Probing the Future of Meta-Analysis: Eliciting Design Principles via an Agentic Research IDE"** [[paper](https://arxiv.org/abs/2601.18239)]
+* **"Generating Literature-Driven Scientific Theories at Scale"** [[paper](https://arxiv.org/abs/2601.16282)]
 
 ## Dec/25 Highlights (Updated 30 Dec)
 

@@ -1,3 +1,8 @@
 * [Jan 2026] **"SuS: Strategy-aware Surprise for Intrinsic Exploration"** [[paper](https://arxiv.org/abs/2601.10349v1)]
 * [Jan 2026] **"MAXS: Meta-Adaptive Exploration with LLM Agents"** [[paper](https://arxiv.org/abs/2601.09259v1)]
 * [Jan 2026] **"ExpSeek: Self-Triggered Experience Seeking for Web Agents"** [[paper](https://arxiv.org/abs/2601.08605v1)]
+* [Jan 2026] **"Curiosity Driven Knowledge Retrieval for Mobile Agents"** [[paper](https://arxiv.org/abs/2601.19306)]
+* [Jan 2026] **"POPE: Learning to Reason on Hard Problems via Privileged On-Policy Exploration"** [[paper](https://arxiv.org/abs/2601.18779)]
+* [Jan 2026] **"Spark: Strategic Policy-Aware Exploration via Dynamic Branching for Long-Horizon Agentic Learning"** [[paper](https://arxiv.org/abs/2601.20209)]
+* [Feb 2026] **"Empirical-MCTS: Continuous Agent Evolution via Dual-Experience Monte Carlo Tree Search"** [[paper](https://arxiv.org/abs/2602.04248)]
+* [Feb 2026] **"Group-Evolving Agents: Open-Ended Self-Improvement via Experience Sharing"** [[paper](https://arxiv.org/abs/2602.04837)]
