@@ -60,6 +60,9 @@ An AI Agent is an autonomous system powered by large language models that can pe
 
 ## Jan/３０ Highlights
 
+- [Self-Evolution Trends Report (JA)](news-letters/jan_2026/self_evolution_trends.md)
+- [Memory Trends Report (JA)](news-letters/jan_2026/memory_trends.md)
+
 ### Agentic Reasoning
 * 📖 **"Agentic Reasoning for Large Language Models"** [[paper](https://arxiv.org/abs/2601.12538v1)]
 * 📖 **"Toward Efficient Agents: Memory, Tool learning, and Planning"** [[paper](https://arxiv.org/abs/2601.14192v1)]
