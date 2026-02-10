@@ -1,9 +1,9 @@
 # AI Agents Papers
-Updated biweekly.
+
+This repository curates the latest research papers on the applications and architectural technologies of AI agents. We perform weekly Arxiv searches using specific keywords and pick only those that are particularly interesting. Rather than striving for comprehensiveness, we add papers when they introduce a distinctively new approach or novel concept that stands out from existing methods.
 
 ## AI Agent
-AI agents can think, act, and complete tasks by themselves.  
-But can they really replace our jobs?
+An AI Agent is an autonomous system powered by large language models that can perceive its environment, reason through complex tasks, and use tools to take actions in pursuit of specific goals. It combines reasoning, planning, memory, and tool-use capabilities to operate independently or as part of a multi-agent system.
 
 <figure style="text-align: center;">
     <img alt="" src="./assets/ai-agent-workflow.png" width="500" />
