@@ -57,6 +57,9 @@ An AI Agent is an autonomous system powered by large language models that can pe
 - [Awesome LLM-Powered Agent](https://github.com/hyp1231/awesome-llm-powered-agent/)
  - [Awesome LLM agents](https://github.com/kaushikb11/awesome-llm-agents)
 
+### Security & Safety
+* 📖 **"AgentLeak: A Full-Stack Benchmark for Privacy Leakage in Multi-Agent LLM Systems"** [[paper](https://arxiv.org/abs/2602.11510)]
+* 📖 **"AgentDAM: Privacy Leakage Evaluation for Autonomous Web Agents"** [[paper](https://arxiv.org/abs/2503.09780)]
 
 ## Jan/３０ Highlights
 
