@@ -69,3 +69,5 @@
 * ⚖️ [Jan 2026] **"AGENCYBENCH: Benchmarking the Frontiers of Autonomous Agents in 1M-Token Real-World Contexts"** [[paper](https://arxiv.org/abs/2601.11044v2)]
 * ⚖️ [Jan 2026] **"AgentLongBench: A Controllable Long Benchmark For Long-Contexts Agents via Environment Rollouts"** [[paper](https://arxiv.org/abs/2601.20730v2)]
 * ⚖️ [Jan 2026] **"AgentIF-OneDay: A Task-level Instruction-Following Benchmark for General AI Agents in Daily Scenarios"** [[paper](https://arxiv.org/abs/2601.20613v1)]
+* ⚖️ [Feb 2026] **"JADE: Expert-Grounded Dynamic Evaluation for Open-Ended Professional Tasks"** [[paper](https://arxiv.org/abs/2602.06486)]
+* ⚖️ [Feb 2026] **"Gaia2: Benchmarking LLM Agents on Dynamic and Asynchronous Environments"** [[paper](https://arxiv.org/abs/2602.11964)]

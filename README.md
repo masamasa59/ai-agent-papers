@@ -58,7 +58,26 @@ An AI Agent is an autonomous system powered by large language models that can pe
  - [Awesome LLM agents](https://github.com/kaushikb11/awesome-llm-agents)
 
 
-## Jan/３０ Highlights
+## Feb/15 Highlights
+
+### Self-Evolving Agents
+* **"Self-Consolidation for Self-Evolving Agents"** [[paper](https://arxiv.org/abs/2602.01966)]
+* **"Live-Evo: Online Evolution of Agentic Memory from Continuous Feedback"** [[paper](https://arxiv.org/abs/2602.02369)]
+* **"MemSkill: Learning and Evolving Memory Skills for Self-Evolving Agents"** [[paper](https://arxiv.org/abs/2602.02474)]
+* ⚖️ **"AGENTRX: Diagnosing AI Agent Failures from Execution Trajectories"** [[paper](https://arxiv.org/abs/2602.02475)]
+* **"Empirical-MCTS: Continuous Agent Evolution via Dual-Experience Monte Carlo Tree Search"** [[paper](https://arxiv.org/abs/2602.04248)]
+* **"AdaptEvolve: Improving Efficiency of Evolutionary AI Agents through Adaptive Model Selection"** [[paper](https://arxiv.org/abs/2602.11931)]
+* **"AORCHESTRA: Automating Sub-Agent Creation for Agentic Orchestration"** [[paper](https://arxiv.org/abs/2602.03786)]
+
+## Scientific Discovery
+* ⚖️ **"FIRE-Bench: Evaluating Agents on the Rediscovery of Scientific Insights"** [[paper](https://arxiv.org/abs/2602.02905)]
+* **"DeltaEvolve: Accelerating Scientific Discovery through Momentum-Driven Evolution"** [[paper](https://arxiv.org/abs/2602.02919)]
+* **"Accelerating Scientific Research with Gemini: Case Studies and Common Techniques"** [[paper](https://arxiv.org/abs/2602.03837)]
+* 📖 **"Towards a Science of Collective AI: LLM-based Multi-Agent Systems Need a Transition from Blind Trial-and-Error to Rigorous Science"** [[paper](https://arxiv.org/abs/2602.05289)]
+* ⚖️ **"AIRS-Bench: a Suite of Tasks for Frontier AI Research Science Agents"** [[paper](https://arxiv.org/abs/2602.06855)]
+* **"IV Co-Scientist: Multi-Agent LLM Framework for Causal Instrumental Variable Discovery"** [[paper](https://arxiv.org/abs/2602.07943)]
+
+## Jan/30 Highlights
 
 - [Self-Evolution Trends Report (JA)](news-letters/jan_2026/self_evolution_trends.md)
 - [Memory Trends Report (JA)](news-letters/jan_2026/memory_trends.md)
@@ -117,6 +136,14 @@ An AI Agent is an autonomous system powered by large language models that can pe
 * **"Probing the Future of Meta-Analysis: Eliciting Design Principles via an Agentic Research IDE"** [[paper](https://arxiv.org/abs/2601.18239)]
 * **"Generating Literature-Driven Scientific Theories at Scale"** [[paper](https://arxiv.org/abs/2601.16282)]
 
+## Coding Agents
+* **"Improved Bug Localization with AI Agents Leveraging Hypothesis and Dynamic Cognition"** [[paper](https://arxiv.org/abs/2601.12522v1)]
+* **"LLM-in-Sandbox Elicits General Agentic Intelligence"** [[paper](https://arxiv.org/abs/2601.16206v1)]
+* **"SERA: Soft-Verified Efficient Repository Agents"** [[paper](https://arxiv.org/abs/2601.20789v1)]
+* **"Who Writes the Docs in SE 3.0? Agent vs. Human Documentation Pull Requests"** [[paper](https://arxiv.org/abs/2601.20171)]
+* **"How do Agents Refactor: An Empirical Study"** [[paper](https://arxiv.org/abs/2601.20160)]
+* **"Beyond Bug Fixes: An Empirical Investigation of Post-Merge Code Quality Issues in Agent-Generated Pull Requests"** [[paper](https://arxiv.org/abs/2601.20109)]
+* **"Are We All Using Agents the Same Way? An Empirical Study of Core and Peripheral Developers’ Use of Coding Agents"** [[paper](https://arxiv.org/abs/2601.20106)]
 ## Dec/25 Highlights (Updated 30 Dec)
 
 ### Self-Evolving Agents

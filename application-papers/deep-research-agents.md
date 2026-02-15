@@ -93,3 +93,5 @@
 * [Feb 2026] **"A-RAG: Scaling Agentic Retrieval-Augmented Generation via Hierarchical Retrieval Interfaces"** [[paper](https://arxiv.org/abs/2602.03442)]
 * [Feb 2026] **"RE-TRAC: REcursive TRAjectory Compression for Deep Search Agents"** [[paper](https://arxiv.org/abs/2602.02486)]
 * [Feb 2026] **"WIDESEEK-R1: Exploring Width Scaling for Broad Information Seeking via Multi-Agent Reinforcement Learning"** [[paper](https://arxiv.org/abs/2602.04634)]
+* ⚖️ [Feb 2026] **"GISA: A Benchmark for General Information Seeking Assistant"** [[paper](https://arxiv.org/abs/2602.08543)]
+* [Feb 2026] **"LawThinker: A Deep Research Legal Agent in Dynamic Environments"** [[paper](https://arxiv.org/abs/2602.12056)]

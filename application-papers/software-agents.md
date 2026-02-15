@@ -86,3 +86,4 @@
 * [Jan 2026] **"Beyond Bug Fixes: An Empirical Investigation of Post-Merge Code Quality Issues in Agent-Generated Pull Requests"** [[paper](https://arxiv.org/abs/2601.20109)]
 * [Jan 2026] **"Are We All Using Agents the Same Way? An Empirical Study of Core and Peripheral Developers’ Use of Coding Agents"** [[paper](https://arxiv.org/abs/2601.20106)]
 * ⚖️ [Feb 2026] **"CONTEXTBENCH: A Benchmark for Context Retrieval in Coding Agents"** [[paper](https://arxiv.org/abs/2602.05892)]
+* [Feb 2026] **"Agent Skills: A Data-Driven Analysis of Claude Skills for Extending Large Language Model Functionality"** [[paper](https://arxiv.org/abs/2602.08004)]

@@ -12,3 +12,4 @@
 * ⚖️ [Jan 2026] **"FinVault: Benchmarking Financial Agent Safety in Execution-Grounded Environments"** [[paper](https://arxiv.org/abs/2601.07853v1)]
 * [Jan 2026] **"Advancing ESG Intelligence: An Expert-level Agent and Comprehensive Benchmark for Sustainable Finance"** [[paper](https://arxiv.org/abs/2601.08676v2)]
 * [Jan 2026] **"Taxonomy-Aligned Risk Extraction from 10-K Filings with Autonomous Improvement Using LLMs"** [[paper](https://arxiv.org/abs/2601.15247v1)]
+* [Feb 2026] **"LLM-based Triplet Extraction from Financial Reports"** [[paper](https://arxiv.org/abs/2602.11886)]

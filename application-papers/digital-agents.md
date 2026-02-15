@@ -61,7 +61,7 @@
 * [Dec 2025] **"From User Interface to Agent Interface: Efficiency Optimization of UI Representations for LLM Agents"** [[paper](https://arxiv.org/abs/2512.13438v1)]
 * ⚖️ [Jan 2026] **"OS-Marathon: Benchmarking Computer-Use Agents on Long-Horizon Repetitive Tasks"** [[paper](https://arxiv.org/abs/2601.20650v1)]
 * [Jan 2026] **"OmegaUse: Building a General-Purpose GUI Agent for Autonomous Task Execution"** [[paper](https://arxiv.org/abs/2601.20380v1)]
-
+* ⚖️ [Feb 2026] **"How2Everything: Mining the Web for How-To Procedures to Evaluate and Improve LLMs"** [[paper](https://arxiv.org/abs/2602.08808)]
 
 ### Web Agents
 * ⚖️ [Jul 2022] **"WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents"** [[paper](https://arxiv.org/abs/2207.01206)]

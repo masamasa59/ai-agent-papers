@@ -37,4 +37,6 @@
 * [Jan 2026] **"Insight Agents: An LLM-Based Multi-Agent System for Data Insights"** [[paper](https://arxiv.org/abs/2601.20048)]
 * [Jan 2026] **"Probing the Future of Meta-Analysis: Eliciting Design Principles via an Agentic Research IDE"** [[paper](https://arxiv.org/abs/2601.18239)]
 * [Jan 2026] **"Generating Literature-Driven Scientific Theories at Scale"** [[paper](https://arxiv.org/abs/2601.16282)]
+* [Jan 2026] **"Idea2Story: An Automated Pipeline for Transforming Research Concepts into Complete Scientific Narratives"** [[paper](https://arxiv.org/abs/2601.20833)]
 * ⚖️ [Feb 2026] **"ODYSSEYARENA: Benchmarking Large Language Models For Long-Horizon, Active and Inductive Interactions"** [[paper](https://arxiv.org/abs/2602.05843)]
+* [Feb 2026] **"Discovering Differences in Strategic Behavior Between Humans and LLMs"** [[paper](https://arxiv.org/abs/2602.10324)]

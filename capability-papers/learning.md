@@ -89,3 +89,6 @@
 * [Jan 2026] **"POPE: Learning to Reason on Hard Problems via Privileged On-Policy Exploration"** [[paper](https://arxiv.org/abs/2601.18779)]
 * [Feb 2026] **"Learning to Reason in 13 Parameters"** [[paper](https://arxiv.org/abs/2602.04118)]
 * [Feb 2026] **"Scaling Small Agents Through Strategy Auctions"** [[paper](https://arxiv.org/abs/2602.04837)]
+* [Feb 2026] **"AgentCPM-Explore: Realizing Long-Horizon Deep Exploration for Edge-Scale Agents"** [[paper](https://arxiv.org/abs/2602.06485)]
+* [Feb 2026] **"SKILLRL: Evolving Agents via Recursive Skill-Augmented Reinforcement Learning"** [[paper](https://arxiv.org/abs/2602.08234)]
+* ⚖️ [Feb 2026] **"How2Everything: Mining the Web for How-To Procedures to Evaluate and Improve LLMs"** [[paper](https://arxiv.org/abs/2602.08808)]

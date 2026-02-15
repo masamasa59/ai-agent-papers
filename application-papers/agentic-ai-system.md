@@ -134,3 +134,4 @@ Agents in various tasks such as education, healthcare, and the press.
 * 📖 [Feb 2026] **"Agentic AI in Healthcare & Medicine: A Seven-Dimensional Taxonomy for Empirical Evaluation of LLM-based Agents"** [[paper](https://arxiv.org/abs/2602.04813)]
 * [Feb 2026] **"AI Agent Systems for Supply Chains: Structured Decision Prompts and Memory Retrieval"** [[paper](https://arxiv.org/abs/2602.05524)]
 * ⚖️ [Feb 2026] **"PieArena: Frontier Language Agents Achieve MBA-Level Negotiation Performance and Reveal Novel Behavioral Differences"** [[paper](https://arxiv.org/abs/2602.05302)]
+* [Feb 2026] **"AMEM4Rec: Leveraging Cross-User Similarity for Memory Evolution in Agentic LLM Recommenders"** [[paper](https://arxiv.org/abs/2602.08837)]

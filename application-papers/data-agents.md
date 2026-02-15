@@ -94,3 +94,4 @@
 * [Jan 2026] **"Towards Intelligent Urban Park Development Monitoring: LLM Agents for Multi-Modal Information Fusion and Analysis"** [[paper](https://arxiv.org/abs/2601.20206)]
 * [Jan 2026] **"Insight Agents: An LLM-Based Multi-Agent System for Data Insights"** [[paper](https://arxiv.org/abs/2601.20048)]
 * [Feb 2026] **"SQLAgent: Learning to Explore Before Generating as a Data Engineer"** [[paper](https://arxiv.org/abs/2602.01952)]
+* [Feb 2026] **"DeepPrep: An LLM-Powered Agentic System for Autonomous Data Preparation"** [[paper](https://arxiv.org/abs/2602.07371)]

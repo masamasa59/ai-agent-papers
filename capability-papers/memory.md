@@ -102,3 +102,8 @@ These papers discuss an agent’s memory function and its self-evolution.
 * [Feb 2026] **"AgenticAKM : Enroute to Agentic Architecture Knowledge Management"** [[paper](https://arxiv.org/abs/2602.04445)]
 * [Feb 2026] **"Structured Context Engineering for File-Native Agentic Systems"** [[paper](https://arxiv.org/abs/2602.05447)]
 * 📖 [Feb 2026] **"Graph-based Agent Memory: Taxonomy, Techniques, and Applications"** [[paper](https://arxiv.org/abs/2602.05665)]
+* [Feb 2026] **"MemFly: On-the-Fly Memory Optimization via Information Bottleneck"** [[paper](https://arxiv.org/abs/2602.07885)]
+* [Feb 2026] **"AMEM4Rec: Leveraging Cross-User Similarity for Memory Evolution in Agentic LLM Recommenders"** [[paper](https://arxiv.org/abs/2602.08837)]
+* [Feb 2026] **"When to Memorize and When to Stop: Gated Recurrent Memory for Long-Context Reasoning"** [[paper](https://arxiv.org/abs/2602.10560)]
+* ⚖️ [Feb 2026] **"Evaluating Memory Structure in LLM Agents"** [[paper](https://arxiv.org/abs/2602.11243)]
+* 📖 [Feb 2026] **"Rethinking Memory Mechanisms of Foundation Agents in the Second Half: A Survey"** [[paper](https://arxiv.org/abs/2602.06052)]
