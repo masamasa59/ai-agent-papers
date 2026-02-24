@@ -6,3 +6,4 @@
 * [Jan 2026] **"Spark: Strategic Policy-Aware Exploration via Dynamic Branching for Long-Horizon Agentic Learning"** [[paper](https://arxiv.org/abs/2601.20209)]
 * [Feb 2026] **"Empirical-MCTS: Continuous Agent Evolution via Dual-Experience Monte Carlo Tree Search"** [[paper](https://arxiv.org/abs/2602.04248)]
 * [Feb 2026] **"Group-Evolving Agents: Open-Ended Self-Improvement via Experience Sharing"** [[paper](https://arxiv.org/abs/2602.04837)]
+* [Feb 2026] **"Evaluating Collective Behaviour of Hundreds of LLM Agents"** [[paper](https://arxiv.org/abs/2602.16662)]

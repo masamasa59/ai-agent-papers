@@ -207,3 +207,5 @@
 * [Jan 2026] **"How AI Impacts Skill Formation"** [[paper](https://arxiv.org/abs/2601.20245)]
 * ⚖️ [Feb 2026] **"ProAgentBench: Evaluating LLM Agents for Proactive Assistance with Real-World Data"** [[paper](https://arxiv.org/abs/2602.04482)]
 * [Feb 2026] **"From Human-Human Collaboration to Human-Agent Collaboration: A Vision, Design Philosophy, and an Empirical Framework for Achieving Successful Partnerships Between Humans and LLM Agents"** [[paper](https://arxiv.org/abs/2602.05987)]
+* [Feb 2026] **"Intelligent AI Delegation"** [[paper](https://arxiv.org/abs/2602.11865)]
+* [Feb 2026] **"The Next Paradigm Is User-Centric Agent, Not Platform-Centric Service"** [[paper](https://arxiv.org/abs/2602.15682)]

@@ -91,3 +91,5 @@ These papers discuss whether or not agents can properly use tools
 * [Jan 2026] **"Optimizing Agentic Workflows using Meta-tools"** [[paper](https://arxiv.org/abs/2601.22037v1)]
 * [Feb 2026] **"SKILLRL: Evolving Agents via Recursive Skill-Augmented Reinforcement Learning"** [[paper](https://arxiv.org/abs/2602.08234)]
 * [Feb 2026] **"Agent Skills: A Data-Driven Analysis of Claude Skills for Extending Large Language Model Functionality"** [[paper](https://arxiv.org/abs/2602.08004)]
+* 📖 [Feb 2026] **"Agent Skills for Large Language Models: Architecture, Acquisition, Security, and the Path Forward"** [[paper](https://arxiv.org/abs/2602.12430)]
+* ⚖️ [Feb 2026] **"SkillsBench: Benchmarking How Well Agent Skills Work Across Diverse Tasks"** [[paper](https://arxiv.org/abs/2602.12670)]

@@ -99,6 +99,7 @@
 * [Nov 2025] **"Detecting Silent Failures in Multi-Agentic AI Trajectories"** [[paper](https://arxiv.org/abs/2511.04032v1)]
 * [Nov 2025] **"The Collaboration Gap"** [[paper](https://arxiv.org/abs/2511.02687v1)]
 * [Sep 2025] **"MAS^2: Self-Generative, Self-Configuring, Self-Rectifying Multi-Agent Systems"** [[paper](https://arxiv.org/abs/2509.24323)]
+* [Feb 2026] **"Evaluating Collective Behaviour of Hundreds of LLM Agents"** [[paper](https://arxiv.org/abs/2602.16662)]
 
 ### World Simulation
 * [Apr 2023] **"Generative agents: Interactive simulacra of human behavior"** [[paper](https://arxiv.org/abs/2304.03442)]

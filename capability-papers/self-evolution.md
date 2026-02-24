@@ -141,3 +141,4 @@
 * [Feb 2026] **"Empirical-MCTS: Continuous Agent Evolution via Dual-Experience Monte Carlo Tree Search"** [[paper](https://arxiv.org/abs/2602.04248)]
 * [Feb 2026] **"AdaptEvolve: Improving Efficiency of Evolutionary AI Agents through Adaptive Model Selection"** [[paper](https://arxiv.org/abs/2602.11931)]
 * [Feb 2026] **"AORCHESTRA: Automating Sub-Agent Creation for Agentic Orchestration"** [[paper](https://arxiv.org/abs/2602.03786)]
+* [Feb 2026] **"Evolutionary System Prompt Learning can Facilitate Reinforcement Learning for LLMs"** [[paper](https://arxiv.org/abs/2602.14697)]

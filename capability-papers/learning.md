@@ -92,3 +92,5 @@
 * [Feb 2026] **"AgentCPM-Explore: Realizing Long-Horizon Deep Exploration for Edge-Scale Agents"** [[paper](https://arxiv.org/abs/2602.06485)]
 * [Feb 2026] **"SKILLRL: Evolving Agents via Recursive Skill-Augmented Reinforcement Learning"** [[paper](https://arxiv.org/abs/2602.08234)]
 * ⚖️ [Feb 2026] **"How2Everything: Mining the Web for How-To Procedures to Evaluate and Improve LLMs"** [[paper](https://arxiv.org/abs/2602.08808)]
+* [Feb 2026] **"Learning Personalized Agents from Human Feedback"** [[paper](https://arxiv.org/abs/2602.16173)]
+* [Feb 2026] **"Experiential Reinforcement Learning"** [[paper](https://arxiv.org/abs/2602.13949)]
