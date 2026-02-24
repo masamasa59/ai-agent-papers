@@ -15,13 +15,15 @@ An AI Agent is an autonomous system powered by large language models that can pe
 📖: Survey papers  
 ⚖️: Benchmark papers
 - **Agent Capabilities**
+  - [Environment](capability-papers/environment.md)
   - [Ideation](capability-papers/ideation.md)
   - [Planning](capability-papers/planning.md)
   - [Reasoning](capability-papers/reasoning.md)
   - [Profile](capability-papers/profile.md)
   - [Perception](capability-papers/perception.md)
-  - [Tool Use](capability-papers/tool-use.md)
+  - [Tool Use & Skills](capability-papers/tool-use.md)
   - [Self-Correction](capability-papers/self-correction.md)
+  - [Search](capability-papers/search.md)
   - [Memory](capability-papers/memory.md)
   - [Self-Evolution](capability-papers/self-evolution.md/#self-evolution-self-improvement)
   - [Safety](capability-papers/safety.md)
@@ -58,7 +60,7 @@ An AI Agent is an autonomous system powered by large language models that can pe
  - [Awesome LLM agents](https://github.com/kaushikb11/awesome-llm-agents)
 
 
-## Feb/15 Highlights
+## Feb/24 Highlights
 
 ### Self-Evolving Agents
 * **"Self-Consolidation for Self-Evolving Agents"** [[paper](https://arxiv.org/abs/2602.01966)]
