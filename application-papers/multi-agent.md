@@ -39,6 +39,7 @@
 * [Jul 2025] **"Foundation Model Self-Play: Open-Ended Strategy Innovation via Foundation Models"** [[paper](https://arxiv.org/abs/2507.06466)]
 * [Sep 2025] **"MALLM: Multi-Agent Large Language Models Framework"** [[paper](https://arxiv.org/abs/2509.11656)]
 * [Nov 2025] **"Can LLM Agents Really Debate? A Controlled Study of Multi-Agent Debate in Logical Reasoning"** [[paper](https://arxiv.org/abs/2511.07784v1)]
+* [Feb 2026] **"Interaction Theater: A case of LLM Agents Interacting at Scale"** [[paper](https://arxiv.org/abs/2602.20059)]
 
 ### Problem Solving
 * [Mar 2023] **"CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society"** [[paper](https://arxiv.org/abs/2303.17760)]
@@ -150,3 +151,5 @@
 * [Dec 2025] **"SimWorld: AnOpen-ended Realistic Simulator for AutonomousAgents in Physical and Social Worlds"** [[paper](https://arxiv.org/abs/2512.01078v1)]
 * [Jan 2026] **"Towards Universal Urban Patterns-of-Life Simulation"** [[paper](https://arxiv.org/abs/2601.22099v1)]
 * [Jan 2026] **"When Nobody Around Is Real: Exploring Public Opinions and User Experiences on the Multi-Agent AI Social Platform"** [[paper](https://arxiv.org/abs/2601.18275)]
+* [Mar 2026] **"Molt Dynamics: Emergent Social Phenomena in Autonomous AI Agent Populations"** [[paper](https://arxiv.org/abs/2603.03555)]
+* [Mar 2026] **"Position: AI Agents Are Not (Yet) a Panacea for Social Simulation"** [[paper](https://arxiv.org/abs/2603.00113)]

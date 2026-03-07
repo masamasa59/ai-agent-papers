@@ -60,3 +60,4 @@ These papers discuss whether agents can autonomously recover from errors.
 * [Dec 2025] **"OPV: Outcome-based Process Verifier for Efficient Long Chain-of-Thought Verification"** [[paper](https://arxiv.org/abs/2512.10756)]
 * [Dec 2025] **"SmartSnap: Proactive Evidence Seeking for Self-Verifying Agents"** [[paper](https://arxiv.org/abs/2512.22322v1)]
 * [Jan 2026] **"A Survey on Agent-as-a-Judge"** [[paper](https://arxiv.org/abs/2601.05111v1)]
+* [Mar 2026] **"Judge Reliability Harness: Stress Testing the Reliability of LLM Judges"** [[paper](https://arxiv.org/abs/2603.05399)]

@@ -1,3 +1,7 @@
+## Finance Agents
+
+Agents applied to financial analysis, trading, risk assessment, and financial document processing.
+
 * [Feb 2024] **"A Multimodal Foundation Agent for Financial Trading: Tool-Augmented, Diversified, and Generalist"** [[paper](https://arxiv.org/abs/2402.18485)]
 * ⚖️ [Aug 2025] **"Finance Agent Benchmark: Benchmarking LLMs on Real-world Financial Research Tasks"** [[paper](https://arxiv.org/abs/2508.00828)]
 * [Aug 2025] **"Modeling and Detecting Company Risks from News"** [[paper](https://arxiv.org/abs/2508.10927v1)]
@@ -13,3 +17,7 @@
 * [Jan 2026] **"Advancing ESG Intelligence: An Expert-level Agent and Comprehensive Benchmark for Sustainable Finance"** [[paper](https://arxiv.org/abs/2601.08676v2)]
 * [Jan 2026] **"Taxonomy-Aligned Risk Extraction from 10-K Filings with Autonomous Improvement Using LLMs"** [[paper](https://arxiv.org/abs/2601.15247v1)]
 * [Feb 2026] **"LLM-based Triplet Extraction from Financial Reports"** [[paper](https://arxiv.org/abs/2602.11886)]
+* 📖 [Feb 2026] **"Beyond Refusal: Probing the Limits of Agentic Self-Correction for Semantic Sensitive Information"** [[paper](https://arxiv.org/abs/2602.21496)]
+* ⚖️ [Feb 2026] **"Evaluation and Benchmarking Suite for Financial Large Language Models and Agents"** [[paper](https://arxiv.org/abs/2602.19073)]
+* [Feb 2026] **"An Agentic LLM Framework for Adverse Media Screening in AML Compliance"** [[paper](https://arxiv.org/abs/2602.23373)]
+* ⚖️ [Mar 2026] **"AgentSCOPE: Evaluating Contextual Privacy Across Agentic Workflows"** [[paper](https://arxiv.org/abs/2603.04902)]

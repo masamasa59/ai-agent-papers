@@ -107,3 +107,7 @@ These papers discuss an agent’s memory function and its self-evolution.
 * [Feb 2026] **"When to Memorize and When to Stop: Gated Recurrent Memory for Long-Context Reasoning"** [[paper](https://arxiv.org/abs/2602.10560)]
 * ⚖️ [Feb 2026] **"Evaluating Memory Structure in LLM Agents"** [[paper](https://arxiv.org/abs/2602.11243)]
 * 📖 [Feb 2026] **"Rethinking Memory Mechanisms of Foundation Agents in the Second Half: A Survey"** [[paper](https://arxiv.org/abs/2602.06052)]
+* [Feb 2026] **"Learning to Remember: End-to-End Training of Memory Agents for Long-Context Reasoning"** [[paper](https://arxiv.org/abs/2602.18493)]
+* [Feb 2026] **"Anatomy of Agentic Memory: Taxonomy and Empirical Analysis of Evaluation and System Limitations"** [[paper](https://arxiv.org/abs/2602.19320)]
+* [Feb 2026] **"Towards Autonomous Memory Agents"** [[paper](https://arxiv.org/abs/2602.22406)]
+* [Mar 2026] **"Beyond the Context Window: A Cost-Performance Analysis of Fact-Based Memory vs. Long-Context LLMs for Persistent Agents"** [[paper](https://arxiv.org/abs/2603.04814)]

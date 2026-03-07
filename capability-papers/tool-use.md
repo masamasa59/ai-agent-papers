@@ -93,3 +93,7 @@ These papers discuss whether or not agents can properly use tools
 * [Feb 2026] **"Agent Skills: A Data-Driven Analysis of Claude Skills for Extending Large Language Model Functionality"** [[paper](https://arxiv.org/abs/2602.08004)]
 * 📖 [Feb 2026] **"Agent Skills for Large Language Models: Architecture, Acquisition, Security, and the Path Forward"** [[paper](https://arxiv.org/abs/2602.12430)]
 * ⚖️ [Feb 2026] **"SkillsBench: Benchmarking How Well Agent Skills Work Across Diverse Tasks"** [[paper](https://arxiv.org/abs/2602.12670)]
+* 📖 [Feb 2026] **"SoK: Agentic Skills — Beyond Tool Use in LLM Agents"** [[paper](https://arxiv.org/abs/2602.20867)]
+* [Mar 2026] **"SkillNet: Create, Evaluate, and Connect AI Skills"** [[paper](https://arxiv.org/abs/2603.04448)]
+* [Mar 2026] **"AutoSkill: Experience-Driven Lifelong Learning via Skill Self-Evolution"** [[paper](https://arxiv.org/abs/2603.01145)]
+* [Mar 2026] **"SkillCraft: Can LLM Agents Learn to Use Tools Skillfully?"** [[paper](https://arxiv.org/abs/2603.00718)]

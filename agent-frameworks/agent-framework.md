@@ -108,6 +108,8 @@
 * 📖 [Jan 2026] **"Toward Efficient Agents: Memory, Tool learning, and Planning"** [[paper](https://arxiv.org/abs/2601.14192v1)]
 * 📖 [Jan 2026] **"Agentic Design Patterns: A System-Theoretic Framework"** [[paper](https://arxiv.org/abs/2601.19752)]
 * [Feb 2026] **"FS-Researcher: Test-Time Scaling for Long-Horizon Research Tasks with File-System-Based Agents"** [[paper](https://arxiv.org/abs/2602.01566)]
+* [Feb 2026] **"Architecting AgentOS: From Token-Level Context to Emergent System-Level Intelligence"** [[paper](https://arxiv.org/abs/2602.20934)]
+* [Feb 2026] **"AI Must Embrace Specialization via Superhuman Adaptable Intelligence"** [[paper](https://arxiv.org/abs/2602.23643)]
 
 ## Multi-Agent
 * [Mar 2023] **"CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society"** [[paper](https://arxiv.org/abs/2303.17760)]

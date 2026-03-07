@@ -88,3 +88,4 @@
 * ⚖️ [Feb 2026] **"CONTEXTBENCH: A Benchmark for Context Retrieval in Coding Agents"** [[paper](https://arxiv.org/abs/2602.05892)]
 * [Feb 2026] **"Agent Skills: A Data-Driven Analysis of Claude Skills for Extending Large Language Model Functionality"** [[paper](https://arxiv.org/abs/2602.08004)]
 * ⚖️ [Feb 2026] **"Evaluating AGENTS.md: Are Repository-Level Context Files Helpful for Coding Agents?"** [[paper](https://arxiv.org/abs/2602.11988)]
+* [Mar 2026] **"CODETASTE: Can LLMs Generate Human-Level Code Refactorings?"** [[paper](https://arxiv.org/abs/2603.04177)]

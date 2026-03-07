@@ -119,3 +119,7 @@
 * 📖 [Feb 2026] **"Towards a Science of Collective AI: LLM-based Multi-Agent Systems Need a Transition from Blind Trial-and-Error to Rigorous Science"** [[paper](https://arxiv.org/abs/2602.05289)]
 * ⚖️ [Feb 2026] **"AIRS-Bench: a Suite of Tasks for Frontier AI Research Science Agents"** [[paper](https://arxiv.org/abs/2602.06855)]
 * [Feb 2026] **"IV Co-Scientist: Multi-Agent LLM Framework for Causal Instrumental Variable Discovery"** [[paper](https://arxiv.org/abs/2602.07943)]
+* [Feb 2026] **"DeepInnovator: Triggering the Innovative Capabilities of LLMs"** [[paper](https://arxiv.org/abs/2602.18920)]
+* [Feb 2026] **"Grounding LLMs in Scientific Discovery via Embodied Actions"** [[paper](https://arxiv.org/abs/2602.20639)]
+* [Mar 2026] **"Agentic Scientific Simulation: Execution-Grounded Model Construction and Reconstruction"** [[paper](https://arxiv.org/abs/2603.00214)]
+* [Mar 2026] **"DeepXiv-SDK: An Agentic Data Interface for Scientific Literature"** [[paper](https://arxiv.org/abs/2603.00084)]

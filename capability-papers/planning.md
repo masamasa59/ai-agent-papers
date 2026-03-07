@@ -46,3 +46,4 @@ These papers discuss agent planning.
 * [Sep 2025] **"Empowering LLMs with Parameterized Skills for Adversarial Long-Horizon Planning"** [[paper](https://arxiv.org/abs/2509.13127)]
 * [Oct 2025] **"A Goal Without a Plan Is Just a Wish: Efficient and Effective Global Planner Training for Long-Horizon Agent Tasks"** [[paper](https://arxiv.org/abs/2510.05608)]
 * [Oct 2025] **"DEEPPLANNER: Scaling Planning Capability for Deep Research Agents via Advantage Shaping"** [[paper](https://arxiv.org/abs/2510.12979)]
+* [Feb 2026] **"MagicAgent: Towards Generalized Agent Planning"** [[paper](https://arxiv.org/abs/2602.19000)]

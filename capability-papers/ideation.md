@@ -1,3 +1,7 @@
+## Ideation (Idea Generation and Innovation)
+
+Ideation is the process of generating or developing ideas, particularly creative or innovative solutions to problems.
+
 * [Oct 2024] **"Collective Critics for Creative Story Generation"** [[paper](https://arxiv.org/abs/2410.02428)]
 * [Jul 2025] **"Agent Ideate: A Framework for Product Idea Generation from Patents Using Agentic AI"** [[paper](https://arxiv.org/abs/2507.01717)]
 * [Aug 2025] **"Can LLMs Identify Tax Abuse?"** [[paper](https://www.arxiv.org/abs/2508.20097)]
@@ -40,3 +44,4 @@
 * [Jan 2026] **"Idea2Story: An Automated Pipeline for Transforming Research Concepts into Complete Scientific Narratives"** [[paper](https://arxiv.org/abs/2601.20833)]
 * ⚖️ [Feb 2026] **"ODYSSEYARENA: Benchmarking Large Language Models For Long-Horizon, Active and Inductive Interactions"** [[paper](https://arxiv.org/abs/2602.05843)]
 * [Feb 2026] **"Discovering Differences in Strategic Behavior Between Humans and LLMs"** [[paper](https://arxiv.org/abs/2602.10324)]
+* [Mar 2026] **"LLMs as Strategic Actors: Behavioral Alignment, Risk Calibration, and Argumentation Framing in Geopolitical Simulations"** [[paper](https://arxiv.org/abs/2603.02128)]

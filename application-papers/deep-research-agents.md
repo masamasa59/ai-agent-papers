@@ -95,3 +95,5 @@
 * [Feb 2026] **"WIDESEEK-R1: Exploring Width Scaling for Broad Information Seeking via Multi-Agent Reinforcement Learning"** [[paper](https://arxiv.org/abs/2602.04634)]
 * ⚖️ [Feb 2026] **"GISA: A Benchmark for General Information Seeking Assistant"** [[paper](https://arxiv.org/abs/2602.08543)]
 * [Feb 2026] **"LawThinker: A Deep Research Legal Agent in Dynamic Environments"** [[paper](https://arxiv.org/abs/2602.12056)]
+* ⚖️ [Feb 2026] **"A Benchmark for Deep Information Synthesis"** [[paper](https://arxiv.org/abs/2602.21143)]
+* ⚖️ [Mar 2026] **"Evaluating the Search Agent in a Parallel World"** [[paper](https://arxiv.org/abs/2603.04751)]

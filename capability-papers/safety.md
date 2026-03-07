@@ -69,3 +69,4 @@ These papers discuss the safety and risks of agents.
 * [Dec 2025] **"AprielGuard"** [[paper](https://arxiv.org/abs/2512.20293v1)]
 * [Jan 2026] **"Socio-technical aspects of Agentic AI"** [[paper](https://arxiv.org/abs/2601.06064v1)]
 * [Feb 2026] **"ZOMBIE AGENTS: Persistent Control of Self-Evolving LLM Agents via Self-Reinforcing Injections"** [[paper](https://arxiv.org/abs/2602.15654)]
+* [Feb 2026] **"Agents of Chaos"** [[paper](https://arxiv.org/abs/2602.20021)]

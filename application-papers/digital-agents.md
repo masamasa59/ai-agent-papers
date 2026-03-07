@@ -62,6 +62,7 @@
 * ⚖️ [Jan 2026] **"OS-Marathon: Benchmarking Computer-Use Agents on Long-Horizon Repetitive Tasks"** [[paper](https://arxiv.org/abs/2601.20650v1)]
 * [Jan 2026] **"OmegaUse: Building a General-Purpose GUI Agent for Autonomous Task Execution"** [[paper](https://arxiv.org/abs/2601.20380v1)]
 * ⚖️ [Feb 2026] **"How2Everything: Mining the Web for How-To Procedures to Evaluate and Improve LLMs"** [[paper](https://arxiv.org/abs/2602.08808)]
+* [Feb 2026] **"ClawMobile: Rethinking Smartphone-Native Agentic Systems"** [[paper](https://arxiv.org/abs/2602.22942)]
 
 ### Web Agents
 * ⚖️ [Jul 2022] **"WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents"** [[paper](https://arxiv.org/abs/2207.01206)]
@@ -125,3 +126,4 @@
 * [Oct 2025] **"ReInAgent: A Context-Aware GUI Agent Enabling Human-in-the-Loop Mobile Task Navigation"** [[paper](https://arxiv.org/abs/2510.07988)]
 * [Jan 2026] **"Curiosity Driven Knowledge Retrieval for Mobile Agents"** [[paper](https://arxiv.org/abs/2601.19306)]
 * 📖 [Feb 2026] **"Data Agents: Levels, State of the Art, and Open Problems"** [[paper](https://arxiv.org/abs/2602.04261)]
+* [Feb 2026] **"ClawMobile: Rethinking Smartphone-Native Agentic Systems"** [[paper](https://arxiv.org/abs/2602.22942)]

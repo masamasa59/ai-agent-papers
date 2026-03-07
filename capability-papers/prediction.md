@@ -1,3 +1,7 @@
+## Prediction (Forecasting and Future Simulation)
+
+Agents that predict future events, states, or outcomes, and perform forecasting in dynamic environments.
+
 * [Dec 2025] **"LLM-as-a-Prophet: Understanding Predictive Intelligence with Prophet Arena"** [[paper](https://arxiv.org/abs/2510.17638v2)]
 * [Jan 2026] **"Crisis-Bench: Benchmarking Strategic Ambiguity and Reputation　Management in Large Language Models"** [[paper](https://arxiv.org/abs/2601.05570v1)]
 * [Jan 2026] **"Can We Predict Before Executing Machine Learning Agents?"** [[paper](https://arxiv.org/abs/2601.05930v1)]

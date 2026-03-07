@@ -1,3 +1,7 @@
+## Enterprise Agents
+
+Agents designed for enterprise operations, document management, CRM, HR, and business process automation.
+
 * [Oct 2024] **"Tutor CoPilot: A Human-AI Approach for Scaling Real-Time Expertise"** [[paper](https://arxiv.org/abs/2410.03017)]
 * [Oct 2024] **"HR-Agent: A Task-Oriented Dialogue (TOD) LLM Agent Tailored for HR Applications"** [[paper](https://arxiv.org/abs/2410.11239)]
 * [Nov 2024] **"CRMArena: Understanding the Capacity of LLM Agents to Perform Professional CRM Tasks in Realistic Environments"** [[paper](https://arxiv.org/abs/2411.02305)]

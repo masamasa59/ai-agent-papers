@@ -1,3 +1,7 @@
+## Search
+
+Research agents need to search over large spaces of possible actions, states, or solutions. These papers discuss search and exploration strategies.
+
 * [Jan 2026] **"SuS: Strategy-aware Surprise for Intrinsic Exploration"** [[paper](https://arxiv.org/abs/2601.10349v1)]
 * [Jan 2026] **"MAXS: Meta-Adaptive Exploration with LLM Agents"** [[paper](https://arxiv.org/abs/2601.09259v1)]
 * [Jan 2026] **"ExpSeek: Self-Triggered Experience Seeking for Web Agents"** [[paper](https://arxiv.org/abs/2601.08605v1)]
@@ -7,3 +11,4 @@
 * [Feb 2026] **"Empirical-MCTS: Continuous Agent Evolution via Dual-Experience Monte Carlo Tree Search"** [[paper](https://arxiv.org/abs/2602.04248)]
 * [Feb 2026] **"Group-Evolving Agents: Open-Ended Self-Improvement via Experience Sharing"** [[paper](https://arxiv.org/abs/2602.04837)]
 * [Feb 2026] **"Evaluating Collective Behaviour of Hundreds of LLM Agents"** [[paper](https://arxiv.org/abs/2602.16662)]
+* [Mar 2026] **"Expanding LLM Agent Boundaries with Strategy-Guided Exploration"** [[paper](https://arxiv.org/abs/2603.02045)]

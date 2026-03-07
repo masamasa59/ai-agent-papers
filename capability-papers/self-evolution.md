@@ -142,3 +142,4 @@
 * [Feb 2026] **"AdaptEvolve: Improving Efficiency of Evolutionary AI Agents through Adaptive Model Selection"** [[paper](https://arxiv.org/abs/2602.11931)]
 * [Feb 2026] **"AORCHESTRA: Automating Sub-Agent Creation for Agentic Orchestration"** [[paper](https://arxiv.org/abs/2602.03786)]
 * [Feb 2026] **"Evolutionary System Prompt Learning can Facilitate Reinforcement Learning for LLMs"** [[paper](https://arxiv.org/abs/2602.14697)]
+* ⚖️ [Feb 2026] **"VeRO: An Evaluation Harness for Agents to Optimize Agents"** [[paper](https://arxiv.org/abs/2602.22480)]

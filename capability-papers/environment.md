@@ -1,3 +1,7 @@
+## Environment (World Models and Simulations)
+
+Environments and simulators for training agents, including world models and interactive environments.
+
 * [Sep 2025] **"Training Agents Inside of Scalable World Models"** [[paper](https://arxiv.org/abs/2509.24527)]
 * [Nov 2025] **"Beyond Generative AI: World Models for Clinical Prediction, Counterfactuals, and Planning"** [[paper](https://arxiv.org/abs/2511.16333)]
 * [Nov 2025] **"Beyond World Models: Rethinking Understanding in AI Models"** [[paper](https://arxiv.org/abs/2511.12239)]
@@ -17,3 +21,4 @@
 * [Jan 2026] **"Aligning Agentic World Models via Knowledgeable Experience Learning"** [[paper](https://arxiv.org/abs/2601.13247v1)]
 * [Jan 2026] **"World Models as an Intermediary between Agents and the Real World"** [[paper](https://arxiv.org/abs/2602.00785)]
 * [Feb 2026] **"Agent World Model: Infinity Synthetic Environments for Agentic Reinforcement Learning"** [[paper](https://arxiv.org/abs/2602.10090)]
+* [Mar 2026] **"AutoHarness: improving LLM agents by automatically synthesizing a code harness"** [[paper](https://arxiv.org/abs/2603.03329)]
