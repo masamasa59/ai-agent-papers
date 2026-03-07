@@ -60,7 +60,23 @@ An AI Agent is an autonomous system powered by large language models that can pe
  - [Awesome LLM agents](https://github.com/kaushikb11/awesome-llm-agents)
 
 
-## Feb/24 Highlights
+## Feb/28 Highlights
+- [Deep research Trends Report (JA)](newsletters/feb_2026/deep_research.md)
+- [Ideation Trends Report (JA)](newsletters/feb_2026/ideation_trends.md)
+- [Prediction Trends Report (JA)](newsletters/feb_2026/prediction_trends.md)
+- [Skills Trends Report (JA)](newsletters/feb_2026/skills.md)
+
+## Human-AI
+* **"From Human-Human Collaboration to Human-Agent Collaboration: A Vision, Design Philosophy, and an Empirical Framework for Achieving Successful Partnerships Between Humans and LLM Agents"** [[paper](https://arxiv.org/abs/2602.05987)]
+* **"Intelligent AI Delegation"** [[paper](https://arxiv.org/abs/2602.11865)]
+* **"The Next Paradigm Is User-Centric Agent, Not Platform-Centric Service"** [[paper](https://arxiv.org/abs/2602.15682)]
+
+## Skills
+* **"SKILLRL: Evolving Agents via Recursive Skill-Augmented Reinforcement Learning"** [[paper](https://arxiv.org/abs/2602.08234)]
+* **"Agent Skills: A Data-Driven Analysis of Claude Skills for Extending Large Language Model Functionality"** [[paper](https://arxiv.org/abs/2602.08004)]
+* 📖 **"Agent Skills for Large Language Models: Architecture, Acquisition, Security, and the Path Forward"** [[paper](https://arxiv.org/abs/2602.12430)]
+* ⚖️ **"SkillsBench: Benchmarking How Well Agent Skills Work Across Diverse Tasks"** [[paper](https://arxiv.org/abs/2602.12670)]
+* 📖 **"SoK: Agentic Skills — Beyond Tool Use in LLM Agents"** [[paper](https://arxiv.org/abs/2602.20867)]
 
 ### Self-Evolving Agents
 * **"Self-Consolidation for Self-Evolving Agents"** [[paper](https://arxiv.org/abs/2602.01966)]
@@ -70,6 +86,8 @@ An AI Agent is an autonomous system powered by large language models that can pe
 * **"Empirical-MCTS: Continuous Agent Evolution via Dual-Experience Monte Carlo Tree Search"** [[paper](https://arxiv.org/abs/2602.04248)]
 * **"AdaptEvolve: Improving Efficiency of Evolutionary AI Agents through Adaptive Model Selection"** [[paper](https://arxiv.org/abs/2602.11931)]
 * **"AORCHESTRA: Automating Sub-Agent Creation for Agentic Orchestration"** [[paper](https://arxiv.org/abs/2602.03786)]
+* **"Evolutionary System Prompt Learning can Facilitate Reinforcement Learning for LLMs"** [[paper](https://arxiv.org/abs/2602.14697)]
+* ⚖️ **"VeRO: An Evaluation Harness for Agents to Optimize Agents"** [[paper](https://arxiv.org/abs/2602.22480)]
 
 ## Scientific Discovery
 * ⚖️ **"FIRE-Bench: Evaluating Agents on the Rediscovery of Scientific Insights"** [[paper](https://arxiv.org/abs/2602.02905)]
@@ -78,11 +96,14 @@ An AI Agent is an autonomous system powered by large language models that can pe
 * 📖 **"Towards a Science of Collective AI: LLM-based Multi-Agent Systems Need a Transition from Blind Trial-and-Error to Rigorous Science"** [[paper](https://arxiv.org/abs/2602.05289)]
 * ⚖️ **"AIRS-Bench: a Suite of Tasks for Frontier AI Research Science Agents"** [[paper](https://arxiv.org/abs/2602.06855)]
 * **"IV Co-Scientist: Multi-Agent LLM Framework for Causal Instrumental Variable Discovery"** [[paper](https://arxiv.org/abs/2602.07943)]
+* **"DeepInnovator: Triggering the Innovative Capabilities of LLMs"** [[paper](https://arxiv.org/abs/2602.18920)]
+* **"Grounding LLMs in Scientific Discovery via Embodied Actions"** [[paper](https://arxiv.org/abs/2602.20639)]
+
 
 ## Jan/30 Highlights
 
-- [Self-Evolution Trends Report (JA)](news-letters/jan_2026/self_evolution_trends.md)
-- [Memory Trends Report (JA)](news-letters/jan_2026/memory_trends.md)
+- [Self-Evolution Trends Report (JA)](newsletters/jan_2026/self_evolution_trends.md)
+- [Memory Trends Report (JA)](newsletters/jan_2026/memory_trends.md)
 
 ### Agentic Reasoning
 * 📖 **"Agentic Reasoning for Large Language Models"** [[paper](https://arxiv.org/abs/2601.12538v1)]
