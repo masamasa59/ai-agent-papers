@@ -143,3 +143,6 @@
 * [Feb 2026] **"AORCHESTRA: Automating Sub-Agent Creation for Agentic Orchestration"** [[paper](https://arxiv.org/abs/2602.03786)]
 * [Feb 2026] **"Evolutionary System Prompt Learning can Facilitate Reinforcement Learning for LLMs"** [[paper](https://arxiv.org/abs/2602.14697)]
 * ⚖️ [Feb 2026] **"VeRO: An Evaluation Harness for Agents to Optimize Agents"** [[paper](https://arxiv.org/abs/2602.22480)]
+* [Mar 2026] **"EvoSkill: Automated Skill Discovery for Multi-Agent Systems"** [[paper](https://arxiv.org/abs/2603.02766)]
+* [Mar 2026] **"Evolving Deception: When Agents Evolve, Deception Wins"** [[paper](https://arxiv.org/abs/2603.05872)]
+* [Mar 2026] **"EvoScientist: Towards Multi-Agent Evolving AI Scientists for End-to-End Scientific Discovery"** [[paper](https://arxiv.org/abs/2603.08127)]

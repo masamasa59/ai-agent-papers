@@ -97,3 +97,4 @@ These papers discuss whether or not agents can properly use tools
 * [Mar 2026] **"SkillNet: Create, Evaluate, and Connect AI Skills"** [[paper](https://arxiv.org/abs/2603.04448)]
 * [Mar 2026] **"AutoSkill: Experience-Driven Lifelong Learning via Skill Self-Evolution"** [[paper](https://arxiv.org/abs/2603.01145)]
 * [Mar 2026] **"SkillCraft: Can LLM Agents Learn to Use Tools Skillfully?"** [[paper](https://arxiv.org/abs/2603.00718)]
+* [Mar 2026] **"EvoSkill: Automated Skill Discovery for Multi-Agent Systems"** [[paper](https://arxiv.org/abs/2603.02766)]

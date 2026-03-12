@@ -70,3 +70,5 @@ These papers discuss the safety and risks of agents.
 * [Jan 2026] **"Socio-technical aspects of Agentic AI"** [[paper](https://arxiv.org/abs/2601.06064v1)]
 * [Feb 2026] **"ZOMBIE AGENTS: Persistent Control of Self-Evolving LLM Agents via Self-Reinforcing Injections"** [[paper](https://arxiv.org/abs/2602.15654)]
 * [Feb 2026] **"Agents of Chaos"** [[paper](https://arxiv.org/abs/2602.20021)]
+* [Mar 2026] **"Governance Architecture for Autonomous Agent Systems: Threats, Framework, and Engineering Practice"** [[paper](https://arxiv.org/abs/2603.07191)]
+* [Mar 2026] **"From Thinker to Society: Security in Hierarchical Autonomy Evolution of AI Agents"** [[paper](https://arxiv.org/abs/2603.07496)]

@@ -121,5 +121,7 @@
 * [Feb 2026] **"IV Co-Scientist: Multi-Agent LLM Framework for Causal Instrumental Variable Discovery"** [[paper](https://arxiv.org/abs/2602.07943)]
 * [Feb 2026] **"DeepInnovator: Triggering the Innovative Capabilities of LLMs"** [[paper](https://arxiv.org/abs/2602.18920)]
 * [Feb 2026] **"Grounding LLMs in Scientific Discovery via Embodied Actions"** [[paper](https://arxiv.org/abs/2602.20639)]
+* [Feb 2026] **"PreScience: A Benchmark for Forecasting Scientific Contributions"** [[paper](https://arxiv.org/abs/2602.20459)]
 * [Mar 2026] **"Agentic Scientific Simulation: Execution-Grounded Model Construction and Reconstruction"** [[paper](https://arxiv.org/abs/2603.00214)]
 * [Mar 2026] **"DeepXiv-SDK: An Agentic Data Interface for Scientific Literature"** [[paper](https://arxiv.org/abs/2603.00084)]
+* [Mar 2026] **"EvoScientist: Towards Multi-Agent Evolving AI Scientists for End-to-End Scientific Discovery"** [[paper](https://arxiv.org/abs/2603.08127)]

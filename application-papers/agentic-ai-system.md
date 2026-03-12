@@ -35,6 +35,7 @@ Agents in various tasks such as education, healthcare, and the press.
 * [Nov 2024] **"Enhancing Cluster Resilience: LLM-agent Based Autonomous Intelligent Cluster Diagnosis System and Evaluation Framework"** [[paper](https://arxiv.org/abs/2411.05349)]
 * [Nov 2024] **"Enhancing LLMs for Power System Simulations: A Feedback-driven Multi-agent Framework"** [[paper](https://arxiv.org/abs/2411.16707)]
 * [Nov 2024] **"Towards Next-Generation Medical Agent: How o1 is Reshaping Decision-Making in Medical Scenarios"** [[paper](https://arxiv.org/abs/2411.14461)]
+* [Nov 2024] **"Agentic LLMs in the Supply Chain: Towards Autonomous Multi-Agent Consensus-Seeking"** [[paper](https://arxiv.org/abs/2411.10184)]
 * [Dec 2024] **"Hacking CTFs with Plain Agents"** [[paper](https://arxiv.org/abs/2412.02776)]
 * [Dec 2024] **"Enhancing LLMs for Impression Generation in Radiology Reports through a Multi-Agent System"** [[paper](https://arxiv.org/abs/2412.06828)]
 * [Dec 2024] **"AutoPatent: A Multi-Agent Framework for Automatic Patent Generation"** [[paper](https://arxiv.org/abs/2412.09796)]
@@ -141,3 +142,5 @@ Agents in various tasks such as education, healthcare, and the press.
 * [Mar 2026] **"On the Suitability of LLM-Driven Agents for Dark Pattern Audits"** [[paper](https://arxiv.org/abs/2603.03881)]
 * [Mar 2026] **"Build, Judge, Optimize: A Blueprint for Continuous Improvement of Multi-Agent Consumer Assistants"** [[paper](https://arxiv.org/abs/2603.03565)]
 * [Mar 2026] **"Developing an AI Assistant for Knowledge Management and Workforce Training in State DOTs"** [[paper](https://arxiv.org/abs/2603.03302)]
+* [Mar 2026] **"LLM-Agent Interactions on Markets with Information Asymmetries"** [[paper](https://arxiv.org/abs/2603.08853)]
+* [Mar 2026] **"Evolving Deception: When Agents Evolve, Deception Wins"** [[paper](https://arxiv.org/abs/2603.05872)]

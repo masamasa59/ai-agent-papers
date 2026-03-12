@@ -12,3 +12,4 @@ Research agents need to search over large spaces of possible actions, states, or
 * [Feb 2026] **"Group-Evolving Agents: Open-Ended Self-Improvement via Experience Sharing"** [[paper](https://arxiv.org/abs/2602.04837)]
 * [Feb 2026] **"Evaluating Collective Behaviour of Hundreds of LLM Agents"** [[paper](https://arxiv.org/abs/2602.16662)]
 * [Mar 2026] **"Expanding LLM Agent Boundaries with Strategy-Guided Exploration"** [[paper](https://arxiv.org/abs/2603.02045)]
+* [Mar 2026] **"Advancing Automated Algorithm Design via Evolutionary Stagewise Design with LLMs"** [[paper](https://arxiv.org/abs/2603.07970)]

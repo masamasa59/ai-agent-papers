@@ -21,3 +21,5 @@ Agents applied to financial analysis, trading, risk assessment, and financial do
 * ⚖️ [Feb 2026] **"Evaluation and Benchmarking Suite for Financial Large Language Models and Agents"** [[paper](https://arxiv.org/abs/2602.19073)]
 * [Feb 2026] **"An Agentic LLM Framework for Adverse Media Screening in AML Compliance"** [[paper](https://arxiv.org/abs/2602.23373)]
 * ⚖️ [Mar 2026] **"AgentSCOPE: Evaluating Contextual Privacy Across Agentic Workflows"** [[paper](https://arxiv.org/abs/2603.04902)]
+* [Mar 2026] **"FinToolBench: Evaluating LLM Agents for Real-World Financial Tool Use"** [[paper](https://arxiv.org/abs/2603.08262)]
+* [Mar 2026] **"Evaluating Financial Intelligence in Large Language Models: Benchmarking SuperInvesting AI with LLM Engines"** [[paper](https://arxiv.org/abs/2603.08704)]
