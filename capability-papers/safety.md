@@ -72,3 +72,8 @@ These papers discuss the safety and risks of agents.
 * [Feb 2026] **"Agents of Chaos"** [[paper](https://arxiv.org/abs/2602.20021)]
 * [Mar 2026] **"Governance Architecture for Autonomous Agent Systems: Threats, Framework, and Engineering Practice"** [[paper](https://arxiv.org/abs/2603.07191)]
 * [Mar 2026] **"From Thinker to Society: Security in Hierarchical Autonomy Evolution of AI Agents"** [[paper](https://arxiv.org/abs/2603.07496)]
+* [Mar 2026] **"Governing Evolving Memory in LLM Agents: Risks, Mechanisms, and the Stability and Safety Governed Memory (SSGM) Framework"** [[paper](https://arxiv.org/abs/2603.11768)]
+* [Mar 2026] **"Uncovering Security Threats and Architecting Defenses in Autonomous Agents: A Case Study of OpenClaw"** [[paper](https://arxiv.org/abs/2603.12644)]
+* [Mar 2026] **"Security, privacy, and agentic AI in a regulatory view: From definitions and distinctions to provisions and reflections"** [[paper](https://arxiv.org/abs/2603.18914)]
+* [Mar 2026] **"AI Agent Traps"** [[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6372438)]
+* [Mar 2026] **"Emergent Social Intelligence Risks in Generative Multi-Agent Systems"** [[paper](https://arxiv.org/abs/2603.27771)]

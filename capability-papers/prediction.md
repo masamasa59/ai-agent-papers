@@ -15,3 +15,4 @@ Agents that predict future events, states, or outcomes, and perform forecasting 
 * [Feb 2026] **"Rethinking the Role of LLMs in Time Series Forecasting"** [[paper](https://arxiv.org/abs/2602.14744)]
 * [Feb 2026] **"PreScience: A Benchmark for Forecasting Scientific Contributions"** [[paper](https://arxiv.org/abs/2602.20459)]
 * [Mar 2026] **"Learning Next Action Predictors from Human-Computer Interaction"** [[paper](https://arxiv.org/abs/2603.05923)]
+* [Mar 2026] **"Improving Clinical Diagnosis with Counterfactual Multi-Agent Reasoning"** [[paper](https://arxiv.org/abs/2603.27820)]

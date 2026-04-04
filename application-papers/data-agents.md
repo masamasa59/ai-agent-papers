@@ -95,3 +95,6 @@
 * [Jan 2026] **"Insight Agents: An LLM-Based Multi-Agent System for Data Insights"** [[paper](https://arxiv.org/abs/2601.20048)]
 * [Feb 2026] **"SQLAgent: Learning to Explore Before Generating as a Data Engineer"** [[paper](https://arxiv.org/abs/2602.01952)]
 * [Feb 2026] **"DeepPrep: An LLM-Powered Agentic System for Autonomous Data Preparation"** [[paper](https://arxiv.org/abs/2602.07371)]
+* [Mar 2026] **"Human-Data Interaction, Exploration, and Visualization in the AI Era: Challenges and Opportunities"** [[paper](https://arxiv.org/abs/2603.05542)]
+* ⚖️ [Mar 2026] **"AgentDS Technical Report: Benchmarking the Future of Human-AI Collaboration in Domain-Specific Data Science"** [[paper](https://arxiv.org/abs/2603.19005)]
+* [Mar 2026] **"AIRA2: Overcoming Bottlenecks in AI Research Agents"** [[paper](https://arxiv.org/abs/2603.26499)]

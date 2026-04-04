@@ -14,7 +14,7 @@
 
 ### Hot Topics
 * 📖 **"Memory in the Age of AI Agents: A Survey Forms, Functions and Dynamics"** [[paper](https://arxiv.org/abs/2512.13564v1)]
-* 📖 **"Adaptation of Agentic AI"** [[paper](https://arxiv.org/abs/2512.16301v1)]
+* 📖 **"Adaptation of Agentic AI: A Survey of Post-Training, Memory, and Skills"** [[paper](https://arxiv.org/abs/2512.16301v1)]
 * 📖 **"Deep Research: A Systematic Survey"** [[paper](https://arxiv.org/abs/2512.02038v1)]
 * 🔥 **"Measuring Agents in Production"** [[paper](https://arxiv.org/abs/2512.04123v1)]
 * 🔥 **"Towards a Science of Scaling Agent Systems"** [[paper](https://arxiv.org/abs/2512.08296v1)]

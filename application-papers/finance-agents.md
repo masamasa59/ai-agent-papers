@@ -23,3 +23,8 @@ Agents applied to financial analysis, trading, risk assessment, and financial do
 * ⚖️ [Mar 2026] **"AgentSCOPE: Evaluating Contextual Privacy Across Agentic Workflows"** [[paper](https://arxiv.org/abs/2603.04902)]
 * [Mar 2026] **"FinToolBench: Evaluating LLM Agents for Real-World Financial Tool Use"** [[paper](https://arxiv.org/abs/2603.08262)]
 * [Mar 2026] **"Evaluating Financial Intelligence in Large Language Models: Benchmarking SuperInvesting AI with LLM Engines"** [[paper](https://arxiv.org/abs/2603.08704)]
+* ⚖️ [Mar 2026] **"From Comprehension to Reasoning: A Hierarchical Benchmark for Automated Financial Research Reporting"** [[paper](https://arxiv.org/abs/2603.19254)]
+* [Mar 2026] **"Learning to Aggregate Zero-Shot LLM Agents for Corporate Disclosure Classification"** [[paper](https://arxiv.org/abs/2603.20965)]
+* ⚖️ [Mar 2026] **"Benchmarking Multi-Agent LLM Architectures for Financial Document Processing: A Comparative Study of Orchestration Patterns, Cost-Accuracy Tradeoffs and Production Scaling Strategies"** [[paper](https://arxiv.org/abs/2603.22651)]
+* ⚖️ [Mar 2026] **"Can LLM Agents Be CFOs? A Benchmark for Resource Allocation in Dynamic Enterprise Environments"** [[paper](https://arxiv.org/abs/2603.23638)]
+* ⚖️ [Apr 2026] **"YC-Bench: Benchmarking AI Agents for Long-Term Planning and Consistent Execution"** [[paper](https://arxiv.org/abs/2604.01212)]

@@ -45,3 +45,6 @@ Ideation is the process of generating or developing ideas, particularly creative
 * ⚖️ [Feb 2026] **"ODYSSEYARENA: Benchmarking Large Language Models For Long-Horizon, Active and Inductive Interactions"** [[paper](https://arxiv.org/abs/2602.05843)]
 * [Feb 2026] **"Discovering Differences in Strategic Behavior Between Humans and LLMs"** [[paper](https://arxiv.org/abs/2602.10324)]
 * [Mar 2026] **"LLMs as Strategic Actors: Behavioral Alignment, Risk Calibration, and Argumentation Framing in Geopolitical Simulations"** [[paper](https://arxiv.org/abs/2603.02128)]
+* [Mar 2026] **"CREATE: Testing LLMs for Associative Creativity"** [[paper](https://arxiv.org/abs/2603.09970)]
+* [Mar 2026] **"FlowPIE: Test-Time Scientific Idea Evolution with Flow-Guided Literature Exploration"** [[paper](https://arxiv.org/abs/2603.29557)]
+* [Apr 2026] **"CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery"** [[paper](https://arxiv.org/abs/2604.01658)]

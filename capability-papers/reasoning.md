@@ -95,3 +95,5 @@
 * [Jan 2026] **"MAXS: Meta-Adaptive Exploration with LLM Agents"** [[paper](https://arxiv.org/abs/2601.09259v1)]
 * 📖 [Jan 2026] **"Agentic Reasoning for Large Language Models"** [[paper](https://arxiv.org/abs/2601.12538v1)]
 * [Jan 2026] **"Just-In-Time Reinforcement Learning: Continual Learning in LLM Agents Without Gradient Updates"** [[paper](https://arxiv.org/abs/2601.18510)]
+* ⚖️ [Mar 2026] **"The PokeAgent Challenge: Competitive and Long-Context Learning at Scale"** [[paper](https://arxiv.org/abs/2603.15563)]
+* [Mar 2026] **"A Subgoal-driven Framework for Improving Long-Horizon LLM Agents"** [[paper](https://arxiv.org/abs/2603.19685)]

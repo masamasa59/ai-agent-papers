@@ -101,6 +101,7 @@
 * [Nov 2025] **"The Collaboration Gap"** [[paper](https://arxiv.org/abs/2511.02687v1)]
 * [Sep 2025] **"MAS^2: Self-Generative, Self-Configuring, Self-Rectifying Multi-Agent Systems"** [[paper](https://arxiv.org/abs/2509.24323)]
 * [Feb 2026] **"Evaluating Collective Behaviour of Hundreds of LLM Agents"** [[paper](https://arxiv.org/abs/2602.16662)]
+* [Apr 2026] **"HabitatAgent: An End-to-End Multi-Agent System for Housing Consultation"** [[paper](https://arxiv.org/abs/2604.00556)]
 
 ### World Simulation
 * [Apr 2023] **"Generative agents: Interactive simulacra of human behavior"** [[paper](https://arxiv.org/abs/2304.03442)]
@@ -153,3 +154,5 @@
 * [Jan 2026] **"When Nobody Around Is Real: Exploring Public Opinions and User Experiences on the Multi-Agent AI Social Platform"** [[paper](https://arxiv.org/abs/2601.18275)]
 * [Mar 2026] **"Molt Dynamics: Emergent Social Phenomena in Autonomous AI Agent Populations"** [[paper](https://arxiv.org/abs/2603.03555)]
 * [Mar 2026] **"Position: AI Agents Are Not (Yet) a Panacea for Social Simulation"** [[paper](https://arxiv.org/abs/2603.00113)]
+* [Mar 2026] **"Emergent Social Intelligence Risks in Generative Multi-Agent Systems"** [[paper](https://arxiv.org/abs/2603.27771)]
+* [Apr 2026] **"Do Agents Repair When Challenged — or Just Reply? Challenge, Repair, and Public Correction in a Deployed Agent Forum"** [[paper](https://arxiv.org/abs/2604.00518)]

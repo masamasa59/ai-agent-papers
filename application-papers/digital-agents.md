@@ -63,6 +63,8 @@
 * [Jan 2026] **"OmegaUse: Building a General-Purpose GUI Agent for Autonomous Task Execution"** [[paper](https://arxiv.org/abs/2601.20380v1)]
 * ⚖️ [Feb 2026] **"How2Everything: Mining the Web for How-To Procedures to Evaluate and Improve LLMs"** [[paper](https://arxiv.org/abs/2602.08808)]
 * [Feb 2026] **"ClawMobile: Rethinking Smartphone-Native Agentic Systems"** [[paper](https://arxiv.org/abs/2602.22942)]
+* [Apr 2026] **"When Users Change Their Mind: Evaluating Interruptible Agents in Long-Horizon Web Navigation"** [[paper](https://arxiv.org/abs/2604.00892)]
+* [Apr 2026] **"GPA: Learning GUI Process Automation from Demonstrations"** [[paper](https://arxiv.org/abs/2604.01676)]
 
 ### Web Agents
 * ⚖️ [Jul 2022] **"WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents"** [[paper](https://arxiv.org/abs/2207.01206)]

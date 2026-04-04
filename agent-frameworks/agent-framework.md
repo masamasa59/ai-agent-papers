@@ -110,6 +110,13 @@
 * [Feb 2026] **"FS-Researcher: Test-Time Scaling for Long-Horizon Research Tasks with File-System-Based Agents"** [[paper](https://arxiv.org/abs/2602.01566)]
 * [Feb 2026] **"Architecting AgentOS: From Token-Level Context to Emergent System-Level Intelligence"** [[paper](https://arxiv.org/abs/2602.20934)]
 * [Feb 2026] **"AI Must Embrace Specialization via Superhuman Adaptable Intelligence"** [[paper](https://arxiv.org/abs/2602.23643)]
+* [Mar 2026] **"Building Effective AI Coding Agents for the Terminal: Scaffolding, Harness, Context Engineering, and Lessons Learned"** [[paper](https://arxiv.org/abs/2603.05344)]
+* [Mar 2026] **"AutoAgent: Evolving Cognition and Elastic Memory Orchestration for Adaptive Agents"** [[paper](https://arxiv.org/abs/2603.09716)]
+* [Mar 2026] **"OpenClaw-RL: Train Any Agent Simply by Talking"** [[paper](https://arxiv.org/abs/2603.10165)]
+* [Mar 2026] **"MetaClaw: Just Talk -- An Agent That Meta-Learns and Evolves in the Wild"** [[paper](https://arxiv.org/abs/2603.17187)]
+* 📖 [Mar 2026] **"The Evolution of Tool Use in LLM Agents: From Single-Tool Call to Multi-Tool Orchestration"** [[paper](https://arxiv.org/abs/2603.22862)]
+* [Mar 2026] **"GEMS: Agent-Native Multimodal Generation with Memory and Skills"** [[paper](https://arxiv.org/abs/2603.28088)]
+* [Apr 2026] **"Terminal Agents Suffice for Enterprise Automation"** [[paper](https://arxiv.org/abs/2604.00073)]
 
 ## Multi-Agent
 * [Mar 2023] **"CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society"** [[paper](https://arxiv.org/abs/2303.17760)]
@@ -153,6 +160,7 @@
 * [Jan 2026] **"Can Small Agent Collaboration Beat a Single Big LLM?"** [[paper](https://arxiv.org/abs/2601.11327v1)]
 * [Jan 2026] **"Rethinking the Value of Multi-Agent Workflow: A Strong Single Agent Baseline"** [[paper](https://arxiv.org/abs/2601.12307v1)]
 * [Feb 2026] **"AORCHESTRA: Automating Sub-Agent Creation for Agentic Orchestration"** [[paper](https://arxiv.org/abs/2602.03786)]
+* [Mar 2026] **"Language Model Teams as Distributed Systems"** [[paper](https://arxiv.org/abs/2603.12229)]
 
 ## Agent Ops & UX & Business
 * [Feb 2024] **"Towards better Human-Agent Alignment: Assessing Task Utility in LLM-Powered Applications"** [[paper](https://arxiv.org/abs/2402.09015)]
@@ -211,3 +219,13 @@
 * [Feb 2026] **"From Human-Human Collaboration to Human-Agent Collaboration: A Vision, Design Philosophy, and an Empirical Framework for Achieving Successful Partnerships Between Humans and LLM Agents"** [[paper](https://arxiv.org/abs/2602.05987)]
 * [Feb 2026] **"Intelligent AI Delegation"** [[paper](https://arxiv.org/abs/2602.11865)]
 * [Feb 2026] **"The Next Paradigm Is User-Centric Agent, Not Platform-Centric Service"** [[paper](https://arxiv.org/abs/2602.15682)]
+* [Feb 2026] **"SHAPR: Operationalising Human–AI Collaborative Research Through Structured Knowledge Generation"** [[paper](https://arxiv.org/abs/2602.12443)]
+* [Mar 2026] **"ViviDoc: Generating Interactive Documents through Human-Agent Collaboration"** [[paper](https://arxiv.org/abs/2603.01912)]
+* [Mar 2026] **"An Empirical Study of Interaction Smells in Multi-Turn Human-LLM Collaborative Code Generation"** [[paper](https://arxiv.org/abs/2603.09701)]
+* [Mar 2026] **"InterDeepResearch: Enabling Human-Agent Collaborative Information Seeking through Interactive Deep Research"** [[paper](https://arxiv.org/abs/2603.12608)]
+* [Mar 2026] **"Invisible Failures in Human–AI Interactions"** [[paper](https://arxiv.org/abs/2603.15423)]
+* [Mar 2026] **"Argumentative Human-AI Decision-Making: Toward AI Agents That Reason With Us, Not For Us"** [[paper](https://arxiv.org/abs/2603.15946)]
+* [Mar 2026] **"Agentic AI and the next intelligence explosion"** [[paper](https://arxiv.org/abs/2603.20639)]
+* [Mar 2026] **"Ask or Assume? Uncertainty-Aware Clarification-Seeking in Coding Agents"** [[paper](https://arxiv.org/abs/2603.26233)]
+* [Mar 2026] **"Human-Data Interaction, Exploration, and Visualization in the AI Era: Challenges and Opportunities"** [[paper](https://arxiv.org/abs/2603.05542)]
+* [Apr 2026] **"Making Sense of AI Agents Hype: Adoption, Architectures, and Takeaways from Practitioners"** [[paper](https://arxiv.org/abs/2604.00189)]

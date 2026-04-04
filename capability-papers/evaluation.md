@@ -72,3 +72,5 @@
 * ⚖️ [Feb 2026] **"JADE: Expert-Grounded Dynamic Evaluation for Open-Ended Professional Tasks"** [[paper](https://arxiv.org/abs/2602.06486)]
 * ⚖️ [Feb 2026] **"Gaia2: Benchmarking LLM Agents on Dynamic and Asynchronous Environments"** [[paper](https://arxiv.org/abs/2602.11964)]
 * ⚖️ [Feb 2026] **"Benchmark Test-Time Scaling of General LLM Agents"** [[paper](https://arxiv.org/abs/2602.18998)]
+* ⚖️ [Mar 2026] **"$OneMillion-Bench: How Far are Language Agents from Human Experts?"** [[paper](https://arxiv.org/abs/2603.07980)]
+* [Mar 2026] **"How are AI agents used? Evidence from 177,000 MCP tools"** [[paper](https://arxiv.org/abs/2603.23802)]

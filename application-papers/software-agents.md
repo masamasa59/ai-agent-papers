@@ -89,3 +89,7 @@
 * [Feb 2026] **"Agent Skills: A Data-Driven Analysis of Claude Skills for Extending Large Language Model Functionality"** [[paper](https://arxiv.org/abs/2602.08004)]
 * ⚖️ [Feb 2026] **"Evaluating AGENTS.md: Are Repository-Level Context Files Helpful for Coding Agents?"** [[paper](https://arxiv.org/abs/2602.11988)]
 * [Mar 2026] **"CODETASTE: Can LLMs Generate Human-Level Code Refactorings?"** [[paper](https://arxiv.org/abs/2603.04177)]
+* [Mar 2026] **"Building Effective AI Coding Agents for the Terminal: Scaffolding, Harness, Context Engineering, and Lessons Learned"** [[paper](https://arxiv.org/abs/2603.05344)]
+* ⚖️ [Mar 2026] **"CR-Bench: Evaluating the Real-World Utility of AI Code Review Agents"** [[paper](https://arxiv.org/abs/2603.11078)]
+* ⚖️ [Mar 2026] **"SWE-Skills-Bench: Do Agent Skills Actually Help in Real-World Software Engineering?"** [[paper](https://arxiv.org/abs/2603.15401)]
+* [Apr 2026] **"Yet Even Less Is Even Better For Agentic, Reasoning, and Coding LLMs"** [[paper](https://arxiv.org/abs/2604.00824)]

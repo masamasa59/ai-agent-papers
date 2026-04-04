@@ -59,6 +59,52 @@ An AI Agent is an autonomous system powered by large language models that can pe
 - [Awesome LLM-Powered Agent](https://github.com/hyp1231/awesome-llm-powered-agent/)
  - [Awesome LLM agents](https://github.com/kaushikb11/awesome-llm-agents)
 
+# March/30 Highlights
+
+## Research Agents
+* **"Agentic Scientific Simulation: Execution-Grounded Model Construction and Reconstruction"** [[paper](https://arxiv.org/abs/2603.00214)]
+* **"DeepXiv-SDK: An Agentic Data Interface for Scientific Literature"** [[paper](https://arxiv.org/abs/2603.00084)]
+* **"EvoScientist: Towards Multi-Agent Evolving AI Scientists for End-to-End Scientific Discovery"** [[paper](https://arxiv.org/abs/2603.08127)]
+* **"HLER: Human-in-the-Loop Economic Research via Multi-Agent Pipelines for Empirical Discovery"** [[paper](https://arxiv.org/abs/2603.07444)]
+* **"Auto Researching, not hyperparameter tuning: Convergence Analysis of 10,000 LLM-Guided ML Experiments"** [[paper](https://arxiv.org/abs/2603.15916)]
+* **"AwesomeLit: Towards Hypothesis Generation with Agent-Supported Literature Research"** [[paper](https://arxiv.org/abs/2603.22648)]
+* **"VILLA: Versatile Information Retrieval From Scientific Literature Using Large LAnguage Models"** [[paper](https://arxiv.org/abs/2603.23849)]
+* **"Can AI Scientist Agents Learn from Lab-in-the-Loop Feedback? Evidence from Iterative Perturbation Discovery"** [[paper](https://arxiv.org/abs/2603.26177)]
+* ⚖️ **"SciVisAgentBench: A Benchmark for Evaluating Scientific Data Analysis and Visualization Agents"** [[paper](https://arxiv.org/abs/2603.29139)]
+* **"FlowPIE: Test-Time Scientific Idea Evolution with Flow-Guided Literature Exploration"** [[paper](https://arxiv.org/abs/2603.29557)]
+* [Apr 2026] **"A Visionary Look at Vibe Researching"** [[paper](https://arxiv.org/abs/2604.00945)]
+
+## Human-AI
+* **"ViviDoc: Generating Interactive Documents through Human-Agent Collaboration"** [[paper](https://arxiv.org/abs/2603.01912)]
+* **"An Empirical Study of Interaction Smells in Multi-Turn Human-LLM Collaborative Code Generation"** [[paper](https://arxiv.org/abs/2603.09701)]
+* **"InterDeepResearch: Enabling Human-Agent Collaborative Information Seeking through Interactive Deep Research"** [[paper](https://arxiv.org/abs/2603.12608)]
+* **"Invisible Failures in Human–AI Interactions"** [[paper](https://arxiv.org/abs/2603.15423)]
+* **"Argumentative Human-AI Decision-Making: Toward AI Agents That Reason With Us, Not For Us"** [[paper](https://arxiv.org/abs/2603.15946)]
+* **"Agentic AI and the next intelligence explosion"** [[paper](https://arxiv.org/abs/2603.20639)]
+* **"Ask or Assume? Uncertainty-Aware Clarification-Seeking in Coding Agents"** [[paper](https://arxiv.org/abs/2603.26233)]
+* **"Human-Data Interaction, Exploration, and Visualization in the AI Era: Challenges and Opportunities"** [[paper](https://arxiv.org/abs/2603.05542)]
+
+## Agent
+* **"Building Effective AI Coding Agents for the Terminal: Scaffolding, Harness, Context Engineering, and Lessons Learned"** [[paper](https://arxiv.org/abs/2603.05344)]
+* **"AutoAgent: Evolving Cognition and Elastic Memory Orchestration for Adaptive Agents"** [[paper](https://arxiv.org/abs/2603.09716)]
+* **"OpenClaw-RL: Train Any Agent Simply by Talking"** [[paper](https://arxiv.org/abs/2603.10165)]
+* **"MetaClaw: Just Talk -- An Agent That Meta-Learns and Evolves in the Wild"** [[paper](https://arxiv.org/abs/2603.17187)]
+* 📖 **"The Evolution of Tool Use in LLM Agents: From Single-Tool Call to Multi-Tool Orchestration"** [[paper](https://arxiv.org/abs/2603.22862)]
+
+
+### Self-Evolving Agents
+* **"EvoSkill: Automated Skill Discovery for Multi-Agent Systems"** [[paper](https://arxiv.org/abs/2603.02766)]
+* **"Evolving Deception: When Agents Evolve, Deception Wins"** [[paper](https://arxiv.org/abs/2603.05872)]
+* **"EvoScientist: Towards Multi-Agent Evolving AI Scientists for End-to-End Scientific Discovery"** [[paper](https://arxiv.org/abs/2603.08127)]
+* **"AutoAgent: Evolving Cognition and Elastic Memory Orchestration for Adaptive Agents"** [[paper](https://arxiv.org/abs/2603.09716)]
+* **"Trajectory-Informed Memory Generation for Self-Improving Agent Systems"** [[paper](https://arxiv.org/abs/2603.10600)]
+* **"MetaClaw: Just Talk -- An Agent That Meta-Learns and Evolves in the Wild"** [[paper](https://arxiv.org/abs/2603.17187)]
+* **"AgentFactory: A Self-Evolving Framework Through Executable Subagent Accumulation and Reuse"** [[paper](https://arxiv.org/abs/2603.18000)]
+* **"HyperAgents"** [[paper](https://arxiv.org/abs/2603.19461)]
+* **"Self-Evolving Multi-Agent Framework for Efficient Decision Making in Real-Time Strategy Scenarios"** [[paper](https://arxiv.org/abs/2603.23875)]
+* **"Experiential Reflective Learning for Self-Improving LLM Agents"** [[paper](https://arxiv.org/abs/2603.24639)]
+* **"ASI-Evolve: AI Accelerates AI"** [[paper](https://arxiv.org/abs/2603.29640)]
+
 
 ## Feb/28 Highlights
 - [Deep research Trends Report (JA)](newsletters/feb_2026/deep_research.md)
@@ -181,7 +227,7 @@ An AI Agent is an autonomous system powered by large language models that can pe
 
 ### Hot Topics
 * 📖 **"Memory in the Age of AI Agents: A Survey Forms, Functions and Dynamics"** [[paper](https://arxiv.org/abs/2512.13564v1)]
-* 📖 **"Adaptation of Agentic AI"** [[paper](https://arxiv.org/abs/2512.16301v1)]
+* 📖 **"Adaptation of Agentic AI: A Survey of Post-Training, Memory, and Skills"** [[paper](https://arxiv.org/abs/2512.16301v1)]
 * 📖 **"Deep Research: A Systematic Survey"** [[paper](https://arxiv.org/abs/2512.02038v1)]
 * 🔥 **"Measuring Agents in Production"** [[paper](https://arxiv.org/abs/2512.04123v1)]
 * 🔥 **"Towards a Science of Scaling Agent Systems"** [[paper](https://arxiv.org/abs/2512.08296v1)]
