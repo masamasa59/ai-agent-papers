@@ -16,3 +16,4 @@ Research agents need to search over large spaces of possible actions, states, or
 * [Apr 2026] **"Beyond Stochastic Exploration: What Makes Training Data Valuable for Agentic Search"** [[paper](https://arxiv.org/abs/2604.08124)]
 * [Apr 2026] **"AdaExplore: Failure-Driven Adaptation and Diversity-Preserving Search for Efficient Kernel Generation"** [[paper](https://arxiv.org/abs/2604.16625)]
 * [Apr 2026] **"AI scientists produce results without reasoning scientifically"** [[paper](https://arxiv.org/abs/2604.18805)]
+* [May 2026] **"Look Before You Leap: Autonomous Exploration for LLM Agents"**

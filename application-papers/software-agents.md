@@ -94,3 +94,8 @@
 * ⚖️ [Mar 2026] **"SWE-Skills-Bench: Do Agent Skills Actually Help in Real-World Software Engineering?"** [[paper](https://arxiv.org/abs/2603.15401)]
 * [Apr 2026] **"Yet Even Less Is Even Better For Agentic, Reasoning, and Coding LLMs"** [[paper](https://arxiv.org/abs/2604.00824)]
 * [Apr 2026] **"SWE-chat: Coding Agent Interactions From Real Users in the Wild"** [[paper](https://arxiv.org/abs/2604.20779)]
+* [May 2026] **"Root-Cause-Driven Automated Vulnerability Repair"** [[paper](https://arxiv.org/abs/2605.04251)]
+* [May 2026] **"To What Extent Does Agent-generated Code Require Maintenance? An Empirical Study"** [[paper](https://arxiv.org/abs/2605.06464)]
+* [May 2026] **"FrontierSmith: Synthesizing Open-Ended Coding Problems at Scale"** [[paper](https://arxiv.org/abs/2605.14445)]
+* [May 2026] **"MemRepair: Hierarchical Memory for Agentic Repository-Level Vulnerability Repair"** [[paper](https://arxiv.org/abs/2605.17444)]
+* [May 2026] **"Rethinking Code Review in the Age of AI: A Vision for Agentic Code Review"**

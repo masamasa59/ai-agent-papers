@@ -85,3 +85,9 @@ These papers discuss the safety and risks of agents.
 * ⚖️ [Apr 2026] **"Systematic Capability Benchmarking of Frontier Large Language Models for Offensive Cyber Tasks"** [[paper](https://arxiv.org/abs/2604.17159)]
 * [Apr 2026] **"Dynamic Cyber Ranges"** [[paper](https://arxiv.org/abs/2604.24184)]
 * [Apr 2026] **"Emergent Strategic Reasoning Risks in AI: A Taxonomy-Driven Evaluation Framework"** [[paper](https://arxiv.org/abs/2604.22119)]
+* 🔥 [Jan 2024] **"Visibility into AI Agents"** [[paper](https://arxiv.org/abs/2401.13138)]
+* [May 2026] **"SafeHarbor: Defining Precise Decision Boundaries via Hierarchical Memory-Augmented Guardrail for LLM Agent Safety"** [[paper](https://arxiv.org/abs/2605.05704)]
+* 🔥 [May 2026] **"Position: Behavioural Assurance Cannot Verify the Safety Claims Governance Now Demands"** [[paper](https://arxiv.org/abs/2605.15164)]
+* [May 2026] **"Trust No Tool: Evaluating and Defending LLM Agents under Untrusted Tool Feedback"** [[paper](https://arxiv.org/abs/2605.17453)]
+* [May 2026] **"Proteus: A Self-Evolving Red Team for Agent Skill Ecosystems"**
+* ⚖️ [May 2026] **"MonitoringBench: Semi-Automated Red-Teaming for Agent Monitoring"**

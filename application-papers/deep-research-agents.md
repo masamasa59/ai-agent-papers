@@ -113,3 +113,8 @@
 * [Apr 2026] **"Agentic Aggregation for Parallel Scaling of Long-Horizon Agentic Tasks"** [[paper](https://arxiv.org/abs/2604.11753)]
 * [Apr 2026] **"Mind DeepResearch Technical Report"** [[paper](https://arxiv.org/abs/2604.14518)]
 * [Apr 2026] **"DR-Venus: Towards Frontier Edge-Scale Deep Research Agents with Only 10K Open Data"** [[paper](https://arxiv.org/abs/2604.19859)]
+* [May 2026] **"LongSeeker: Elastic Context Orchestration for Long-Horizon Search Agents"** [[paper](https://arxiv.org/abs/2605.05191)]
+* 🔥 [May 2026] **"Superintelligent Retrieval Agent: The Next Frontier of Information Retrieval"** [[paper](https://arxiv.org/abs/2605.06647)]
+* [May 2026] **"AgenticRAG: Agentic Retrieval for Enterprise Knowledge Bases"** [[paper](https://arxiv.org/abs/2605.05538)]
+* [May 2026] **"Towards Self-Evolving Agentic Literature Retrieval"** [[paper](https://arxiv.org/abs/2605.14306)]
+* [May 2026] **"Scaling Retrieval-Augmented Reasoning with Parallel Search and Explicit Merging"**

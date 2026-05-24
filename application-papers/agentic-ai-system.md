@@ -155,3 +155,18 @@ Agents in various tasks such as education, healthcare, and the press.
 * ⚖️ [Apr 2026] **"YIELD: A Large-Scale Dataset and Evaluation Framework for Information Elicitation Agents"** [[paper](https://arxiv.org/abs/2604.10968)]
 * [Apr 2026] **"Pioneer Agent: Continual Improvement of Small Language Models in Production"** [[paper](https://arxiv.org/abs/2604.09791)]
 * [Apr 2026] **"Hierarchical Long-Term Semantic Memory for LinkedIn’s Hiring Agent"** [[paper](https://arxiv.org/abs/2604.26197)]
+* [Apr 2026] **"AgentEconomist: An End-to-end Agentic System Translating Economic Intuitions into Executable Computational Experiments"** [[paper](https://arxiv.org/abs/2604.27725)]
+* [May 2026] **"Generating Proof-of-Vulnerability Tests to Help Enhance the Security of Complex Software"** [[paper](https://arxiv.org/abs/2605.03956)]
+* [May 2026] **"Pen-Strategist: A Reasoning Framework for Penetration Testing Strategy Formation and Analysis"** [[paper](https://arxiv.org/abs/2605.04499)]
+* [May 2026] **"Agentic AI and the Industrialization of Cyber Offense: Forecast, Consequences, and Defensive Priorities for Enterprises and the Mittelstand"** [[paper](https://arxiv.org/abs/2605.06713)]
+* ⚖️ [May 2026] **"CyBiasBench: Benchmarking Bias in LLM Agents for Cyber-Attack Scenarios"** [[paper](https://arxiv.org/abs/2605.07830)]
+* [May 2026] **"From Controlled to the Wild: Evaluation of Pentesting Agents for the Real-World"** [[paper](https://arxiv.org/abs/2605.10834)]
+* [May 2026] **"Cochise: A Reference Harness for Autonomous Penetration Testing"** [[paper](https://arxiv.org/abs/2605.11671)]
+* [May 2026] **"A Multi-Agent Orchestration Framework for Venture Capital Due Diligence"** [[paper](https://arxiv.org/abs/2605.13110)]
+* ⚖️ [May 2026] **"ExploitBench: A Capability Ladder Benchmark for LLM Cybersecurity Agents"** [[paper](https://arxiv.org/abs/2605.14153)]
+* 🔥 [May 2026] **"Nexus: An Agentic Framework for Time Series Forecasting"** [[paper](https://arxiv.org/abs/2605.14389)]
+* [May 2026] **"Autonomous LLM Agents & CTFs: A Second Look"** [[paper](https://arxiv.org/abs/2605.21497)]
+* [May 2026] **"GenAI-Driven Threat Detection with Microsoft Security Copilot"**
+* [May 2026] **"When Skills Don’t Help: A Negative Result on Procedural Knowledge for Tool-Grounded Agents in Offensive Cybersecurity"**
+* [May 2026] **"Three Heads Are Better Than One: A Multi-perspective Reasoning Framework for Enhanced Vulnerability Detection"**
+* [May 2026] **"AgentModernize: Preserving Business Logic in Legacy Modernization with Multi-Agent LLMs and Behavioral Specification Graphs"**

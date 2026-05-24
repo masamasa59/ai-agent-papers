@@ -103,3 +103,7 @@
 * [Mar 2026] **"Demystifying Reinforcement Learning for Long-Horizon Tool-Using Agents: A Comprehensive Recipe"** [[paper](https://arxiv.org/abs/2603.21972)]
 * [Mar 2026] **"From AI Assistant to AI Scientist: Autonomous Discovery of LLM-RL Algorithms with LLM Agents"** [[paper](https://arxiv.org/abs/2603.23951)]
 * [Apr 2026] **"CoEvolve: Training LLM Agents via Agent-Data Mutual Evolution"** [[paper](https://arxiv.org/abs/2604.15840)]
+* [May 2026] **"On Training Large Language Models for Long-Horizon Tasks: An Empirical Study of Horizon Length"** [[paper](https://arxiv.org/abs/2605.02572)]
+* 📖 [May 2026] **"Generate, Filter, Control, Replay: A Comprehensive Survey of Rollout Strategies for LLM Reinforcement Learning"** [[paper](https://arxiv.org/abs/2605.02913)]
+* [May 2026] **"Learning Agentic Policy from Action Guidance"** [[paper](https://arxiv.org/abs/2605.12004)]
+* [May 2026] **"Compiling Agentic Workflows into LLM Weights: Near-Frontier Quality at Two Orders of Magnitude Less Cost"**

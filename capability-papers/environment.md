@@ -40,3 +40,11 @@ Environments and simulators for training agents, including world models and inte
 * [Apr 2026] **"Cortex 2.0: Grounding World Models in Real-World Industrial Deployment"** [[paper](https://arxiv.org/abs/2604.20246)]
 * [Apr 2026] **"AEL: Agent Evolving Learning for Open-Ended Environments"** [[paper](https://arxiv.org/abs/2604.21725)]
 * [Apr 2026] **"Agentic Harness Engineering: Observability-Driven Automatic Evolution of Coding-Agent Harnesses"** [[paper](https://arxiv.org/abs/2604.25850)]
+* [May 2026] **"PriorZero: Bridging Language Priors and World Models for Decision Making"** [[paper](https://arxiv.org/abs/2605.12289)]
+* [May 2026] **"Harnessing Agentic Evolution"** [[paper](https://arxiv.org/abs/2605.13821)]
+* ⚖️ [May 2026] **"Auditing Agent Harness Safety"** [[paper](https://arxiv.org/abs/2605.14271)]
+* 🔥 [May 2026] **"Is Grep All You Need? How Agent Harnesses Reshape Agentic Search"** [[paper](https://arxiv.org/abs/2605.15184)]
+* [May 2026] **"Code as Agent Harness"** [[paper](https://arxiv.org/abs/2605.18747)]
+* [May 2026] **"Adapting the Interface, Not the Model: Runtime Harness Adaptation for Deterministic LLM Agents"** [[paper](https://arxiv.org/abs/2605.22166)]
+* [May 2026] **"Interactive Evaluation Requires a Design Science"**
+* [May 2026] **"HarnessAPI: A Skill-First Framework for Unified Streaming APIs and MCP Tools"**

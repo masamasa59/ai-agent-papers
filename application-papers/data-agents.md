@@ -105,3 +105,5 @@
 * [Apr 2026] **"Exploring Agentic Visual Analytics: A Co-Evolutionary Framework of Roles and Workflows"** [[paper](https://arxiv.org/abs/2604.15813)]
 * [Apr 2026] **"An Agentic Approach to Metadata Reasoning"** [[paper](https://arxiv.org/abs/2604.20144)]
 * [Apr 2026] **"TingIS: Real-time Risk Event Discovery from Noisy Customer Incidents at Enterprise Scale"** [[paper](https://arxiv.org/abs/2604.21889)]
+* ⚖️ [May 2026] **"DataClaw: A Process-Oriented Agent Benchmark for Exploratory Real-World Data Analysis"** [[paper](https://arxiv.org/abs/2605.02503)]
+* [May 2026] **"Beyond Text-to-SQL: An Agentic LLM System for Governed Enterprise Analytics APIs"** [[paper](https://arxiv.org/abs/2605.21027)]

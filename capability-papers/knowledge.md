@@ -13,3 +13,5 @@ Papers on knowledge representation, ontology construction, and knowledge graph i
 * [Apr 2026] **"Experience Compression Spectrum: Unifying Memory, Skills, and Rules in LLM Agents"** [[paper](https://arxiv.org/abs/2604.15877)]
 * [Apr 2026] **"Integrating Graphs, Large Language Models, and Agents: Reasoning and Retrieval"** [[paper](https://arxiv.org/abs/2604.15951)]
 * [Apr 2026] **"RepoDoc: A Knowledge Graph-Based Framework to Automatic Documentation Generation and Incremental Updates"** [[paper](https://arxiv.org/abs/2604.26523v1)]
+* [May 2026] **"From Chat to Interview: Agentic Requirements Elicitation with an Experience Ontology"**
+* [May 2026] **"PEEK: Context Map as an Orientation Cache for Long-Context LLM Agents"** [[paper](https://arxiv.org/abs/2605.19932)]

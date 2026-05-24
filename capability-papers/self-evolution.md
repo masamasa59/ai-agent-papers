@@ -174,3 +174,10 @@
 * [Apr 2026] **"EVOAGENT: AN EVOLVABLE AGENT FRAMEWORK WITH SKILL LEARNING AND MULTI-AGENT DELEGATION"** [[paper](https://arxiv.org/abs/2604.20133)]
 * [Apr 2026] **"Co-Evolving LLM Decision and Skill Bank Agents for Long-Horizon Tasks"** [[paper](https://arxiv.org/abs/2604.20987)]
 * [Apr 2026] **"AEL: Agent Evolving Learning for Open-Ended Environments"** [[paper](https://arxiv.org/abs/2604.21725)]
+* [May 2026] **"SkillOS: Learning Skill Curation for Self-Evolving Agents"** [[paper](https://arxiv.org/abs/2605.06614)]
+* [May 2026] **"EVOLVEMEM: Self-Evolving Memory Architecture via AutoResearch for LLM Agents"** [[paper](https://arxiv.org/abs/2605.13941)]
+* [May 2026] **"Towards Self-Evolving Agentic Literature Retrieval"** [[paper](https://arxiv.org/abs/2605.14306)]
+* ⚖️ [May 2026] **"EvoMemBench: Benchmarking Agent Memory from a Self-Evolving Perspective"** [[paper](https://arxiv.org/abs/2605.18421)]
+* [May 2026] **"Ratchet: A Minimal Hygiene Recipe for Self-Evolving LLM Agents"** [[paper](https://arxiv.org/abs/2605.22148)]
+* [May 2026] **"EXG: Self-Evolving Agents with Experience Graphs"**
+* [May 2026] **"GraphMind: From Operational Traces to Self-Evolving Workflow Automation"**

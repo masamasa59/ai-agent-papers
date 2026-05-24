@@ -144,3 +144,8 @@
 * [Apr 2026] **"REVIEWGROUNDER: Improving Review Substantiveness with Rubric-Guided, Tool-Integrated Agents"** [[paper](https://arxiv.org/abs/2604.14261)]
 * [Apr 2026] **"AI scientists produce results without reasoning scientifically"** [[paper](https://arxiv.org/abs/2604.18805)]
 * [Apr 2026] **"From Research Question to Scientific Workflow: Leveraging Agentic AI for Science Automation"** [[paper](https://arxiv.org/abs/2604.21910)]
+* 📖 [Apr 2026] **"Can AI Be a Good Peer Reviewer? A Survey of Peer Review Process, Evaluation, and the Future"** [[paper](https://arxiv.org/abs/2604.27924)]
+* 🔥 [May 2026] **"Agentic AI Scientists Are Not Built For Autonomous Scientific Discovery"** [[paper](https://arxiv.org/abs/2605.08956)]
+* [May 2026] **"NanoResearch: Co-Evolving Skills, Memory, and Policy for Personalized Research Automation"** [[paper](https://arxiv.org/abs/2605.10813)]
+* 🔥 [May 2026] **"On the limits and opportunities of AI reviewers: Reviewing the reviews of Nature-family papers with 45 expert scientists"** [[paper](https://arxiv.org/abs/2605.20668)]
+* [May 2026] **"Evaluating Memory Condensation Strategies for Coding Agents in Data-Driven Scientific Discovery"**

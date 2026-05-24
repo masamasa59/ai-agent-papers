@@ -63,3 +63,4 @@ These papers discuss whether agents can autonomously recover from errors.
 * [Mar 2026] **"Judge Reliability Harness: Stress Testing the Reliability of LLM Judges"** [[paper](https://arxiv.org/abs/2603.05399)]
 * [Apr 2026] **"The Art of Building Verifiers for Computer Use Agents"** [[paper](https://arxiv.org/abs/2604.06240)]
 * ⚖️ [Apr 2026] **"AJ-Bench: Benchmarking Agent-as-a-Judge for Environment-Aware Evaluation"** [[paper](https://arxiv.org/abs/2604.18240)]
+* 📖 [Apr 2026] **"Can AI Be a Good Peer Reviewer? A Survey of Peer Review Process, Evaluation, and the Future"** [[paper](https://arxiv.org/abs/2604.27924)]

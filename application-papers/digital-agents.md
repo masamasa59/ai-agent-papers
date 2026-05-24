@@ -67,6 +67,8 @@
 * [Apr 2026] **"GPA: Learning GUI Process Automation from Demonstrations"** [[paper](https://arxiv.org/abs/2604.01676)]
 * [Apr 2026] **"The Art of Building Verifiers for Computer Use Agents"** [[paper](https://arxiv.org/abs/2604.06240)]
 * [Apr 2026] **"On the Reliability of Computer Use Agents"** [[paper](https://arxiv.org/abs/2604.17849)]
+* [May 2026] **"Executable Agentic Memory for GUI Agent"**
+* ⚖️ [May 2026] **"SaaS-Bench: Can Computer-Use Agents Leverage Real-World SaaS to Solve Professional Workflows?"**
 
 ### Web Agents
 * ⚖️ [Jul 2022] **"WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents"** [[paper](https://arxiv.org/abs/2207.01206)]

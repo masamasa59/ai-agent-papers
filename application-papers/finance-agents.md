@@ -37,3 +37,6 @@ Agents applied to financial analysis, trading, risk assessment, and financial do
 * ⚖️ [Apr 2026] **"BankerToolBench: Evaluating AI Agents in End-to-End Investment Banking Workflows"** [[paper](https://arxiv.org/abs/2604.11304)]
 * [Apr 2026] **"Towards Robust Real-World Spreadsheet Understanding with Multi-Agent Multi-Format Reasoning"** [[paper](https://arxiv.org/abs/2604.12282)]
 * [Apr 2026] **"FinReporting: An Agentic Workflow for Localized Reporting of Cross-Jurisdiction Financial Disclosures"** [[paper](https://arxiv.org/abs/2604.05966)]
+* ⚖️ [May 2026] **"WorkstreamBench: Evaluating LLM Agents on End-to-End Spreadsheet Tasks in Finance"** [[paper](https://arxiv.org/abs/2605.22664)]
+* [May 2026] **"Spreadsheet-RL: Advancing Large Language Model Agents on Realistic Spreadsheet Tasks via Reinforcement Learning"** [[paper](https://arxiv.org/abs/2605.22642)]
+* [May 2026] **"Agentic GraphRAG: Navigating Unstructured Financial Data with Collaborative AI"**

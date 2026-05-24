@@ -57,3 +57,7 @@ Ideation is the process of generating or developing ideas, particularly creative
 * [Apr 2026] **"Caesar: Deep Agentic Web Exploration for Creative Answer Synthesis"** [[paper](https://arxiv.org/abs/2604.20855)]
 * [Apr 2026] **"TingIS: Real-time Risk Event Discovery from Noisy Customer Incidents at Enterprise Scale"** [[paper](https://arxiv.org/abs/2604.21889)]
 * [Apr 2026] **"Directional Alignment and Narrative Agency in Human–LLM Co-Writing"** [[paper](https://arxiv.org/abs/2604.23676)]
+* [May 2026] **"Towards Autonomous Business Intelligence via Data-to-Insight Discovery Agent"** [[paper](https://arxiv.org/abs/2605.07202)]
+* 🔥 [May 2026] **"LLMs Improving LLMs: Agentic Discovery for Test-Time Scaling"** [[paper](https://arxiv.org/abs/2605.08083)]
+* [May 2026] **"Agentic Discovery of Neural Architectures: AIRA-Compose and AIRA-Design"** [[paper](https://arxiv.org/abs/2605.15871)]
+* [May 2026] **"SOLAR: A Self-Optimizing Open-Ended Autonomous Agent for Lifelong Learning and Continual Adaptation"** [[paper](https://arxiv.org/abs/2605.20189)]

@@ -100,3 +100,7 @@
 * [Apr 2026] **"Decocted Experience Improves Test-Time Inference in LLM Agents"** [[paper](https://arxiv.org/abs/2604.04373)]
 * [Apr 2026] **"A Decomposition Perspective to Long-context Reasoning for LLMs"** [[paper](https://arxiv.org/abs/2604.07981)]
 * [Apr 2026] **"The Long-Horizon Task Mirage? Diagnosing Where and Why Agentic Systems Break"** [[paper](https://arxiv.org/abs/2604.11978)]
+* [May 2026] **"On Training Large Language Models for Long-Horizon Tasks: An Empirical Study of Horizon Length"** [[paper](https://arxiv.org/abs/2605.02572)]
+* [May 2026] **"LongSeeker: Elastic Context Orchestration for Long-Horizon Search Agents"** [[paper](https://arxiv.org/abs/2605.05191)]
+* [May 2026] **"Tools as Continuous Flow for Evolving Agentic Reasoning"** [[paper](https://arxiv.org/abs/2605.07339)]
+* ⚖️ [May 2026] **"INFERENCEBENCH: A Benchmark for Open-Ended LLM Inference Optimization by AI Agents"**

@@ -121,6 +121,8 @@
 * [Apr 2026] **"Terminal Agents Suffice for Enterprise Automation"** [[paper](https://arxiv.org/abs/2604.00073)]
 * [Apr 2026] **"SemaClaw: A Step Towards General-Purpose Personal AI Agents through Harness Engineering"** [[paper](https://arxiv.org/abs/2604.11548)]
 * [Apr 2026] **"AN ALTERNATE AGENTIC AI ARCHITECTURE(IT’S ABOUT THE DATA)"** [[paper](https://arxiv.org/abs/2604.21413)]
+* [May 2026] **"Building AI Companions that Prioritise Learning over Performance"** [[paper](https://arxiv.org/abs/2605.04816)]
+* [May 2026] **"DynaMate2: Democratization of Agentic AI for Expert-Designed Custom Workflows"** [[paper](https://arxiv.org/abs/2605.20819)]
 
 ## Multi-Agent
 * [Mar 2023] **"CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society"** [[paper](https://arxiv.org/abs/2303.17760)]
@@ -167,6 +169,11 @@
 * [Mar 2026] **"Language Model Teams as Distributed Systems"** [[paper](https://arxiv.org/abs/2603.12229)]
 * [Apr 2026] **"FEDERATION OVER TEXT: INSIGHT SHARING FOR MULTI-AGENT REASONING"** [[paper](https://arxiv.org/abs/2604.16778)]
 * [Apr 2026] **"Recursive Multi-Agent Systems"** [[paper](https://arxiv.org/abs/2604.25917)]
+* 🔥 [May 2026] **"Position: agentic AI orchestration should be Bayes-consistent"** [[paper](https://arxiv.org/abs/2605.00742)]
+* 🔥 [May 2026] **"Recursive Agent Optimization"** [[paper](https://arxiv.org/abs/2605.06639)]
+* 📖 [May 2026] **"Beyond Individual Intelligence: Surveying Collaboration, Failure Attribution, and Self-Evolution in LLM-based Multi-Agent Systems"** [[paper](https://arxiv.org/abs/2605.14892)]
+* [May 2026] **"Multi-agent Collaboration with State Management"** [[paper](https://arxiv.org/abs/2605.20563)]
+
 
 ## Agent Ops & UX & Business
 * [Feb 2024] **"Towards better Human-Agent Alignment: Assessing Task Utility in LLM-Powered Applications"** [[paper](https://arxiv.org/abs/2402.09015)]
@@ -236,3 +243,4 @@
 * [Mar 2026] **"Human-Data Interaction, Exploration, and Visualization in the AI Era: Challenges and Opportunities"** [[paper](https://arxiv.org/abs/2603.05542)]
 * [Apr 2026] **"Making Sense of AI Agents Hype: Adoption, Architectures, and Takeaways from Practitioners"** [[paper](https://arxiv.org/abs/2604.00189)]
 * [Apr 2026] **"Autogenesis: A Self-Evolving Agent Protocol"** [[paper](https://arxiv.org/abs/2604.15034)]
+* [May 2026] **"Position: Agentic AI System Is a Foreseeable Pathway to AGI"**

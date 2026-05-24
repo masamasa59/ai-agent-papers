@@ -48,3 +48,4 @@ These papers discuss agent planning.
 * [Oct 2025] **"DEEPPLANNER: Scaling Planning Capability for Deep Research Agents via Advantage Shaping"** [[paper](https://arxiv.org/abs/2510.12979)]
 * [Feb 2026] **"MagicAgent: Towards Generalized Agent Planning"** [[paper](https://arxiv.org/abs/2602.19000)]
 * [Apr 2026] **"From Plan to Action: How Well Do Agents Follow the Plan?"** [[paper](https://arxiv.org/abs/2604.12147)]
+* 📖 [May 2026] **"Planning in the LLM Era: Building for Reliability and Efficiency"** [[paper](https://arxiv.org/abs/2605.21902)]

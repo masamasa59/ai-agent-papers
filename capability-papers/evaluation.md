@@ -76,3 +76,7 @@
 * [Mar 2026] **"How are AI agents used? Evidence from 177,000 MCP tools"** [[paper](https://arxiv.org/abs/2603.23802)]
 * ⚖️ [Apr 2026] **"AlphaEval: Evaluating Agents in Production"** [[paper](https://arxiv.org/abs/2604.12162)]
 * ⚖️ [Apr 2026] **"LiveClawBench: Benchmarking LLM Agents on Complex, Real-World Assistant Tasks"** [[paper](https://arxiv.org/abs/2604.13072)]
+* [Apr 2026] **"ClawGym: A Scalable Framework for Building Effective Claw Agents"** [[paper](https://arxiv.org/abs/2604.26904)]
+* ⚖️ [May 2026] **"WildClawBench: A Benchmark for Real-World, Long-Horizon Agent Evaluation"** [[paper](https://arxiv.org/abs/2605.10912)]
+* [May 2026] **"Agentic CLEAR: Automating Multi-Level Evaluation of LLM Agents"** [[paper](https://arxiv.org/abs/2605.22608)]
+* [May 2026] **"Interactive Evaluation Requires a Design Science"**

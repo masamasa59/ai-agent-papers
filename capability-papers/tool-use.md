@@ -1,4 +1,4 @@
-## Tool Use
+## Tool Use (Skills)
 These papers discuss whether or not agents can properly use tools
 
 #### Papers
@@ -112,3 +112,13 @@ These papers discuss whether or not agents can properly use tools
 * [Apr 2026] **"Co-Evolving LLM Decision and Skill Bank Agents for Long-Horizon Tasks"** [[paper](https://arxiv.org/abs/2604.20987)]
 * [Apr 2026] **"From Skill Text to Skill Structure: The Scheduling-Structural-Logical Representation for Agent Skills"** [[paper](https://arxiv.org/abs/2604.24026)]
 * [Apr 2026] **"Skill Retrieval Augmentation for Agentic AI"** [[paper](https://arxiv.org/abs/2604.24594)]
+* [May 2026] **"HEAVYSKILL: Heavy Thinking as the Inner Skill in Agentic Harness"** [[paper](https://arxiv.org/abs/2605.02396)]
+* [May 2026] **"SkillScope: Toward Fine-Grained Least-Privilege Enforcement for Agent Skills"** [[paper](https://arxiv.org/abs/2605.05868)]
+* [May 2026] **"SkillOS: Learning Skill Curation for Self-Evolving Agents"** [[paper](https://arxiv.org/abs/2605.06614)]
+* 📖 [May 2026] **"A Comprehensive Survey on Agent Skills: Taxonomy, Techniques, and Applications"** [[paper](https://arxiv.org/abs/2605.07358)]
+* [May 2026] **"Counterfactual Trace Auditing of LLM Agent Skills"** [[paper](https://arxiv.org/abs/2605.11946)]
+* [May 2026] **"SkillFlow: Flow-Driven Recursive Skill Evolution for Agentic Orchestration"** [[paper](https://arxiv.org/abs/2605.14089)]
+* [May 2026] **"SkillsVote: Lifecycle Governance of Agent Skills from Collection, Recommendation to Evolution"** [[paper](https://arxiv.org/abs/2605.18401)]
+* ⚖️ [May 2026] **"SkillGenBench: Benchmarking Skill Generation Pipelines for LLM Agents"** [[paper](https://arxiv.org/abs/2605.18693)]
+* [May 2026] **"Proteus: A Self-Evolving Red Team for Agent Skill Ecosystems"**
+* [May 2026] **"Toward User Comprehension Supports for LLM Agent Skill Specifications"**
