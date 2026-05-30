@@ -163,3 +163,4 @@
 * ⚖️ [Apr 2026] **"Sell More, Play Less: Benchmarking LLM Realistic Selling Skill"** [[paper](https://arxiv.org/abs/2604.07054)]
 * [Apr 2026] **"We Need Strong Preconditions For Using Simulations In Policy"** [[paper](https://arxiv.org/abs/2604.07838)]
 * [Apr 2026] **"WhatIf: Interactive Exploration of LLM-Powered Social Simulations for Policy Reasoning"** [[paper](https://arxiv.org/abs/2604.17615)]
+* [Apr 2026] **"From Skills to Talent: Organising Heterogeneous Agents as a Real-World Company"** [[paper](https://arxiv.org/abs/2604.22446)]

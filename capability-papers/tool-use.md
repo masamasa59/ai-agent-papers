@@ -120,5 +120,10 @@ These papers discuss whether or not agents can properly use tools
 * [May 2026] **"SkillFlow: Flow-Driven Recursive Skill Evolution for Agentic Orchestration"** [[paper](https://arxiv.org/abs/2605.14089)]
 * [May 2026] **"SkillsVote: Lifecycle Governance of Agent Skills from Collection, Recommendation to Evolution"** [[paper](https://arxiv.org/abs/2605.18401)]
 * ⚖️ [May 2026] **"SkillGenBench: Benchmarking Skill Generation Pipelines for LLM Agents"** [[paper](https://arxiv.org/abs/2605.18693)]
-* [May 2026] **"Proteus: A Self-Evolving Red Team for Agent Skill Ecosystems"**
-* [May 2026] **"Toward User Comprehension Supports for LLM Agent Skill Specifications"**
+* [May 2026] **"SkillOpt: Executive Strategy for Self-Evolving Agent Skills"** [[paper](https://arxiv.org/abs/2605.23904)]
+* [May 2026] **"MUSE-Autoskill: Self-Evolving Agents via Skill Creation, Memory, Management, and Evaluation"** [[paper](https://arxiv.org/abs/2605.27366)]
+* [May 2026] **"Proteus: A Self-Evolving Red Team for Agent Skill Ecosystems"** [[paper](https://arxiv.org/abs/2605.11891)]
+* [May 2026] **"Toward User Comprehension Supports for LLM Agent Skill Specifications"** [[paper](https://arxiv.org/abs/2605.19362v1)]
+* [May 2026] **"You Live More Than Once: Towards Hierarchical Skill Meta-Evolving"** [[paper](https://arxiv.org/abs/2605.28390v1)]
+* [May 2026] **"SkillGrad: Optimizing Agent Skills Like Gradient Descent"** [[paper](https://arxiv.org/abs/2605.27760)]
+* [May 2026] **"CODESKILL: Learning Self-Evolving Skills for Coding Agents"** [[paper](https://arxiv.org/abs/2605.25430)]

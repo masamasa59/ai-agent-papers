@@ -156,6 +156,7 @@ Agents in various tasks such as education, healthcare, and the press.
 * [Apr 2026] **"Pioneer Agent: Continual Improvement of Small Language Models in Production"** [[paper](https://arxiv.org/abs/2604.09791)]
 * [Apr 2026] **"Hierarchical Long-Term Semantic Memory for LinkedIn’s Hiring Agent"** [[paper](https://arxiv.org/abs/2604.26197)]
 * [Apr 2026] **"AgentEconomist: An End-to-end Agentic System Translating Economic Intuitions into Executable Computational Experiments"** [[paper](https://arxiv.org/abs/2604.27725)]
+* [Apr 2026] **"Synthesizing Multi-Agent Harnesses for Vulnerability Discovery"** [[paper](https://arxiv.org/abs/2604.20801)]
 * [May 2026] **"Generating Proof-of-Vulnerability Tests to Help Enhance the Security of Complex Software"** [[paper](https://arxiv.org/abs/2605.03956)]
 * [May 2026] **"Pen-Strategist: A Reasoning Framework for Penetration Testing Strategy Formation and Analysis"** [[paper](https://arxiv.org/abs/2605.04499)]
 * [May 2026] **"Agentic AI and the Industrialization of Cyber Offense: Forecast, Consequences, and Defensive Priorities for Enterprises and the Mittelstand"** [[paper](https://arxiv.org/abs/2605.06713)]
@@ -170,3 +171,5 @@ Agents in various tasks such as education, healthcare, and the press.
 * [May 2026] **"When Skills Don’t Help: A Negative Result on Procedural Knowledge for Tool-Grounded Agents in Offensive Cybersecurity"**
 * [May 2026] **"Three Heads Are Better Than One: A Multi-perspective Reasoning Framework for Enhanced Vulnerability Detection"**
 * [May 2026] **"AgentModernize: Preserving Business Logic in Legacy Modernization with Multi-Agent LLMs and Behavioral Specification Graphs"**
+* [May 2026] **"CyberEvolver: Structured Self-Evolution for Cybersecurity Agents On the Fly"** [[paper](https://arxiv.org/abs/2605.26195)]
+* [May 2026] **"Towards Cybersecurity SuperIntelligence (CSI): What’s the best harness for cybersecurity?"** [[paper](https://arxiv.org/abs/2601.14614)]

@@ -148,4 +148,8 @@
 * 🔥 [May 2026] **"Agentic AI Scientists Are Not Built For Autonomous Scientific Discovery"** [[paper](https://arxiv.org/abs/2605.08956)]
 * [May 2026] **"NanoResearch: Co-Evolving Skills, Memory, and Policy for Personalized Research Automation"** [[paper](https://arxiv.org/abs/2605.10813)]
 * 🔥 [May 2026] **"On the limits and opportunities of AI reviewers: Reviewing the reviews of Nature-family papers with 45 expert scientists"** [[paper](https://arxiv.org/abs/2605.20668)]
-* [May 2026] **"Evaluating Memory Condensation Strategies for Coding Agents in Data-Driven Scientific Discovery"**
+* [May 2026] **"Toward AI VIS Co-Scientists: A General and End-to-End Agent Harness for Solving Complex Data Visualization Tasks"** [[paper](https://arxiv.org/abs/2605.21825)]
+* [May 2026] **"Claw AI Lab: An Autonomous Multi-Agent Research Team"** [[paper](https://arxiv.org/abs/2605.22662)]
+* [May 2026] **"Forecasting Scientific Progress with Artificial Intelligence"** [[paper](https://arxiv.org/abs/2605.22681)]
+* ⚖️ [May 2026] **"DiscoverPhysics: Benchmarking LLMs for Out-of-the-Box Scientific Thinking"** [[paper](https://arxiv.org/abs/2605.26087)]
+* [May 2026] **"Evaluating Memory Condensation Strategies for Coding Agents in Data-Driven Scientific Discovery"** [[paper](https://arxiv.org/abs/2605.18854v1)]

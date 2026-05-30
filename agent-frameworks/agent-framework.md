@@ -123,6 +123,8 @@
 * [Apr 2026] **"AN ALTERNATE AGENTIC AI ARCHITECTURE(IT’S ABOUT THE DATA)"** [[paper](https://arxiv.org/abs/2604.21413)]
 * [May 2026] **"Building AI Companions that Prioritise Learning over Performance"** [[paper](https://arxiv.org/abs/2605.04816)]
 * [May 2026] **"DynaMate2: Democratization of Agentic AI for Expert-Designed Custom Workflows"** [[paper](https://arxiv.org/abs/2605.20819)]
+* [May 2026] **"The Log is the Agent: Event-Sourced Reactive Graphs for Auditable, Forkable Agentic Systems"** [[paper](https://arxiv.org/abs/2605.21997)]
+* [May 2026] **"Agentic AI Workload Characteristics"** [[paper](https://arxiv.org/abs/2605.26297)]
 
 ## Multi-Agent
 * [Mar 2023] **"CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society"** [[paper](https://arxiv.org/abs/2303.17760)]

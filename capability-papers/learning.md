@@ -106,4 +106,5 @@
 * [May 2026] **"On Training Large Language Models for Long-Horizon Tasks: An Empirical Study of Horizon Length"** [[paper](https://arxiv.org/abs/2605.02572)]
 * 📖 [May 2026] **"Generate, Filter, Control, Replay: A Comprehensive Survey of Rollout Strategies for LLM Reinforcement Learning"** [[paper](https://arxiv.org/abs/2605.02913)]
 * [May 2026] **"Learning Agentic Policy from Action Guidance"** [[paper](https://arxiv.org/abs/2605.12004)]
-* [May 2026] **"Compiling Agentic Workflows into LLM Weights: Near-Frontier Quality at Two Orders of Magnitude Less Cost"**
+* [May 2026] **"Polar: Agentic RL on Any Harness at Scale"** [[paper](https://arxiv.org/abs/2605.24220)]
+* [May 2026] **"Compiling Agentic Workflows into LLM Weights: Near-Frontier Quality at Two Orders of Magnitude Less Cost"** [[paper](https://arxiv.org/abs/2605.22502)]

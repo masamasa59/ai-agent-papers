@@ -144,3 +144,4 @@ These papers discuss an agent’s memory function and its self-evolution.
 * [May 2026] **"Auto-Dreamer: Learning Offline Memory Consolidation for Language Agents"** [[paper](https://arxiv.org/abs/2605.20616)]
 * ⚖️ [May 2026] **"MEMGYM: a Long-Horizon Memory Environment for LLM Agents"** [[paper](https://arxiv.org/abs/2605.20833)]
 * [May 2026] **"Evaluating Memory Condensation Strategies for Coding Agents in Data-Driven Scientific Discovery"**
+* [May 2026] **"Rethinking Memory as Continuously Evolving Connectivity"** [[paper](https://arxiv.org/abs/2605.28773)]

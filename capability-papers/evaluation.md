@@ -80,3 +80,6 @@
 * ⚖️ [May 2026] **"WildClawBench: A Benchmark for Real-World, Long-Horizon Agent Evaluation"** [[paper](https://arxiv.org/abs/2605.10912)]
 * [May 2026] **"Agentic CLEAR: Automating Multi-Level Evaluation of LLM Agents"** [[paper](https://arxiv.org/abs/2605.22608)]
 * [May 2026] **"Interactive Evaluation Requires a Design Science"**
+* [May 2026] **"A Unified Framework for the Evaluation of LLM Agentic Capabilities"** [[paper](https://arxiv.org/abs/2605.27898)]
+* [May 2026] **"Beyond One Path: Evaluating and Enhancing Divergent Thinking in Interactive LLM Agents"** [[paper](https://arxiv.org/abs/2605.28465)]
+* ⚖️ [May 2026] **"A Matter of TASTE: Improving Coverage and Difficulty of Agent Benchmarks"** [[paper](https://arxiv.org/abs/2605.28556)]

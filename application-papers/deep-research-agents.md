@@ -118,3 +118,5 @@
 * [May 2026] **"AgenticRAG: Agentic Retrieval for Enterprise Knowledge Bases"** [[paper](https://arxiv.org/abs/2605.05538)]
 * [May 2026] **"Towards Self-Evolving Agentic Literature Retrieval"** [[paper](https://arxiv.org/abs/2605.14306)]
 * [May 2026] **"Scaling Retrieval-Augmented Reasoning with Parallel Search and Explicit Merging"**
+* [May 2026] **"Do Agents Need Semantic Metadata? A Comparative Study in Agentic Data Retrieval"** [[paper](https://arxiv.org/abs/2605.28787)]
+* ⚖️ [May 2026] **"LiveBrowseComp: Are Search Agents Searching, or Just Verifying What They Already Know?"** [[paper](https://arxiv.org/abs/2605.28721)]

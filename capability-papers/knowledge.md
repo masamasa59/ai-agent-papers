@@ -15,3 +15,4 @@ Papers on knowledge representation, ontology construction, and knowledge graph i
 * [Apr 2026] **"RepoDoc: A Knowledge Graph-Based Framework to Automatic Documentation Generation and Incremental Updates"** [[paper](https://arxiv.org/abs/2604.26523v1)]
 * [May 2026] **"From Chat to Interview: Agentic Requirements Elicitation with an Experience Ontology"**
 * [May 2026] **"PEEK: Context Map as an Orientation Cache for Long-Context LLM Agents"** [[paper](https://arxiv.org/abs/2605.19932)]
+* [May 2026] **"Retrieval as Reasoning: Self-Evolving Agent-Native Retrieval via LLM-Wiki"** [[paper](https://arxiv.org/abs/2605.25480)]
