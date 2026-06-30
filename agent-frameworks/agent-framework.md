@@ -125,7 +125,11 @@
 * [May 2026] **"DynaMate2: Democratization of Agentic AI for Expert-Designed Custom Workflows"** [[paper](https://arxiv.org/abs/2605.20819)]
 * [May 2026] **"The Log is the Agent: Event-Sourced Reactive Graphs for Auditable, Forkable Agentic Systems"** [[paper](https://arxiv.org/abs/2605.21997)]
 * [May 2026] **"Agentic AI Workload Characteristics"** [[paper](https://arxiv.org/abs/2605.26297)]
-
+* [May 2026] **"Learning Agent-Compatible Context Management for Long-Horizon Tasks"** [[paper](https://arxiv.org/abs/2605.30785)]
+* [Jun 2026] **"Learning to Construct Practical Agentic Systems"** [[paper](https://arxiv.org/abs/2606.00189)]
+* [Jun 2026] **"Agents All the Way Down; A Methodology for Building Custom AI Agents from Substrate to Production"** [[paper](https://arxiv.org/abs/2606.11869)]
+* 📖 [Jun 2026] **"From Question Answering to Task Completion: A Survey on Agent System and Harness Design"** [[paper](https://arxiv.org/abs/2606.20683)]
+* [Jun 2026] **"The Hitchhiker's Guide to Agentic AI: From Foundations to Systems"** [[paper](https://arxiv.org/abs/2606.24937)]
 ## Multi-Agent
 * [Mar 2023] **"CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society"** [[paper](https://arxiv.org/abs/2303.17760)]
 * [Aug 2023] **"AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors"** [[paper](https://arxiv.org/abs/2308.10848)]
@@ -175,7 +179,10 @@
 * 🔥 [May 2026] **"Recursive Agent Optimization"** [[paper](https://arxiv.org/abs/2605.06639)]
 * 📖 [May 2026] **"Beyond Individual Intelligence: Surveying Collaboration, Failure Attribution, and Self-Evolution in LLM-based Multi-Agent Systems"** [[paper](https://arxiv.org/abs/2605.14892)]
 * [May 2026] **"Multi-agent Collaboration with State Management"** [[paper](https://arxiv.org/abs/2605.20563)]
-
+* [Jun 2026] **"Reward Modeling for Multi-Agent Orchestration"** [[paper](https://arxiv.org/abs/2606.13598)]
+* [Jun 2026] **"Orchestra-o1: Omnimodal Agent Orchestration"** [[paper](https://arxiv.org/abs/2606.13707)]
+* [Jun 2026] **"Sakana Fugu Technical Report"** [[paper](https://arxiv.org/abs/2606.21228)]
+* [Jun 2026] **"Agent-as-a-Router: Agentic Model Routing for Coding Tasks"** [[paper](https://arxiv.org/abs/2606.22902)]
 
 ## Agent Ops & UX & Business
 * [Feb 2024] **"Towards better Human-Agent Alignment: Assessing Task Utility in LLM-Powered Applications"** [[paper](https://arxiv.org/abs/2402.09015)]
@@ -226,6 +233,7 @@
 * [Dec 2025] **"AgentBay: A Hybrid Interaction Sandbox for Seamless Human-AI Intervention in Agentic Systems"** [[paper](https://arxiv.org/abs/2512.04367v1)]
 * [Dec 2025] **"HAI-Eval: Measuring Human-AI Synergy in Collaborative Coding"** [[paper](https://arxiv.org/abs/2512.04111v1)]
 * [Dec 2025] **"AI & Human Co-Improvement for Safer Co-Superintelligence"** [[paper](https://arxiv.org/abs/2512.05356v1)]
+* [Dec 2025] **"Beyond Task Completion: An Assessment Framework for Evaluating Agentic AI Systems"** [[paper](https://arxiv.org/abs/2512.12791)]
 * [Dec 2025] **"Monitoring Monitorability"** [[paper](https://arxiv.org/abs/2512.18311v1)]
 * [Jan 2026] **"Architecting AgentOps Needs ℂℍ𝔸ℕ𝔾𝔼"** [[paper](https://arxiv.org/abs/2601.06456v1)]
 * [Jan 2026] **"When ‘Better’ Prompts Hurt: Evaluation-Driven Iteration for LLM Applications"** [[paper](https://arxiv.org/abs/2601.22025v1)]
@@ -246,3 +254,11 @@
 * [Apr 2026] **"Making Sense of AI Agents Hype: Adoption, Architectures, and Takeaways from Practitioners"** [[paper](https://arxiv.org/abs/2604.00189)]
 * [Apr 2026] **"Autogenesis: A Self-Evolving Agent Protocol"** [[paper](https://arxiv.org/abs/2604.15034)]
 * [May 2026] **"Position: Agentic AI System Is a Foreseeable Pathway to AGI"**
+* ⚖️ [May 2026] **"TUX: Measuring Human-AI Tacit Understanding"** [[paper](https://arxiv.org/abs/2605.30930)]
+* 📖 [Jun 2026] **"Agent System Operations: Categorization, Challenges, and Future Directions"** [[paper](https://arxiv.org/abs/2606.01581)]
+* [Jun 2026] **"Organizational Control Layer: Governance Infrastructure at the Execution Boundary of LLM Agent Systems"** [[paper](https://arxiv.org/abs/2606.04306)]
+* [Jun 2026] **"Observability for Delegated Execution in Agentic AI Systems"** [[paper](https://arxiv.org/abs/2606.09692)]
+* [Jun 2026] **"Agents All the Way Down; A Methodology for Building Custom AI Agents from Substrate to Production"** [[paper](https://arxiv.org/abs/2606.11869)]
+* [Jun 2026] **"From AGI to ASI"** [[paper](https://arxiv.org/abs/2606.12683)]
+* [Jun 2026] **"From Chatbot to Digital Colleague: The Paradigm Shift Toward Persistent Autonomous AI"** [[paper](https://arxiv.org/abs/2606.14502)]
+* [Jun 2026] **"Critique of Agent Model"** [[paper](https://arxiv.org/abs/2606.23991)]

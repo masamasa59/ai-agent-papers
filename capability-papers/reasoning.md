@@ -104,3 +104,6 @@
 * [May 2026] **"LongSeeker: Elastic Context Orchestration for Long-Horizon Search Agents"** [[paper](https://arxiv.org/abs/2605.05191)]
 * [May 2026] **"Tools as Continuous Flow for Evolving Agentic Reasoning"** [[paper](https://arxiv.org/abs/2605.07339)]
 * ⚖️ [May 2026] **"INFERENCEBENCH: A Benchmark for Open-Ended LLM Inference Optimization by AI Agents"**
+* [Jun 2026] **"Less Context, Better Agents: Efficient Context Engineering for Long-Horizon Tool-Using LLM Agents"** [[paper](https://arxiv.org/abs/2606.10209)]
+* [Jun 2026] **"HIPIF: Hierarchical Planning and Information Folding for Long-Horizon LLM Agent Learning"** [[paper](https://arxiv.org/abs/2606.10507)]
+* [Jun 2026] **"ReasoningLens: Hierarchical Visualization and Diagnostic Auditing for Large Reasoning Models"** [[paper](https://arxiv.org/abs/2606.23404)]

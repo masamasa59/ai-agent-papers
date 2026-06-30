@@ -120,3 +120,5 @@
 * [May 2026] **"Scaling Retrieval-Augmented Reasoning with Parallel Search and Explicit Merging"**
 * [May 2026] **"Do Agents Need Semantic Metadata? A Comparative Study in Agentic Data Retrieval"** [[paper](https://arxiv.org/abs/2605.28787)]
 * ⚖️ [May 2026] **"LiveBrowseComp: Are Search Agents Searching, or Just Verifying What They Already Know?"** [[paper](https://arxiv.org/abs/2605.28721)]
+* [Jun 2026] **"DuMate-DeepResearch: An Auditable Multi-Agent System with Recursive Search and Rubric-Grounded Reasoning"** [[paper](https://arxiv.org/abs/2606.07299)]
+* [Jun 2026] **"SearchSwarm: Towards Delegation Intelligence in Agentic LLMs for Long-Horizon Deep Research"** [[paper](https://arxiv.org/abs/2606.09730)]

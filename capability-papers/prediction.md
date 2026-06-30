@@ -20,3 +20,4 @@ Agents that predict future events, states, or outcomes, and perform forecasting 
 * [Apr 2026] **"WhatIf: Interactive Exploration of LLM-Powered Social Simulations for Policy Reasoning"** [[paper](https://arxiv.org/abs/2604.17615)]
 * ⚖️ [Apr 2026] **"TFRBench: A Reasoning Benchmark for Evaluating Forecasting Systems"** [[paper](https://arxiv.org/abs/2604.05364)]
 * [May 2026] **"Forecasting Scientific Progress with Artificial Intelligence"** [[paper](https://arxiv.org/abs/2605.22681)]
+* [Jun 2026] **"Agentic Time Machine as an Infrastructure for Future-Event Forecasting"**

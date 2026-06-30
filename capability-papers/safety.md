@@ -91,3 +91,10 @@ These papers discuss the safety and risks of agents.
 * [May 2026] **"Trust No Tool: Evaluating and Defending LLM Agents under Untrusted Tool Feedback"** [[paper](https://arxiv.org/abs/2605.17453)]
 * [May 2026] **"Proteus: A Self-Evolving Red Team for Agent Skill Ecosystems"**
 * ⚖️ [May 2026] **"MonitoringBench: Semi-Automated Red-Teaming for Agent Monitoring"**
+* ⚖️ [Jun 2026] **"SeClaw: Spec-Driven Security Task Synthesis for Evaluating Autonomous Agents"** [[paper](https://arxiv.org/abs/2606.02302)]
+* [Jun 2026] **"Organizational Control Layer: Governance Infrastructure at the Execution Boundary of LLM Agent Systems"** [[paper](https://arxiv.org/abs/2606.04306)]
+* 📖 [Jun 2026] **"Toward Secure LLM Agents: Threat Surfaces, Attacks, Defenses, and Evaluation"** [[paper](https://arxiv.org/abs/2606.10749)]
+* [Jun 2026] **"Human-on-the-Bridge: Scalable Evaluation for AI Agents"** [[paper](https://arxiv.org/abs/2606.16871)]
+* [Jun 2026] **"Deontic Policies for Runtime Governance of Agentic AI Systems"** [[paper](https://arxiv.org/abs/2606.19464)]
+* [Jun 2026] **"Safety in Self-Evolving LLM Agent Systems: Threats, Amplification, and Case Studies"** [[paper](https://arxiv.org/abs/2606.23075)]
+* [Jun 2026] **"Poisoned Playbooks: Demystifying Knowledge Poisoning Effects on AI Security Agents"** [[paper](https://arxiv.org/abs/2606.24402)]

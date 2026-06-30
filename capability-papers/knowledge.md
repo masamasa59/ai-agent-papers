@@ -16,3 +16,5 @@ Papers on knowledge representation, ontology construction, and knowledge graph i
 * [May 2026] **"From Chat to Interview: Agentic Requirements Elicitation with an Experience Ontology"**
 * [May 2026] **"PEEK: Context Map as an Orientation Cache for Long-Context LLM Agents"** [[paper](https://arxiv.org/abs/2605.19932)]
 * [May 2026] **"Retrieval as Reasoning: Self-Evolving Agent-Native Retrieval via LLM-Wiki"** [[paper](https://arxiv.org/abs/2605.25480)]
+* [May 2026] **"Croissant Tasks: A Metadata Format for Reproducible Machine Learning Evaluations"** [[paper](https://arxiv.org/abs/2605.29786)]
+* [Jun 2026] **"Agents-K1: Towards Agent-native Knowledge Orchestration"** [[paper](https://arxiv.org/abs/2606.13669)]

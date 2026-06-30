@@ -66,3 +66,9 @@ Environments and simulators for training agents, including world models and inte
 * [May 2026] **"Interactive Evaluation Requires a Design Science"**
 * [May 2026] **"HarnessAPI: A Skill-First Framework for Unified Streaming APIs and MCP Tools"** [[paper](https://arxiv.org/abs/2605.22733)]
 * ⚖️ [May 2026] **"Harness-Bench: Measuring Harness Effects across Models in Realistic Agent Workflows"** [[paper](https://arxiv.org/abs/2605.27922v1)]
+* [Jun 2026] **"Self-Harness: Harnesses That Improve Themselves"** [[paper](https://arxiv.org/abs/2606.09498)]
+* 📖 [Jun 2026] **"Agentic Environment Engineering for Large Language Models: A Survey of Environment Modeling, Synthesis, Evaluation, and Application"** [[paper](https://arxiv.org/abs/2606.12191)]
+* [Jun 2026] **"EurekAgent: Agent Environment Engineering is All You Need For Autonomous Scientific Discovery"** [[paper](https://arxiv.org/abs/2606.13662)]
+* [Jun 2026] **"HarnessX: A Composable, Adaptive, and Evolvable Agent Harness Foundry"** [[paper](https://arxiv.org/abs/2606.14249)]
+* ⚖️ [Jun 2026] **"SEAGym: An Evaluation Environment for Self-Evolving LLM Agents"** [[paper](https://arxiv.org/abs/2606.17546)]
+* [Jun 2026] **"LemonHarness Technical Report"** [[paper](https://arxiv.org/abs/2606.24311)]

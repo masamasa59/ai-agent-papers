@@ -108,3 +108,6 @@
 * [May 2026] **"Learning Agentic Policy from Action Guidance"** [[paper](https://arxiv.org/abs/2605.12004)]
 * [May 2026] **"Polar: Agentic RL on Any Harness at Scale"** [[paper](https://arxiv.org/abs/2605.24220)]
 * [May 2026] **"Compiling Agentic Workflows into LLM Weights: Near-Frontier Quality at Two Orders of Magnitude Less Cost"** [[paper](https://arxiv.org/abs/2605.22502)]
+* [May 2026] **"Learning Agent-Compatible Context Management for Long-Horizon Tasks"** [[paper](https://arxiv.org/abs/2605.30785)]
+* [Jun 2026] **"Reward Modeling for Multi-Agent Orchestration"** [[paper](https://arxiv.org/abs/2606.13598)]
+* [Jun 2026] **"OpenThoughts-Agent: Data Recipes for Agentic Models"** [[paper](https://arxiv.org/abs/2606.24855)]

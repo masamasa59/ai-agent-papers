@@ -40,3 +40,6 @@ Agents applied to financial analysis, trading, risk assessment, and financial do
 * ⚖️ [May 2026] **"WorkstreamBench: Evaluating LLM Agents on End-to-End Spreadsheet Tasks in Finance"** [[paper](https://arxiv.org/abs/2605.22664)]
 * [May 2026] **"Spreadsheet-RL: Advancing Large Language Model Agents on Realistic Spreadsheet Tasks via Reinforcement Learning"** [[paper](https://arxiv.org/abs/2605.22642)]
 * [May 2026] **"Agentic GraphRAG: Navigating Unstructured Financial Data with Collaborative AI"**
+* ⚖️ [May 2026] **"BlueFin: Benchmarking LLM Agents on Financial Spreadsheets"** [[paper](https://arxiv.org/abs/2605.30907)]
+* ⚖️ [Jun 2026] **"MortarBench: Evaluating Mortgage Loan Origination Agents"** [[paper](https://arxiv.org/abs/2606.19416)]
+* [Jun 2026] **"IPO Finance Agent: Evaluation of LLM Financial Analysts beyond Finance Agent v2, with Automated Rubric Generation -- the Case of the SpaceX (SPCX) IPO"** [[paper](https://arxiv.org/abs/2606.23032)]

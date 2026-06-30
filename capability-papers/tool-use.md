@@ -127,3 +127,10 @@ These papers discuss whether or not agents can properly use tools
 * [May 2026] **"You Live More Than Once: Towards Hierarchical Skill Meta-Evolving"** [[paper](https://arxiv.org/abs/2605.28390v1)]
 * [May 2026] **"SkillGrad: Optimizing Agent Skills Like Gradient Descent"** [[paper](https://arxiv.org/abs/2605.27760)]
 * [May 2026] **"CODESKILL: Learning Self-Evolving Skills for Coding Agents"** [[paper](https://arxiv.org/abs/2605.25430)]
+* [Jun 2026] **"SkillAdaptor: Self-Adapting Skills for LLM Agents from Trajectories"** [[paper](https://arxiv.org/abs/2606.01311)]
+* [Jun 2026] **"OpenSkill: Open-World Self-Evolution for LLM Agents"** [[paper](https://arxiv.org/abs/2606.06741)]
+* [Jun 2026] **"Notes2Skills: From Lab Notebooks to Certainty-Aware Scientific Agent Skills"** [[paper](https://arxiv.org/abs/2606.11897)]
+* [Jun 2026] **"HyperTool: Beyond Step-Wise Tool Calls for Tool-Augmented Agents"** [[paper](https://arxiv.org/abs/2606.13663)]
+* [Jun 2026] **"OpenClaw-Skill: Collective Skill Tree Search for Agentic Large Language Models"** [[paper](https://arxiv.org/abs/2606.16774)]
+* [Jun 2026] **"Scaling Enterprise Agent Routing: Degradation, Diagnosis, and Recovery"**
+* [Jun 2026] **"HDSO: Hypothesis-Driven Skill Optimization"**

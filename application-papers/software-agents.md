@@ -99,3 +99,11 @@
 * [May 2026] **"FrontierSmith: Synthesizing Open-Ended Coding Problems at Scale"** [[paper](https://arxiv.org/abs/2605.14445)]
 * [May 2026] **"MemRepair: Hierarchical Memory for Agentic Repository-Level Vulnerability Repair"** [[paper](https://arxiv.org/abs/2605.17444)]
 * [May 2026] **"Rethinking Code Review in the Age of AI: A Vision for Agentic Code Review"**
+* [Jun 2026] **"The End of Software Engineering: How AI Agents Are Fundamentally Restructuring the Software Paradigm"** [[paper](https://arxiv.org/abs/2606.05608)]
+* [Jun 2026] **"Socratic-SWE: Self-Evolving Coding Agents via Trace-Derived Agent Skills"** [[paper](https://arxiv.org/abs/2606.07412)]
+* 📖 [Jun 2026] **"The Rise of AI-Native Software Engineering: Implications for Practice, Education, and the Future Workforce"** [[paper](https://arxiv.org/abs/2606.12986)]
+* [Jun 2026] **"LLM Agents Can See Code Repositories"** [[paper](https://arxiv.org/abs/2606.14061)]
+* [Jun 2026] **"FastContext: Training Efficient Repository Explorer for Coding Agents"** [[paper](https://arxiv.org/abs/2606.14066)]
+* [Jun 2026] **"Skills for the future software profession: beyond agentic AI!"** [[paper](https://arxiv.org/abs/2606.21894)]
+* [Jun 2026] **"Tmax: A simple recipe for terminal agents"** [[paper](https://arxiv.org/abs/2606.23321)]
+* [Jun 2026] **"The Shift to Agentic AI: Evidence from Codex"** [[paper](https://arxiv.org/abs/2606.26959)]

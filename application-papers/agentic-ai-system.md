@@ -173,3 +173,12 @@ Agents in various tasks such as education, healthcare, and the press.
 * [May 2026] **"AgentModernize: Preserving Business Logic in Legacy Modernization with Multi-Agent LLMs and Behavioral Specification Graphs"**
 * [May 2026] **"CyberEvolver: Structured Self-Evolution for Cybersecurity Agents On the Fly"** [[paper](https://arxiv.org/abs/2605.26195)]
 * [May 2026] **"Towards Cybersecurity SuperIntelligence (CSI): What’s the best harness for cybersecurity?"** [[paper](https://arxiv.org/abs/2601.14614)]
+* [Jun 2026] **"Data Journalist Agent: Transforming Data into Verifiable Multimodal Stories"** [[paper](https://arxiv.org/abs/2606.11176)]
+* [Jun 2026] **"Can Open-Source LLM Agents Replace Static Application Security Testing Tools? An Empirical Assessment"** [[paper](https://arxiv.org/abs/2606.11672)]
+* [Jun 2026] **"The Emergence of Autonomous Penetration Capabilities in Large Language Model-Powered AI Systems"** [[paper](https://arxiv.org/abs/2606.13079)]
+* [Jun 2026] **"Neuro-Symbolic Agents for Regulated Process Automation: Challenges and Research Agenda"** [[paper](https://arxiv.org/abs/2606.13405)]
+* ⚖️ [Jun 2026] **"UXBench: Measuring the Actionability of LLM-Generated UX Critiques"** [[paper](https://arxiv.org/abs/2606.16262)]
+* [Jun 2026] **"Transferable Self-Evolving Playbooks for Agentic Security Auditing"** [[paper](https://arxiv.org/abs/2606.16420)]
+* ⚖️ [Jun 2026] **"ORAgentBench: Can LLM Agents Solve Challenging Operations Research Tasks End to End?"** [[paper](https://arxiv.org/abs/2606.19787)]
+* [Jun 2026] **"Human-on-the-Loop Orchestration for AI-Assisted Legal Discovery"** [[paper](https://arxiv.org/abs/2606.19812)]
+* [Jun 2026] **"Causal Discovery in the Era of Agents"** [[paper](https://arxiv.org/abs/2606.23608)]

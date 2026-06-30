@@ -41,3 +41,4 @@ These papers discuss profiles that define the roles of agents, including role-pl
 * [Sep 2025] **"HugAgent: Evaluating LLMs in Simulating Human-Like Individual Reasoning"** [[paper](https://arxiv.org/abs/2510.15144)]
 * [Apr 2026] **"How Emotion Shapes the Behavior of LLMs and Agents: A Mechanistic Study"** [[paper](https://arxiv.org/abs/2604.00005)]
 * [Apr 2026] **"Multi-User Large Language Model Agents"** [[paper](https://arxiv.org/abs/2604.08567)]
+* ⚖️ [Jun 2026] **"ProfileFoundry: A Synthetic Person-Object Substrate for Privacy, Memory, and Tool-Use Evaluation in LLM Agents"** [[paper](https://arxiv.org/abs/2606.26400)]

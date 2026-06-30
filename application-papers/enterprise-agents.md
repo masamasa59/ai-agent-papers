@@ -32,3 +32,7 @@ Agents designed for enterprise operations, document management, CRM, HR, and bus
 * [May 2026] **"Reversa: A Reverse Documentation Engineering Framework for Converting Legacy Software into Operational Specifications for AI Agents"** [[paper](https://arxiv.org/abs/2605.18684)]
 * [May 2026] **"Governance by Construction for Generalist Agents"** [[paper](https://arxiv.org/abs/2605.20874)]
 * [May 2026] **"Beyond Text-to-SQL: An Agentic LLM System for Governed Enterprise Analytics APIs"** [[paper](https://arxiv.org/abs/2605.21027)]
+* [Jun 2026] **"Business Utility of Large Language Models as Exploratory Data Analysis Agents"** [[paper](https://arxiv.org/abs/2606.00051)]
+* ⚖️ [Jun 2026] **"LakeQA: An Exploratory QA Benchmark over a Million-Scale Data Lake"** [[paper](https://arxiv.org/abs/2606.10460)]
+* [Jun 2026] **"SANA: What Matters for QA Agents over Massive Data Lakes?"** [[paper](https://arxiv.org/abs/2606.13904)]
+* ⚖️ [Jun 2026] **"EnterpriseClawBench: Benchmarking Agents from Real Workplace Sessions"** [[paper](https://arxiv.org/abs/2606.23654)]

@@ -49,3 +49,4 @@ These papers discuss agent planning.
 * [Feb 2026] **"MagicAgent: Towards Generalized Agent Planning"** [[paper](https://arxiv.org/abs/2602.19000)]
 * [Apr 2026] **"From Plan to Action: How Well Do Agents Follow the Plan?"** [[paper](https://arxiv.org/abs/2604.12147)]
 * 📖 [May 2026] **"Planning in the LLM Era: Building for Reliability and Efficiency"** [[paper](https://arxiv.org/abs/2605.21902)]
+* [Jun 2026] **"Plans Don’t Persist: Why Context Management Is Load Bearing for LLM Agents"**

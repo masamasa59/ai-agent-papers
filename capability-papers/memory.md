@@ -145,3 +145,7 @@ These papers discuss an agent’s memory function and its self-evolution.
 * ⚖️ [May 2026] **"MEMGYM: a Long-Horizon Memory Environment for LLM Agents"** [[paper](https://arxiv.org/abs/2605.20833)]
 * [May 2026] **"Evaluating Memory Condensation Strategies for Coding Agents in Data-Driven Scientific Discovery"**
 * [May 2026] **"Rethinking Memory as Continuously Evolving Connectivity"** [[paper](https://arxiv.org/abs/2605.28773)]
+* [Jun 2026] **"Arbor: Tree Search as a Cognition Layer for Autonomous Agents"** [[paper](https://arxiv.org/abs/2606.12563)]
+* ⚖️ [Jun 2026] **"Managing Procedural Memory in LLM Agents: Control, Adaptation, and Evaluation"** [[paper](https://arxiv.org/abs/2606.23127)]
+* [Jun 2026] **"Are We Ready For An Agent-Native Memory System?"** [[paper](https://arxiv.org/abs/2606.24775)]
+* ⚖️ [Jun 2026] **"DynamicMem: A Long-Horizon Memory Benchmark in Real-World Settings"**
