@@ -7,8 +7,20 @@
 - **ボトルネックはアルゴリズムより"システム基質"**：Next-Gen Agentic RL は、実運用の経験を**統治可能・信用割当可能な学習素材**へ変換する ATDP＋制御プレーンを提唱し、「最大の障壁は強い LLM や RL ではなく system substrate」と主張。
 - **自己改善ループは"信頼できない"**：Rehearse は最適化が進むほど judge が**自信過剰かつ不正確**になる confidence cliff を示し（selective acc 82.8→56.9 を 83.5 に回復）、RSIBench-Data は「**改善を発見しても 78% はピーク未満で終える**」discovery-reliability gap を定量化。
 
-## なぜ注目か
-Self-Evolution は「重みを更新せずに改善するループ」だが、7月は**何を永続資産にするか**の答えが **Σ・知識の外在化**へ収斂し、同時に**そのループ自体の信頼性・インフラ**が主要課題として立ち上がった。[evaluation 号](evaluation_trends.md)・[harness 号](harness_trends.md) と合わせ、「改善ループを厳密に測り・統治する」流れの中核をなす。
+## クロス論文で見るトレンド（継続 / 明確化 / 単発の注目結果）
+単一研究に寄りかからず、**複数論文で裏付けられたファクト**を軸に、単発でもインパクトの大きい結果は別建てで示す。
+
+**継続する傾向（6月からの延長・より明確に）**
+- **改善対象の外在化（θ でなく Σ・知識）**：Survey（θ更新 vs Σ更新の枠組み）・Knowledge-Centric（知識ベースを永続資産に）・Evidence-in-the-Loop（backbone でなく証拠層を更新）の **3本**が、揃って「エージェント本体でなく外部資産を改善する」方向を示す（6月の外在化トレンドの延長）。
+
+**今月明確になった点（複数論文で裏付け）**
+- **自己改善ループは"信頼できない"**：Rehearse（最適化が進むほど judge が自信過剰かつ不正確＝confidence cliff、82.8→56.9）と RSIBench-Data（ピーク超過後は 78.26% が低スコアで終了）が、**別設定で独立に**「改善を発見できても維持できない（discovery-reliability gap）」を示した。
+- **外在化は"性能もコストも"勝ちうる**：Knowledge-Centric（ARC-AGI-1 86.7% を約1/3コスト）と Evidence-in-the-Loop（本番 89.52% vs legacy 79.00%）が、外部資産更新の実利を示す。
+
+**単発だがインパクトの大きい結果（裏付けは弱め・要追試）**
+- **外在化知識が未知タスクへ 13.3→43.3% 転移**（Knowledge-Centric、単一手法）。
+- **二層再帰（内側 research＋外側 self-improvement）で +22.9pt**（AREX、単一手法）。
+- **「ボトルネックは RL アルゴリズムでなく system substrate」**（Next-Gen Agentic RL、systems 提案で実証数値は無し）。
 
 ## 数字で見るインパクト（各論文の HTML 本文より）
 

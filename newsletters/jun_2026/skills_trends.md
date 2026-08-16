@@ -7,8 +7,20 @@
 - **転移と検証が主戦場**：OpenSkill は**答えを見ずに仮想検証器**を作り closed-world 比 **+8.9pt**・他モデルへ 5.5–14.8% 転移、SkillComposer は **3.9M の小型モデル**でスキル選択を担い SkillsBench を **+23.1pt**（SFT 比 **154× 省パラメータ**）。
 - **応用でも自己進化が結実**：EvoDS はデータサイエンスで **279 スキルを 69% 再利用**、DataMind-14B 比 **+28.9%** と、スキル×文脈圧縮の統合が効いた。
 
-## なぜ注目か
-スキルは Tool Use を包含する上位概念として、エージェントの「再利用可能な手続き」を担う。6月は**獲得・転移・検証**の各段が具体化し、[self-evolution](../../capabilities/adaptation/self-evolution.md)（改善ループ）と [tool-use](../../capabilities/action/tool-use.md) の橋渡しとして機能し始めた。特に **step-level の失敗帰属**でスキルを直す SkillAdaptor は [failure-attribution](../../capabilities/adaptation/failure-attribution.md) の潮流とも接続する。
+## クロス論文で見るトレンド（継続 / 明確化 / 単発の注目結果）
+単一研究に寄りかからず、**複数論文で裏付けられたファクト**を軸に、単発でもインパクトの大きい結果は別建てで示す。
+
+**継続する傾向（過去号からの延長）**
+- **スキル＝自己進化する再利用資産**：SkillAdaptor・OpenClaw-Skill・EvoDS が、獲得→改訂→再利用のループを回す（2月 skills 号からの延長）。
+
+**今月明確になった点（複数論文で裏付け）**
+- **獲得元の多様化**：軌跡（SkillAdaptor）・オープンワールド文書/Web（OpenSkill）・実験ノート（Notes2Skills）・複数モデルの集合知（OpenClaw-Skill）の **4本**が、それぞれ別の源泉からスキルを抽出。
+- **クロスモデル転移が中心目標**：OpenSkill（弱モデルへ 5.5–14.8%）・OpenClaw-Skill（transferability を明示的に採点）・SkillComposer（実タスク劣化わずか 11pp）の **3本**が、"モデルを跨いで使えるスキル"を志向。
+- **"答えなし検証"の台頭**：OpenSkill（正解未参照の仮想検証器が 60.7% 一致）・Notes2Skills（確信度を保存）・SkillAdaptor（再実行による qualification）が、**別角度から**「正解を見ずにスキル品質を担保する」課題に取り組む。
+
+**単発だがインパクトの大きい結果（裏付けは弱め・要追試）**
+- **3.9M の小型モデルがスキル選択を担い、SFT 比 154× 省パラメータで SkillsBench +23.1pt**（SkillComposer、単一手法）。
+- **279 スキルを 69% 再利用し、out-of-token 失敗を全廃**（EvoDS、データサイエンスの単一システム）。
 
 ## 数字で見るインパクト（各論文の HTML 本文より）
 

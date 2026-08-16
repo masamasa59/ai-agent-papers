@@ -7,8 +7,21 @@
 - **評価インフラの交絡が可視化**：AgentCompass は Benchmark/Harness/Environment を分離し、**同一モデルでも harness 次第で ±8.7〜15.0pt** 変動、reward hacking を **39.12%** 検出。
 - **採点と認識論が刷新**：GAMUT は flat checklist を超える**二層メタルーブリック**、Position 論文は**スコアを"賞味期限付きの主張"**と捉え、平均 vs weakest-link で **top-5 が完全に不一致（Jaccard=0）** と警告。
 
-## なぜ注目か
-6月の [SEAGym](../jun_2026/self_evolution_trends.md)、7月の [harness「Rethinking Evaluation」](harness_trends.md) と地続きで、**「評価の厳密性」そのものが研究対象**になった。単一スコアの信頼が崩れ、評価は「測って終わり」から「**交絡を制御し・現実を模し・構造化採点し・来歴を残し・スコアの妥当範囲を宣言する**」営みへと再定義されつつある。
+## クロス論文で見るトレンド（継続 / 明確化 / 単発の注目結果）
+単一研究に寄りかからず、**複数論文で裏付けられたファクト**を軸に、単発でもインパクトの大きい結果は別建てで示す。
+
+**継続する傾向**
+- **ベンチマークの現実化**：SciExplore（科学研究）・HANDBOOK.md（長文ポリシー遵守）が、単一ターンの合成問題から**実務に近い長期タスク**へ評価を寄せる（従来トレンドの延長）。
+
+**今月明確になった点（複数論文で裏付け）**
+- **静的評価は能力を過大評価する**：Evolving Intent（意図変化で GPT-5.5 が 99→80.5%）・HANDBOOK.md（最良でも 36.2%）・SciExplore（最良 49.39%）の **3本**が、**別ドメインで独立に**「強い静的性能は動的/長期設定に転移しない」を示す（6月 SEAGym・7月 Rethinking Evaluation とも連続）。
+- **単一スコア・平均は誤導しうる**：Perishable（平均 vs weakest-link で順位が最大21位ずれ）・AgentCompass（同一モデルでも harness で ±8.7〜15pt）・GAMUT（flat checklist では事実的完全性を捉えられない）が、**別角度から**「1つの数値を信じるな」を示す。
+- **LLM-judge の信頼性**：GAMUT（judge が寛容・見落とし）・AgentCompass（reward hacking を 39% 検出）・Perishable（LLM-judge の証拠強度上限 F0=0.70）が、判定器の較正を共通の問題として挙げる。
+
+**単発だがインパクトの大きい結果（裏付けは弱め・要追試）**
+- **平均採点と weakest-link 採点で top-5 が完全に入れ替わる（Jaccard=0）**（Perishable、position 論文の分析）。
+- **実行ログを来歴グラフ化して比較・再利用・スキル抽出を可能に**（AgentTrails、予備評価 234 edges の 1 提案）。
+- **顧客デジタルツインで規制産業のチャットボット検証をスケール**（Customer Digital Twin、1応用）。
 
 ## 数字で見るインパクト（各論文の HTML 本文より）
 
