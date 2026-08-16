@@ -15,44 +15,46 @@ An AI Agent is an autonomous system powered by large language models that can pe
 📖: Survey papers  
 ⚖️: Benchmark papers
 
+> 🔄 Badges show papers added in the last 2 months (Jul–Aug 2026): `(+N)` recent additions, 🔥 = high activity. Regenerate: `python scripts/update_readme_badges.py`.
+>
 > 📂 See [**TAXONOMY.md**](TAXONOMY.md) for the full directory map and the rules for where each paper is filed.
 
 - **Agent Capabilities**
   - *Core Cognition*
-    - [Reasoning](capabilities/core-cognition/reasoning.md)
-    - [Planning](capabilities/core-cognition/planning.md)
-    - [Ideation](capabilities/core-cognition/ideation.md)
+    - [Reasoning](capabilities/core-cognition/reasoning.md) (+2)
+    - [Planning](capabilities/core-cognition/planning.md) (+1)
+    - [Ideation](capabilities/core-cognition/ideation.md) (+2)
     - [Perception](capabilities/core-cognition/perception.md)
   - *Knowledge & Context*
-    - [Memory](capabilities/knowledge-context/memory.md)
-    - [Context Engineering](capabilities/knowledge-context/context-engineering.md)
-    - [Knowledge Graphs & Ontology](capabilities/knowledge-context/knowledge-graph.md)
+    - [Memory](capabilities/knowledge-context/memory.md) (+6)
+    - [Context Engineering](capabilities/knowledge-context/context-engineering.md) (+4)
+    - [Knowledge Graphs & Ontology](capabilities/knowledge-context/knowledge-graph.md) (+2)
   - *Action*
-    - [Tool Use](capabilities/action/tool-use.md)
-    - [Skills](capabilities/action/skills.md)
+    - [Tool Use](capabilities/action/tool-use.md) (+2)
+    - [Skills](capabilities/action/skills.md) (+11) 🔥
   - *Adaptation & Self-Improvement*
-    - [Exploration & Discovery](capabilities/adaptation/exploration.md)
-    - [Experience & Trajectory Learning](capabilities/adaptation/experience.md)
-    - [Failure Attribution & Error Localization](capabilities/adaptation/failure-attribution.md)
-    - [Self-Correction](capabilities/adaptation/self-correction.md)
+    - [Exploration & Discovery](capabilities/adaptation/exploration.md) (+2)
+    - [Experience & Trajectory Learning](capabilities/adaptation/experience.md) (+3)
+    - [Failure Attribution & Error Localization](capabilities/adaptation/failure-attribution.md) (+8)
+    - [Self-Correction](capabilities/adaptation/self-correction.md) (+2)
     - [Verification](capabilities/adaptation/verification.md)
-    - [Self-Evolution](capabilities/adaptation/self-evolution.md/#self-evolution-self-improvement)
-    - [Agent Tuning](capabilities/adaptation/learning.md)
+    - [Self-Evolution](capabilities/adaptation/self-evolution.md/#self-evolution-self-improvement) (+13) 🔥
+    - [Agent Tuning](capabilities/adaptation/learning.md) (+5)
   - *Trust & Measurement*
-    - [Safety](capabilities/trust/safety.md)
-    - [Agent Evaluation](capabilities/trust/evaluation.md)
+    - [Safety](capabilities/trust/safety.md) (+7)
+    - [Agent Evaluation](capabilities/trust/evaluation.md) (+14) 🔥
   - *Other*
-    - [Environment (World Models & Simulations)](capabilities/other/environment.md)
-    - [Profile](capabilities/other/profile.md)
-    - [Prediction](capabilities/other/prediction.md)
+    - [Environment (World Models & Simulations)](capabilities/other/environment.md) (+1)
+    - [Profile](capabilities/other/profile.md) (+1)
+    - [Prediction](capabilities/other/prediction.md) (+1)
 - **AI Agents Architecture**
-  - [Agent Design & Frameworks](architecture/agent-design.md)
-  - [Multi-Agent Systems](architecture/multi-agent.md)
-  - [Harness](architecture/harness.md)
+  - [Agent Design & Frameworks](architecture/agent-design.md) (+1)
+  - [Multi-Agent Systems](architecture/multi-agent.md) (+4)
+  - [Harness](architecture/harness.md) (+21) 🔥
 - **Operations & Interaction**
   - [AgentOps & Observability](operations/agentops.md)
   - [Human-AI Interaction & UX](operations/human-ai.md)
-  - [Governance & Governed Self-Improvement](operations/governance.md)
+  - [Governance & Governed Self-Improvement](operations/governance.md) (+6)
 - **AI Agents Applications**
   - *By Embodiment / Interface*
     - [Embodied Agents](applications/interface/embodied-agents.md)
@@ -60,15 +62,15 @@ An AI Agent is an autonomous system powered by large language models that can pe
     - [Web Agents](applications/interface/web-agents.md)
     - [Mobile Agents](applications/interface/mobile-agents.md)
   - *By Domain / Vertical*
-    - [Financial Agents](applications/domain/finance-agents.md)
-    - [Enterprise Agents](applications/domain/enterprise-agents.md)
-    - [AI Scientist (Research Automation)](applications/domain/ai-scientist.md)
-    - [Vertical / Domain Agents](applications/domain/vertical-agents.md)
+    - [Financial Agents](applications/domain/finance-agents.md) (+4)
+    - [Enterprise Agents](applications/domain/enterprise-agents.md) (+8)
+    - [AI Scientist (Research Automation)](applications/domain/ai-scientist.md) (+7)
+    - [Vertical / Domain Agents](applications/domain/vertical-agents.md) (+5)
   - *By System Pattern / Task Form*
-    - [Coding Agents](applications/system/coding-agents.md)
-    - [Data Agents](applications/system/data-agents.md)
-    - [Deep Research Agents](applications/system/deep-research-agents.md)
-    - [World Simulation](applications/system/world-simulation.md)
+    - [Coding Agents](applications/system/coding-agents.md) (+3)
+    - [Data Agents](applications/system/data-agents.md) (+3)
+    - [Deep Research Agents](applications/system/deep-research-agents.md) (+5)
+    - [World Simulation](applications/system/world-simulation.md) (+4)
 - **GenAI Agents Presentations**
   - [Tutorial & Lecture](lectures/tutorial-lecture.md)
 
