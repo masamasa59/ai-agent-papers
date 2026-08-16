@@ -1,95 +1,96 @@
 # Self-Evolving Agents 研究トレンド（2026年7月）
 
-> 7月に活発だった能力カテゴリ（[self-evolution](../../capabilities/adaptation/self-evolution.md), 7本）。各論文の **arXiv HTML 本文**を精読し、framework 図も引用した。6月が「進化をどう評価・防御するか」だったのに続き、7月は **(a) 何を永続させるか＝外在化（重み θ ではなく Σ・知識）**、**(b) 自己進化を支えるシステム基質**、そして **(c) 改善ループの"信頼性"（confidence cliff / discovery-reliability gap）** が焦点になった。
+> 対象：[self-evolution](../../capabilities/adaptation/self-evolution.md) の 2026年7月論文（7本）。各論文の arXiv HTML 本文を精読してまとめた。
 
-## 3行サマリ
-- **「エージェントを複雑化」から「知識を外在化」へ**：Knowledge-Centric は**エージェントを使い捨てにし、共有知識ベースを永続の改善対象**にして、ARC-AGI-1 で **86.7%（HyperAgents 70%）をコスト約1/3**で達成、未知タスクへ 13.3→43.3% 転移。サーベイも自己改善を **θ（重み）更新 vs Σ（足場）更新**へ整理。
-- **ボトルネックはアルゴリズムより"システム基質"**：Next-Gen Agentic RL は、実運用の経験を**統治可能・信用割当可能な学習素材**へ変換する ATDP＋制御プレーンを提唱し、「最大の障壁は強い LLM や RL ではなく system substrate」と主張。
-- **自己改善ループは"信頼できない"**：Rehearse は最適化が進むほど judge が**自信過剰かつ不正確**になる confidence cliff を示し（selective acc 82.8→56.9 を 83.5 に回復）、RSIBench-Data は「**改善を発見しても 78% はピーク未満で終える**」discovery-reliability gap を定量化。
+## まず、この分野を一言で
 
-## クロス論文で見るトレンド（継続 / 明確化 / 単発の注目結果）
-単一研究に寄りかからず、**複数論文で裏付けられたファクト**を軸に、単発でもインパクトの大きい結果は別建てで示す。
+**自己進化（self-evolution）**とは、エージェントが経験から学んで**次の自分を賢くする**ことだ。ここで大事な分かれ道がある——賢くする先が、AI モデルの**中身（脳＝重み）**なのか、それとも脳の周りにある**知識・手順・記憶**なのか。脳を訓練し直すのは高価だが、周りを書き換えるのは安く、他のモデルにも移せる。
 
-**継続する傾向（6月からの延長・より明確に）**
-- **改善対象の外在化（θ でなく Σ・知識）**：Survey（θ更新 vs Σ更新の枠組み）・Knowledge-Centric（知識ベースを永続資産に）・Evidence-in-the-Loop（backbone でなく証拠層を更新）の **3本**が、揃って「エージェント本体でなく外部資産を改善する」方向を示す（6月の外在化トレンドの延長）。
+6月号では「周りを育てる」やり方が主流になった、と書いた。7月はそれが**さらにはっきり**した。そのうえで、今月は新しい問いが2つ前に出てきた。ひとつは「**では、何を永続的な資産として残すのか**」——答えは「エージェント本体より、共有できる**知識**を育てよ」に傾いた。もうひとつが、もっと厄介な発見だ。
 
-**今月明確になった点（複数論文で裏付け）**
-- **自己改善ループは"信頼できない"**：Rehearse（最適化が進むほど judge が自信過剰かつ不正確＝confidence cliff、82.8→56.9）と RSIBench-Data（ピーク超過後は 78.26% が低スコアで終了）が、**別設定で独立に**「改善を発見できても維持できない（discovery-reliability gap）」を示した。
-- **外在化は"性能もコストも"勝ちうる**：Knowledge-Centric（ARC-AGI-1 86.7% を約1/3コスト）と Evidence-in-the-Loop（本番 89.52% vs legacy 79.00%）が、外部資産更新の実利を示す。
+その発見とは——**自己改善のループ自体が、実は信頼できない**、ということである。「改善を見つけること」はできても「それを取りこぼさず定着させること」が苦手で、しかも改善の良し悪しを判断する**内部の"審判"が、回を重ねるほど自信過剰になって外す**。派手な改善数字の裏で、この"当てにならなさ"が定量化された1か月だった。
 
-**単発だがインパクトの大きい結果（裏付けは弱め・要追試）**
-- **外在化知識が未知タスクへ 13.3→43.3% 転移**（Knowledge-Centric、単一手法）。
-- **二層再帰（内側 research＋外側 self-improvement）で +22.9pt**（AREX、単一手法）。
-- **「ボトルネックは RL アルゴリズムでなく system substrate」**（Next-Gen Agentic RL、systems 提案で実証数値は無し）。
+## 今月の3つの流れ
 
-## 数字で見るインパクト（各論文の HTML 本文より）
+**流れ①：残すのは"エージェント"でなく"知識"（複数論文で共通）**
+Knowledge-Centric は象徴的だ——**エージェントは使い捨てにし、共有の知識ベースの方を育てる**。サーベイも自己改善を「脳（重み）を変える／周りの足場を変える」の2系統に整理し、Evidence-in-the-Loop は本番で「大きなモデルに替える」のではなく「**どこで壊れたかを直す**」。6月の"外在化"が、より明確な設計思想になった。
 
-| 論文 | 数字 | 初見の読み方 |
+**流れ②：自己改善ループは信頼できない（今月の新発見）**
+2本が別々の角度から、同じ弱点を突いた。Rehearse は「**最適化が進むほど、良し悪しを見分ける審判が自信過剰かつ不正確になる**」現象（著者いわく"確信の崖"）を示し、RSIBench-Data は「**改善を見つけても、その後の探索で 78% は最高点より低いところで終える**」ことを測った。**発見はできるが、維持できない**——これが今月の核心だ。
+
+**流れ③：土台と再帰（新しい軸）**
+自己進化を回すには、経験を"学習に使える素材"へ変える**システムの土台**が要る、と Next-Gen Agentic RL は説く。「最大の壁は、強い脳や賢い学習法ではなく、この土台の欠如だ」。また AREX は「**内側で調べ、外側で直す**」二重の再帰で、小さめのモデルでも深掘り調査を高水準にこなした。
+
+> ※数字は各論文の HTML 本文より。単発（1論文のみ）の目を引く結果は末尾に「要追試」として分けた。
+
+## 主な結果（数字は"何と比べてどうか"で読む）
+
+| 論文 | 何をした / どうなった | どう受け取るか |
 |---|---|---|
-| **Knowledge-Centric** | 86.7%（vs 70%）を**約1/3コスト**／転移 13.3→**43.3%** | エージェントでなく**知識を育てる**方が、**高性能かつ安く**、未知タスクへも大きく波及 |
-| **Evidence-in-the-Loop** | 本番 **89.52%**（旧 RAG 79.00%） | 大型モデルに頼らず**"どこで壊れたか"を直す**だけで本番精度が約10pt改善 |
-| **AREX** | 合計 **+22.9pt**（BrowseComp 82.5% 等） | 内側=調べる／外側=直す の二層再帰で、**小さめモデルでも深掘り調査が高水準** |
-| **Rehearse** | judge 精度 82.8→56.9 を **83.5 に回復**／**37–46% 高速** | 自己改善は進むほど**判断が鈍る**が、過去の類似例だけ見れば回復＝効率も改善 |
-| **RSIBench-Data** | 改善発見は 58%、だが**78% はピーク未満で終了** | エージェントは**改善を見つけても取りこぼす**＝"発見はできるが維持できない" |
-| **Next-Gen Agentic RL** | 提言：ボトルネックは**アルゴリズムでなく基盤** | 「強い LLM/RL より、経験を学習素材に変える**土台の欠如**が最大の壁」 |
-| **Survey** 📖 | 自己改善を **θ更新 vs Σ更新**に整理 | 「重みを変える」か「足場を変える」かで全研究を俯瞰する地図 |
+| **Knowledge-Centric** | エージェントでなく知識を育て、**86.7%**（相手70%）を**約1/3の費用**で | **知識を育てる方が、高性能かつ安い**。未知タスクへも大きく波及（13→43%） |
+| **Evidence-in-the-Loop** | 大型に替えず"壊れた箇所"を直し、本番 **89.5%**（旧方式79%） | 脳を大きくしなくても、**弱点を直すだけで約10pt改善** |
+| **AREX** | 内側=調べる／外側=直す の二重再帰で、合計 **+22.9pt** | **小さめのモデルでも**、深掘り調査を高水準にこなす |
+| **Rehearse** | 審判の正確さ 82.8 → 56.9 を **83.5 に回復**、到達も **37〜46% 速く** | 自己改善は進むほど**判断が鈍る**が、過去の似た例だけ見れば回復する |
+| **RSIBench-Data** | 改善の発見は58%、だが **78% は最高点より低いところで終える** | **改善を見つけても取りこぼす**＝「発見できるが維持できない」 |
+| **Next-Gen Agentic RL** | 提言：壁は**アルゴリズムでなく土台**（経験→学習素材の変換基盤） | 「強い脳・賢い学習より、**経験を活かす土台の欠如**が最大の壁」 |
+| **Survey** 📖 | 自己改善を**脳を変える / 足場を変える**の2系統に整理 | この分野の全体像をつかむ地図 |
 
 ---
 
-## 論文紹介（サブテーマ別）
+## 論文紹介（テーマ別）
 
-### ① 何を永続させるか＝外在化（θ ではなく Σ・知識）
+### ① 残すのは"知識"——外在化の到達点
+
 [Self-Improvements in Modern Agentic Systems: A Survey](https://arxiv.org/abs/2607.13104) 📖
-自己改善を **𝒜ₜ=(θₜ, Σₜ)** と定式化し、**Foundation Model Improvement（θ 更新：内因デモ・評価フィードバック・探索経験）** と **Scaffolding Improvement（Σ 更新：プロンプト・メモリ・ツール・制御論理を固定重みのまま refine）** の二経路に整理。**速い in-context 適応と遅い parametric 適応**の統合、mechanism/domain レベルの評価、安全ゲートの必要性を横断的に俯瞰する、今月の見取り図。
+まず全体像から。自己改善は大きく2系統に分けられる——**脳（重み）を更新する**か、**周りの足場（指示文・記憶・道具・制御）を更新する**か。前者は強力だが高価、後者は安く柔軟。今月の論文はほぼ後者に寄っている。「速い（その場の）適応」と「遅い（脳の）適応」をどう組み合わせるか、という視点で研究を見渡せる地図だ。
 
-![Self-improvement paradigms (θ vs Σ)](../assets/2607.13104-selfimprove-survey.png)
-> 図（Survey）：現代エージェントの自己改善パラダイム。Foundation Model Improvement（θ の更新）と Scaffolding Improvement（Σ の更新）を、信号の種類ごとに対比する。（[論文](https://arxiv.org/abs/2607.13104)）
+![脳を変える vs 足場を変える](../assets/2607.13104-selfimprove-survey.png)
+> 図（Survey）：自己改善の2系統。脳（重み）の更新と、周りの足場の更新を、信号の種類ごとに対比する。（[論文](https://arxiv.org/abs/2607.13104)）
 
 [Knowledge-Centric Self-Improvement](https://arxiv.org/abs/2607.19592)
-従来の agent 中心を反転し、**エージェントは汎用・使い捨て、共有された curated 知識ベースを永続の改善対象**にする。task-level forum（証拠付きの主張を投稿）→ cross-task forum（再現する主張を検証）→ distillation（生き残った主張を凝縮）。ARC-AGI-1 **86.7%**（HyperAgents 70%）を $76（vs $234）、SWE-bench Pro 64.0%（DGM 54%）を $208（vs $713）、未知タスク転移 13.3→**43.3%**。「進歩は agent の複雑さより**アクセス可能な情報の質**に依存しうる」。
+発想の転換が鮮やかだ——**エージェント本体は使い捨てにして、共有の"知識ベース"の方を永続的に育てる**。各エージェントは「これが効いた／これは失敗した」を証拠付きで投稿し、複数のタスクで再現する主張だけが生き残り、凝縮されて次のエージェントに渡る。結果、**86.7%**（相手70%）を**約1/3の費用**で、しかも未知タスクへ **13.3% → 43.3%** と大きく波及。「進歩は、エージェントの複雑さより**使える情報の質**で決まるのかもしれない」。
 
 [Evidence-in-the-Loop: Trace-Driven Optimization for Customer-Service LLM Agents](https://arxiv.org/abs/2607.18039)
-本番の顧客対応で、hybrid RAG＋規則由来の証拠に基づき意思決定し、**replay した失敗を「知識ベース／reranker／決定プロンプト／ポリシー」への的を絞った更新**に変換。診断で hybrid recall 96.76% Hit@50、reranker を 56.76→**75.68%**、決定段 DPO で 92.5%、本番で **89.52%（legacy RAG 79.00%）**。「大きな backbone に頼るのではなく、**どこで壊れたか（retrieval/rerank/選択）を診断して層別に直す**」。
+本番の顧客対応で、失敗の記録を再生し、「**どこで壊れたか**（検索・並べ替え・最終選択のどこか）」を突き止めて、そこだけ直す。大きなモデルに替えるのではなく、弱点を層ごとに直すやり方で、本番精度が **79% → 89.5%**。「backbone を大きくするより、壊れた箇所を診断して直せ」というメッセージ。
 
-### ② システム基質：自己進化を支えるインフラ
-[Next-Generation Agentic Reinforcement Learning Systems Enable Self-Evolving Agents](https://arxiv.org/abs/2607.01120)
-3本柱：**ATDP**（step-level の RL 級イベントスキーマ：観測・行動・結果・報酬・統治メタデータ）、**Agentic Data Proxy**（LLM・ツール・メモリ・検索の異種本番負荷を横取りし replay 可能な学習素材へ）、**Evolution Control Plane**（軌跡統計と運用制約から、memory 更新／skill パッチ／harness 編集／tool-schema 変更／RL による重み更新の**介入面を自動選択**）。「最大の障壁は強い LLM や RL アルゴリズムではなく、**経験を統治・信用割当可能な学習素材へ変える system substrate の欠如**」。
+### ② 自己改善ループの"当てにならなさ"
 
-![AReaL 2.0 architecture](../assets/2607.01120-areal-arch.png)
-> 図（Next-Gen Agentic RL / AReaL 2.0）：gateway・router・data proxy・agent-compute worker が、デプロイされたエージェントサービスとオンライン RL 学習を接続するオンライン RL ワークフロー。（[論文](https://arxiv.org/abs/2607.01120)）
-
-### ③ 信頼性：confidence cliff と discovery-reliability gap
 [Rehearse: Stepping Back from the Confidence Cliff in Self-Improving Autoresearch](https://arxiv.org/abs/2607.27687)
-自己改善オートリサーチでは、最適化が進むほど judge が**自信過剰かつ不正確**になる **confidence cliff** が起きる。**Propose–Predict–Execute** ループで、実行前に候補を strict-consensus のペア比較でランク付けし、**類似の過去試行だけ**を検索する focused outcome store を導入。メモリなしでは selective acc が 82.8→56.9 に落ちるが focused 検索で **83.5 に回復**、nanochat 事前学習で 10.7% 改善（vanilla 7.1%）、4,000 実行で vanilla 性能に **37–46% 速く**到達。
+今月の目玉のひとつ。自分で改善を繰り返すと、**良し悪しを見分ける審判が、回を重ねるほど自信過剰になり、かえって外す**（"確信の崖"）。Rehearse は、実行前に候補を比べ、**過去の"似た試み"だけを引いて**判断する。すると、放っておけば 82.8 → 56.9 と落ちる審判の正確さが **83.5 に回復**し、同じ成果に **37〜46% 速く**到達した。全履歴でなく"似た例だけ"を見るのが鍵だ。
 
-![Rehearse overview](../assets/2607.27687-rehearse-overview.png)
-> 図（Rehearse）：Propose–Predict–Execute パイプラインと、類似過去結果だけを引く focused outcome store の全体像。（[論文](https://arxiv.org/abs/2607.27687)）
+![Rehearse](../assets/2607.27687-rehearse-overview.png)
+> 図（Rehearse）：提案→予測（過去の似た例で良し悪しを判断）→実行、というループ。（[論文](https://arxiv.org/abs/2607.27687)）
 
 [RSIBench-Data: Benchmarking Data-Centric Research for Recursive Self-Improvement](https://arxiv.org/abs/2607.25886) ⚖️
-学習・評価インフラを固定し、エージェントが**データ中心のポストトレーニング戦略**を反復開発する能力を切り出すベンチ（提案→共有 LoRA SFT→制御フィードバック→checkpoint 選択）。初回超えは **58.33%（14/24）** に達するが、**ピークを超えて探索を続けた場合の 78.26% はより低いスコアで終える**。改善を「発見」できても「維持」できない **discovery-reliability gap** を定量化し、診断枠組みと checkpoint 保全の必要を示す。
+「エージェントは、自分の学習データを工夫して自分を良くできるか」を切り出して測った。**最初の一手で改善できたのは58%**——ここまでは良い。ところが、**最高点を過ぎても探索を続けると、78% はより低い点で終える**。つまり**改善を見つけても取りこぼす**。「発見はできるが、維持できない」というギャップを定量化し、診断や最良点の保存が要ると示した（②の Rehearse と響き合う）。
 
-### ④ 再帰的自己改善（RSI）
+### ③ 土台と再帰
+
+[Next-Generation Agentic Reinforcement Learning Systems](https://arxiv.org/abs/2607.01120)
+自己進化を回すには、本番の雑多な経験を「**あとで学習に使える、統治された素材**」に変える仕組みが要る。この論文は、そのための共通規格（イベントの記録形式）と、どこを更新するか（記憶・スキル・段取り・脳）を自動で選ぶ制御層を提案する。核心の主張は挑発的だ——「最大の壁は、より強い LLM や賢い RL ではなく、**経験を学習素材に変える"土台"の欠如**だ」（システム提案で、性能の実測値は示されない）。
+
+![システムの土台](../assets/2607.01120-areal-arch.png)
+> 図（Next-Gen Agentic RL）：本番のエージェントと、オンライン学習をつなぐ土台の構成。（[論文](https://arxiv.org/abs/2607.01120)）
+
 [AREX: Towards a Recursively Self-Improving Agent for Deep Research](https://arxiv.org/abs/2607.21461)
-**内側の研究ループ**（証拠収集・回答構築）と**外側の自己改善ループ**（制約検証・的を絞った追調査）を組む二層再帰。長期軌跡を管理する autonomous context-update（ACU）と、決定的に重要な中間行動を強調する step-aware RL。AREX-Base（活性10B）で BrowseComp 82.5%・GAIA 85.4%・DeepSearchQA 89.9%、**ACU +11.8pt・外側ループ +11.1pt・合計 +22.9pt**。discovery-verification の非対称性を再帰的な制約監査で活かす。
+「調べる」と「直す」を二重の再帰にする。**内側のループで証拠を集めて答えを作り、外側のループで制約を検証して足りない調査を指示する**。長い作業のための文脈管理と、要所の行動を重視する学習を組み合わせ、合計 **+22.9pt**。「見つけるより検証する方が易しい」という非対称性を、再帰でうまく使った。小さめのモデルでも深掘り調査を高水準にこなす。
 
-![AREX recursive framework](../assets/2607.21461-arex-recursive.png)
-> 図（AREX）：内側の research ループが研究状態を保持し暫定回答を確信度付きで外在化、外側の self-improvement ループが確信度と軌跡評価に基づき accept/refine/restart する再帰枠組み。（[論文](https://arxiv.org/abs/2607.21461)）
-
----
-
-## 論点・未解決課題
-1. **外在化の設計**：知識ベース・Σ を永続資産にする流れ（Knowledge-Centric／Survey）。何を・どの粒度で・どう distill するかが鍵。
-2. **信頼性（最大の新論点）**：自己改善の**内部 judge が劣化**し（confidence cliff）、改善を**維持できない**（discovery-reliability gap）。→ [verification](../../capabilities/adaptation/verification.md)・[failure-attribution](../../capabilities/adaptation/failure-attribution.md) と直結。
-3. **システム基質**：ATDP・制御プレーン等、**経験→統治可能な学習素材**への変換基盤（Next-Gen Agentic RL）。
-4. **介入面の選択**：memory / skill / harness / tool-schema / weights のどこを・いつ更新するかの**階層スケジューリング**。
-5. **層別診断で直す**：本番は backbone 拡大より「どこで壊れたか」を診断して層別更新（Evidence-in-the-Loop）。
-
-## 次に来るもの（Watch next）
-- **信頼できる自己改善**：judge 較正・checkpoint 保全・focused retrieval（Rehearse 型）。
-- **外在化知識の標準化**（forum→distill）とクロス LLM 転移。
-- **自己進化のシステム基質**（ATDP／Evolution Control Plane）とガバナンス（[governance](../../operations/governance.md)）。
-- **RSI の厳密評価**（RSIBench-Data 型）：発見だけでなく"維持"を測る。
+![AREX](../assets/2607.21461-arex-recursive.png)
+> 図（AREX）：内側=調べる、外側=直す（確信度と経過で受理/修正/やり直しを判断）の二重再帰。（[論文](https://arxiv.org/abs/2607.21461)）
 
 ---
 
-*本ニュースレターは各論文の **arXiv HTML 本文**を読み取り、framework 図を引用（画像は [`newsletters/assets/`](../assets/) に保存）。[self-evolution.md](../../capabilities/adaptation/self-evolution.md) の2026年7月論文を対象に作成。関連は [評価 号](evaluation_trends.md)・[harness 号](harness_trends.md)・[self-evolution 号（6月）](../jun_2026/self_evolution_trends.md)。*
+## この号のまとめ（何が確かで、何がまだ怪しいか）
+
+- **確かなこと**：残す対象は「エージェント本体」より「**共有できる知識・足場**」に固まった（①の複数論文）。弱点を層ごとに直すのは、脳を大きくするより安く効く（Evidence-in-the-Loop）。
+- **今月の新発見**：自己改善ループは**発見はできるが維持できず、内部の審判も回を重ねると鈍る**（Rehearse／RSIBench-Data が別々に指摘）。改善数字は"取りこぼし"込みで読む。
+- **単発だが面白い（要追試）**：知識を育てると未知タスクへ大きく波及（Knowledge-Centric、1手法）／二重再帰で+22.9pt（AREX、1手法）／「壁は土台の欠如」（Next-Gen RL、実測なしの提言）。
+
+## 次に読みたくなる問い
+- **信頼できる自己改善**——審判の較正、最良点の保存、"似た例だけ"を引く工夫（→ [verification](../../capabilities/adaptation/verification.md)）。
+- 育てた**知識をどう標準化し、他モデルへ渡すか**。
+- 自己進化を支える**土台とガバナンス**（→ [governance](../../operations/governance.md)）。
+
+---
+
+*本ニュースレターは各論文の arXiv HTML 本文を精読して作成。図は [`newsletters/assets/`](../assets/) に保存。関連は [evaluation（7月）](evaluation_trends.md)・[harness（7月）](harness_trends.md)・[self-evolution（6月）](../jun_2026/self_evolution_trends.md)。*
