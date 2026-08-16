@@ -25,16 +25,16 @@
 
 ## 数字で見るインパクト（各論文の HTML 本文より）
 
-| 論文 | 主な結果 |
-|---|---|
-| **AgentCompass** | 同一モデルでも harness で **±8.7〜15.0pt** 変動／reward hacking **39.12%** 検出 |
-| **LLMs Get Lost（Evolving Intent）** | GPT-5.5 GSM8K 99→**80.5%**（6遷移後）／SWE-Bench で **0%** も |
-| **HANDBOOK.md** | 最良 Claude Fable 5 でも strict **36.2%**／多くは <25%（handbook 20–124頁） |
-| **SciExplore** | 最良（OpenAI Deep Research）**49.39%**／T4 構造化統合 recall **<31%** |
-| **GAMUT** | 1,813 マルチモーダル問／最良 Gemini 3.1 Pro **58.7%** |
-| **Perishable Scores** | 平均 vs weakest-link で **top-5 が完全不一致（Jaccard=0）**／最大21位変動 |
-| **Customer Digital Twin** | 意味類似 **0.852**／hallucination **3.2%** |
-| **AgentTrails** | 手注釈 **234 gold edges**／来歴グラフで複数実行を整列 |
+| 論文 | 数字 | 初見の読み方 |
+|---|---|---|
+| **AgentCompass** | 同一モデルでも harness で **±8.7〜15pt** | **足場を変えるだけで順位が入れ替わる**＝"モデルの実力"を素で測れていない |
+| **Evolving Intent** | GPT-5.5 が 99→**80.5%**（意図が変化すると） | 静的には満点近くでも、**会話で要望が変わると大崩れ**。現実の協働では別物 |
+| **HANDBOOK.md** | 最良でも **36.2%**（多くは<25%） | 長い社内規程に**まともに従えるのは1/3以下**。企業導入には危険水準 |
+| **SciExplore** | 最良でも **49.39%** | 深掘り調査エージェントでも**科学的な統合は半分以下**しかできない |
+| **GAMUT** | 最良 Gemini 3.1 Pro **58.7%** | 事実の"漏れ"を測ると最先端でも**6割弱**。flat checklist では捉えきれない |
+| **Perishable Scores** | 平均 vs 最弱リンクで **top-5 が総入れ替え** | **集約方法を変えるだけで"1位"が変わる**＝単一スコアの信頼性への警告 |
+| **Customer Digital Twin** | 意味類似 0.852／作り話 **3.2%** | 実顧客の代役として**8割方それらしく**振る舞い、作り話は3%に抑制 |
+| **AgentTrails** | 来歴グラフで複数実行を整列 | バラバラの実行ログを**比較・再利用できる形**に（予備段階の提案） |
 
 ---
 
