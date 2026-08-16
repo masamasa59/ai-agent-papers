@@ -1,6 +1,6 @@
 # 2025年〜2026年 LLMエージェント × CyberSecurity 論文ニュースレター
 
-> 本記事は通常の月次ニュースレターと異なり、`capability-papers/safety.md`、`capability-papers/memory.md`、`capability-papers/tool-use.md`、`application-papers/agentic-ai-system.md`、`application-papers/software-agents.md`等の複数ディレクトリを横断し、2025年1月〜2026年4月に公開されたCyberSecurity関連の研究論文約30本をピックアップして整理したものです。Safety全般ではなく、攻撃／防御／ベンチマーク／応用／ガバナンス／サーベイという**サイバーセキュリティ固有の論点**にフォーカスしています。
+> 本記事は通常の月次ニュースレターと異なり、`capabilities/trust/safety.md`、`capabilities/knowledge-context/memory.md`、`capabilities/action/tool-use.md`、`applications/domain/vertical-agents.md`、`applications/system/coding-agents.md`等の複数ディレクトリを横断し、2025年1月〜2026年4月に公開されたCyberSecurity関連の研究論文約30本をピックアップして整理したものです。Safety全般ではなく、攻撃／防御／ベンチマーク／応用／ガバナンス／サーベイという**サイバーセキュリティ固有の論点**にフォーカスしています。
 
 ## 全体トレンド
 
