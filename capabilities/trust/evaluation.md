@@ -1,5 +1,7 @@
 ## Agent Evaluation
 
+How to **measure** agents: benchmarks and methodology for planning, tool use, and end-to-end execution, plus LLM-as-judge reliability. For in-loop checking see *verification*; for failure diagnosis see *failure-attribution*.
+
 <figure style="text-align: center;">
     <img alt="" src="../assets/evaluation.png" width="500" />
     <figcaption style="text-align: center;">引用：https://arxiv.org/abs/2407.18961</figcaption>

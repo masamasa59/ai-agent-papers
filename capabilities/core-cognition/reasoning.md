@@ -1,6 +1,6 @@
 
 ## Reasoning
- These papers discuss llm reasoning.
+How agents **think**: chain-of-thought, deliberation, and agentic reasoning strategies at inference time.
 
 <figure style="text-align: center;">
     <img alt="" src="../assets/reasoning.png" width="500" />

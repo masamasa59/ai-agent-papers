@@ -1,5 +1,7 @@
 ## Self-Evolution (Self-Improvement)
 
+Agents that **improve without changing model weights** — via experience, reflection, and prompt/workflow optimization, up to (at the meta level) recursive self-improvement. The loop that consumes experience and adapts behavior.
+
 * [May 2024] **Offline Training of Language Model Agents with Functions as Learnable Weights"** [[paper](https://arxiv.org/abs/2402.11359)]
 * 📖 [May 2024] **A Survey on Self-Evolution of Large Language Models"** [[paper](https://arxiv.org/abs/2404.14387)]
 * ⚖️ [Jun 2024] **"AgentGym: Evolving Large Language Model-based Agents across Diverse Environments."** [[paper](https://arxiv.org/abs/2406.04151)]

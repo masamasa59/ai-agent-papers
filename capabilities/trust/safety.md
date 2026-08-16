@@ -1,5 +1,5 @@
 ## Safety
-These papers discuss the safety and risks of agents.
+**Safety and risks** of agents: attacks & red-teaming, defenses & guardrails, and harm analysis. For permissioned/governed change see *governance*.
 #### Papers
 * [Apr 2024] **"GPT in Sheep's Clothing: The Risk of Customized GPTs"** [[paper](https://arxiv.org/abs/2401.09075)]
 * ⚖️ [Jan 2024] **"R-Judge: Benchmarking Safety Risk Awareness for LLM Agents"** [[paper](https://arxiv.org/abs/2401.10019)]

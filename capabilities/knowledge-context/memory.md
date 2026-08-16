@@ -1,6 +1,6 @@
 
 ## Memory
-These papers discuss an agent’s memory function and its self-evolution.
+How agents **store and reuse long-term information** across sessions — memory mechanisms, retrieval, and memory evolution. For the per-step context window see *context-engineering*.
 #### Papers
 * [May 2023] **"Memorybank: Enhancing large language models with long-term memory"** [[paper](https://arxiv.org/abs/2305.10250)]
 * [Jul 2023] **"REX: Rapid Exploration and eXploitation for AI Agents"** [[paper](https://arxiv.org/abs/2307.08962)]

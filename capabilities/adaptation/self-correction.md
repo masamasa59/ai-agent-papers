@@ -1,5 +1,5 @@
 ## Self-Correction
-These papers discuss whether agents can autonomously recover from errors.
+How agents **recover from their own errors** — reflection, self-refinement, retry, and repair. For diagnosing *why* a run failed see *failure-attribution*.
 
 #### Papers
 * [Jun 2022] **"Self-critiquing models for assisting human evaluators"** [[paper](https://arxiv.org/abs/2206.05802)]

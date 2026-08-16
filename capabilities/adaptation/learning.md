@@ -1,4 +1,6 @@
 ## Agent Tuning
+
+How agents are improved by **updating model weights** — agentic RL, reward/verifier models, SFT & distillation, and continual/lifelong training. For weight-free improvement see *self-evolution*.
 #### Papers
 * [Oct 2023] **"FireAct: Toward Language Agent Fine-tuning"** [[paper](https://arxiv.org/abs/2310.05915)]
 * [Oct 2023] **"Lemur: Harmonizing Natural Language and Code for Language Agents"** [[paper](https://arxiv.org/abs/2310.06830)]

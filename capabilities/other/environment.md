@@ -1,6 +1,6 @@
 ## Environment (World Models and Simulations)
 
-Environments and simulators for training agents, including world models and interactive environments.
+**World models and simulated / RL environments** the agent acts on. For the runtime scaffold around the model see *harness*.
 
 * [Sep 2025] **"Training Agents Inside of Scalable World Models"** [[paper](https://arxiv.org/abs/2509.24527)]
 * [Nov 2025] **"Beyond World Models: Rethinking Understanding in AI Models"** [[paper](https://arxiv.org/abs/2511.12239)]

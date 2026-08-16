@@ -1,5 +1,5 @@
 ## Planning
-These papers discuss agent planning.
+How agents **plan**: task decomposition, plan generation, and plan revision for multi-step goals.
 
 #### Papers
 * ⚖️ [Jun 2022] **"PlanBench: An Extensible Benchmark for Evaluating Large Language Models on Planning and Reasoning about Change"** [[paper](https://arxiv.org/abs/2206.10498)]

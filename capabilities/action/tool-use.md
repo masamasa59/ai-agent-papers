@@ -1,5 +1,5 @@
 ## Tool Use
-These papers discuss whether or not agents can properly use tools
+How agents **call external tools and APIs** — tool selection, function calling, and tool-integrated reasoning. For reusable multi-step procedures see *skills*.
 
 #### Papers
 * [May 2022] **"MRKL Systems: A modular, neuro-symbolic architecture that combines large language models, external knowledge sources and discrete reasoning"** [[paper](https://arxiv.org/abs/2205.00445)]

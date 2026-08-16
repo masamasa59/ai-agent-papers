@@ -1,5 +1,5 @@
 ## Perception
-These papers discuss the perceptual abilities that enable agents to understand their environment.
+How agents **perceive multimodal input** to understand their environment — visual, GUI, and world understanding.
 
 ### Image
 * ⚖️ [Feb 2024] **"PCA-Bench: Evaluating Multimodal Large Language Models in Perception-Cognition-Action Chain"** [[paper](https://arxiv.org/abs/2402.15527)]

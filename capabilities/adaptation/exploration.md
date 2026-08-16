@@ -1,6 +1,6 @@
 ## Exploration & Discovery
 
-Research agents need to search over large spaces of possible actions, states, or solutions. These papers discuss search and exploration strategies.
+How agents **search and explore** large spaces of actions, states, or solutions — exploration strategies, open-ended discovery, and quality-diversity.
 
 * [Jan 2026] **"SuS: Strategy-aware Surprise for Intrinsic Exploration"** [[paper](https://arxiv.org/abs/2601.10349v1)]
 * [Jan 2026] **"MAXS: Meta-Adaptive Exploration with LLM Agents"** [[paper](https://arxiv.org/abs/2601.09259v1)]
