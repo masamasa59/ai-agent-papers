@@ -81,6 +81,28 @@ Papers are filed in **four layers** — *capabilities* (what an agent can do), *
 - [Awesome LLM-Powered Agent](https://github.com/hyp1231/awesome-llm-powered-agent/)
  - [Awesome LLM agents](https://github.com/kaushikb11/awesome-llm-agents)
 
+# Trend Newsletters（研究トレンド）
+
+カテゴリ別の月次トレンド深掘り。2026-06 以降は各論文の **arXiv HTML 本文を精読**し、**図を引用**、複数論文で裏付けたファクトを中心にまとめています（作成手順は `.claude/skills/newsletter`）。
+
+**2026-07**
+- [Harness](newsletters/jul_2026/harness_trends.md) · [Agent Evaluation](newsletters/jul_2026/evaluation_trends.md) · [Self-Evolution](newsletters/jul_2026/self_evolution_trends.md)
+
+**2026-06**
+- [Self-Evolution](newsletters/jun_2026/self_evolution_trends.md) · [Coding Agents](newsletters/jun_2026/coding_agents_trends.md) · [Skills](newsletters/jun_2026/skills_trends.md)
+
+**2026-05**
+- [May Trends（総合）](newsletters/may_2026/trends_2026_05.md)
+
+**2026-04**
+- [Self-Evolution](newsletters/apr_2026/self_evolution_trends.md) · [Memory](newsletters/apr_2026/memory_trends.md) · [Tool Use](newsletters/apr_2026/tool_use_trends.md) · [Cybersecurity（2025 総覧）](newsletters/apr_2026/cybersecurity_2025.md)
+
+**2026-02**
+- [Skills](newsletters/feb_2026/skills.md) · [Deep Research](newsletters/feb_2026/deep_research.md) · [Ideation](newsletters/feb_2026/ideation_trends.md) · [Prediction](newsletters/feb_2026/prediction_trends.md)
+
+**2026-01**
+- [Self-Evolution](newsletters/jan_2026/self_evolution_trends.md) · [Memory](newsletters/jan_2026/memory_trends.md)
+
 # Monthly Highlights
 
 Monthly curated picks (a handful of standout papers per month) are archived under [`highlights/`](highlights/):
