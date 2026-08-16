@@ -46,6 +46,9 @@ Brainstorm→Developing→Evaluation の閉ループ・マルチエージェン�
 [SEAGym: An Evaluation Environment for Self-Evolving LLM Agents](https://arxiv.org/abs/2606.17546)
 静的ベンチを自己進化用の動的環境へ変換し、進化を MDP として定式化。**update-validation／ID-OOD 転移／replay（忘却）／cost** の多視点で測る。AHE は検証で **+17.1pp** でも OOD は +6.3pp に留まり、GPT で進化した harness が GLM の ID を **−7.3pp** 悪化させるなど**転移は非対称**。「**自己進化の利得は更新機構とタスク分布・バックエンドに強く依存**し、普遍的に有益ではない」と結論づける、今月の評価論の中核。
 
+![SEAGym](../assets/2606.17546-seagym.png)
+> 図（SEAGym）：静的ベンチを自己進化用の動的環境へ変換し、train バッチのサンプリング→エピソード実行→軌跡と検証器フィードバックの記録→自己進化エージェントの状態更新→凍結スナップショットでの評価、という流れ（[論文](https://arxiv.org/abs/2606.17546)）
+
 [The Meta-Agent Challenge: Are Current Agents Capable of Autonomous Agent Development?](https://arxiv.org/abs/2606.04455)
 コードエージェント（メタエージェント）がサンドボックス内で**タスク特化エージェントを自律設計・実装・最適化**できるかを、開発フェーズ＋保護テストで測る。5ドメインの **3,939 構成中、人間ベースラインを超えたのは 55 のみ**（44 はプロプライエタリ）、33% は標準偏差 >0.1 と高分散、reward hacking の試みも検出。**自律的なエージェント開発は依然困難**で、閉/開モデル差が大きいことを実証。
 
