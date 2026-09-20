@@ -147,6 +147,7 @@ How agents **store and reuse long-term information** across sessions — memory 
 * ⚖️ [Jun 2026] **"Managing Procedural Memory in LLM Agents: Control, Adaptation, and Evaluation"** [[paper](https://arxiv.org/abs/2606.23127)]
 * [Aug 2026] **"Tree-of-Experience: Hierarchical Experience Management for Self-Evolving Agents"** [[paper](https://arxiv.org/abs/2608.09044)]
 * [Aug 2026] **"Recursive Experiential-Working Memory Evolution for Long-Horizon Agent Harnesses"** [[paper](https://arxiv.org/abs/2608.24876)]
+* [Sep 2026] **"Grounding Agent Memory: Environment-Probing Curation for Enterprise Agents"** [[paper](https://arxiv.org/abs/2609.11060)]
 
 ### Benchmarks & Surveys
 * 📖 [Apr 2024] **"A Survey on the Memory Mechanism of Large Language Model based Agents"** [[paper](https://arxiv.org/abs/2404.13501)]

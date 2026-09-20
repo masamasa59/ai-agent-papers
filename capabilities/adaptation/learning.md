@@ -92,6 +92,7 @@ How agents are improved by **updating model weights** — agentic RL, reward/ver
 * [Jul 2026] **"Co-Harness: Co-Evolving Harnesses and Model Weights for LLM Agents"** [[paper](https://arxiv.org/abs/2607.22688)]
 * [Aug 2026] **"CRISP: Critical Step Perception for Training Efficient Deep Search Agents"** [[paper](https://arxiv.org/abs/2608.01867)]
 * [Aug 2026] **"Training AI Scientists to Replicate Research"** [[paper](https://arxiv.org/abs/2608.13331)]
+* [Sep 2026] **"Experience Funnel: A State–Policy Alternating Loop for Self-Evolving Agents"** [[paper](https://arxiv.org/abs/2609.08919)]
 * [2026] **"Self-Evolving Agent: A Closed-Loop Post-Training Flywheel for Continually Learning LLM Agents"** *(arXiv URL未記載 — 要追記)*
 
 
@@ -128,3 +129,4 @@ How agents are improved by **updating model weights** — agentic RL, reward/ver
 * [Aug 2026] **"Agent Lightning v1.0: Towards Harnessed Agentic RL"** [[paper](https://arxiv.org/abs/2608.17528)]
 * [Aug 2026] **"SPADE: Self-Play in Adaptive Synthetic Executable Environments"** [[paper](https://arxiv.org/abs/2608.19197)]
 * [Aug 2026] **"Credit Without Ground Truth: Auditing Step-Level Credit Assignment in LLM Agents Against Executed Replay"** [[paper](https://arxiv.org/abs/2608.19760)]
+* [Sep 2026] **"Act More, Decide Less: Skill-Guided Adaptive Action Chunking for Long-Horizon LLM Agents"** [[paper](https://arxiv.org/abs/2609.02042)]

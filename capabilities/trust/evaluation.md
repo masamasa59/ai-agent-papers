@@ -109,6 +109,16 @@ How to **measure** agents: benchmarks and methodology for planning, tool use, an
 * ⚖️ [Aug 2026] **"AI4AI-Bench: Benchmarking LLM Agents in Algorithmic Design for Recursive Self-Improvement"** [[paper](https://arxiv.org/abs/2608.20318)]
 * 🔥 [Aug 2026] **"There Is No Neutral Harness: Modern LLM Leaderboards Are Manufactured by Config-Fragile Items"** [[paper](https://arxiv.org/abs/2608.21382)]
 * ⚖️ [Aug 2026] **"DuMateBench: Evaluating Autonomous Agents in Complex Real-World Workflows"** [[paper](https://arxiv.org/abs/2608.26546)]
+* ⚖️ [Aug 2026] **"E-Commerce Bench: Evaluating LLM Agents on Long-Horizon Autonomous Business Operation"** [[paper](https://arxiv.org/abs/2608.30730)]
+* ⚖️ [Sep 2026] **"HarnessDev: Can LLMs Create and Evolve Their Own Agent Harness?"** [[paper](https://arxiv.org/abs/2609.01437)]
+* ⚖️ [Sep 2026] **"EVOHARNESSBENCH: Can Your Agents Keep Pace with an Evolving Harness?"** [[paper](https://arxiv.org/abs/2609.04280)]
+* ⚖️ [Sep 2026] **"τ^τ-Bench: An Environment for End-to-End, Realistic Agent Construction"** [[paper](https://arxiv.org/abs/2609.04611)]
+* 📖 [Sep 2026] **"Uncertainty Quantification for LLM Agents: A Taxonomy, an Evaluation Protocol, and an Empirical Study"** [[paper](https://arxiv.org/abs/2609.07395)]
+* [Sep 2026] **"The Unreliable Progress Bar: Can LLM Agents Reliably Report Task Progress Throughout Execution?"** [[paper](https://arxiv.org/abs/2609.08589)]
+* [Sep 2026] **"A Three-Tier Persona Vector for Controllable User Simulation in Agentic Evaluation"** [[paper](https://arxiv.org/abs/2609.08592)]
+* ⚖️ [Sep 2026] **"OpenDiscoveryTrace: Process Traces for Evaluating AI Scientist Workflows"** [[paper](https://arxiv.org/abs/2609.09203)]
+* [Sep 2026] **"Scores Alone Do Not Prove Discovery: The Discovery Certification Protocol for Auditing AI Research Agents"** [[paper](https://arxiv.org/abs/2609.09219)]
+* [Sep 2026] **"AgentAudit: An Open, Extensible Framework for Full-Lifecycle Trust Evaluation of AI Agents"** [[paper](https://arxiv.org/abs/2609.09875)]
 
 
 ### Evaluator, Verifier & Judge

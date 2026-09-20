@@ -55,3 +55,7 @@ Operating agents in production: observability, deployment, evaluation-driven des
 * [Aug 2026] **"Towards Risk-free AI Agent Deployment"** [[paper](https://arxiv.org/abs/2608.16411)]
 * [Aug 2026] **"LEDGER: Claim-to-Evidence Trace Graphs for Auditing LLM Agents"** [[paper](https://arxiv.org/abs/2608.18398)]
 * [Aug 2026] **"Automata from Agent Traces: Failure and Next-Step Prediction"** [[paper](https://arxiv.org/abs/2608.23670)]
+* [Sep 2026] **"Necessary or Sufficient? Evaluating LLM Explanations With Behavioural Evidence"** [[paper](https://arxiv.org/abs/2609.05385)]
+* [Sep 2026] **"Explaining AI Agents Through Execution Traces"** [[paper](https://arxiv.org/abs/2609.06063)]
+* 📖 [Sep 2026] **"Uncertainty Quantification for LLM Agents: A Taxonomy, an Evaluation Protocol, and an Empirical Study"** [[paper](https://arxiv.org/abs/2609.07395)]
+* [Sep 2026] **"The Unreliable Progress Bar: Can LLM Agents Reliably Report Task Progress Throughout Execution?"** [[paper](https://arxiv.org/abs/2609.08589)]

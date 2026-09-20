@@ -97,6 +97,8 @@
 * [Aug 2026] **"Practice Makes Unsafe: Skill Misevolution in Self-Improving LLM Agents"** [[paper](https://arxiv.org/abs/2608.12851)]
 * [Aug 2026] **"EVOMAL: Self-Poisoning in Self-Evolving Coding Agents"** [[paper](https://arxiv.org/abs/2608.25776)]
 * [Aug 2026] **"RedEvoAgent: Automatic Red-Teaming Agent with Experience-Driven Skill Evolution"** [[paper](https://arxiv.org/abs/2608.27439)]
+* [Sep 2026] **"Black-Box Red Teaming of Agentic AI: A Taxonomy-Driven Framework for Automated Risk Discovery"** [[paper](https://arxiv.org/abs/2609.09647)]
+* 📖 [Sep 2026] **"SoK: Rethinking Jailbreaking in the Era of Agentic AI: Attacks, Defenses, and Practical Considerations"** [[paper](https://arxiv.org/abs/2609.12413)]
 
 ### Defenses & Guardrails
 * [May 2024] **"A Mechanism-Based Approach to Mitigating Harms from Persuasive Generative AI"** [[paper](https://arxiv.org/abs/2404.15058)]

@@ -50,3 +50,4 @@ Agents applied to financial analysis, trading, risk assessment, and financial do
 * ⚖️ [Aug 2026] **"Evaluating Investment Logic in Large Language Models: A Real-World Benchmark Towards Personalized Financial Agents"** [[paper](https://arxiv.org/abs/2608.06108)]
 * ⚖️ [Aug 2026] **"FrontierFinance: A Challenging Benchmark for Measuring Frontier Intelligence of Finance Agents"** [[paper](https://arxiv.org/abs/2608.11683)]
 * ⚖️ [Aug 2026] **"ReguSim: Evaluating LLM Agent Rule Grounding in Financial Compliance"** [[paper](https://arxiv.org/abs/2608.19974)]
+* [Sep 2026] **"Making Alternative Data Work: Context-Augmented LLMs for Financial Forecasting"** [[paper](https://arxiv.org/abs/2609.11607)]

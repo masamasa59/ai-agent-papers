@@ -157,6 +157,10 @@ Agents in various tasks such as education, healthcare, and the press.
 * [Jul 2026] **"Agents in the Wild: Where Research Meets Deployment"** [[paper](https://arxiv.org/abs/2607.19336)]
 * [Aug 2026] **"Tangent: An Empirical Study of Testing Practices for LLM-Based Agent Applications"** [[paper](https://arxiv.org/abs/2608.08413)]
 * [Aug 2026] **"PILOT Technical Report"** [[paper](https://arxiv.org/abs/2608.18637)]
+* ⚖️ [Sep 2026] **"GPS-Bench: A Governance Policy Benchmark for Automating Policy Analysis"** [[paper](https://arxiv.org/abs/2609.03553)]
+* [Sep 2026] **"Adapting to Evolving Requirements: Agentic AI for Retail Supply Chain Operations"** [[paper](https://arxiv.org/abs/2609.03860)]
+* ⚖️ [Sep 2026] **"SWE-Test: Benchmarking LLM Vulnerability Discovery via Input Prediction"** [[paper](https://arxiv.org/abs/2609.06229)]
+* [Sep 2026] **"BlueSTAR: Tiered Agentic Architecture for Autonomous Cyber Defense"** [[paper](https://arxiv.org/abs/2609.11852)]
 
 
 ### Healthcare & Medical
@@ -197,6 +201,7 @@ Agents in various tasks such as education, healthcare, and the press.
 * [Oct 2025] **"Artificially intelligent agents in the social and behavioral sciences: A history and outlook"** [[paper](https://arxiv.org/abs/2510.05743)]
 * ⚖️ [Feb 2026] **"PieArena: Frontier Language Agents Achieve MBA-Level Negotiation Performance and Reveal Novel Behavioral Differences"** [[paper](https://arxiv.org/abs/2602.05302)]
 * [Jun 2026] **"Data Journalist Agent: Transforming Data into Verifiable Multimodal Stories"** [[paper](https://arxiv.org/abs/2606.11176)]
+* [Sep 2026] **"Enabling Creative Exploration for Vibe Design Agents"** [[paper](https://arxiv.org/abs/2609.15078)]
 
 ### Industrial & Ops
 * [Jul 2024] **"Revolutionizing Bridge Operation and Maintenance with LLM-based Agents: An Overview of Applications and Insights"** [[paper](https://arxiv.org/abs/2407.10064)]

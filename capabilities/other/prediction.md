@@ -24,3 +24,5 @@ Agents that predict future events, states, or outcomes, and perform forecasting 
 
 * [Aug 2026] **"When Do Corrective Features Help? An Agent for Corrective Feature Discovery on Black-Box Forecasters"** [[paper](https://arxiv.org/abs/2608.05207)]
 * 📖 [Aug 2026] **"LLM Agents for Time-Series: A Survey"** [[paper](https://arxiv.org/abs/2608.26226)]
+* [Sep 2026] **"From Narrative to Auditable Forecasts: A Structured Scaffold for Agentic Forecasting"** [[paper](https://arxiv.org/abs/2609.05905)]
+* [Sep 2026] **"Making Alternative Data Work: Context-Augmented LLMs for Financial Forecasting"** [[paper](https://arxiv.org/abs/2609.11607)]

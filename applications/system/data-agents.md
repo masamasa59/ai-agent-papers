@@ -124,3 +124,7 @@
 * ⚖️ [Aug 2026] **"Walk Before You Run: The Importance of Data Exploration for Data Analysis Agents"** [[paper](https://arxiv.org/abs/2608.16045)]
 * [Aug 2026] **"MUSE: An Interactive Meta-Agent for Understanding and Steering LLM-powered Data Science Systems"** [[paper](https://arxiv.org/abs/2608.16181)]
 * 📖 [Aug 2026] **"LLM Agents for Time-Series: A Survey"** [[paper](https://arxiv.org/abs/2608.26226)]
+* [Aug 2026] **"DataFoundry: Evolving Data Preparators via Recursive Self-Improvement"** [[paper](https://arxiv.org/abs/2608.29966)]
+* [Sep 2026] **"KnowFeat: Knowledge-Guided Feature Engineering via LLM Agents"** [[paper](https://arxiv.org/abs/2609.03529)]
+* [Sep 2026] **"InsightChain: Optimized Chain-of-Insight Analytics for LLM-driven Data Visualization"** [[paper](https://arxiv.org/abs/2609.06438)]
+* [Sep 2026] **"EvoOntology: A Self-Evolving Ontology Layer for Data Agents"** [[paper](https://arxiv.org/abs/2609.15779)]

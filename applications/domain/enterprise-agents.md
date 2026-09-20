@@ -44,3 +44,6 @@ Agents designed for enterprise operations, document management, CRM, HR, and bus
 * [Jul 2026] **"Large-Scale ChatBot Validation Through Customer Digital Twin Simulations"** [[paper](https://arxiv.org/abs/2607.26060)]
 * [Aug 2026] **"Unaccountable Delegation, Fading Skills: Mapping the Risks of Workplace AI Agents"** [[paper](https://arxiv.org/abs/2608.08601)]
 * ⚖️ [Aug 2026] **"One Success Isn’t Reliability: Thinkingbox, a Sandbox and Benchmark for Agents in Stateful Business Workflows"** [[paper](https://arxiv.org/abs/2608.19741)]
+* [Sep 2026] **"From Event Logs to Governed Action: A BlueSky Agenda for Agentic Process Mining"** [[paper](https://arxiv.org/abs/2609.07984)]
+* [Sep 2026] **"Grounding Agent Memory: Environment-Probing Curation for Enterprise Agents"** [[paper](https://arxiv.org/abs/2609.11060)]
+* [Sep 2026] **"The Agentic Company OS: Substrate Inversion for Sustained Enterprise Agent Deployment"** [[paper](https://arxiv.org/abs/2609.13334)]

@@ -69,3 +69,5 @@ Generative-agent societies and social / economic / policy simulation.
 * ⚖️ [Aug 2026] **"Business Arena: Benchmarking LLM Agents in a Realistic Marketplace"** [[paper](https://arxiv.org/abs/2608.08621)]
 * [Aug 2026] **"Insurance as AI Risk Infrastructure: A Generative-Agent Simulation of AI Adoption"** [[paper](https://arxiv.org/abs/2608.15181)]
 * ⚖️ [Aug 2026] **"FM-Bench: A Benchmark for Long-Horizon Management with Competing Agents"** [[paper](https://arxiv.org/abs/2608.18423)]
+* ⚖️ [Aug 2026] **"E-Commerce Bench: Evaluating LLM Agents on Long-Horizon Autonomous Business Operation"** [[paper](https://arxiv.org/abs/2608.30730)]
+* ⚖️ [Sep 2026] **"GPS-Bench: A Governance Policy Benchmark for Automating Policy Analysis"** [[paper](https://arxiv.org/abs/2609.03553)]

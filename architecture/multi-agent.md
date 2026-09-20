@@ -114,6 +114,7 @@ How multiple agents are structured and coordinated: frameworks, orchestration, c
 * [Jul 2026] **"Scaling LLM-Driven Multi-Agent Systems: Design Principles and Architectural Scalability Analysis"** [[paper](https://arxiv.org/abs/2607.27942)]
 * [Jul 2026] **"Agent Harness Distillation: Inference-Time Harness Extraction and Exploitation in Autonomous Multi-Agent Systems"** [[paper](https://arxiv.org/abs/2607.28147)]
 * [Aug 2026] **"Position: Multi-Agent Systems Should Prioritize Concurrency Control"** [[paper](https://arxiv.org/abs/2608.18092)]
+* [Sep 2026] **"Inference-Time Graph Engineering for Multi-Agent LLM Workflows"** [[paper](https://arxiv.org/abs/2609.05774)]
 
 * [Mar 2023] **"CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society"** [[paper](https://arxiv.org/abs/2303.17760)]
 * [Aug 2023] **"AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors"** [[paper](https://arxiv.org/abs/2308.10848)]

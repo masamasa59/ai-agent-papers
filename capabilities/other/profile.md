@@ -45,3 +45,4 @@ These papers discuss profiles that define the roles of agents, including role-pl
 
 * [Jul 2026] **"LLMs Get Lost in Evolving User Intent"** [[paper](https://arxiv.org/abs/2607.20734)]
 * [Aug 2026] **"QUMem: Personalized Memory for Query-Conditioned User-State Inference in LLM Agents"** [[paper](https://arxiv.org/abs/2608.16168)]
+* [Sep 2026] **"A Three-Tier Persona Vector for Controllable User Simulation in Agentic Evaluation"** [[paper](https://arxiv.org/abs/2609.08592)]

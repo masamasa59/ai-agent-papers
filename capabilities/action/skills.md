@@ -44,6 +44,9 @@ Agent Skills — reusable, composable procedural capabilities (e.g. SKILL.md), s
 * [Aug 2026] **"What Keeps Agent Skills from Being Reusable? Evidence from 138K SKILL.md Files"** [[paper](https://arxiv.org/abs/2608.08453)]
 * [Aug 2026] **"Agent Skills Can Be Harmful: An Empirical Study of Skill-Induced Failures in LLM Agents"** [[paper](https://arxiv.org/abs/2608.11888)]
 * [Aug 2026] **"@skills: Attention Is All You Have"** [[paper](https://arxiv.org/abs/2608.12610)]
+* [Aug 2026] **"SKILL.state: Scalable Long-Horizon Agent Skills"** [[paper](https://arxiv.org/abs/2608.26263)]
+* [Sep 2026] **"Act More, Decide Less: Skill-Guided Adaptive Action Chunking for Long-Horizon LLM Agents"** [[paper](https://arxiv.org/abs/2609.02042)]
+* [Sep 2026] **"SKILLALIGN: Aligning Skill Interfaces for LLM-based Agents"** [[paper](https://arxiv.org/abs/2609.07255)]
 
 
 ### Skill Evolution & Lifelong
@@ -71,6 +74,9 @@ Agent Skills — reusable, composable procedural capabilities (e.g. SKILL.md), s
 * [Aug 2026] **"Evo-Harness: Context-to-Harness Skill Compilation for Self-Evolving Agents"** [[paper](https://arxiv.org/abs/2608.15071)]
 * [Aug 2026] **"EVOMAL: Self-Poisoning in Self-Evolving Coding Agents"** [[paper](https://arxiv.org/abs/2608.25776)]
 * [Aug 2026] **"RedEvoAgent: Automatic Red-Teaming Agent with Experience-Driven Skill Evolution"** [[paper](https://arxiv.org/abs/2608.27439)]
+* [Aug 2026] **"WikiSkill: Compiling Agent Experience into Persistent Knowledge for Skill Evolution"** [[paper](https://arxiv.org/abs/2608.27454)]
+* [Sep 2026] **"SkillGLoW: Procedural-Family Skill Consolidation for Self-Improving Agents on Long-Horizon Task Streams"** [[paper](https://arxiv.org/abs/2609.02217)]
+* [Sep 2026] **"SKILLADAM: Stable and Efficient Skill Evolution for Agents"** [[paper](https://arxiv.org/abs/2609.08944)]
 
 ### Benchmarks & Analysis
 * [Feb 2026] **"Agent Skills: A Data-Driven Analysis of Claude Skills for Extending Large Language Model Functionality"** [[paper](https://arxiv.org/abs/2602.08004)]
@@ -80,3 +86,4 @@ Agent Skills — reusable, composable procedural capabilities (e.g. SKILL.md), s
 * [Jul 2026] **"SkillCorpus: Consolidating and Evaluating the Open Skill Ecosystem for Real-World LLM Agents"** [[paper](https://arxiv.org/abs/2607.15557)]
 * [Aug 2026] **"Demystifying Agent Skills: Why They Work—Until They Don’t"** [[paper](https://arxiv.org/abs/2608.14036)]
 * [Aug 2026] **"Break It Down, Pass It On: Cross-Task Skill Transfer in LLM Agents"** [[paper](https://arxiv.org/abs/2608.20274)]
+* [Sep 2026] **"Who Maintains Agent Skills? A Longitudinal Study of Human-Governed Skill Evolution"** [[paper](https://arxiv.org/abs/2609.05677)]

@@ -3,6 +3,7 @@ Diagnosing *what / where / why* an agent failed: failure attribution, critical e
 
 #### Papers
 
+* ⚖️ [Feb 2026] **"AGENTRX: Diagnosing AI Agent Failures from Execution Trajectories"** [[paper](https://arxiv.org/abs/2602.02475)]
 * ⚖️ [Jul 2026] **"WHO&WHEN PRO: Can LLMs Really Attribute Failures in AI Agents?"** [[paper](https://arxiv.org/abs/2607.09996)]
 * [Jul 2026] **"WHO&WHEN PRO: Can LLMs Really Attribute Failures in AI Agents?"** [[paper](https://arxiv.org/abs/2607.09996)]
 * [Jul 2026] **"ClawTrack: Towards Trace-Level Evaluation and Improvement of Real-World Autonomous Agents"** [[paper](https://arxiv.org/abs/2607.28037)]
@@ -16,3 +17,4 @@ Diagnosing *what / where / why* an agent failed: failure attribution, critical e
 * [Aug 2026] **"LEDGER: Claim-to-Evidence Trace Graphs for Auditing LLM Agents"** [[paper](https://arxiv.org/abs/2608.18398)]
 * [Aug 2026] **"Credit Without Ground Truth: Auditing Step-Level Credit Assignment in LLM Agents Against Executed Replay"** [[paper](https://arxiv.org/abs/2608.19760)]
 * [Aug 2026] **"Automata from Agent Traces: Failure and Next-Step Prediction"** [[paper](https://arxiv.org/abs/2608.23670)]
+* [Sep 2026] **"AgentAudit: An Open, Extensible Framework for Full-Lifecycle Trust Evaluation of AI Agents"** [[paper](https://arxiv.org/abs/2609.09875)]

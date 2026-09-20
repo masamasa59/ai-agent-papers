@@ -42,3 +42,5 @@ Management of the working context window: compression, offloading, packing/order
 * [Aug 2026] **"HyMem: Hierarchical Context Management for Long-Horizon Agents via Information Isolation"** [[paper](https://arxiv.org/abs/2608.15703)]
 * [Aug 2026] **"Context as an Environment: Programmatic Context Management for Long-Horizon Agents"** [[paper](https://arxiv.org/abs/2608.21690)]
 * [Aug 2026] **"The Compaction Cliff in Long-Running AI Agent Memory"** [[paper](https://arxiv.org/abs/2608.22752)]
+* [Aug 2026] **"SKILL.state: Scalable Long-Horizon Agent Skills"** [[paper](https://arxiv.org/abs/2608.26263)]
+* [Sep 2026] **"The Agentic Company OS: Substrate Inversion for Sustained Enterprise Agent Deployment"** [[paper](https://arxiv.org/abs/2609.13334)]

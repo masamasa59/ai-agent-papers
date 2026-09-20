@@ -146,18 +146,32 @@ Agents that **improve without changing model weights** — via experience, refle
 * [Aug 2026] **"SysEvolve: An AI-native, Safe, Autonomous Adversarial Attack-Defense Co-Evolutionary System"** [[paper](https://arxiv.org/abs/2608.15012)]
 * [Aug 2026] **"Agent Gym: A Framework for Continuous Evaluation and Evolution of LLM Agents Through Human-in-the-Loop Feedback"** [[paper](https://arxiv.org/abs/2608.15591)]
 * [Aug 2026] **"PILOT Technical Report"** [[paper](https://arxiv.org/abs/2608.18637)]
+* [Sep 2026] **"Closing the Consistency Gap: Self-Evolving Agents That Learn to Stay on Course"** [[paper](https://arxiv.org/abs/2609.08832)]
+* [Sep 2026] **"Experience Funnel: A State–Policy Alternating Loop for Self-Evolving Agents"** [[paper](https://arxiv.org/abs/2609.08919)]
+* [Sep 2026] **"Procedural Graphs: Self-Evolving Execution Structures for LLM Agents"** [[paper](https://arxiv.org/abs/2609.09153)]
 * [2026] **"Self-Evolving Agent: A Closed-Loop Post-Training Flywheel for Continually Learning LLM Agents"** *(arXiv URL未記載 — 要追記)*
 
 ### Recursive Self-Improvement (RSI) & Gödel Machines
 * [Oct 2024] **"Gödel Agent: A Self-Referential Agent Framework for Recursive Self-Improvement"** [[paper](https://arxiv.org/abs/2410.04444)]
 * [May 2025] **"Darwin Gödel Machine:Open-Ended Evolution of Self-Improving Agents"** [[paper](https://arxiv.org/abs/2505.22954)]
 * [Jun 2026] **"The Red Queen Gödel Machine: Co-Evolving Agents and Their Evaluators"** [[paper](https://arxiv.org/abs/2606.26294)]
+* [Jul 2026] **"Recursive Harness Self-Improvement"** [[paper](https://arxiv.org/abs/2607.15524)]
 * [Jul 2026] **"AREX: Towards a Recursively Self-Improving Agent for Deep Research"** [[paper](https://arxiv.org/abs/2607.21461)]
 * ⚖️ [Jul 2026] **"RSIBench-Data: Benchmarking Data-Centric Research for Recursive Self-Improvement"** [[paper](https://arxiv.org/abs/2607.25886)]
 * [Aug 2026] **"Mendel Gödel Machine: Recursive Self-Improving Coding Agents via Comparative Evolution"** [[paper](https://arxiv.org/abs/2608.07645)]
+* [Aug 2026] **"Ouroboros: A Self-Developing Frontier Coding Agent with Reviewed Core Evolution"** [[paper](https://arxiv.org/abs/2608.08311)]
+* [Aug 2026] **"HELIX: Model–Harness Co-evolution for Recursive Self-Improvement"** [[paper](https://arxiv.org/abs/2608.13951)]
 * [Aug 2026] **"What is Missing from AI Post-Training AI: An Empirical Analysis"** [[paper](https://arxiv.org/abs/2608.19072)]
 * ⚖️ [Aug 2026] **"AI4AI-Bench: Benchmarking LLM Agents in Algorithmic Design for Recursive Self-Improvement"** [[paper](https://arxiv.org/abs/2608.20318)]
 * [Aug 2026] **"Meta^n: Recursive Self-Improvement through Emergent Depth"** [[paper](https://arxiv.org/abs/2608.24735)]
+* [Aug 2026] **"DataFoundry: Evolving Data Preparators via Recursive Self-Improvement"** [[paper](https://arxiv.org/abs/2608.29966)]
+* [Sep 2026] **"MetaRSI-v1: A Meta-Recursive Self-Improving System for Recursive Self-Improving Systems Themselves — One Kernel, Two Axes, Three Operators, Every Domain"** [[paper](https://arxiv.org/abs/2609.06396)]
+* [Sep 2026] **"The Last AI Built by Humans: Toward Genuine Recursive Self-Improvement"** [[paper](https://arxiv.org/abs/2609.11873)]
+* [Sep 2026] **"Generalized Agent Iteration: One Formal Framework for Iterative Policy Improvement and Recursive Self-Improvement"** [[paper](https://arxiv.org/abs/2609.13406)]
+* [Sep 2026] **"ModularRSI: Modular and Generalizable Recursive Harness Self-Improvement"** [[paper](https://arxiv.org/abs/2609.14857)]
+* [Sep 2026] **"Dream-RSI: Recursive Self-Improvement through Evolving Worlds"** [[paper](https://arxiv.org/abs/2609.14858)]
+* [Sep 2026] **"RSIAgent: Autonomous Exploration for Recursive Self-improvement in New Environments"** [[paper](https://arxiv.org/abs/2609.15364)]
+* [Sep 2026] **"ScienceBuddy: Recursive-in-Recursive Self-Improvement for Interactive Scientific Agents"** [[paper](https://arxiv.org/abs/2609.17523)]
 * [2026] **"The Economics of Recursive Self-Improvement"** *(arXiv URL未記載 — 要追記)*
 
 

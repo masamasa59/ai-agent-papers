@@ -30,3 +30,4 @@ Agent execution experience / trajectories as a reusable learning resource: exper
 * [Jun 2026] **"MetaEvo: A Meta-Optimization Framework for Experience-Driven Agent Evolution"** [[paper](https://openreview.net/forum?id=1YcMHVY9cl)]
 * 📖 [Jun 2026] **"Self-Improving Agents in the Era of Experience: A Survey of Self- to Meta-Evolution"**
 * [Aug 2026] **"Inducing Task Models from Computer-Use Traces"** [[paper](https://arxiv.org/abs/2608.20319)]
+* [Aug 2026] **"WikiSkill: Compiling Agent Experience into Persistent Knowledge for Skill Evolution"** [[paper](https://arxiv.org/abs/2608.27454)]

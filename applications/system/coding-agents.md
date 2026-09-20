@@ -68,6 +68,8 @@
 * [Aug 2026] **"When Agents Coordinate: Measuring Coordination in Multi-Agent AI Coding"** [[paper](https://arxiv.org/abs/2608.16801)]
 * [Aug 2026] **"PRAXIS: Graph-Grounded Tacit Knowledge for Domain Code Generation"** [[paper](https://arxiv.org/abs/2608.19784)]
 * [Aug 2026] **"The Handoff Tax: Continuing Non-Native Trajectories in LLM Agents"** [[paper](https://arxiv.org/abs/2608.24358)]
+* [Sep 2026] **"Harness-of-Harness: Multi-Day Autonomous Software Development with Continual Improvement"** [[paper](https://arxiv.org/abs/2609.01481)]
+* ⚖️ [Sep 2026] **"τ^τ-Bench: An Environment for End-to-End, Realistic Agent Construction"** [[paper](https://arxiv.org/abs/2609.04611)]
 * 📖 [Aug 2025] **"A Survey on Code Generation with LLM-based Agents"** [[paper](https://arxiv.org/html/2508.00083v1)]
 
 
@@ -100,6 +102,7 @@
 * [Jun 2026] **"Socratic-SWE: Self-Evolving Coding Agents via Trace-Derived Agent Skills"** [[paper](https://arxiv.org/abs/2606.07412)]
 * [Jun 2026] **"LLM Agents Can See Code Repositories"** [[paper](https://arxiv.org/abs/2606.14061)]
 * [Jun 2026] **"FastContext: Training Efficient Repository Explorer for Coding Agents"** [[paper](https://arxiv.org/abs/2606.14066)]
+* [Sep 2026] **"RepoAtlas: Guiding Coding Agents via Evolving Multimodal Repository Views"** [[paper](https://arxiv.org/abs/2609.16936)]
 
 ### Code Review & Refactoring
 * [Nov 2025] **"Agentic Refactoring: An Empirical Study of AI Coding Agents"** [[paper](https://arxiv.org/abs/2511.04824v1)]
@@ -116,6 +119,7 @@
 * [Jul 2025] **"BUGSCOPE: LEARN TO FIND BUGS LIKE HUMAN"** [[paper](https://arxiv.org/abs/2507.15671)]
 * [Jul 2025] **"Trae Agent: An LLM-based Agent for Software Engineering with Test-time Scaling"** [[paper](https://arxiv.org/abs/2507.23370)]
 * [Jan 2026] **"Improved Bug Localization with AI Agents Leveraging Hypothesis and Dynamic Cognition"** [[paper](https://arxiv.org/abs/2601.12522v1)]
+* ⚖️ [Sep 2026] **"SWE-Test: Benchmarking LLM Vulnerability Discovery via Input Prediction"** [[paper](https://arxiv.org/abs/2609.06229)]
 
 ### Empirical Studies
 * [Jul 2024] **"OpenHands: An Open Platform for AI Software Developers as Generalist Agents"** [[paper](https://arxiv.org/abs/2407.16741)]
@@ -125,3 +129,4 @@
 * [Jan 2026] **"Are We All Using Agents the Same Way? An Empirical Study of Core and Peripheral Developers’ Use of Coding Agents"** [[paper](https://arxiv.org/abs/2601.20106)]
 * [May 2026] **"To What Extent Does Agent-generated Code Require Maintenance? An Empirical Study"** [[paper](https://arxiv.org/abs/2605.06464)]
 * [Aug 2026] **"From Agent Behaviour to Agent-Friendly Documentation: An Empirical Study of How Coding Agents Discover, Read, and Write Technical Documentation"** [[paper](https://arxiv.org/abs/2608.20195)]
+* [Sep 2026] **"When Agents Implement Systems: A Case Study in Defects, Detection, and Evaluation Rigor"** [[paper](https://arxiv.org/abs/2609.01985)]

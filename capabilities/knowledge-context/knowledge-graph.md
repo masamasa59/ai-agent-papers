@@ -22,3 +22,5 @@ Papers on knowledge representation, ontology construction, and knowledge graph i
 * [Aug 2026] **"CTIFoundry: An Agent-Native Corpus Scaffold for Cyber Threat Intelligence"** [[paper](https://arxiv.org/abs/2608.18613)]
 * [Aug 2026] **"PRAXIS: Graph-Grounded Tacit Knowledge for Domain Code Generation"** [[paper](https://arxiv.org/abs/2608.19784)]
 * [Aug 2026] **"Toward Effective and Reliable LLM Agents via Dynamic Ontology"** [[paper](https://arxiv.org/abs/2608.22974)]
+* [Sep 2026] **"Procedural Graphs: Self-Evolving Execution Structures for LLM Agents"** [[paper](https://arxiv.org/abs/2609.09153)]
+* [Sep 2026] **"EvoOntology: A Self-Evolving Ontology Layer for Data Agents"** [[paper](https://arxiv.org/abs/2609.15779)]
