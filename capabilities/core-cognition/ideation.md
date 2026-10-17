@@ -71,3 +71,6 @@ Ideation is the process of generating or developing ideas, particularly creative
 * [Jul 2026] **"IDEAgent: Agentic Quality-Diversity Search for Research Idea Generation"** [[paper](https://arxiv.org/abs/2607.22375)]
 * [Aug 2026] **"When AI Designs AI: Innovation or Imitation?"** [[paper](https://arxiv.org/abs/2608.17471)]
 * ⚖️ [Sep 2026] **"AGENTIDEABENCH: Benchmarking Scientific Ideation in the Agent Era"** [[paper](https://arxiv.org/abs/2609.07611)]
+* [Sep 2026] **"AIM: Agentic Idea Management for Automated Research"** [[paper](https://arxiv.org/abs/2609.38445)]
+* [Oct 2026] **"IdeaScientist: Orchestrating Agents for Grounded Scientific Ideation"** [[paper](https://arxiv.org/abs/2610.04074)]
+* [Oct 2026] **"TRIZa: Guiding Agent Evolution from Pattern Recognition to Solution Invention"** [[paper](https://arxiv.org/abs/2610.04555)]

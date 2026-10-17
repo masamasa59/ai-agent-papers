@@ -29,3 +29,6 @@ Controlled, permissioned change of autonomous agents: governed self-improvement,
 * [Aug 2026] **"AI Agents Push Humans Out of the Loop"** [[paper](https://arxiv.org/abs/2608.23642)]
 * [Sep 2026] **"Who Maintains Agent Skills? A Longitudinal Study of Human-Governed Skill Evolution"** [[paper](https://arxiv.org/abs/2609.05677)]
 * [Sep 2026] **"From Event Logs to Governed Action: A BlueSky Agenda for Agentic Process Mining"** [[paper](https://arxiv.org/abs/2609.07984)]
+* [Sep 2026] **"Self-Healing Harness for Runtime Oversight of Agent Self-Modification"** [[paper](https://arxiv.org/abs/2609.24130)]
+* [Sep 2026] **"Tracekit: Tamper-Evident Intent–Reasoning–Action Auditing for Autonomous Coding Agents"** [[paper](https://arxiv.org/abs/2609.35659)]
+* [Oct 2026] **"The Harness as the Only Mutable Surface: Compliance-Bounded Self-Evolution of LLM Agents in Credit Pipelines, with a Measured Admission Gate"** [[paper](https://arxiv.org/abs/2610.10629)]

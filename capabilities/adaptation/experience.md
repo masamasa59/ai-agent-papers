@@ -31,3 +31,6 @@ Agent execution experience / trajectories as a reusable learning resource: exper
 * 📖 [Jun 2026] **"Self-Improving Agents in the Era of Experience: A Survey of Self- to Meta-Evolution"**
 * [Aug 2026] **"Inducing Task Models from Computer-Use Traces"** [[paper](https://arxiv.org/abs/2608.20319)]
 * [Aug 2026] **"WikiSkill: Compiling Agent Experience into Persistent Knowledge for Skill Evolution"** [[paper](https://arxiv.org/abs/2608.27454)]
+* [Sep 2026] **"Just-in-Time Memory: Learning to Curate Task-Adaptive Memory for LLM Agents"** [[paper](https://arxiv.org/abs/2609.27334)]
+* [Oct 2026] **"Assembling Insights for Agentic Machine Learning Engineering Systems"** [[paper](https://arxiv.org/abs/2610.04927)]
+* [Oct 2026] **"Mining Agent Skills from Production Traces"** [[paper](https://arxiv.org/abs/2610.05777)]

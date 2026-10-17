@@ -47,6 +47,7 @@ Agent Skills — reusable, composable procedural capabilities (e.g. SKILL.md), s
 * [Aug 2026] **"SKILL.state: Scalable Long-Horizon Agent Skills"** [[paper](https://arxiv.org/abs/2608.26263)]
 * [Sep 2026] **"Act More, Decide Less: Skill-Guided Adaptive Action Chunking for Long-Horizon LLM Agents"** [[paper](https://arxiv.org/abs/2609.02042)]
 * [Sep 2026] **"SKILLALIGN: Aligning Skill Interfaces for LLM-based Agents"** [[paper](https://arxiv.org/abs/2609.07255)]
+* [Oct 2026] **"Mining Agent Skills from Production Traces"** [[paper](https://arxiv.org/abs/2610.05777)]
 
 
 ### Skill Evolution & Lifelong
@@ -77,6 +78,7 @@ Agent Skills — reusable, composable procedural capabilities (e.g. SKILL.md), s
 * [Aug 2026] **"WikiSkill: Compiling Agent Experience into Persistent Knowledge for Skill Evolution"** [[paper](https://arxiv.org/abs/2608.27454)]
 * [Sep 2026] **"SkillGLoW: Procedural-Family Skill Consolidation for Self-Improving Agents on Long-Horizon Task Streams"** [[paper](https://arxiv.org/abs/2609.02217)]
 * [Sep 2026] **"SKILLADAM: Stable and Efficient Skill Evolution for Agents"** [[paper](https://arxiv.org/abs/2609.08944)]
+* [Sep 2026] **"Learning Meta-Skills for Agent Harness Design in Test-Time AI4AI"** [[paper](https://arxiv.org/abs/2609.38143)]
 
 ### Benchmarks & Analysis
 * [Feb 2026] **"Agent Skills: A Data-Driven Analysis of Claude Skills for Extending Large Language Model Functionality"** [[paper](https://arxiv.org/abs/2602.08004)]
@@ -87,3 +89,5 @@ Agent Skills — reusable, composable procedural capabilities (e.g. SKILL.md), s
 * [Aug 2026] **"Demystifying Agent Skills: Why They Work—Until They Don’t"** [[paper](https://arxiv.org/abs/2608.14036)]
 * [Aug 2026] **"Break It Down, Pass It On: Cross-Task Skill Transfer in LLM Agents"** [[paper](https://arxiv.org/abs/2608.20274)]
 * [Sep 2026] **"Who Maintains Agent Skills? A Longitudinal Study of Human-Governed Skill Evolution"** [[paper](https://arxiv.org/abs/2609.05677)]
+* [Sep 2026] **"Subagents vs Agent Skills: Executing Reusable Knowledge for Long-Horizon Agentic Tasks"** [[paper](https://arxiv.org/abs/2609.09233)]
+* [Oct 2026] **"Continuous Process-Level Evaluation for Evolving Enterprise AI Agent Skills"** [[paper](https://arxiv.org/abs/2610.01833)]

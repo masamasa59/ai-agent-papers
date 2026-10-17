@@ -17,62 +17,62 @@ Papers are filed in **four layers** — *capabilities* (what an agent can do), *
 📖: Survey papers  
 ⚖️: Benchmark papers
 
-> 🔄 Badges show papers added in the last 2 months (Aug–Sep 2026); cluster headings show the sum: `(+N)` recent additions, 🔥 = high activity. Regenerate: `python scripts/update_readme_badges.py`.
+> 🔄 Badges show papers added in the last 2 months (Sep–Oct 2026); cluster headings show the sum: `(+N)` recent additions, 🔥 = high activity. Regenerate: `python scripts/update_readme_badges.py`.
 >
 > 📂 See [**TAXONOMY.md**](TAXONOMY.md) for the full directory map and the rules for where each paper is filed.
 
 - **Agent Capabilities** — what an agent can do: cognition, knowledge, action, and how it learns & improves
-  - *Core Cognition* — reason, plan, ideate, perceive (+3)
+  - *Core Cognition* — reason, plan, ideate, perceive (+5)
     - [Reasoning](capabilities/core-cognition/reasoning.md) (+1)
     - [Planning](capabilities/core-cognition/planning.md)
-    - [Ideation](capabilities/core-cognition/ideation.md) (+2)
+    - [Ideation](capabilities/core-cognition/ideation.md) (+4)
     - [Perception](capabilities/core-cognition/perception.md)
-  - *Knowledge & Context* — what the agent knows and carries between steps (+16) 🔥
-    - [Memory](capabilities/knowledge-context/memory.md) (+6)
-    - [Context Engineering](capabilities/knowledge-context/context-engineering.md) (+5)
-    - [Knowledge Graphs & Ontology](capabilities/knowledge-context/knowledge-graph.md) (+5)
-  - *Action* — acting through tools and reusable skills (+19) 🔥
-    - [Tool Use](capabilities/action/tool-use.md) (+1)
-    - [Skills](capabilities/action/skills.md) (+18) 🔥
-  - *Adaptation & Self-Improvement* — getting better from experience (+59) 🔥
-    - [Exploration & Discovery](capabilities/adaptation/exploration.md) (+5)
-    - [Experience & Trajectory Learning](capabilities/adaptation/experience.md) (+4)
-    - [Failure Attribution & Error Localization](capabilities/adaptation/failure-attribution.md) (+10) 🔥
-    - [Self-Correction](capabilities/adaptation/self-correction.md) (+1)
-    - [Verification](capabilities/adaptation/verification.md) (+2)
-    - [Self-Evolution](capabilities/adaptation/self-evolution.md/#self-evolution-self-improvement) (+27) 🔥
-    - [Agent Tuning](capabilities/adaptation/learning.md) (+10) 🔥
-  - *Trust & Measurement* — is it safe, and how well does it work? (+42) 🔥
-    - [Safety](capabilities/trust/safety.md) (+17) 🔥
+  - *Knowledge & Context* — what the agent knows and carries between steps (+14) 🔥
+    - [Memory](capabilities/knowledge-context/memory.md) (+4)
+    - [Context Engineering](capabilities/knowledge-context/context-engineering.md) (+7)
+    - [Knowledge Graphs & Ontology](capabilities/knowledge-context/knowledge-graph.md) (+3)
+  - *Action* — acting through tools and reusable skills (+11) 🔥
+    - [Tool Use](capabilities/action/tool-use.md) (+2)
+    - [Skills](capabilities/action/skills.md) (+9)
+  - *Adaptation & Self-Improvement* — getting better from experience (+51) 🔥
+    - [Exploration & Discovery](capabilities/adaptation/exploration.md) (+7)
+    - [Experience & Trajectory Learning](capabilities/adaptation/experience.md) (+3)
+    - [Failure Attribution & Error Localization](capabilities/adaptation/failure-attribution.md) (+1)
+    - [Self-Correction](capabilities/adaptation/self-correction.md)
+    - [Verification](capabilities/adaptation/verification.md) (+1)
+    - [Self-Evolution](capabilities/adaptation/self-evolution.md/#self-evolution-self-improvement) (+28) 🔥
+    - [Agent Tuning](capabilities/adaptation/learning.md) (+11) 🔥
+  - *Trust & Measurement* — is it safe, and how well does it work? (+32) 🔥
+    - [Safety](capabilities/trust/safety.md) (+7)
     - [Agent Evaluation](capabilities/trust/evaluation.md) (+25) 🔥
-  - *Other* — world models, user profiles, forecasting (+11) 🔥
-    - [Environment (World Models & Simulations)](capabilities/other/environment.md) (+5)
+  - *Other* — world models, user profiles, forecasting (+7)
+    - [Environment (World Models & Simulations)](capabilities/other/environment.md) (+3)
     - [Profile](capabilities/other/profile.md) (+2)
-    - [Prediction](capabilities/other/prediction.md) (+4)
-- **AI Agents Architecture** — how an agent is built: single-agent design, multi-agent systems, and the runtime harness (+34) 🔥
-  - [Agent Design & Frameworks](architecture/agent-design.md) (+1)
-  - [Multi-Agent Systems](architecture/multi-agent.md) (+3)
-  - [Harness](architecture/harness.md) (+30) 🔥
-- **Operations & Interaction** — how an agent is run and works with people: observability, UX, and governance (+22) 🔥
-  - [AgentOps & Observability](operations/agentops.md) (+9)
-  - [Human-AI Interaction & UX](operations/human-ai.md) (+4)
-  - [Governance & Governed Self-Improvement](operations/governance.md) (+9)
+    - [Prediction](capabilities/other/prediction.md) (+2)
+- **AI Agents Architecture** — how an agent is built: single-agent design, multi-agent systems, and the runtime harness (+46) 🔥
+  - [Agent Design & Frameworks](architecture/agent-design.md) (+8)
+  - [Multi-Agent Systems](architecture/multi-agent.md) (+6)
+  - [Harness](architecture/harness.md) (+32) 🔥
+- **Operations & Interaction** — how an agent is run and works with people: observability, UX, and governance (+16) 🔥
+  - [AgentOps & Observability](operations/agentops.md) (+8)
+  - [Human-AI Interaction & UX](operations/human-ai.md) (+3)
+  - [Governance & Governed Self-Improvement](operations/governance.md) (+5)
 - **AI Agents Applications** — where agents are deployed, grouped by interface, domain, and task pattern
   - *By Embodiment / Interface* — where the agent acts (+1)
-    - [Embodied Agents](applications/interface/embodied-agents.md)
-    - [Computer-Use (GUI) Agents](applications/interface/computer-use-agents.md) (+1)
+    - [Embodied Agents](applications/interface/embodied-agents.md) (+1)
+    - [Computer-Use (GUI) Agents](applications/interface/computer-use-agents.md)
     - [Web Agents](applications/interface/web-agents.md)
     - [Mobile Agents](applications/interface/mobile-agents.md)
-  - *By Domain / Vertical* — the industry it serves (+33) 🔥
-    - [Financial Agents](applications/domain/finance-agents.md) (+6)
-    - [Enterprise Agents](applications/domain/enterprise-agents.md) (+5)
-    - [AI Scientist (Research Automation)](applications/domain/ai-scientist.md) (+13) 🔥
-    - [Vertical / Domain Agents](applications/domain/vertical-agents.md) (+9)
-  - *By System Pattern / Task Form* — the shape of the task or system (+26) 🔥
-    - [Coding Agents](applications/system/coding-agents.md) (+10) 🔥
+  - *By Domain / Vertical* — the industry it serves (+41) 🔥
+    - [Financial Agents](applications/domain/finance-agents.md) (+2)
+    - [Enterprise Agents](applications/domain/enterprise-agents.md) (+7)
+    - [AI Scientist (Research Automation)](applications/domain/ai-scientist.md) (+25) 🔥
+    - [Vertical / Domain Agents](applications/domain/vertical-agents.md) (+7)
+  - *By System Pattern / Task Form* — the shape of the task or system (+23) 🔥
+    - [Coding Agents](applications/system/coding-agents.md) (+14) 🔥
     - [Data Agents](applications/system/data-agents.md) (+8)
-    - [Deep Research Agents](applications/system/deep-research-agents.md) (+1)
-    - [World Simulation](applications/system/world-simulation.md) (+7)
+    - [Deep Research Agents](applications/system/deep-research-agents.md)
+    - [World Simulation](applications/system/world-simulation.md) (+1)
 - **GenAI Agents Presentations**
   - [Tutorial & Lecture](lectures/tutorial-lecture.md)
 
@@ -84,6 +84,9 @@ Papers are filed in **four layers** — *capabilities* (what an agent can do), *
 # Trend Newsletters（研究トレンド）
 
 カテゴリ別の月次トレンド深掘り。2026-06 以降は各論文の **arXiv HTML 本文を精読**し、**図を引用**、複数論文で裏付けたファクトを中心にまとめています（作成手順は `.claude/skills/newsletter`）。
+
+**2026-09**
+- [Harness](newsletters/sep_2026/harness_trends.md) · [Agent Evaluation](newsletters/sep_2026/evaluation_trends.md) · [Self-Evolution](newsletters/sep_2026/self_evolution_trends.md) · [AI Scientist](newsletters/sep_2026/ai_scientist_trends.md) · [Coding Agents](newsletters/sep_2026/coding_agents_trends.md) · [Skills](newsletters/sep_2026/skills_trends.md)
 
 **2026-08**
 - [Harness](newsletters/aug_2026/harness_trends.md) · [Safety](newsletters/aug_2026/safety_trends.md) · [Agent Evaluation](newsletters/aug_2026/evaluation_trends.md) · [Self-Evolution](newsletters/aug_2026/self_evolution_trends.md) · [Skills](newsletters/aug_2026/skills_trends.md) · [Failure Attribution](newsletters/aug_2026/failure_attribution_trends.md) · [Agent Tuning](newsletters/aug_2026/learning_trends.md) · [Governance](newsletters/aug_2026/governance_trends.md)

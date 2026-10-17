@@ -161,6 +161,8 @@ Agents in various tasks such as education, healthcare, and the press.
 * [Sep 2026] **"Adapting to Evolving Requirements: Agentic AI for Retail Supply Chain Operations"** [[paper](https://arxiv.org/abs/2609.03860)]
 * ⚖️ [Sep 2026] **"SWE-Test: Benchmarking LLM Vulnerability Discovery via Input Prediction"** [[paper](https://arxiv.org/abs/2609.06229)]
 * [Sep 2026] **"BlueSTAR: Tiered Agentic Architecture for Autonomous Cyber Defense"** [[paper](https://arxiv.org/abs/2609.11852)]
+* [Sep 2026] **"Shopping by algorithm: How agentic AI deploys human heuristics as a surrogate consumer"** [[paper](https://arxiv.org/abs/2609.28372)]
+* [Sep 2026] **"Cheap to Hypothesize, Costly to Verify: The Defense Surface of Agentic Vulnerability Discovery"** [[paper](https://arxiv.org/abs/2609.35909)]
 
 
 ### Healthcare & Medical

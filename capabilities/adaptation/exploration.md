@@ -23,3 +23,8 @@ How agents **search and explore** large spaces of actions, states, or solutions 
 * [Aug 2026] **"Clearing the Fog: Towards Installing and Refining Proactive Exploration Capabilities in LLM Agents"** [[paper](https://arxiv.org/abs/2608.14339)]
 * [Sep 2026] **"Dream-RSI: Recursive Self-Improvement through Evolving Worlds"** [[paper](https://arxiv.org/abs/2609.14858)]
 * [Sep 2026] **"RSIAgent: Autonomous Exploration for Recursive Self-improvement in New Environments"** [[paper](https://arxiv.org/abs/2609.15364)]
+* [Sep 2026] **"AIBuildAI-2.5: Efficient Autonomous AI Model Development Through LLM-Guided Tree Search"** [[paper](https://arxiv.org/abs/2609.25047)]
+* [Oct 2026] **"LabBook: Harnessing Experimental History for Efficient LLM-Driven Discovery"** [[paper](https://arxiv.org/abs/2610.00675)]
+* [Oct 2026] **"TRIZa: Guiding Agent Evolution from Pattern Recognition to Solution Invention"** [[paper](https://arxiv.org/abs/2610.04555)]
+* [Oct 2026] **"TreeFlex: Agents Navigating Their Own Search Trees"** [[paper](https://arxiv.org/abs/2610.20334)]
+* [Oct 2026] **"Scaling Discovery Requires Forgetting"** [[paper](https://arxiv.org/abs/2610.20563)]

@@ -51,3 +51,4 @@ Agents applied to financial analysis, trading, risk assessment, and financial do
 * ⚖️ [Aug 2026] **"FrontierFinance: A Challenging Benchmark for Measuring Frontier Intelligence of Finance Agents"** [[paper](https://arxiv.org/abs/2608.11683)]
 * ⚖️ [Aug 2026] **"ReguSim: Evaluating LLM Agent Rule Grounding in Financial Compliance"** [[paper](https://arxiv.org/abs/2608.19974)]
 * [Sep 2026] **"Making Alternative Data Work: Context-Augmented LLMs for Financial Forecasting"** [[paper](https://arxiv.org/abs/2609.11607)]
+* [Oct 2026] **"The Harness as the Only Mutable Surface: Compliance-Bounded Self-Evolution of LLM Agents in Credit Pipelines, with a Measured Admission Gate"** [[paper](https://arxiv.org/abs/2610.10629)]

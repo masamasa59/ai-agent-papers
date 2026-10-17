@@ -70,6 +70,12 @@
 * [Aug 2026] **"The Handoff Tax: Continuing Non-Native Trajectories in LLM Agents"** [[paper](https://arxiv.org/abs/2608.24358)]
 * [Sep 2026] **"Harness-of-Harness: Multi-Day Autonomous Software Development with Continual Improvement"** [[paper](https://arxiv.org/abs/2609.01481)]
 * ⚖️ [Sep 2026] **"τ^τ-Bench: An Environment for End-to-End, Realistic Agent Construction"** [[paper](https://arxiv.org/abs/2609.04611)]
+* [Sep 2026] **"Self Improvement via Fast Tree-search"** [[paper](https://arxiv.org/abs/2609.19526)]
+* ⚖️ [Sep 2026] **"FDE-Bench: Evaluating LLM Agents for Deployment Environment Configuration"** [[paper](https://arxiv.org/abs/2609.27571)]
+* [Oct 2026] **"Self-Evolving Coding Rules for AI Coding Agents"** [[paper](https://arxiv.org/abs/2610.00650)]
+* ⚖️ [Oct 2026] **"Code Understanding Is a Bottleneck for Coding Agents"** [[paper](https://arxiv.org/abs/2610.10610)]
+* [Oct 2026] **"Cadence: Strategic Guidance for Coding Agents"** [[paper](https://arxiv.org/abs/2610.12269)]
+* [Oct 2026] **"Scaling Agentic Data for Long-Horizon Terminal Intelligence"** [[paper](https://arxiv.org/abs/2610.13166)]
 * 📖 [Aug 2025] **"A Survey on Code Generation with LLM-based Agents"** [[paper](https://arxiv.org/html/2508.00083v1)]
 
 
@@ -130,3 +136,6 @@
 * [May 2026] **"To What Extent Does Agent-generated Code Require Maintenance? An Empirical Study"** [[paper](https://arxiv.org/abs/2605.06464)]
 * [Aug 2026] **"From Agent Behaviour to Agent-Friendly Documentation: An Empirical Study of How Coding Agents Discover, Read, and Write Technical Documentation"** [[paper](https://arxiv.org/abs/2608.20195)]
 * [Sep 2026] **"When Agents Implement Systems: A Case Study in Defects, Detection, and Evaluation Rigor"** [[paper](https://arxiv.org/abs/2609.01985)]
+* [Sep 2026] **"An Empirical Study of Harness Design for Coding Agents"** [[paper](https://arxiv.org/abs/2609.20804)]
+* [Oct 2026] **"Engineering Sustainable Agents: A Systematic Comparison of Agentic LLMs for Developer Workflows"** [[paper](https://arxiv.org/abs/2610.03010)]
+* [Oct 2026] **"What Does a Harness Buy? Tokens, Mostly."** [[paper](https://arxiv.org/abs/2610.04433)]

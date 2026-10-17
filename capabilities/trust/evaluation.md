@@ -119,6 +119,22 @@ How to **measure** agents: benchmarks and methodology for planning, tool use, an
 * ⚖️ [Sep 2026] **"OpenDiscoveryTrace: Process Traces for Evaluating AI Scientist Workflows"** [[paper](https://arxiv.org/abs/2609.09203)]
 * [Sep 2026] **"Scores Alone Do Not Prove Discovery: The Discovery Certification Protocol for Auditing AI Research Agents"** [[paper](https://arxiv.org/abs/2609.09219)]
 * [Sep 2026] **"AgentAudit: An Open, Extensible Framework for Full-Lifecycle Trust Evaluation of AI Agents"** [[paper](https://arxiv.org/abs/2609.09875)]
+* [Sep 2026] **"EnterpriseVal: Quantifying the Efficacy, Reliability and Value of Generative AI in the Enterprise"** [[paper](https://arxiv.org/abs/2609.21841)]
+* ⚖️ [Sep 2026] **"XYEval: Agents say yes to bad advice"** [[paper](https://arxiv.org/abs/2609.23939)]
+* ⚖️ [Sep 2026] **"The Tasteful Agent: Measuring and Improving Taste in Long-Horizon Tasks"** [[paper](https://arxiv.org/abs/2609.25804)]
+* ⚖️ [Sep 2026] **"FDE-Bench: Evaluating LLM Agents for Deployment Environment Configuration"** [[paper](https://arxiv.org/abs/2609.27571)]
+* ⚖️ [Sep 2026] **"EnterpriseBench: Benchmarking LLM Agents on Enterprise-Level Strategic Reasoning and Decision-Making"** [[paper](https://arxiv.org/abs/2609.37658)]
+* ⚖️ [Oct 2026] **"EurekaBench: Measuring Agentic Ability to Discover New Scientific Insights"** [[paper](https://arxiv.org/abs/2610.00492)]
+* ⚖️ [Oct 2026] **"Open-Endedness Bench: Measuring Epistemic Process from Agent Records"** [[paper](https://arxiv.org/abs/2610.02588)]
+* ⚖️ [Oct 2026] **"General Decision Models: Benchmarking and Insights Beyond Jev"** [[paper](https://arxiv.org/abs/2610.03935)]
+* [Oct 2026] **"Are We Measuring Scientific Intelligence? Rethinking the Evaluation of AI Scientists"** [[paper](https://arxiv.org/abs/2610.04915)]
+* [Oct 2026] **"EIO-Agents: The Missing Semantic Layer for AI Agent Evaluation"** [[paper](https://arxiv.org/abs/2610.07675)]
+* ⚖️ [Oct 2026] **"Code Understanding Is a Bottleneck for Coding Agents"** [[paper](https://arxiv.org/abs/2610.10610)]
+* ⚖️ [Oct 2026] **"StoreBench: A Live-Commerce Environment for Evaluating and Training Autonomous Operator Agents"** [[paper](https://arxiv.org/abs/2610.10942)]
+* ⚖️ [Oct 2026] **"Specialized Decision Models vs. General-Purpose LLMs: Benchmarking Jev Across Knowledge, Reasoning, and Multilingual Tasks"** [[paper](https://arxiv.org/abs/2610.11978)]
+* ⚖️ [Oct 2026] **"DataSense-Bench: The First Step Toward an AI Scientist"** [[paper](https://arxiv.org/abs/2610.12190)]
+* [Oct 2026] **"Accurate but Not Humble: Evaluating Epistemic Humility in LLM Agents under Knowledge Conflict"** [[paper](https://arxiv.org/abs/2610.12360)]
+* ⚖️ [Oct 2026] **"Into the Unknown: Benchmarking AI Agents on Open Scientific Research Problems"** [[paper](https://arxiv.org/abs/2610.19159)]
 
 
 ### Evaluator, Verifier & Judge

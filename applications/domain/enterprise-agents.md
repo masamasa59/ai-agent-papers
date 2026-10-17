@@ -47,3 +47,7 @@ Agents designed for enterprise operations, document management, CRM, HR, and bus
 * [Sep 2026] **"From Event Logs to Governed Action: A BlueSky Agenda for Agentic Process Mining"** [[paper](https://arxiv.org/abs/2609.07984)]
 * [Sep 2026] **"Grounding Agent Memory: Environment-Probing Curation for Enterprise Agents"** [[paper](https://arxiv.org/abs/2609.11060)]
 * [Sep 2026] **"The Agentic Company OS: Substrate Inversion for Sustained Enterprise Agent Deployment"** [[paper](https://arxiv.org/abs/2609.13334)]
+* [Sep 2026] **"EnterpriseVal: Quantifying the Efficacy, Reliability and Value of Generative AI in the Enterprise"** [[paper](https://arxiv.org/abs/2609.21841)]
+* [Sep 2026] **"UniDataAgent: An Ontology-Grounded Agent for Enterprise Question-to-Report Automation"** [[paper](https://arxiv.org/abs/2609.27257)]
+* ⚖️ [Sep 2026] **"EnterpriseBench: Benchmarking LLM Agents on Enterprise-Level Strategic Reasoning and Decision-Making"** [[paper](https://arxiv.org/abs/2609.37658)]
+* [Oct 2026] **"Continuous Process-Level Evaluation for Evolving Enterprise AI Agent Skills"** [[paper](https://arxiv.org/abs/2610.01833)]

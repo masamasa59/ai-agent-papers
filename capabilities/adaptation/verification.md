@@ -16,3 +16,4 @@ Verification as an inference-time capability: verifiers, critics, self-verificat
 * [Apr 2026] **"The Art of Building Verifiers for Computer Use Agents"** [[paper](https://arxiv.org/abs/2604.06240)]
 * 📖 [Aug 2026] **"Toward Safe LLM Agents: A Survey of Specification, Verification, and Enforcement"** [[paper](https://arxiv.org/abs/2608.14590)]
 * 📖 [Aug 2026] **"AI Slop and Hallucinations in Vulnerability Assessment: A Survey on Reasoning Failures and Trustworthy Mitigation"** [[paper](https://arxiv.org/abs/2608.25667)]
+* [Oct 2026] **"VeriHarness: Scaling Agentic Verification for Long-Horizon Tasks"** [[paper](https://arxiv.org/abs/2610.00972)]

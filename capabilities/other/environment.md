@@ -48,3 +48,6 @@
 * ⚖️ [Aug 2026] **"HarnessEval-W: Agentifying the Evaluation of Visual Worlds"** [[paper](https://arxiv.org/abs/2608.16859)]
 * [Aug 2026] **"SPADE: Self-Play in Adaptive Synthetic Executable Environments"** [[paper](https://arxiv.org/abs/2608.19197)]
 * [Aug 2026] **"EnvHarness: Awakening Static Worlds for Agent Learning"** [[paper](https://arxiv.org/abs/2608.19880)]
+* ⚖️ [Oct 2026] **"StoreBench: A Live-Commerce Environment for Evaluating and Training Autonomous Operator Agents"** [[paper](https://arxiv.org/abs/2610.10942)]
+* [Oct 2026] **"Memento 3: Model-Based Recursive Self-Improvement through Reflective Rulebooks"** [[paper](https://arxiv.org/abs/2610.11794)]
+* [Oct 2026] **"Language Models as AI Research World Models"** [[paper](https://arxiv.org/abs/2610.12235)]

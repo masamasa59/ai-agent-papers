@@ -59,3 +59,7 @@ Operating agents in production: observability, deployment, evaluation-driven des
 * [Sep 2026] **"Explaining AI Agents Through Execution Traces"** [[paper](https://arxiv.org/abs/2609.06063)]
 * 📖 [Sep 2026] **"Uncertainty Quantification for LLM Agents: A Taxonomy, an Evaluation Protocol, and an Empirical Study"** [[paper](https://arxiv.org/abs/2609.07395)]
 * [Sep 2026] **"The Unreliable Progress Bar: Can LLM Agents Reliably Report Task Progress Throughout Execution?"** [[paper](https://arxiv.org/abs/2609.08589)]
+* [Sep 2026] **"Tracekit: Tamper-Evident Intent–Reasoning–Action Auditing for Autonomous Coding Agents"** [[paper](https://arxiv.org/abs/2609.35659)]
+* [Oct 2026] **"Engineering Sustainable Agents: A Systematic Comparison of Agentic LLMs for Developer Workflows"** [[paper](https://arxiv.org/abs/2610.03010)]
+* [Oct 2026] **"AgentSpy: Making AI Agent Behavior Observable"** [[paper](https://arxiv.org/abs/2610.06001)]
+* [Oct 2026] **"Whose Turn Is It? Context-Guided Model Routing for Stateful Agents"** [[paper](https://arxiv.org/abs/2610.19292)]

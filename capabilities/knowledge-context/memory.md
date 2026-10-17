@@ -148,6 +148,7 @@ How agents **store and reuse long-term information** across sessions — memory 
 * [Aug 2026] **"Tree-of-Experience: Hierarchical Experience Management for Self-Evolving Agents"** [[paper](https://arxiv.org/abs/2608.09044)]
 * [Aug 2026] **"Recursive Experiential-Working Memory Evolution for Long-Horizon Agent Harnesses"** [[paper](https://arxiv.org/abs/2608.24876)]
 * [Sep 2026] **"Grounding Agent Memory: Environment-Probing Curation for Enterprise Agents"** [[paper](https://arxiv.org/abs/2609.11060)]
+* [Sep 2026] **"Just-in-Time Memory: Learning to Curate Task-Adaptive Memory for LLM Agents"** [[paper](https://arxiv.org/abs/2609.27334)]
 
 ### Benchmarks & Surveys
 * 📖 [Apr 2024] **"A Survey on the Memory Mechanism of Large Language Model based Agents"** [[paper](https://arxiv.org/abs/2404.13501)]
@@ -158,3 +159,5 @@ How agents **store and reuse long-term information** across sessions — memory 
 * ⚖️ [Jun 2026] **"DynamicMem: A Long-Horizon Memory Benchmark in Real-World Settings"**
 * 📖 [Jun 2026] **"Always-On Agents: A Survey of Persistent Memory, State, and Governance in LLM Agents"** [[paper](https://arxiv.org/abs/2606.30306)]
 * ⚖️ [Aug 2026] **"Harness the Memory: A Holistic Evaluation of Memory Substrates in Memory Agents"** [[paper](https://arxiv.org/abs/2608.15008)]
+* ⚖️ [Oct 2026] **"DyadMem: A Long-Term Memory Benchmark of How Agents Work with Users"** [[paper](https://arxiv.org/abs/2610.03020)]
+* 📖 [Oct 2026] **"Seeing, Maintaining, and Learning: The Evolution of Multimodal Agent Memory"** [[paper](https://arxiv.org/abs/2610.19366)]

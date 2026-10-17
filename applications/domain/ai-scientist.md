@@ -35,6 +35,8 @@
 * [Jul 2026] **"IDEAgent: Agentic Quality-Diversity Search for Research Idea Generation"** [[paper](https://arxiv.org/abs/2607.22375)]
 * ⚖️ [Sep 2026] **"AGENTIDEABENCH: Benchmarking Scientific Ideation in the Agent Era"** [[paper](https://arxiv.org/abs/2609.07611)]
 * [Sep 2026] **"HypoEvolve: Genetic Algorithms Enable Multi-Agent LLMs to Discover Scientific Hypotheses"** [[paper](https://arxiv.org/abs/2609.15938)]
+* [Sep 2026] **"AIM: Agentic Idea Management for Automated Research"** [[paper](https://arxiv.org/abs/2609.38445)]
+* [Oct 2026] **"IdeaScientist: Orchestrating Agents for Grounded Scientific Ideation"** [[paper](https://arxiv.org/abs/2610.04074)]
 
 ### Experimentation & Discovery
 * [Dec 2023] **"Mathematical discoveries from program search with large language models"** [[paper](https://www.nature.com/articles/s41586-023-06924-6)]
@@ -95,6 +97,22 @@
 * ⚖️ [Sep 2026] **"OpenDiscoveryTrace: Process Traces for Evaluating AI Scientist Workflows"** [[paper](https://arxiv.org/abs/2609.09203)]
 * [Sep 2026] **"Scores Alone Do Not Prove Discovery: The Discovery Certification Protocol for Auditing AI Research Agents"** [[paper](https://arxiv.org/abs/2609.09219)]
 * [Sep 2026] **"ScienceBuddy: Recursive-in-Recursive Self-Improvement for Interactive Scientific Agents"** [[paper](https://arxiv.org/abs/2609.17523)]
+* [Sep 2026] **"AIBuildAI-2.5: Efficient Autonomous AI Model Development Through LLM-Guided Tree Search"** [[paper](https://arxiv.org/abs/2609.25047)]
+* [Sep 2026] **"Reward Hacking Challenges Oversight of Autonomous Research Agents"** [[paper](https://arxiv.org/abs/2609.28614)]
+* [Sep 2026] **"LabFactory: Building and Evaluating Executable AI Labs"** [[paper](https://arxiv.org/abs/2609.28697)]
+* [Sep 2026] **"RankEvolve: A Reliable Multi-Agent Auto-Research Harness for Evolving Ranking Models"** [[paper](https://arxiv.org/abs/2609.39551)]
+* [Sep 2026] **"How Much of a Harness Does a Strong Agent Need for Autonomous ML Engineering?"** [[paper](https://arxiv.org/abs/2609.40303)]
+* ⚖️ [Oct 2026] **"EurekaBench: Measuring Agentic Ability to Discover New Scientific Insights"** [[paper](https://arxiv.org/abs/2610.00492)]
+* [Oct 2026] **"LabBook: Harnessing Experimental History for Efficient LLM-Driven Discovery"** [[paper](https://arxiv.org/abs/2610.00675)]
+* ⚖️ [Oct 2026] **"Open-Endedness Bench: Measuring Epistemic Process from Agent Records"** [[paper](https://arxiv.org/abs/2610.02588)]
+* [Oct 2026] **"Are We Measuring Scientific Intelligence? Rethinking the Evaluation of AI Scientists"** [[paper](https://arxiv.org/abs/2610.04915)]
+* [Oct 2026] **"Assembling Insights for Agentic Machine Learning Engineering Systems"** [[paper](https://arxiv.org/abs/2610.04927)]
+* ⚖️ [Oct 2026] **"DataSense-Bench: The First Step Toward an AI Scientist"** [[paper](https://arxiv.org/abs/2610.12190)]
+* [Oct 2026] **"Language Models as AI Research World Models"** [[paper](https://arxiv.org/abs/2610.12235)]
+* [Oct 2026] **"The Agentic Scientist: Orchestrating Coding Agents for Automated Scientific (Co-)Discovery"** [[paper](https://arxiv.org/abs/2610.18933)]
+* ⚖️ [Oct 2026] **"Into the Unknown: Benchmarking AI Agents on Open Scientific Research Problems"** [[paper](https://arxiv.org/abs/2610.19159)]
+* [Oct 2026] **"SwarmRSI: Recursive Self-Improvement through Evolving Scientific Agent Swarm"** [[paper](https://arxiv.org/abs/2610.20431)]
+* [Oct 2026] **"Scaling Discovery Requires Forgetting"** [[paper](https://arxiv.org/abs/2610.20563)]
 
 ### Paper Writing & Peer Review
 * [Jan 2024] **"LLaMP: Large Language Model Made Powerful for High-Fidelity Materials Knowledge Retrieval and Distillation"** [[paper](https://arxiv.org/abs/2401.17244)]

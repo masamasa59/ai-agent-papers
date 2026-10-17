@@ -33,3 +33,6 @@ How people work with agents: collaboration, delegation, alignment, trust, commun
 * ⚖️ [Aug 2026] **"CentaurBench: Benchmarking LLM Capabilities on Augmenting vs. Automating Real-World Work Tasks"** [[paper](https://arxiv.org/abs/2608.18554)]
 * [Aug 2026] **"Human–AI Collaboration at Scale: Task Criticality, Agency, and Friction Across 250,000 Conversations"** [[paper](https://www.alphaxiv.org/abs/2608.human-ai-collaboration-at-scale)] *(arXiv ID未採番)*
 * [Aug 2026] **"AI Agents Push Humans Out of the Loop"** [[paper](https://arxiv.org/abs/2608.23642)]
+* ⚖️ [Sep 2026] **"XYEval: Agents say yes to bad advice"** [[paper](https://arxiv.org/abs/2609.23939)]
+* [Sep 2026] **"Foundations of Proactive Agents: Principles, Technical Layers, and Proactivity-Gym"** [[paper](https://arxiv.org/abs/2609.37267)]
+* [Oct 2026] **"nanoMuse: An Open-Source Personal Agent for Every Device You Own"** [[paper](https://arxiv.org/abs/2610.08699)]

@@ -93,6 +93,15 @@ How agents are improved by **updating model weights** — agentic RL, reward/ver
 * [Aug 2026] **"CRISP: Critical Step Perception for Training Efficient Deep Search Agents"** [[paper](https://arxiv.org/abs/2608.01867)]
 * [Aug 2026] **"Training AI Scientists to Replicate Research"** [[paper](https://arxiv.org/abs/2608.13331)]
 * [Sep 2026] **"Experience Funnel: A State–Policy Alternating Loop for Self-Evolving Agents"** [[paper](https://arxiv.org/abs/2609.08919)]
+* [Sep 2026] **"Harness-Zero: Harness Distillation via Agent-as-Harness"** [[paper](https://arxiv.org/abs/2609.24974)]
+* [Sep 2026] **"ToolCompass: Guiding Tool Trialing, Not Suppressing It"** [[paper](https://arxiv.org/abs/2609.25678)]
+* [Sep 2026] **"Harness Learning Enables Generalizable Test-Time Adaptation"** [[paper](https://arxiv.org/abs/2609.35738)]
+* [Oct 2026] **"FloWright: It Takes Workflows to Evolve Better Workflows"** [[paper](https://arxiv.org/abs/2610.01026)]
+* [Oct 2026] **"Harness Evolution Hits a Ceiling: When Weight Training Should Begin"** [[paper](https://arxiv.org/abs/2610.11655)]
+* [Oct 2026] **"Recursive Self-Improvement through Multi-Agent Self-Supervision"** [[paper](https://arxiv.org/abs/2610.12176)]
+* [Oct 2026] **"HarnessSQL: Harness-Native Training for SQL Agents in Realistic Database Environments"** [[paper](https://arxiv.org/abs/2610.12274)]
+* [Oct 2026] **"Evo²: Evolving the Evolver through Weight-Harness Co-Evolution"** [[paper](https://arxiv.org/abs/2610.13025)]
+* [Oct 2026] **"Scaling Agentic Data for Long-Horizon Terminal Intelligence"** [[paper](https://arxiv.org/abs/2610.13166)]
 * [2026] **"Self-Evolving Agent: A Closed-Loop Post-Training Flywheel for Continually Learning LLM Agents"** *(arXiv URL未記載 — 要追記)*
 
 

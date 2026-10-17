@@ -69,6 +69,10 @@
 * 📖 [Aug 2026] **"Toward Safe LLM Agents: A Survey of Specification, Verification, and Enforcement"** [[paper](https://arxiv.org/abs/2608.14590)]
 * [Aug 2026] **"CTIFoundry: An Agent-Native Corpus Scaffold for Cyber Threat Intelligence"** [[paper](https://arxiv.org/abs/2608.18613)]
 * 📖 [Aug 2026] **"AI Slop and Hallucinations in Vulnerability Assessment: A Survey on Reasoning Failures and Trustworthy Mitigation"** [[paper](https://arxiv.org/abs/2608.25667)]
+* [Sep 2026] **"Emergent Collusion in Long-Horizon LLM Agent Interaction"** [[paper](https://arxiv.org/abs/2609.24967)]
+* [Sep 2026] **"Reward Hacking Challenges Oversight of Autonomous Research Agents"** [[paper](https://arxiv.org/abs/2609.28614)]
+* 📖 [Oct 2026] **"Safety in Self-Evolving Agents: A Survey"** [[paper](https://arxiv.org/abs/2610.00093)]
+* [Oct 2026] **"SIGMA: Self-Improving Alignment Generalization from a Model Spec"** [[paper](https://arxiv.org/abs/2610.07935)]
 
 
 ### Attacks & Red-Teaming
@@ -114,3 +118,4 @@
 * [Aug 2026] **"SysEvolve: An AI-native, Safe, Autonomous Adversarial Attack-Defense Co-Evolutionary System"** [[paper](https://arxiv.org/abs/2608.15012)]
 * [Aug 2026] **"PolicyGuide: From Guarding One Action to Guiding the Whole Workflow for Policy-Compliant LLM Agents"** [[paper](https://arxiv.org/abs/2608.19861)]
 * [Aug 2026] **"The Compaction Cliff in Long-Running AI Agent Memory"** [[paper](https://arxiv.org/abs/2608.22752)]
+* [Sep 2026] **"Cheap to Hypothesize, Costly to Verify: The Defense Surface of Agentic Vulnerability Discovery"** [[paper](https://arxiv.org/abs/2609.35909)]

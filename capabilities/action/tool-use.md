@@ -91,6 +91,8 @@ How agents **call external tools and APIs** — tool selection, function calling
 
 * [Jul 2026] **"CRAFT: Learn the Schema, Execute the Plan"** [[paper](https://arxiv.org/abs/2607.22642)]
 * [Aug 2026] **"The Bitter Lesson of Tool Calling"** [[paper](https://arxiv.org/abs/2608.06370)]
+* [Sep 2026] **"ToolCompass: Guiding Tool Trialing, Not Suppressing It"** [[paper](https://arxiv.org/abs/2609.25678)]
+* [Sep 2026] **"AnyAct: Universal Action for Self-Evolving Agents"** [[paper](https://arxiv.org/abs/2609.37025)]
 
 ### API & Software Operation (from api-agents)
 * Enable users to operate specialized software via simple voice or text instructions

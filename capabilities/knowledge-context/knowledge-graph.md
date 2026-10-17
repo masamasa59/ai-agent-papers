@@ -24,3 +24,4 @@ Papers on knowledge representation, ontology construction, and knowledge graph i
 * [Aug 2026] **"Toward Effective and Reliable LLM Agents via Dynamic Ontology"** [[paper](https://arxiv.org/abs/2608.22974)]
 * [Sep 2026] **"Procedural Graphs: Self-Evolving Execution Structures for LLM Agents"** [[paper](https://arxiv.org/abs/2609.09153)]
 * [Sep 2026] **"EvoOntology: A Self-Evolving Ontology Layer for Data Agents"** [[paper](https://arxiv.org/abs/2609.15779)]
+* [Oct 2026] **"EIO-Agents: The Missing Semantic Layer for AI Agent Evaluation"** [[paper](https://arxiv.org/abs/2610.07675)]

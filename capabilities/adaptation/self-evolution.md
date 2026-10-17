@@ -149,6 +149,13 @@ Agents that **improve without changing model weights** — via experience, refle
 * [Sep 2026] **"Closing the Consistency Gap: Self-Evolving Agents That Learn to Stay on Course"** [[paper](https://arxiv.org/abs/2609.08832)]
 * [Sep 2026] **"Experience Funnel: A State–Policy Alternating Loop for Self-Evolving Agents"** [[paper](https://arxiv.org/abs/2609.08919)]
 * [Sep 2026] **"Procedural Graphs: Self-Evolving Execution Structures for LLM Agents"** [[paper](https://arxiv.org/abs/2609.09153)]
+* [Sep 2026] **"Grow the Harness, Not the Context: From Strategy-Free Scaffolds to Reusable Specialist Agents"** [[paper](https://arxiv.org/abs/2609.26760)]
+* [Sep 2026] **"AnyAct: Universal Action for Self-Evolving Agents"** [[paper](https://arxiv.org/abs/2609.37025)]
+* 📖 [Oct 2026] **"Safety in Self-Evolving Agents: A Survey"** [[paper](https://arxiv.org/abs/2610.00093)]
+* [Oct 2026] **"Self-Evolving Coding Rules for AI Coding Agents"** [[paper](https://arxiv.org/abs/2610.00650)]
+* [Oct 2026] **"AgentEvolver: System-Wide Self-Evolution Through Task Execution"** [[paper](https://arxiv.org/abs/2610.11613)]
+* [Oct 2026] **"Harmony Harness: Multi-Objective Self-Evolution of Agent Harnesses"** [[paper](https://arxiv.org/abs/2610.15150)]
+* [Oct 2026] **"Self-evolving Agent Harness"** [[paper](https://arxiv.org/abs/2610.18813)]
 * [2026] **"Self-Evolving Agent: A Closed-Loop Post-Training Flywheel for Continually Learning LLM Agents"** *(arXiv URL未記載 — 要追記)*
 
 ### Recursive Self-Improvement (RSI) & Gödel Machines
@@ -172,6 +179,16 @@ Agents that **improve without changing model weights** — via experience, refle
 * [Sep 2026] **"Dream-RSI: Recursive Self-Improvement through Evolving Worlds"** [[paper](https://arxiv.org/abs/2609.14858)]
 * [Sep 2026] **"RSIAgent: Autonomous Exploration for Recursive Self-improvement in New Environments"** [[paper](https://arxiv.org/abs/2609.15364)]
 * [Sep 2026] **"ScienceBuddy: Recursive-in-Recursive Self-Improvement for Interactive Scientific Agents"** [[paper](https://arxiv.org/abs/2609.17523)]
+* [Sep 2026] **"Self Improvement via Fast Tree-search"** [[paper](https://arxiv.org/abs/2609.19526)]
+* [Sep 2026] **"RRSI: Regularized Recursive Self-Improvement of Agent Harnesses"** [[paper](https://arxiv.org/abs/2609.24972)]
+* [Oct 2026] **"VERSE: Verified Self-Evolving Optimizer for Agent Harnesses"** [[paper](https://arxiv.org/abs/2610.02616)]
+* [Oct 2026] **"SIGMA: Self-Improving Alignment Generalization from a Model Spec"** [[paper](https://arxiv.org/abs/2610.07935)]
+* [Oct 2026] **"Memento 3: Model-Based Recursive Self-Improvement through Reflective Rulebooks"** [[paper](https://arxiv.org/abs/2610.11794)]
+* [Oct 2026] **"Recursive Self-Improvement through Multi-Agent Self-Supervision"** [[paper](https://arxiv.org/abs/2610.12176)]
+* [Oct 2026] **"Evo²: Evolving the Evolver through Weight-Harness Co-Evolution"** [[paper](https://arxiv.org/abs/2610.13025)]
+* [Oct 2026] **"Harness²: Recursive Agent Harnessing for an Open World"** [[paper](https://arxiv.org/abs/2610.14224)]
+* [Oct 2026] **"SwarmRSI: Recursive Self-Improvement through Evolving Scientific Agent Swarm"** [[paper](https://arxiv.org/abs/2610.20431)]
+* [Oct 2026] **"RSIFlow: Adaptive Self-Improvement Workflows with an Evolving Meta-Agent"** [[paper](https://arxiv.org/abs/2610.21791)]
 * [2026] **"The Economics of Recursive Self-Improvement"** *(arXiv URL未記載 — 要追記)*
 
 
@@ -203,3 +220,4 @@ Agents that **improve without changing model weights** — via experience, refle
 * [May 2026] **"GraphMind: From Operational Traces to Self-Evolving Workflow Automation"** [[paper](https://arxiv.org/abs/2605.17617v2)]
 * [Jun 2026] **"Loop Engineering: The Anthropic Playbook for Designing Systems That Prompt Your Agents"** [[paper](https://www.oreilly.com/radar/loop-engineering/)]
 * [Aug 2026] **"CAPO: Constraint-Aware Prompt Optimization for LLM Agents"** [[paper](https://arxiv.org/abs/2608.16068)]
+* [Oct 2026] **"Universal Textual Teaching for LLMs"** [[paper](https://arxiv.org/abs/2610.12114)]

@@ -118,6 +118,9 @@ How multiple agents are structured and coordinated: frameworks, orchestration, c
 
 * [Mar 2023] **"CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society"** [[paper](https://arxiv.org/abs/2303.17760)]
 * [Aug 2023] **"AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors"** [[paper](https://arxiv.org/abs/2308.10848)]
+* [Jun 2026] **"The Illusion of Multi-Agent Advantage"** [[paper](https://arxiv.org/abs/2606.13003)]
+* [Oct 2026] **"FloWright: It Takes Workflows to Evolve Better Workflows"** [[paper](https://arxiv.org/abs/2610.01026)]
+* [Oct 2026] **"SquidAgent: Parallelize Wisely, Coordinate Efficiently"** [[paper](https://arxiv.org/abs/2610.08647)]
 
 ### Communication, Debate & Coordination
 * [May 2023] **"Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate"** [[paper](https://arxiv.org/abs/2305.19118)]
@@ -141,3 +144,6 @@ How multiple agents are structured and coordinated: frameworks, orchestration, c
 * [Feb 2026] **"Interaction Theater: A case of LLM Agents Interacting at Scale"** [[paper](https://arxiv.org/abs/2602.20059)]
 * 📖 [Jul 2026] **"Multi-Agent Debate Strategies: Survey, Taxonomy, and Challenges"** [[paper](https://arxiv.org/abs/2607.26212)]
 * [Aug 2026] **"When Agents Coordinate: Measuring Coordination in Multi-Agent AI Coding"** [[paper](https://arxiv.org/abs/2608.16801)]
+* [Sep 2026] **"Emergent Collusion in Long-Horizon LLM Agent Interaction"** [[paper](https://arxiv.org/abs/2609.24967)]
+* [Oct 2026] **"Scaling Multi-Agent Intelligence with Substrate-Centric Coordination"** [[paper](https://arxiv.org/abs/2610.16120)]
+* [Oct 2026] **"Learning to Steer LLM Agents and Multi-Agent Systems"** [[paper](https://arxiv.org/abs/2610.22316)]

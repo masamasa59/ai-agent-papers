@@ -128,3 +128,8 @@
 * [Sep 2026] **"KnowFeat: Knowledge-Guided Feature Engineering via LLM Agents"** [[paper](https://arxiv.org/abs/2609.03529)]
 * [Sep 2026] **"InsightChain: Optimized Chain-of-Insight Analytics for LLM-driven Data Visualization"** [[paper](https://arxiv.org/abs/2609.06438)]
 * [Sep 2026] **"EvoOntology: A Self-Evolving Ontology Layer for Data Agents"** [[paper](https://arxiv.org/abs/2609.15779)]
+* ⚖️ [Sep 2026] **"BI-Agent and BI-Bench: Towards Automating End-to-End Business Intelligence"** [[paper](https://arxiv.org/abs/2609.20886)]
+* [Sep 2026] **"UniDataAgent: An Ontology-Grounded Agent for Enterprise Question-to-Report Automation"** [[paper](https://arxiv.org/abs/2609.27257)]
+* ⚖️ [Oct 2026] **"CroissantMiner: Automated Extraction and Validation of Croissant Metadata for ML Datasets"** [[paper](https://arxiv.org/abs/2610.07132)]
+* [Oct 2026] **"HarnessSQL: Harness-Native Training for SQL Agents in Realistic Database Environments"** [[paper](https://arxiv.org/abs/2610.12274)]
+* [Oct 2026] **"Same Context, Different Agents: A Behavioral Study of Semantic Layers, Orchestration and Compaction in Data Agents"** [[paper](https://arxiv.org/abs/2610.20959)]
